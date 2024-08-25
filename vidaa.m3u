@@ -1,0 +1,618 @@
+#EXTM3U
+#EXTINF:-1,NewsMax 2 (EU)
+https://newsmax-newsmaxtv-2-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Ticker News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernews-vidaa/playlist.m3u8
+#EXTINF:-1,Roi (EU)
+https://rise-financial-roi-tv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Awe Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-aweencore-vidaa/playlist.m3u8
+#EXTINF:-1,OAN Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-oan-vidaa/playlist.m3u8
+#EXTINF:-1,The Washington Post
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01655-thewashingtonpo-washingtonpostvidaa-vidaa/playlist.m3u8
+#EXTINF:-1,Bloomberg TV (EU) 4K UHD
+https://bloomberg-bloombergtv-3-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg TV alt (EU)
+https://bloomberg-bloombergtv-7-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg Quicktake (EU)
+https://bloomberg-quicktake-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Best TV Ever (EU)
+https://bec-besttvever-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Best Action TV
+https://g-mana.sofast.tv/media/87ad3970-ef44-47f6-bcba-3425e72ac612/mainManifest.m3u8?ads.channel_name=BEST ACTION TV&ads.content_genre=Action&ads.content_language=en&ads.coppa=0&ads.content_rating=PG-17&ads.vidaa_ads_param=1191944176&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3383
+#EXTINF:-1,Best Classic TV
+https://g-mana.sofast.tv/media/3c31808d-b141-45ad-a33d-edd5866824f6/mainManifest.m3u8?ads.channel_name=BEST CLASSIC TV&ads.content_genre=Classic&ads.content_language=en&ads.coppa=0&ads.content_rating=PG-13&ads.vidaa_ads_param=1191944176&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3384
+#EXTINF:-1,Best Drama TV
+https://g-mana.sofast.tv/media/e7168dfc-35a1-4bce-a8bf-2000ff77b4c4/mainManifest.m3u8?ads.channel_name=BEST DRAMA TV&ads.content_genre=Drama&ads.content_language=en&ads.coppa=0&ads.content_rating=PG-17&ads.vidaa_ads_param=1191944176&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3385
+#EXTINF:-1,Horror TV
+https://g-mana.sofast.tv/media/08483d07-b789-46b2-9d3c-0a4b916a02be/mainManifest.m3u8?ads.channel_name=HORROR TV&ads.content_genre=Horror&ads.content_language=en&ads.coppa=0&ads.content_rating=R&ads.vidaa_ads_param=1191944176&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3397
+#EXTINF:-1,Haunt TV (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-haunttvus-vidaa/playlist.m3u8
+#EXTINF:-1,More U (EU)
+https://bec-moreu-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Witz TV (EU) 
+https://bec-witz-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Grid (EU)
+https://bec-thegrid-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Johnny Carson TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-johnnycarson-vidaa/playlist.m3u8
+#EXTINF:-1,The Carol Burnett Show
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-carolburnett-vidaa/playlist.m3u8
+#EXTINF:-1,Mythical 24/7 (EU)
+https://mythical-ent-mythical247-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Nashville Channel (US)
+https://e8d65ba6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtdXNfTmFzaHZpbGxlQ2hhbm5lbF9ITFM/playlist.m3u8
+#EXTINF:-1,Grace and Frankie
+https://92cc76f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFfR3JhY2VBbmRGcmFua2llX0hMUw/playlist.m3u8
+#EXTINF:-1,Grace and Frankie (AU)
+https://768eb69d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtYXVfR3JhY2VBbmRGcmFua2llX0hMUw/playlist.m3u8
+#EXTINF:-1,Crackle
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackle-vidaa/playlist.m3u8
+#EXTINF:-1,Crackle Classics
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackleclassic-vidaa/playlist.m3u8
+#EXTINF:-1,Chicken Soup for the Soul
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-chickensoup-vidaa/playlist.m3u8
+#EXTINF:-1,Celebrity Name Game
+https://76dcb822.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtdXNfQ2VsZWJyaXR5TmFtZUdhbWVfSExT/playlist.m3u8
+#EXTINF:-1,Real Nosey (EU)
+https://nosey-realnosey-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Nosey (EU)
+https://nosey-2-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Nosey Escándalos (EU)
+https://nosey-3-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Gusto TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-vidaa/playlist.m3u8
+#EXTINF:-1,Cooking Panda
+https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=901&device_type=tv&partner=hisense_syndication&connection=wifi&package_format=vidaa_feed&max_bitrate=4500&preferred_bitrate=1800&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3182
+#EXTINF:-1,Hungry (EU)
+https://food-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Great British Menu (GB)
+https://all3media-great-british-menu-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,So Yummy TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00437-firstmedia-soyummytv-vidaa/playlist.m3u8
+#EXTINF:-1,Tastemade Free TV 16
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv16-vidaa/playlist.m3u8
+#EXTINF:-1,Tastemade (AU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaustralia-vidaa/playlist.m3u8
+#EXTINF:-1,Tastemade (CA) (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlauca-vidaa/playlist.m3u8
+#EXTINF:-1,Tastemade (UK) (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintausuk-vidaa/playlist.m3u8
+#EXTINF:-1,CraftsyTV
+https://linear-492.frequency.stream/dist/vidaa/492/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4972
+#EXTINF:-1,Drone TV (EU)
+https://airvuz-dronetv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,ESTV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-vidaa/playlist.m3u8
+#EXTINF:-1,ESTV (AU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estvau-vidaa/playlist.m3u8?did=&dnt=&gender=&app_bundle=&app_name=&app_store_url=&url=&genre=&ic=&us_privacy=&gdpr=&gdpr_consent=&coppa=&schain=&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4420
+#EXTINF:-1,Maximum Effort Channel (US) (Geo)
+https://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/mxef-vidaa-us/master.m3u8?ads.partner=vidaa-sports-us&ads.channel_name=MEC&ads.station_id=132038&ads.vidaa_ads_param=1191211667&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4540
+#EXTINF:-1,Trailers from Hell (EU)
+https://bec-trailersfromhell-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,FlixFling NOW
+https://d22v6t3e7rylcn.cloudfront.net/playlist/amg00698-AMG00698C1-256/playlist.m3u8?ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3458
+#EXTINF:-1,Popcorn Flix (EU)
+https://signatureentertainment-popflix-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Moviesphere (US) (Geo)
+https://amg00353-lionsgatestudios-amg00353c1-vidaa-us-786.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-vidaaus/playlist.m3u8
+#EXTINF:-1,Moviesphere (US) (Geo)
+https://amg00353-lionsgatestudios-amg00353c2-vidaa-us-895.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-vidaaus/playlist.m3u8
+#EXTINF:-1,Moviesphere (CA) (Geo)
+https://amg00353-lionsgatestudios-amg00353c8-vidaa-us-911.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviespherecanada-vidaaus/playlist.m3u8
+#EXTINF:-1,Moviesphere (AU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-moviesphereau-vidaa/playlist.m3u8
+#EXTINF:-1,Moviesphere (UK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-moviespereuk-vidaa/playlist.m3u8
+#EXTINF:-1,Moviesphere (BR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-moviesperebr-vidaa/playlist.m3u8
+#EXTINF:-1,Mytime Movies (UK)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytymmovuk-vidaa/playlist.m3u8
+#EXTINF:-1,Mytime Movies (US) Spanish
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytymmovusspan-vidaa/playlist.m3u8
+#EXTINF:-1,Mytime Movies (BR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytymmovbrazil-vidaa/playlist.m3u8
+#EXTINF:-1,Mytime Movies (FR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytymmovfrance-vidaa/playlist.m3u8	
+#EXTINF:-1,Bigtjme (EU)
+https://amogonetworx-bigtjme-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bigtjme alt (EU)
+https://amogonetworx-bigtjme-2-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Great! Movies TV 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-g reatmovies-vidaa/playlist.m3u8
+#EXTINF:-1,Great! Christmas
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-greatromance-vidaa/playlist.m3u8
+#EXTINF:-1,Great! Romance
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-greatromance-vidaa/playlist.m3u8
+#EXTINF:-1,Filmzie (GB)
+https://filmzie-filmzie-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Gravitas Movies (EU)
+https://gravitas-movies-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Tidpix (EU) 
+https://rushlake-media-gmbh-tidpix-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Wedo Movies
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesen-vidaa/playlist.m3u8
+#EXTINF:-1,Wedo Movies (DE)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesde-vidaa/playlist.m3u8
+#EXTINF:-1,Maverick Black Cinema (EU)
+https://maverick-maverick-black-cinema-2-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Go See Westerns
+https://cdn44.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/GoSeeWesterns_VIDAA/index.m3u8?ads.vidaa_ads_param=1191726536
+#EXTINF:-1,Cowboy Movies Channel
+https://g-mana.sofast.tv/media/74f94e10-14a3-44a4-892d-635739728a94/mainManifest.m3u8?ads.channel_name=COWBOY MOVIE CHANNEL &ads.content_genre=Cowboy &ads.content_language=English &ads.coppa=&ads.content_rating=PG&ads.vidaa_ads_param=1191944176&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3869
+#EXTINF:-1,Xumo Westerns
+https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887620&ads.csid=vidaa_us_xumofreewesterns_ssai&ads.caid=XUMOFreeWesterns&ads.appName=%7BAPP_NAME%7D&ads.appVersion=1&ads._fw_app_bundle=%7BAPP_BUNDLE%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%7BBRAND_NAME%7D&ads._fw_device_model=%7BDEVICE_OSV%7D&ads._fw_devicetype=%7BDEVICE_TYPE%7D&ads._fw_coppa=0&ads._fw_gdpr_consent=&ads._fw_gdpr=0&ads._fw_is_lat=%7BDNT%7D&ads._fw_us_privacy=%7BUS_PRIVACY%7D&ads._fw_h_x_country=%7BDEVICE_COUNTRY%7D&ads._fw_player_width=1920&ads._fw_player_height=1080&ads.vauth=%7BVAUTH%7D&ads.xumo_contentId=5&ads.xumo_contentName=Xumo&ads.xumo_ifa=%7BIFA%7D&ads.xumo_ifaType=%7BIFA_TYPE%7D&ads.xumo_providerId=5&ads.xumo_providerName=Xumo&ads._fw_app_store_url=%7BAPP_STORE_URL%7D&ads.vidaa_ads_param=1188362017
+#EXTINF:-1,Grjngo 2(EU)
+https://amogonetworx-grjngo-2-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Grjngo 3(EU)
+https://amogonetworx-grjngo-3-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Grjngo 5(EU)
+https://amogonetworx-grjngo-5-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Grjngo (DE)
+https://amogonetworx-grjngo-4-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Hersphere (US) (Geo)
+https://amg00353-lionsgatestudios-amg00353c2-vidaa-us-895.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-hersphere-vidaaus/playlist.m3u8
+#EXTINF:-1,Hersphere (US) Alt (Geo)
+https://amg00353-lionsgatestudios-amg00353c3-vidaa-us-894.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-hersphere-vidaaus/playlist.m3u8
+#EXTINF:-1,OuterSphere (Geo)
+https://linear-585.frequency.stream/dist/vidaa/585/hls/master/playlist.m3u8
+#EXTINF:-1,Artflix (EU)
+https://amogonetworx-artflix-3-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Artflix Movie Classica (EU)
+https://amogonetworx-artflix-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Artflix (DE)
+https://amogonetworx-artflix-2-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Minute Shorts dead replace
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3369
+#EXTINF:-1,Wanted Dead or Alive (US) (Geo)
+https://amg00353-lionsgatestudios-amg00353c8-vidaa-us-911.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-wanteddeadoralive-vidaaus/playlist.m3u8
+#EXTINF:-1,Wanted Dead or Alive (US) alt (Geo)
+https://amg00353-lionsgatestudios-amg00353c1-vidaa-us-786.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-wanteddeadoralive-vidaaus/playlist.m3u8
+#EXTINF:-1,Ghost Hunters Channel (AU)
+https://6aba28ce.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtYXVfR2hvc3RIdW50ZXJzX0hMUw/playlist.m3u8
+#EXTINF:-1,Ghost Hunters Channel (US)
+https://a7b299d6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtdXNfR2hvc3RIdW50ZXJzX0hMUw/playlist.m3u8
+#EXTINF:-1,Anger Management (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementus-vidaa/playlist.m3u8
+#EXTINF:-1,Anger Management alt
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagement-vidaa/playlist.m3u8
+#EXTINF:-1,Anger Management Espanol
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementespanol-vidaa/playlist.m3u8
+#EXTINF:-1,Tratamento de Choque
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-tratamentodechoque-vidaa/playlist.m3u8
+#EXTINF:-1,Are We There Yet (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-arewethereyetus-vidaa/playlist.m3u8
+#EXTINF:-1,Are we There Yet alt
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-arewethereyet-vidaa/playlist.m3u8	
+#EXTINF:-1,Wicked Tuna
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-wickedtunaenglish-vidaa/playlist.m3u8
+#EXTINF:-1,Wicked Tuna (AU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-wickedtunaenglishau-vidaa/playlist.m3u8
+#EXTINF:-1,Fail Army (US)
+https://jukin-failarmy-1-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Fail Army International (EU)
+https://jukin-failarmy-international-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,People Are Awesome International (EU) 
+https://jukin-peopleareawesome-international-4-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,LOL! Network
+https://af6cbee3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX0xPTE5ldHdvcmtfSExT/playlist.m3u8
+#EXTINF:-1,Just for Laughs Gags (EU)
+https://distributionsjustepourrire-justforlaughsgags-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Just for Laughs Gags alt
+https://api-ott.highview.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=849%0D%0A&device_type=tv&partner=hisense_syndication&connection=wifi&package_format=vidaa_feed&max_bitrate=4500&preferred_bitrate=1800&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3184
+#EXTINF:-1,Twisted Mirror Comedy (US)
+https://twistedmirror-twistedmirrorcomedy-2-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Family Time
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3084
+#EXTINF:-1,Go Traveler
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3082
+#EXTINF:-1,BRB Travel and Food (EU)
+https://playworksdigital-brb-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Go USA (EU)
+https://brandusa-gousa-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Magellan TV (EU) 
+https://magellantv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Manifest TV (EU)
+https://kdmg-manifesttv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Manjaro
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=&AV_WIDTH=&AV_HEIGHT=&AV_CCPA=&AV_GDPR=&AV_CONSENT=&AV_APPNAME=&AV_APPSTOREURL=&AV_APPPKGNAME=&AV_IDFA=&AV_IP=&AV_USERAGENT=&AV_IFA_TYPE=&AV_COPPA=&AV_MAKE=&AV_device_language=&AV_content_genre=&AV_content_rating=&AV_DESCRIPTION=&AV_provider_id=&AV_provider_name=&AV_VIDEOID=&AV_LANGUAGE=&AV_DURATION=&AV_TITLE=&AV_DNT=&AVS_SSAIID=6437f18c83666924810683e4&ads.vidaa_ads_param=1191723366&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3630
+#EXTINF:-1,Outdoor Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-vidaa/playlist.m3u8
+#EXTINF:-1,Fubo Sports Network (Geo)
+https://sportsnet-midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f1/SportsNet/vidaa-sports-us/master.m3u8?ads.partner=vidaa-sports-us&ads.dnt={DNT}&ads.us_privacy={US_PRIVACY}&ads.app_name={APP_NAME}&ads.vauth={VAUTH}&ads.bundle_id={APPBUNDLE}&ads.did={IFA}&ads.client_id={CLIENT_ID}&ads.gdpr={GDPR}&ads.gdpr_consent={GDPR_CONSENT}&ads.ua={UA}&ads.coppa={COPPA}&ads.vidaa_ads_param=1191211667
+#EXTINF:-1,Fubo Sports Network (Geo)
+https://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/vidaa-sports-us/master.m3u8?ads.partner=vidaa-sports-us&ads.channel_name=fubo_sports_network&ads.station_id=120123&ads.vidaa_ads_param=1191211667&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3505
+#EXTINF:-1,Motorvision
+https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=2459&device_type=tv&partner=hisense_syndication&connection=wifi&package_https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=1199&device_type=tv&partner=hisense_syndication&connection=wifi&package_format=vidaa_feed&max_bitrate=4500&preferred_bitrate=1800&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=1737
+#EXTINF:-1,Auto Allstars (EU)
+https://extremeinternational-autoallstars-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Motortrend Fast TV
+https://57596a33.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFfTW90b3JUcmVuZEZhc3RUVl9ITFM/playlist.m3u8
+#EXTINF:-1,SpeedVision
+https://2c7d9bc7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFfU3BlZWR2aXNpb25fSExT/playlist.m3u8?ads.wurl_channel=1325&ads.wurl_name=Speedvision&ads.coppa=0&ads.vidaa_ads_param=1190406319&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3692
+#EXTINF:-1,Fifth Gear
+https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887625&ads.csid=vidaa_us_fifthgear_ssai&ads.caid=FifthGear&ads.appVersion=1&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_coppa=0&ads._fw_gdpr_consent=&ads._fw_gdpr=0&ads._fw_player_width=1920&ads._fw_player_height=1080&ads.xumo_contentId=3867&ads.xumo_contentName=All3MediaFifthGear&ads.xumo_providerId=3867&ads.xumo_providerName=All3MediaFifthGear&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=5407
+#EXTINF:-1,FIFA+
+https://a64bb837.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFfRklGQV9ITFM/playlist.m3u8
+#EXTINF:-1,Bein Xtra
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
+#EXTINF:-1,Bein Xtra Espanol
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
+#EXTINF:-1,Bleav Football
+https://linear-493.frequency.stream/dist/vidaa/493/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4971
+#EXTINF:-1,Bleav Sports
+https://linear-477.frequency.stream/dist/vidaa/477/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4969
+#EXTINF:-1,EdgeSports
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00780-imgmedialtd-edgesports-vidaa/playlist.m3u8
+#EXTINF:-1,Edge Sports ROW
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00780-imgmedialtd-edgesportsrow-vidaa/playlist.m3u8
+#EXTINF:-1,DAZN Combat (GEO)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-vidaa/playlist.m3u8
+#EXTINF:-1,DAZN ROW Women's Sport (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznrow-womenssport-vidaa/playlist.m3u8
+#EXTINF:-1,Trace Sport Stars
+https://tracetv-sportstarts-vidaa.amagi.tv/playlist.m3u8
+#EXTINF:-1,Trace Sport Stars alt
+https://tracetv-tracesportsstar-vidaa.amagi.tv/playlist.m3u8
+#EXTINF:-1,Glory Kickboxing
+https://28f44db7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFfR2xvcnlLaWNrYm94aW5nX0hMUw/playlist.m3u8
+#EXTINF:-1,PFL MMA (EU)
+https://a737836f.wurl.com/VmlkYWEtZXVfUEZMTU1BX0hMUw/playlist.m3u8
+#EXTINF:-1,ITSF
+https://g-mana.sofast.tv/media/8f2e7ae7-54e8-4ca2-b9f1-93c8416fdb4f/mainManifest.m3u8?ads.vidaa_ads_param=1191944176&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3875
+#EXTINF:-1,Strongman Champions League (EU)
+https://rightsboosterltd-scl-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sportsgrid
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-vidaa/playlist.m3u8
+#EXTINF:-1,Sports Grid (CA)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-sportsgridcanada-vidaa/playlist.m3u8
+#EXTINF:-1,Emergency
+https://c337dcca.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541//playlist.m3u8
+#EXTINF:-1,Party Poker
+https://cdn46.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/PartyPoker_VIDAA/index.m3u8?ads.vidaa_ads_param=1191726536&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3234
+#EXTINF:-1,Brat TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-vidaa/playlist.m3u8
+#EXTINF:-1,Brat TV (AU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattvau-vidaa/playlist.m3u8
+#EXTINF:-1,Pop Kids
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-vidaa/playlist.m3u8
+#EXTINF:-1,PW Kids (EU)
+https://playworksdigital-tankee-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Ninja Kidz (EU)
+https://playworksdigital-ninjakidztv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cartoon Classics
+https://g-mana.sofast.tv/media/36027b53-b873-4781-a013-9d68bb436009/mainManifest.m3u8?ads.channel_name=CARTOON CLASSICS&ads.content_genre=Cartoons&ads.content_language=en&ads.coppa=1&ads.content_rating=G&ads.vidaa_ads_param=1191944176&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3389
+#EXTINF:-1,Toon Goggles
+https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=261205&device_type=tv&partner=hisense_syndication&connection=wifi&package_format=vidaa_feed&max_bitrate=4500&preferred_bitrate=1800&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=1735
+#EXTINF:-1,TG Junior
+https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=259980&device_type=tv&partner=hisense_syndication&connection=wifi&package_format=vidaa_feed&max_bitrate=4500&preferred_bitrate=1800&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=1739
+#EXTINF:-1,Kidoodle.TV (GB)
+https://kidoodletv-kdtv-2-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Kidoodle.TV (US)
+https://kidoodletv-kdtv-1-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Kiddo Plus
+https://g-mana.sofast.tv/media/f6636f75-4aa3-4cdf-be7e-a355e5521acf/mainManifest.m3u8?ads.channel_name=KIDDO+&ads.content_genre=Animation&ads.content_language=en&ads.coppa=1&ads.content_rating=G&ads.vidaa_ads_param=1191944176&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3398
+#EXTINF:-1,Skwad
+https://api-ott.skwadplay.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=261346&device_type=tv&partner=hisense_syndication&connection=wifi&package_format=vidaa_feed&max_bitrate=4500&preferred_bitrate=1800&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=1727
+#EXTINF:-1,Smurf TV
+https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&device_type=tv&partner=hisense_syndication&connection=wifi&package_format=vidaa_feed&max_bitrate=4500&preferred_bitrate=1800&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&id=35&ads.vidaa_ads_contentId=3614
+#EXTINF:-1,Boonie Cubs TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3445
+#EXTINF:-1,Ducktv
+https://api-ott.ducktv.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=10&device_type=tv&partner=hisense_syndication&connection=wifi&package_format=vidaa_feed&max_bitrate=4500&preferred_bitrate=1800&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3237
+#EXTINF:-1,Midsomer Murders (US)
+https://all3media-midsomer-1-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten British Films (GB)
+https://rakuten-british-films-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,100% Christmas - Rakuten TV (GB)
+https://aea4b9b2ece84bc5bf26ac734369bc45.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vidaa-gb_RakutenFamily/playlist.m3u8?ads.wurl_channel=717&ads.wurl_name=RakutenFamily&ads.coppa=1&ads.vidaa_ads_param=1190406319&ads.vidaa_ads_contentId=3329
+#EXTINF:-1,Rakuten Family (GB)
+https://rakuten-family-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Action Movies (GB)
+https://rakuten-actionmovies-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Thriller (GB)
+https://rakuten-thriller-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy Movies (GB)
+https://rakuten-comedymovies-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten TV Shows (GB)
+https://rakuten-tvshows-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Top Free (GB)
+https://rakuten-topfree-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Spotlight (GB) 
+https://rakuten-spotlight-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Romance (GB)
+https://rakuten-romance-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Guardian (GB)
+https://rakuten-guardian-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,So Real (GB)
+https://all3media-soreal-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Documentary Plus (EU)
+https://documentaryplus-documentaryplus-2-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Documentary Plus (US)
+https://documentaryplus-documentaryplus-2-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Docu Vision
+https://g-mana.sofast.tv/media/0650be39-7dc6-4278-95e2-c57129fb645a/mainManifest.m3u8?ads.channel_name=DOCU VISION&ads.content_genre=Biography&ads.content_language=en&ads.coppa=0&ads.content_rating=G&ads.vidaa_ads_param=1191944176&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3390
+#EXTINF:-1,Radical Docs (US)
+https://quintus-radicaldocs-1-us.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Wedo Big Stories
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigstories-vidaa/playlist.m3u8
+#EXTINF:-1,TED Conferences (EU)
+https://tedconferences-ted-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,History Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-vidaa/playlist.m3u8
+#EXTINF:-1,Da Vinci (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davincius-vidaa/playlist.m3u8
+#EXTINF:-1,Da Vinci (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davinci-vidaa/playlist.m3u8
+#EXTINF:-1,Weatherspy (EU)
+https://jukin-weatherspy-4-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Conflict
+https://c652c4f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX0NvbmZsaWN0X0hMUw/playlist.m3u8
+#EXTINF:-1,Watch Mojo (EU)
+https://watchmojo-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,WatchMojo alt
+https://452c9ee9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX1dhdGNoTW9qb19ITFM/playlist.m3u8
+#EXTINF:-1,Homeful (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-homefulus-vidaa/playlist.m3u8
+#EXTINF:-1,The Design Network (EU)
+https://thedesignnetwork-tdn-6-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Todays Home Owner (EU)
+https://janson-todayshomeowner-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Homes Under the Hammer (GB)
+https://all3media-homes-under-the-hammer-1-gb.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Love Nature (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureus-vidaa/playlist.m3u8
+#EXTINF:-1,Love Nature alt
+https://dapdwco2fkcoa.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=88887610&ads.csid=vidaa_us_lovenature_ssai&ads.caid=LoveNature&ads.appName=%7BAPP_NAME%7D&ads.appVersion=1&ads._fw_app_bundle=%7BAPP_BUNDLE%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%7BBRAND_NAME%7D&ads._fw_device_model=%7BDEVICE_OSV%7D&ads._fw_devicetype=%7BDEVICE_TYPE%7D&ads._fw_coppa=0&ads._fw_gdpr_consent=&ads._fw_gdpr=0&ads._fw_is_lat=%7BDNT%7D&ads._fw_us_privacy=%7BUS_PRIVACY%7D&ads._fw_h_x_country=%7BDEVICE_COUNTRY%7D&ads._fw_player_width=1920&ads._fw_player_height=1080&ads.vauth=%7BVAUTH%7D&ads.xumo_contentId=1852&ads.xumo_contentName=LoveNature&ads.xumo_ifa=%7BIFA%7D&ads.xumo_ifaType=%7BIFA_TYPE%7D&ads.xumo_providerId=1852&ads.xumo_providerName=LoveNature&ads._fw_app_store_url=%7BAPP_STORE_URL%7D&ads.vidaa_ads_param=1188362017
+#EXTINF:-1,WaterBear Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-waterbear-vidaa/playlist.m3u8
+#EXTINF:-1,Love Pets (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovepetsusa-vidaa/playlist.m3u8
+#EXTINF:-1,The Pet Collective (EU)
+https://jukin-thepetcollective-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Young Hollywood (AU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-younghollywoodau-vidaa/playlist.m3u8
+#EXTINF:-1,Young Hollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-younghollywood-vidaa/playlist.m3u8
+#EXTINF:-1,Drag Race Universe (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-dragraceuniverseusa-vidaa/playlist.m3u8
+#EXTINF:-1,Tokushoutsu
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-tokushoutsu-vidaa/playlist.m3u8
+#EXTINF:-1,Family Tree ENG
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-familytreeeng-vidaa/playlist.m3u8
+#EXTINF:-1,Flame and Fire                                                                                                                                                                                                                     Flame and Fire ENG
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flameandfireeng-vidaa/playlist.m3u8
+#EXTINF:-1,Horrorfy
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrifyeng-vidaa/playlist.m3u8
+#EXTINF:-1,Mystify
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mystifyeng-vidaa/playlist.m3u8
+#EXTINF:-1,Total Crime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-totalcrime-vidaa/playlist.m3u8
+#EXTINF:-1,True Crime Now
+https://alliantcontent-truecrimenow-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Crime & Punishment
+https://d7278b99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX0NyaW1lYW5kUHVuaXNobWVudF9ITFM/playlist.m3u8?ads.wurl_channel=1230&ads.wurl_name=CrimeandPunishment&ads.coppa=0&ads.vidaa_ads_param=1190406319&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=5401
+#EXTINF:-1,Unexplained (EU)
+https://gravitas-unexplained-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Unreel (EU)
+https://extremeinternational-unreel-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Robot Wars by Mech+
+https://7ce252b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX01lY2hQbHVzX0hMUw/playlist.m3u8?ads.wurl_channel=1413&ads.wurl_name=MechPlus&ads.coppa=0&ads.vidaa_ads_param=1190406319&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=5398
+#EXTINF:-1,Wu Tang Collection TV
+https://cdn45.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/WuTang_VIDAA/index.m3u8?ads.vidaa_ads_param=1191726536&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3235
+#EXTINF:-1,Moconomy (EU)
+https://amogonetworx-moconomy-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Moconomy (EU) alt
+https://amogonetworx-moconomy-2-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Moconomy (DE)
+https://amogonetworx-moconomy-3-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,CCBM Broadcasting (EU)
+https://ccbm-broadcasting-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Pecan TV (EU)
+https://bold-tv-corp-pecan-tv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Shade TV (EU)
+https://shadeiqllc-shadetv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Mech Plus (EU) 
+https://mechtvltd-mechplus-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Global Fashion Channel TV (EU)
+https://gfcomnimedia-globalfashionchannel-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Just.Classical
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3351
+#EXTINF:-1,Trace Urban
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanvidaa-vidaa/playlist.m3u8
+#EXTINF:-1,Our Vinyl TV (EU) 
+https://ourvinyltv-ourvinyltv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Ditty TV (EU)
+https://memphisstudios-dittytv-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Clubbing TV
+https://clubbingtv-clubbingtv-vidaa.amagi.tv/playlist.m3u8
+#EXTINF:-1,Deluxe Lounge HD
+https://api-ott.highview.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=742&device_type=tv&partner=hisense_syndication&connection=wifi&package_format=vidaa_feed&max_bitrate=4500&preferred_bitrate=1800&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3183
+#EXTINF:-1,Party Tyme Karaoke
+https://api-ott.partytymestreaming.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=17704&device_type=tv&partner=hisense_syndication&connection=wifi&package_format=vidaa_feed&max_bitrate=4500&preferred_bitrate=1800&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=1736
+#EXTINF:-1,Vevo Navidad
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevonavidad-ono/playlist.m3u8
+#EXTINF:-1,Stingray Greatest Holiday Hits
+https://46bb924c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX1N0aW5ncmF5R3JlYXRlc3RIaXRzX0hMUw/playlist.m3u8?ads.wurl_channel=1641&ads.wurl_name=StingrayGreatestHits&ads.coppa=0&ads.vidaa_ads_param=1190406319&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=5428
+#EXTINF:-1,Stingray Holidayscapes
+https://c273ddbc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX1N0aW5ncmF5SG9saWRheXNjYXBlc19ITFM/playlist.m3u8?ads.wurl_channel=1644&ads.wurl_name=StingrayHolidayscapes&ads.coppa=0&ads.vidaa_ads_param=1190406319&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=5430
+#EXTINF:-1,Stingray Hot Country Christmas
+https://2a959889.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX1N0aW5ncmF5SG90Q291bnRyeV9ITFM/playlist.m3u8?ads.wurl_channel=1643&ads.wurl_name=StingrayHotCountry&ads.coppa=0&ads.vidaa_ads_param=1190406319&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=5431
+#EXTINF:-1,Stingray Karaoke
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4591&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=1139a2441d43be7ddef4aeff0febeeed&app_bundle=false&app_store_url=https%3A%2F%2Fprivate.ottera.tv%2Fdevices&app_domain=cmsapi-ott-hisense-vmvpd.ottera.tv&app_name=hisensevmvpd&custom_targeting=html5&custom_4=hisense_syndication&h=720&w=1280&content_channel=hisensevmvpd&content_dist_name=hisense_syndication&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=en&custom_16=EN&custom_17=en&gender=not_specified&yob=0&page=3&page_size=5&livestream=1&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&ssai_enabled=&gdpr=&consent=&us_privacy=&app_name=&app_bundle=&app_store_url=&app_version=&ifa_type=&did=&is_lat=&player_height=&player_width=&device_language=&device_model=&country=&device_make=&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_cont
+#EXTINF:-1,Stingray Naturescape
+https://da4c8c52.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX1N0aW5ncmF5TmF0dXJlc2NhcGVfSExT/playlist.m3u8?ads.wurl_channel=1645&ads.wurl_name=StingrayNaturescape&ads.coppa=0&ads.vidaa_ads_param=1190406319&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=5432
+#EXTINF:-1,Stingray Soul Storm Christmas
+https://bf676298.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWFXTEhFX1N0aW5ncmF5U291bFN0b3JtX0hMUw/playlist.m3u8?ads.wurl_channel=1642&ads.wurl_name=StingraySoulStorm&ads.coppa=0&ads.vidaa_ads_param=1190406319&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=5429
+#EXTINF:-1,Just.classical
+https://api-ott.highview.com/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=849%0D%0A&device_type=tv&partner=hisense_syndication&connection=wifi&package_format=vidaa_feed&max_bitrate=4500&preferred_bitrate=1800&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3184
+#EXTINF:-1,Rakuten Comedy Movies (FR)
+https://rakuten-comedymovies-7-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Films Francais (FR)
+https://rakuten-films-francais-1-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Family (FR)
+https://rakuten-family-7-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Romance (FR)
+https://rakuten-romance-7-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Action Movies (FR)
+https://rakuten-actionmovies-7-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Spotlight (FR)
+https://rakuten-spotlight-7-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Thriller (FR)
+https://rakuten-thriller-7-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Top Free (FR)
+https://rakuten-topfree-7-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten TV Shows (FR)
+https://rakuten-tvshows-7-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Guardian (FR)
+https://rakuten-guardian-1-fr.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Curiosity Now (DE)
+https://autentic-curiosity-now-1-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Konflikte (DE)
+https://autentic-spiegeltv-konflikte-1-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Mytime Movies (DE)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytymmovgerman-vidaa/playlist.m3u8
+#EXTINF:-1,Rakuten Action Movies (DE)
+https://rakuten-actionmovies-3-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Thriller (DE)
+https://rakuten-thriller-3-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy Movies (DE)
+https://rakuten-comedymovies-3-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Family (DE)
+https://rakuten-family-3-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,100% Weihnachten - Rakuten TV (DE)
+https://7d571050d3c74bc2b7ff76a82664eecc.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vidaa-de_RakutenFamily/playlist.m3u8?ads.wurl_channel=721&ads.wurl_name=RakutenFamily&ads.coppa=1&ads.device_id=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4156
+#EXTINF:-1,Rakuten Romance (DE) 
+https://rakuten-romance-3-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Stories (DE)
+https://rakuten-spotlight-3-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Top Free (DE)
+https://rakuten-topfree-3-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten TV Shows (DE)
+https://rakuten-tvshows-3-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Guardian (DE)
+https://rakuten-guardian-1-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Deutsches Kino (DE)
+https://rakuten-deutsches-kino-1-de.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cine Clasico (ES)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoes-vidaa/playlist.m3u8	
+#EXTINF:-1,Rcnmas+ (EU)
+https://rcntv-rcnmas-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Top Cine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcineeng-vidaa/playlist.m3u8
+#EXTINF:-1,Tu Cine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-tucinelatam-hisense/playlist.m3u8
+#EXTINF:-1,Tu Cine ES (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinees-vidaa/playlist.m3u8
+#EXTINF:-1,Flash (ES)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flashes-vidaa/playlist.m3u8	
+#EXTINF:-1,MMC (ES)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-vidaa/playlist.m3u8	
+#EXTINF:-1,Mytime Movie (ES)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytymmovspain-vidaa/playlist.m3u8	
+#EXTINF:-1,Rakuten Action Movies (ES)
+https://rakuten-actionmovies-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy Movies (ES)
+https://rakuten-comedymovies-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Family (ES)
+https://rakuten-family-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Romance (ES)
+https://rakuten-romance-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Spotlight (ES)
+https://rakuten-spotlight-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Thriller (ES)
+https://rakuten-thriller-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Top Free (ES)
+https://rakuten-topfree-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten TV Shows (ES)
+https://rakuten-tvshows-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Guardian (ES)
+https://rakuten-guardian-1-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Hola (ES)
+https://rakuten-hola-2-es.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Action Movies (IT)
+https://rakuten-actionmovies-6-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy Movies (IT)
+https://rakuten-comedymovies-6-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Guardian (IT)
+https://rakuten-guardian-1-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Top Free (IT)
+https://rakuten-topfree-6-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Family (IT)
+https://rakuten-family-6-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Romance (IT)
+https://rakuten-romance-6-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Spotlight (IT)
+https://rakuten-spotlight-6-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Thriller (IT)
+https://rakuten-thriller-6-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten TV Shows (IT)
+https://rakuten-tvshows-6-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Classico (IT)
+https://rakuten-classico-1-it.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Konflikte (AT)
+https://autentic-spiegeltv-konflikte-1-at.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy Movies (AT)
+https://rakuten-comedymovies-3-at.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Family (AT)
+https://rakuten-family-3-at.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten TV Shows (AT)
+https://rakuten-tvshows-3-at.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Action Movies (AT)
+https://rakuten-actionmovies-3-at.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Spotlight (AT)
+https://rakuten-spotlight-3-at.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Guardian (AT)
+https://rakuten-guardian-1-at.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Curiosity Now (CH)
+https://autentic-curiosity-now-1-ch.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy Movies (CH)
+https://rakuten-comedymovies-3-ch.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten TV Shows (CH)
+https://rakuten-tvshows-3-ch.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Action Movies (CH)
+https://rakuten-actionmovies-3-ch.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Spotlight (CH)
+https://rakuten-spotlight-3-ch.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Lacasadel Jaripeo (EU)
+https://mexicanal-lacasadeljaripeo-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Canela TeleNovelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3078
+#EXTINF:-1,La Bocina TV (EU)
+https://rise-financial-la-bocina-latina-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,MegaNoticias (EU)
+https://pctv-meganoticias-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Univision 24/7 News
+https://linear-254.frequency.stream/dist/vidaa/254/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4978
+#EXTINF:-1,Aqui y Ahora
+https://linear-306.frequency.stream/dist/vidaa/306/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4980
+#EXTINF:-1,Cine Retro
+https://linear-307.frequency.stream/dist/vidaa/307/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4982
+#EXTINF:-1,Cine de Oro
+https://linear-308.frequency.stream/dist/vidaa/308/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4985
+#EXTINF:-1,Jajaja
+https://linear-310.frequency.stream/dist/vidaa/310/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4973
+#EXTINF:-1,Grandes Parejas
+https://linear-318.frequency.stream/dist/vidaa/318/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4981
+#EXTINF:-1,Galanes
+https://linear-325.frequency.stream/dist/vidaa/325/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4987
+#EXTINF:-1,Las 3 Marias
+https://linear-328.frequency.stream/dist/vidaa/328/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4983
+#EXTINF:-1,Rebelde
+https://linear-335.frequency.stream/dist/vidaa/335/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4986
+#EXTINF:-1,Zona TUDN
+https://linear-357.frequency.stream/dist/vidaa/357/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4989
+#EXTINF:-1,Como Dice el Dicho
+https://linear-341.frequency.stream/dist/vidaa/341/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4984
+#EXTINF:-1,Lo Mejor de Liga
+https://linear-452.frequency.stream/dist/vidaa/452/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4992
+#EXTINF:-1,Pequeños Gigantes
+https://linear-533.frequency.stream/dist/vidaa/533/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4994
+#EXTINF:-1,Juntos
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-juntos-hisense/playlist.m3u8
+#EXTINF:-1,Accion Mexicano
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3075
+#EXTINF:-1,HappiTV
+https://api-ott.gethappi.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=10&device_type=tv&partner=hisense_syndication&connection=wifi&package_format=vidaa_feed&max_bitrate=4500&preferred_bitrate=1800&custom_param_0=&custom_param_1=tv&custom_param_2=&custom_param_3=&custom_param_4=hisense_syndication&custom_param_5=html5&custom_param_6=North%2520America&app_bundle=&ads.vidaa_ads_param=1188363858&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=3014
+

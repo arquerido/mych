@@ -1,0 +1,549 @@
+#EXTM3U
+#EXTINF:-1,ABC News Live
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,ABC-News.m3u8
+#EXTINF:-1,NBC News Now
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NBC-News-Now.m3u8
+#EXTINF:-1,Live Now From Fox
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Live-Now.m3u8
+#EXTINF:-1,ABC Localish
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Localish.m3u8
+#EXTINF:-1,Today All Day
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Today.m3u8
+#EXTINF:-1,USA Today
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
+#EXTINF:-1,Cheddar News
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Cheddar.m3u8
+#EXTINF:-1,The Grio
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BNC.m3u8
+#EXTINF:-1,Scripps News
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Scripps-News.m3u8
+#EXTINF:-1,Bloomberg TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8
+#EXTINF:-1,Bloomberg Originals
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Originals.m3u8
+#EXTINF:-1,CBC News Canada
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-CBC.m3u8
+#EXTINF:-1,Euronews
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Euronews.m3u8
+#EXTINF:-1,Fox Weather
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Weather.m3u8
+#EXTINF:-1,Pattrn
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8
+#EXTINF:-1,TMZ
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,TMZ.m3u8
+#EXTINF:-1,Fox Soul
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Soul-SCTE.m3u8
+#EXTINF:-1,Tubi Originals
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Tubi-Originals.m3u8
+#EXTINF:-1,The Masked Singer
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Masked-Singer.m3u8
+#EXTINF:-1,Cosmos
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cosmos.m3u8
+#EXTINF:-1,Brit Box Mysteries
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BBC-BritBox-Mysteries.m3u8
+#EXTINF:-1,BBC Earth
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BBC-Earth.m3u8
+#EXTINF:-1,BBC Silent Witness New Tricks
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BBC-Silent-Witness-New-Tricks.m3u8
+#EXTINF:-1,BBC Top Gear
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BBC-Top-Gear.m3u8
+#EXTINF:-1,BBC Dr Who Classic
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Dr-Who.m3u8
+#EXTINF:-1,Gordon Ramsey
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Gordon-Ramsey.m3u8
+#EXTINF:-1,WBTV Chasing Criminals (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Chasing-Criminals.m3u8
+#EXTINF:-1,WBTV Classic Cinema (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Classic-Cinema.m3u8
+#EXTINF:-1,WBTV In The Garage (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-In-the-Garage.m3u8
+#EXTINF:-1,WBTV On The Telly (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-On-the-Telly.m3u8
+#EXTINF:-1,WBTV Nikita (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Nikita.m3u8
+#EXTINF:-1,WBTV Generation Drama (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Generation-Drama.m3u8
+#EXTINF:-1,WBTV Travel and Adventure (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Travel-and-Adventure.m3u8
+#EXTINF:-1,WBTV Living With Evil (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Living-with-Evil.m3u8
+#EXTINF:-1,WBTV The FBI (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-The-FBI.m3u8
+#EXTINF:-1,WBTV Watchlist (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Watch-List.m3u8
+#EXTINF:-1,WBTV Love and Desire (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Keeping-It-Real.m3u8
+#EXTINF:-1,WBTV Family Faves (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-All-Together-Now.m3u8
+#EXTINF:-1,WBTV At the Movies (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-At-The-Movies.m3u8
+#EXTINF:-1,WBTV Ghosts are Real (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Supernatural.m3u8
+#EXTINF:-1,WBTV How To (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-How-To.m3u8
+#EXTINF:-1,WBTV Mysterious Worlds (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Mysteries.m3u8
+#EXTINF:-1,WBTV Unique Lives (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Slice-Life.m3u8
+#EXTINF:-1,WBTV Crime Scenes (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Crime-Scenes.m3u8
+#EXTINF:-1,WBTV Love and Marriage (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Love-Marriage.m3u8
+#EXTINF:-1,WBTV Family Rulez (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Family-Rules.m3u8
+#EXTINF:-1,WBTV Welcome Home (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Welcome-Home.m3u8
+#EXTINF:-1,WBTV Sweet Escapes (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Sweet-Escapes.m3u8
+#EXTINF:-1,WBTV Paws and Claws (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Paws-Claws.m3u8
+#EXTINF:-1,Mr Beast
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Mr-Beast.m3u8
+#EXTINF:-1,Ebony TV (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Ebony-TV.m3u8
+#EXTINF:-1,Kartoon Channel
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Kartoon.m3u8
+#EXTINF:-1,4 Adventure
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,4Adventure.m3u8
+#EXTINF:-1,4 Emergency
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,4Emergency.m3u8
+#EXTINF:-1,TV One Presents
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,TV-ONE.m3u8
+#EXTINF:-1,Nashville Channel
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Nashville.m3u8
+#EXTINF:-1,Outersphere by Lionsgate check (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,OuterSphere.m3u8
+#EXTINF:-1,Revolt Mixtape
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Revolt.m3u8
+#EXTINF:-1,Maximum Effort
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Maximum-Effort.m3u8
+#EXTINF:-1,Drag Race Universe
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,DragRace.m3u8
+#EXTINF:-1,Midsomer Murders
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Midsomer-Murders.m3u8
+#EXTINF:-1,Filmrise Hunter
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Hunter-Filmrise.m3u8
+#EXTINF:-1,Filmrise DR G Medical Examiner
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Dr-G-Filmrise.m3u8
+#EXTINF:-1,Filmrise The Rifleman
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Rifleman-Filmrise.m3u8
+#EXTINF:-1,Samuel Goldwyn Classics
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Samuel-Goldwyn-Classics.m3u8
+#EXTINF:-1,The Jack Hanna Channel
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Jack-Hannah.m3u8
+#EXTINF:-1,Xplore
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Xplore.m3u8
+#EXTINF:-1,Dateline 24/7
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Dateline.m3u8
+#EXTINF:-1,Total Crime
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Total-Crime.m3u8
+#EXTINF:-1,Filmrise True Crime
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-True-Crime.m3u8
+#EXTINF:-1,Filmrise Americas Dumbest Criminals
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Americas-Dumbest-Criminals.m3u8
+#EXTINF:-1,Love Nature
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Love-Nature.m3u8
+#EXTINF:-1,Homeful
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Homeful.m3u8
+#EXTINF:-1,Four in Bed
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Four-in-a-Bed.m3u8
+#EXTINF:-1,Great British Menu
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Great-British-Menu.m3u8
+#EXTINF:-1,Gardening with Monty Don
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Gardening-Monty-Don.m3u8
+#EXTINF:-1,Haunt TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,HauntTV.m3u8
+#EXTINF:-1,Antiques Road Trip
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Antiques-Road-Trip.m3u8
+#EXTINF:-1,Maverick Black Cinema
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Maverick-Black-Cinema.m3u8
+#EXTINF:-1,Lol Standup
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,LOL-Stand-Up.m3u8
+#EXTINF:-1,Lol Network check
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,LOL-Network.m3u8
+#EXTINF:-1,Alter Horror
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Alter.m3u8
+#EXTINF:-1,Alien Nation check
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Alien-Nation.m3u8
+#EXTINF:-1,Filmrise Black TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-BlackTV.m3u8
+#EXTINF:-1,Filmrise Horror
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Horror.m3u8
+#EXTINF:-1,Americas Test Kitchen
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Americas-Test-Kitchen.m3u8
+#EXTINF:-1,HI-Yah!
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Hi-YAH.m3u8
+#EXTINF:-1,The Jamie Oliver Channel
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Jamie-Oliver.m3u8
+#EXTINF:-1,Are We There Yet?
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Are-We-There-Yet.m3u8
+#EXTINF:-1,ION Mystery
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Mystery.m3u8
+#EXTINF:-1,Grit Xtra
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Grit-Extra.m3u8
+#EXTINF:-1,ION Plus
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Plus.m3u8
+#EXTINF:-1,Bounce XL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bounce-XL.m3u8
+#EXTINF:-1,ION
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION.m3u8
+#EXTINF:-1,Court TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Court-TV.m3u8
+#EXTINF:-1,Anger Management Channel
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Anger-Management.m3u8
+#EXTINF:-1,Wanted Dead or Alive
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Wanted-Dead-Or-Alive.m3u8
+#EXTINF:-1,Caught in Providence
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Caught-In-Providence.m3u8
+#EXTINF:-1,The Biggest Loser
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Biggest-Loser.m3u8
+#EXTINF:-1,Mytime Movie Network (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,My-Time.m3u8
+#EXTINF:-1,Cinevault Classics
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-Classics.m3u8
+#EXTINF:-1,Cinevault 80's
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-80s.m3u8
+#EXTINF:-1,Cinevault Westerns
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-Westerns.m3u8?
+#EXTINF:-1,Gameshow Central
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Game-Show-Central.m3u8
+#EXTINF:-1,Comedy Dynamics
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Comedy-Dynamics.m3u8
+#EXTINF:-1,So...Real
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,So-Real.m3u8
+#EXTINF:-1,Filmrise Heartland
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Heartland.m3u8
+#EXTINF:-1,Wipeout Xtra
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Wipeout-Xtra.m3u8
+#EXTINF:-1,Fear Factor USA
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fear-Factor.m3u8
+#EXTINF:-1,Love Quest
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,All-Real.m3u8
+#EXTINF:-1,Filmrise Unsolved Mysterys
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Unsolved-Mysteries.m3u8
+#EXTINF:-1,Filmrise Forensic Files
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Forensic-Files.m3u8
+#EXTINF:-1,Deal or no Deal
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Deal-or-No-Deal.m3u8
+#EXTINF:-1,Moviesphere by Lionsgate
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MovieSphere.m3u8
+#EXTINF:-1,Filmrise Western
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Western.m3u8
+#EXTINF:-1,Vice
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,VICE.m3u8
+#EXTINF:-1,The Bob Ross Channel
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bob-Ross.m3u8
+#EXTINF:-1,Supermarket Sweep (Geo)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Supermarket.m3u8
+#EXTINF:-1,Johnny Carson TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Johnny-Carson.m3u8
+#EXTINF:-1,BUZZR
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Buzzr.m3u8
+#EXTINF:-1,Always Funny
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,AFV.m3u8
+#EXTINF:-1,The Carol Burnett Show
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Carol-Burnett.m3u8
+#EXTINF:-1,MST3K
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MST3K.m3u8
+#EXTINF:-1,Baywatch
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Baywatch.m3u8
+#EXTINF:-1,Reelz Famous and Infamous
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8
+#EXTINF:-1,Circle
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Circle.m3u8
+#EXTINF:-1,Nosey (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Nosey.m3u8
+#EXTINF:-1,History Time (Canada)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,HistoryTime.m3u8
+#EXTINF:-1,FilmRise Black TV (Canada)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-BlackTV-Canada.m3u8
+#EXTINF:-1,FilmRise Horror (Canada)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Horror-Canada.m3u8
+#EXTINF:-1,FilmRise True Crime (Canada)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-True-Crime-Canada.m3u8
+#EXTINF:-1,Crime Time (Canada)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CrimeTime-Canada.m3u8
+#EXTINF:-1,Super Channel Uncovered (Canada)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Super-Channel-Uncovered-Canada.m3u8
+#EXTINF:-1,Super Channel Hearties (Canada)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Super-Channel-Hearties-Canada.m3u8
+#EXTINF:-1,Alien Nation (Canada) check
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Alien-Nation-Canada.m3u8
+#EXTINF:-1,Homeful (Canada)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Homeful-Canada.m3u8
+#EXTINF:-1,The Weather Network (Canada)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,The-Weather-Network-Canada.m3u8
+#EXTINF:-1,TWN Elements (Canada)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,TWN-Elements-Canada.m3u8
+#EXTINF:-1,Haunt TV (Canada)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,HauntTV-Canada.m3u8
+#EXTINF:-1,Fox Sports on Tubi (Geo)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports2.m3u8
+#EXTINF:-1,NBA G-League (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NBA-G.m3u8
+#EXTINF:-1,NFL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8
+#EXTINF:-1,MLB
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MLB2.m3u8
+#EXTINF:-1,PGA TOUR
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,PGA.m3u8
+#EXTINF:-1,Fubo Sports Network (Geo)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8
+#EXTINF:-1,Top Rank Classics
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Top-Rank.m3u8
+#EXTINF:-1,MotorTrend FAST TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Motortrend2.m3u8
+#EXTINF:-1,Stadium
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Stadium.m3u8
+#EXTINF:-1,Poker Go
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,PokerGo.m3u8
+#EXTINF:-1,USA Today Sports (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Sportswire.m3u8
+#EXTINF:-1,Waypoint TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Waypoint.m3u8
+#EXTINF:-1,Outside TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,OutsideTV.m3u8
+#EXTINF:-1,Racing America
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Racing-America.m3u8
+#EXTINF:-1,NHRA TV
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NHRA.m3u8
+#EXTINF:-1,Bein Sports XTRA (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN.m3u8
+#EXTINF:-1,PAC-12 Insider (Geo)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Pac12.m3u8
+#EXTINF:-1,Real Madrid TV (Geo)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Real-Madrid.m3u8
+#EXTINF:-1,ACCDN (Geo)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,ACCDN.m3u8
+#EXTINF:-1,Fox Sports en Espanol (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+#EXTINF:-1,Estrella News
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Estrella-News.m3u8
+#EXTINF:-1,Estrella Games
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Estrella-Games.m3u8
+#EXTINF:-1,Bein Sports Xtra En Espanol (Geo)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8
+#EXTINF:-1,Anger Management en Espanol
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Anger-Management-Espanol.m3u8
+#EXTINF:-1,Cine Estrella
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cine-Estrella.m3u8
+#EXTINF:-1,WNYW Fox 5 New York
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WNYW.m3u8
+#EXTINF:-1,News 12 New York
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-News12.m3u8
+#EXTINF:-1,WFLD FOX 32 Chicago
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WFLD.m3u8
+#EXTINF:-1,WTXF Fox 29 Philadelphia
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTXF.m3u8
+#EXTINF:-1,KDFW Fox 4 Dallas-Fort-Worth
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KDFW.m3u8
+#EXTINF:-1,WFAA ABC 8 Dallas-Fort-Worth
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WFAA.m3u8
+#EXTINF:-1,KTTV FOX 11 Los Angeles
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KTTV.m3u8
+#EXTINF:-1,KTVU Fox 2 San Francisco
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KTVU.m3u8
+#EXTINF:-1,WAGA Fox 5 Atlanta
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WAGA.m3u8
+#EXTINF:-1,WXIA NBC 11 Alive Atlanta
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WXIA.m3u8
+#EXTINF:-1,WSB ABC 2 Atlanta (offline)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WSB2.m3u8
+#EXTINF:-1,KRIV Fox 26 Houston
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KRIV.m3u8
+#EXTINF:-1,KHOU CBS 11 Houston
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KHOU.m3u8
+#EXTINF:-1,WUSA CBS 9 Washington DC
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WUSA.m3u8
+#EXTINF:-1,WTTG Fox 5 Washington DC
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTTG.m3u8
+#EXTINF:-1,WMUR Very New Hampshire (broken)
+https://csm-e-cetubiausw2live204-022b4b70dbc9d92d9.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+#EXTINF:-1,WFXT Fox 25 Boston (broken)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WFXT.m3u8
+#EXTINF:-1,Very Boston WCVB 5
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
+#EXTINF:-1,KSAZ Fox 10 Phoenix
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KSAZ.m3u8
+#EXTINF:-1,KNXV ABC 15 Phoenix 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KNXV2.m3u8
+#EXTINF:-1,KPNX NBC 12 Phoenix (broken)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KPNX.m3u8
+#EXTINF:-1,KCPQ Fox 13 Seattle
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KCPQ.m3u8
+#EXTINF:-1,KING NBC 5 Seattle (broken)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KING.m3u8
+#EXTINF:-1,KIRO CBS 7 Seattle (broken)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KIRO.m3u8
+#EXTINF:-1,WTVT Fox 13 Tampa Bay
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTVT.m3u8
+#EXTINF:-1,WFTS ABC Action News Tampa Bay
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WFTS2.m3u8
+#EXTINF:-1,WMOR Very Tampa Bay (broken)
+https://csm-e-cetubiausw2live204-060c18dd9ab7e35e7.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMOR.m3u8
+#EXTINF:-1,KMSP FOX 9 Minneapolis-ST-Paul
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KMSP.m3u8
+#EXTINF:-1,KARE NBC 11 Minneapolis-ST-Paul
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KARE.m3u8
+#EXTINF:-1,WJBK Fox 2 Detroit
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WJBK.m3u8
+#EXTINF:-1,WXYZ ABC 7 Detroit
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WXYZ2.m3u8
+#EXTINF:-1,KMGH ABC 7 Denver
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KMGH2.m3u8
+#EXTINF:-1,KUSA NBC 9 News Denver
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,KUSA.m3u8
+#EXTINF:-1,WOFL Fox 35 Orlando
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WOFL.m3u8
+#EXTINF:-1,WFTV ABC 9 Orlando (broken)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WFTV.m3u8
+#EXTINF:-1,Very Orlando by WESH
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WESH.m3u8
+#EXTINF:-1,WEWS ABC 5 Cleveland
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WEWS2.m3u8
+#EXTINF:-1,WKYC NBC 3 Cleveland (broken)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WKYC.m3u8
+#EXTINF:-1,KXTV ABC 10 Sacramento
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,KXTV.m3u8
+#EXTINF:-1,KCRA Very Sacramento 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KCRA.m3u8
+#EXTINF:-1,KSBY NBC 6 California Central Coast
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KSBY.m3u8
+#EXTINF:-1,KERO ABC 23 Bakersfield 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KERO.m3u8
+#EXTINF:-1,KGW NBC 8 Portland Oregon
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,KGW.m3u8
+#EXTINF:-1,KSDK NBC 5 St Louis (broken)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KSDK.m3u8
+#EXTINF:-1,WSOC ABC 9 Charlotte (broken)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,WSOC.m3u8
+#EXTINF:-1,WPXI NBC 11 Pittsburgh (broken)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WPXI2.m3u8
+#EXTINF:-1,Very Pittsburgh by WTAE
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
+#EXTINF:-1,WTHR NBC 13 Indianapolis (broken)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTHR.m3u8
+#EXTINF:-1,WRTV ABC 6 Indianapolis
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WRTV.m3u8
+#EXTINF:-1,KGTV ABC 10 San Diego
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KGTV2.m3u8
+#EXTINF:-1,WBALTV 11 Very Baltimore
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8
+#EXTINF:-1,WMAR ABC 2 Baltimore
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WMAR.m3u8
+#EXTINF:-1,News Channel 5 Nashville
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTVF2.m3u8
+#EXTINF:-1,KSTU Fox 13 Salt Lake City
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KSTU2.m3u8
+#EXTINF:-1,WTIC Fox 61 Hartford
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTIC.m3u8
+#EXTINF:-1,WBNS CBS 10 Columbus
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,WBNS.m3u8
+#EXTINF:-1,KXXV ABC 25 Waco
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KXXV.m3u8
+#EXTINF:-1,KSHB NBC 41 Kansas City
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KSHB2.m3u8
+#EXTINF:-1,KMBC Very Kansas City 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
+#EXTINF:-1,WYFF Very Carolina 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WYFF.m3u8
+#EXTINF:-1,WLWT Very Cincinnati
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8
+#EXTINF:-1,WCPO ABC 9 Cincinnati WCPO
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WCPO.m3u8
+#EXTINF:-1,WITI Fox 6 Milwaukee
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WITI.m3u8
+#EXTINF:-1,WISN Very Milwaukee
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WISN.m3u8
+#EXTINF:-1,KOAA NBC 5 Colorado Springs 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KOAA.m3u8
+#EXTINF:-1,KTNV ABC 13 Las Vegas
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KTNV.m3u8
+#EXTINF:-1,WPBF 25 Very South Florida
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WPBF.m3u8
+#EXTINF:-1,WPTV NBC 5 West Palm Beach
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WPTV2.m3u8
+#EXTINF:-1,WGAL8 Very Lancaster
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8
+#EXTINF:-1,WXMI Fox 17 Grand Rapids
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WXMI.m3u8
+#EXTINF:-1,KTBC Fox 7 Austin
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KTBC.m3u8
+#EXTINF:-1,KOCO Very Oklahoma
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
+#EXTINF:-1,KJRH NBC 2 News Oklahoma
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KJRH.m3u8
+#EXTINF:-1,WVTM Very Alabama
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WVTM.m3u8
+#EXTINF:-1,WTKR CBS 3 Norfolk
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTKR.m3u8
+#EXTINF:-1,WXII 12 Very Carolina 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WXII.m3u8
+#EXTINF:-1,WFMY CBS 2 Greensboro NC
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,WFMY.m3u8
+#EXTINF:-1,WJAX CBS 47 Fox 30 Jacksonville (broken)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WJAX.m3u8
+#EXTINF:-1,KOAT Very New Mexico
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOAT.m3u8
+#EXTINF:-1,WLKY Very Louisville
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8
+#EXTINF:-1,WDSU Very New Orleans
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WDSU.m3u8
+#EXTINF:-1,WFTX Fox 4 Fort Myers 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WFTX.m3u8
+#EXTINF:-1,WHBQ FOX 13 Memphis
+https://livetv-fa.tubi.video/whbq3/playlist.m3u8
+#EXTINF:-1,WKBW ABC 7 Buffalo
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WKBW.m3u8
+#EXTINF:-1,WTVR CBS 6 Richmond
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTVR.m3u8
+#EXTINF:-1,WLEX Lex 18 News Lexington
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WLEX.m3u8
+#EXTINF:-1,KGUN ABC 9 Tucson
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KGUN.m3u8
+#EXTINF:-1,WHIO CBS 7 Dayton
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WHIO2.m3u8
+#EXTINF:-1,KCCI 8 Very Iowa (broken)
+https://csm-e-cetubiausw2live204-01949a54b03581f02.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KCCI.m3u8
+#EXTINF:-1,WGBA NBC 26 Green Bay 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WGBA.m3u8
+#EXTINF:-1,KMTV CBS 3 Omaha 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KMTV.m3u8
+#EXTINF:-1,KETV 7 Very Omaha
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
+#EXTINF:-1,KIVI ABC 6 Idaho
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KIVI.m3u8
+#EXTINF:-1,WMTW 8 Very Maine
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8
+#EXTINF:-1,WJCL 22 Very Savannah
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8
+#EXTINF:-1,KHBS KHOG Very Arkansas (broken)
+https://csm-e-cetubiausw2live204-003f29f2b256c009e.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KHBS.m3u8
+#EXTINF:-1,KPAX CBS 8 Missoula
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KPAX.m3u8
+#EXTINF:-1,WPTZ NBC 5 Very Champlain 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8
+#EXTINF:-1,WAPT 16 Very Jackson
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8
+#EXTINF:-1,KSBW 8 Very Monterey
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KSBW.m3u8
+#EXTINF:-1,KRIS NBC 6 Corpus Christi 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KRIS.m3u8
+#EXTINF:-1,KBZK CBS 7 Bozeman
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KBZK.m3u8
+#EXTINF:-1,WTXL ABC 27 Tallahassee
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTXL.m3u8
+#EXTINF:-1,KRTV CBS 3 Great Falls
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KRTV.m3u8
+#EXTINF:-1,KTVH NBC 12 Helena
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KTVH.m3u8
+#EXTINF:-1,WMUR 9 New Hampshire
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+#EXTINF:-1,KTTV Fox 11 Los Angeles
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KTTV.m3u8
+#EXTINF:-1,ABC Denver KMGH
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KMGH2.m3u8
+#EXTINF:-1,WSYM Fox 47 News Lansing 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WSYM.m3u8
+#EXTINF:-1,KOKI FOX 23 Tulsa
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KOKI3.m3u8

@@ -1,0 +1,494 @@
+#EXTM3U
+#EXTINF:-1,NBC News Now
+https://d2spdq8rliqjem.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/master.m3u8?ads.xumo_channelId=9999457&ads.xumo_channelName=NBCNewsNow&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNow&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNow&ads.xumo_adsystem=mediatailor&ads.roku_rtid=aDcwAEQiNjH2DNocfALS&ads.roku_ads_kids_content=0&ads.roku_ads_tracking_id=2d50efd5-2148-592a-86d8-3d56a0143b92&ads.roku_ads_limit_tracking=1&ads.roku_ads_content_genre=news&ads.roku_ads_content_id=fc509fc922805196b5930e519de58fc8&ads.roku_ads_app_id=151908&ads.roku_ads_series_id=ROKU_ADS_SERIES_ID&ads.roku_ads_platform_type=web&ads.roku_ads_provider_id=nbcu&ads.roku_ads_season_id=ROKU_ADS_SEASON_ID&ads.roku_ads_content_rating=ROKU_ADS_CONTENT_RATING&ads.roku_ads_content_type=livefeed&ads.roku_cust_param_channelstore=us&ads.roku_cust_param_tags=ROKU_CONTENT_TAGS&ads.roku_cust_param_bmodel=bm1&ads.roku_cust_param_device_lang=ROKU_ADS_LOCALE&ads.roku_cust_param_unlocked=UNLOCKED&ads.roku_cust_param_kids=OTT_KIDS_CONTENT&is_lat=1&bmodel=bm1&content=fc509fc922805196b5930e519de58fc8&platform=web&tags=ROKU_CONTENT_TAGS&coppa=0&content_type=livefeed&rdid=2d50efd5-2148-592a-86d8-3d56a0143b92&genre=news&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=nbcu&channel_id=151908&channelStore=us
+#EXTINF:-1,LiveNOW from FOX (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00488-foxtelevisionst-foxnewsnow-rokuus/playlist.m3u8
+#EXTINF:-1,AccuWeather Now (Geo)
+https://live710.delivery.roku.com/t2-origin/out/v1/792a07ff-0fe3-4910-a62e-9608c5e66d79/live.m3u8
+#EXTINF:-1,WeatherNation TV (Geo)
+https://weathernation-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,WeatherNation alt (Geo)
+https://live778.delivery.roku.com/t2-origin/out/v1/9ccd3b23-26fb-4e14-840c-3a29c1604f2f/live.m3u8
+#EXTINF:-1,FOX Weather (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01542-foxweatherllc-foxweather-rokuus/playlist.m3u8
+#EXTINF:-1,Scripps News (Geo)
+https://live760.delivery.roku.com/t2-origin/out/v1/81e08493-34ac-47c9-b0a8-1e6640e83344/live.m3u8
+#EXTINF:-1,Scripps News Alt
+https://linear-78.frequency.stream/dist/roku/78/hls/master/playlist.m3u8
+#EXTINF:-1,Cheddar News (Geo)
+https://live780.delivery.roku.com/t2-origin/out/v1/1fe38c51-2791-43f9-b794-cd7d2b32f8e8/live.m3u8
+#EXTINF:-1,Cheddar News alt
+https://cheddar-cheddar-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,USA Today (Geo) 
+https://live636.delivery.roku.com/t2-origin/out/v1/87193f56-ff51-4860-ab39-4ddb15f239a2/live.m3u8
+#EXTINF:-1,Bloomberg Quicktake (Geo)
+https://bloomberg-quicktake-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Yahoo Finance (Geo)
+https://live780.delivery.roku.com/t2-origin/out/v1/59399f43-2fdd-46b3-98eb-8f1e6d538f20/live.m3u8
+#EXTINF:-1,The Hill TV (Geo) 
+https://live524.delivery.roku.com/t2-origin/out/v1/c3aa704b-4f27-4080-9cb2-8d590e62df01/live.m3u8
+#EXTINF:-1,NewsMax TV (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00217-newsmax-newsmax-rokuus/playlist.m3u8
+#EXTINF:-1,The Young Turks (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01220-tytnetwork-tyt-rokuus/playlist.m3u8
+#EXTINF:-1,The Young Turks alt (Geo)
+https://live701.delivery.roku.com/t2-origin/out/v1/59466fac-4b17-41bb-84f4-eaca1dc6f77a/live.m3u8
+#EXTINF:-1,Reuters
+https://reuters-reutersnow-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Euronews (Geo)
+https://live728.delivery.roku.com/t2-origin/out/v1/a6a4da04-dc3f-4cfa-843e-83f403bcbc8d/live.m3u8
+#EXTINF:-1,Euronews News alt
+https://euronews-euronews-world-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Oan Plus (Geo)
+https://live746.delivery.roku.com/t2-origin/out/v1/bab5c86f-4e1f-41cf-8371-fe626bf8a81a/live.m3u8
+#EXTINF:-1,Womens Sports Network (Geo) 
+https://live639.delivery.roku.com/t2-origin/out/v1/1987ab62-0173-4020-a876-bd5dbc0d3817/live.m3u8
+#EXTINF:-1,Impact Wrestling (Geo) 
+https://live681.delivery.roku.com/t2-origin/out/v1/670e13ec-3f7c-47d8-bb32-7968edc74412/live.m3u8
+#EXTINF:-1,Fite 24x7 by Triller (Geo) 
+https://live682.delivery.roku.com/t2-origin/out/v1/5a5ff9aa-f4e9-4fde-bb18-dac62bde95c3/live.m3u8
+#EXTINF:-1,Bein Sports XTRA (Geo) 
+https://live623.delivery.roku.com/t2-origin/out/v1/fe335051-6784-48fb-89bb-ae48c4c4b659/live.m3u8
+#EXTINF:-1,Stadium
+https://stadium-gracenote-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,FTF Sports
+https://0df01e185769409e9918507a4010ed63.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_FTFNextUS/playlist.m3u8
+#EXTINF:-1,Fubo Sports Network (Geo) 
+https://live326.delivery.roku.com/t2-origin/out/v1/9329fa7d-2f65-4a85-bcd7-1ca42c5fd64e/live.m3u8
+#EXTINF:-1,Fubo Sports Network alt (Geo)
+https://sportsnet-midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f1/SportsNet/roku/master.m3u8
+#EXTINF:-1,Swerve Sports (Geo) 
+https://live572.delivery.roku.com/t2-origin/out/v1/148b6fbb-9e22-4234-986e-9732221e9bc3/live.m3u8
+#EXTINF:-1,Swerve Sports alt
+https://linear-253.frequency.stream/dist/roku/253/hls/master/playlist.m3u8
+#EXTINF:-1,HBCU GO Sport (Geo) 
+https://live138.delivery.roku.com/t2-origin/out/v1/0c374120-16bf-42cc-82d1-b9f700c7fd5a/live.m3u8
+#EXTINF:-1,Perfect Game (Geo) 
+https://live747.delivery.roku.com/t2-origin/out/v1/5b16b66a-16e2-41cd-8356-28e59916d96e/live.m3u8
+#EXTINF:-1,Origin Sports (Geo) 
+https://live168.delivery.roku.com/t2-origin/out/v1/2567d132-aa10-4bf7-9ec3-e3f776d114c1/live.m3u8
+#EXTINF:-1,ACC Digital Network
+https://120sports-accdn-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,ACC Digital Network alt (Geo) 
+https://live709.delivery.roku.com/t2-origin/out/v1/e1e3dbda-9471-47da-b4a5-eee1632c02af/live.m3u8
+#EXTINF:-1,Edge Sports (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00780-img-edgesports-rokuus/playlist.m3u8
+#EXTINF:-1,Mav TV Select (Geo) 
+https://live741.delivery.roku.com/t2-origin/out/v1/723a2815-5505-4b37-8ca3-4d74ae6de59e/live.m3u8
+#EXTINF:-1,Mav TV (Geo)
+https://mavtv-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,PowerNation (Geo)
+https://live750.delivery.roku.com/t2-origin/out/v1/4d504db1-c6eb-4632-9386-79875e9d2578/live.m3u8
+#EXTINF:-1,Power Nation alt
+https://rtmtv-powernation-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Torque!
+https://aenetworks-torque-1-us-pi.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Torque! alt
+https://aenetworks-torque-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,NHRA TV (Geo) 
+https://live167.delivery.roku.com/t2-origin/out/v1/9247ddf8-bc68-45a1-be8a-29ad09feae9f/live.m3u8
+#EXTINF:-1,Sports Grid (Geo) 
+https://live703.delivery.roku.com/t2-origin/out/v1/ee06d6be-3643-47e4-b076-2054a02e90ee/live.m3u8
+#EXTINF:-1,XUMO Westerns (Geo)
+https://live779.delivery.roku.com/t2-origin/out/v1/def871a4-ce2a-40af-8a8b-ce3ae7fa92d6/live.m3u8
+#EXTINF:-1,Cinevault Westerns (Geo)
+https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Maverick Black Cinema (Geo)
+https://live739.delivery.roku.com/t2-origin/out/v1/1fda92a3-a408-4c59-81bd-a02cd9a3ce4c/live.m3u8
+#EXTINF:-1,Maverick Black Cinema alt
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,HI Yah! (Geo)
+https://live680.delivery.roku.com/t2-origin/out/v1/0231c852-c345-444b-8049-e5c91dfe8eb6/live.m3u8
+#EXTINF:-1,Hi-Yah alt
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+#EXTINF:-1,Shades of Black (Geo)
+https://live761.delivery.roku.com/t2-origin/out/v1/b7c22eea-f2e5-46b2-8069-218c6a40bf8e/live.m3u8
+#EXTINF:-1,El Rey Network (Geo)
+https://live691.delivery.roku.com/t2-origin/out/v1/fbac42a0-fe53-470e-b5a4-bacd20ca43c9/live.m3u8
+#EXTINF:-1,Black Pix (Geo)
+https://live789.delivery.roku.com/t2-origin/out/v1/c70da05c-b315-410a-9750-ae661c858d51/live.m3u8
+#EXTINF:-1,Electric Now (Geo)
+https://live725.delivery.roku.com/t2-origin/out/v1/99b2c215-6a8d-4a07-a317-ff250d3f7452/live.m3u8
+#EXTINF:-1,Electric Now alt 
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=276
+#EXTINF:-1,Redbox Romance (Geo)
+https://live755.delivery.roku.com/t2-origin/out/v1/53db2b1b-6a6f-48b6-b59d-7189a809e911/live.m3u8
+#EXTINF:-1,Gravitas Movies (Geo)
+https://live327.delivery.roku.com/t2-origin/out/v1/c6a16464-360c-4183-b5b1-7cf5747c391f/live.m3u8
+#EXTINF:-1,Redbox Free Movies (Geo)
+https://live754.delivery.roku.com/t2-origin/out/v1/0f26d7d2-e4c9-4eeb-9c49-ebb24850cfe3/live.m3u8
+#EXTINF:-1,Cinevault Classics
+https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Samuel Goldwyn Classic
+https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Samuel Goldwyn-Films alt
+https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cinevault 80s (Geo)
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Carol Burnett Show (Geo)
+https://live797.delivery.roku.com/t2-origin/out/v1/2fd84987-389f-4a68-8b17-cf8f6769ac1d/live.m3u8
+#EXTINF:-1,Baywatch Remastered (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00145-buzzr-bigballs-baywatch-rokuus/playlist.m3u8
+#EXTINF:-1,Johnny Carson TV (Geo)
+https://live67.delivery.roku.com/t2-origin/out/v1/771a155f-afd0-42f0-9fb8-703890f483d7/live.m3u8
+#EXTINF:-1,CMT Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509b87809fd000949e399/master.m3u8?deviceId=2d50efd5-2148-592a-86d8-3d56a0143b92&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1,Bet Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150978589c0700095f97ae/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1,The Grio (Geo) 
+https://live650.delivery.roku.com/t2-origin/out/v1/81e22b86-807c-4ca1-8306-0794b92536a7/live.m3u8
+#EXTINF:-1,Afroland TV (Geo) 
+https://live617.delivery.roku.com/t2-origin/out/v1/be021aa0-3cb8-44d3-ba3d-d97d351f72df/live.m3u8
+#EXTINF:-1,Afroland TV alt
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=1890
+#EXTINF:-1,Demand Africa (Geo) 
+https://live614.delivery.roku.com/t2-origin/out/v1/01a00138-07e5-4015-bc49-0e2ea33e333e/live.m3u8
+#EXTINF:-1,Doctors
+https://bbc-doctors-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,CJ ENM (Geo)
+https://live619.delivery.roku.com/t2-origin/out/v1/9e6f37ba-af6f-404a-bd3b-f1061b3f1950/live.m3u8
+#EXTINF:-1,Rakuten Viki (Geo)
+https://live752.delivery.roku.com/t2-origin/out/v1/dc884dee-1fe9-4e06-ab4a-aa9a6f7fa72d/live.m3u8
+#EXTINF:-1,Rakuten Viki alt
+https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,New KMovies (Geo) 
+https://live127.delivery.roku.com/t2-origin/out/v1/d91c2627-ee8c-485a-b18f-b56643fea9d6/live.m3u8
+#EXTINF:-1,Mytime Movie Network (Geo)
+https://live744.delivery.roku.com/t2-origin/out/v1/ef8ccaf6-738e-4b0a-8473-f3a8346b1a7a/live.m3u8
+#EXTINF:-1,Movie Favorites by Lifetime
+https://aenetworks-holidaymoviefavorites-1-us-pi.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Spark TV
+https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Spark TV alt
+https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Dove Channel (Geo)
+https://live723.delivery.roku.com/t2-origin/out/v1/f01ee2f4-bd57-4743-9d44-fb124cdf10fb/live.m3u8
+#EXTINF:-1,Redbox Faith and Family (Geo)
+https://live753.delivery.roku.com/t2-origin/out/v1/7df78a5e-fac4-461b-87b2-f63fa7ec1e3b/live.m3u8
+#EXTINF:-1,Degrassi The Next Generation (Geo)
+https://live781.delivery.roku.com/t2-origin/out/v1/a4496947-6d36-4f61-8fa4-19e2e4b68a03/live.m3u8
+#EXTINF:-1,Like Nastya (Geo)
+https://live737.delivery.roku.com/t2-origin/out/v1/89a521ab-e873-4784-aeee-f117510b682d/live.m3u8
+#EXTINF:-1,Ryan and Friends (Geo)
+https://live757.delivery.roku.com/t2-origin/out/v1/d9cca18d-e7a7-4b82-9a7a-4b2844da7a29/live.m3u8
+#EXTINF:-1,The Lego Channel (Geo)
+https://live768.delivery.roku.com/t2-origin/out/v1/c06c5f3d-f8c8-4b67-bca2-8b6f7127d292/live.m3u8
+#EXTINF:-1,Pocket.Watch (Geo)
+https://live749.delivery.roku.com/t2-origin/out/v1/59f58d09-7844-48a6-be0e-9d15f3c507e6/live.m3u8
+#EXTINF:-1,Kids Pang TV
+https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Baby Shark TV (Geo)
+https://live715.delivery.roku.com/t2-origin/out/v1/93299e01-7a51-4a30-a5a4-3d21c23e25a9/live.m3u8
+#EXTINF:-1,Baby Shark TV alt
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sensical Gaming (Geo)
+https://live696.delivery.roku.com/t2-origin/out/v1/b7652653-c689-46b7-9a4a-d403dc900d1e/live.m3u8
+#EXTINF:-1,AfriKiddos (Geo) 
+https://live620.delivery.roku.com/t2-origin/out/v1/8a00bf8d-cde1-4980-bf68-98ac5502c209/live.m3u8
+#EXTINF:-1,AfroKiddos alt (Geo)
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=1931
+#EXTINF:-1,Kartoon Channel (Geo)
+https://live519.delivery.roku.com/t2-origin/out/v1/a413a15a-d03b-48d2-bcf9-ffbefddefacc/live.m3u8
+#EXTINF:-1,Kartoon Channel alt
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=2219
+#EXTINF:-1,Moonbug Kids (Geo)
+https://live695.delivery.roku.com/t2-origin/out/v1/2bdf2ced-0402-4b64-be71-89f5c814e9a7/live.m3u8
+#EXTINF:-1,Super Simple Songs (Geo)
+https://live698.delivery.roku.com/t2-origin/out/v1/d6047d02-6fdc-4737-bb94-3da325429b89/live.m3u8
+#EXTINF:-1,Super Simple Songs alt
+https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Gusto TV (Geo) 
+https://live683.delivery.roku.com/t2-origin/out/v1/a3a9bc46-6c23-4b85-91c3-5ae690c85243/live.m3u8
+#EXTINF:-1,Gusto TV alt
+https://gustotv-gustotv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Kin (Geo)
+https://live60.delivery.roku.com/t2-origin/out/v1/4d8064c9-5edf-43f9-8c22-1e71078f6007/live.m3u8
+#EXTINF:-1,BBC Food
+https://bbc-bbcfood-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Tastemade (Geo) 
+https://live704.delivery.roku.com/t2-origin/out/v1/83f5a09b-3678-49d8-acd1-50a8d27b7569/live.m3u8
+#EXTINF:-1,Tastemade alt
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv-rokuus/playlist.m3u8
+#EXTINF:-1,Americas Test Kitchen (Geo)
+https://live712.delivery.roku.com/t2-origin/out/v1/e73d035b-646b-4ea1-9e79-8b6a5572de2a/live.m3u8
+#EXTINF:-1,Bon Appetit (Geo) 
+https://live684.delivery.roku.com/t2-origin/out/v1/3b8298c6-15bd-4d2a-99af-4faab6c91631/live.m3u8
+#EXTINF:-1,Bon Appetit alt (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00255-condenast-bonappetit-rokuus/playlist.m3u8
+#EXTINF:-1,Tiny House Nation
+https://aenetworks-tinyhousenation-1-us-pi.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Tiny House Nation alt
+https://aenetworks-tinyhousenation-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Design Network (Geo)
+https://live766.delivery.roku.com/t2-origin/out/v1/69fb6e9f-784e-4778-9598-4616f9a8b1e9/live.m3u8
+#EXTINF:-1,This Old House
+https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,This Old House alt (Geo)
+https://live794.delivery.roku.com/t2-origin/out/v1/d9d5e9f8-ecee-410d-a9bc-98cb3027de88/live.m3u8
+#EXTINF:-1,This Old House Classic (Geo)
+https://osm.sr.roku.com/osm/v1/hls/master/tohc/406ee4c3-762d-4242-bc9e-105250e61bb9/live.m3u8
+#EXTINF:-1,This Old House Makers Channel (Geo)
+https://live795.delivery.roku.com/t2-origin/out/v1/ef4d367a-ff4c-4d95-af8a-0923feab1b5f/live.m3u8
+#EXTINF:-1,The Design Network 
+https://thedesignnetwork-tdn-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,BBC Home and Garden
+https://bbc-bbchome-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,At Home With Family Handyman (Geo) 
+https://live714.delivery.roku.com/t2-origin/out/v1/4c19f379-36c2-46f5-a5d8-8cd51303832e/live.m3u8
+#EXTINF:-1,Outside TV +
+https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8?ads.rdid=2d50efd5-2148-592a-86d8-3d56a0143b92&ads.coppa=0&ads.content=c011a8d859c85e289f8b0170cfbab2aa&ads.platform=web&ads.content_type=livefeed&ads.content_rating=ROKU_ADS_CONTENT_RATING&ads.is_roku_lat=1&ads.studio_id=outsidetv&ads.bmodel=bm1&ads.channelStore=us&ads.tags=ROKU_CONTENT_TAGS&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=adventure&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_12_6%29+AppleWebKit%2F604.3.5+%28KHTML%2C+like+Gecko%29+Version%2F11.0.1+Safari%2F604.3.5&is_lat=1&bmodel=bm1&content=c011a8d859c85e289f8b0170cfbab2aa&platform=web&tags=ROKU_CONTENT_TAGS&coppa=0&content_type=livefeed&rdid=2d50efd5-2148-592a-86d8-3d56a0143b92&genre=adventure&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=outsidetv&channel_id=151908&channelStore=us
+#EXTINF:-1,Modern Marvels Presented by History
+https://aenetworks-modernmarvels-1-us-pi.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Jack Hanna Channel (Geo)
+https://live767.delivery.roku.com/t2-origin/out/v1/7984ffbb-c666-46ba-94b5-82dcfc7907c8/live.m3u8
+#EXTINF:-1,True History Channel (Geo) 
+https://live631.delivery.roku.com/t2-origin/out/v1/0155a0a4-50fa-46e8-9aaf-2423c50a806b/live.m3u8
+#EXTINF:-1,True History alt
+https://linear-243.frequency.stream/dist/roku/243/hls/master/playlist.m3u8
+#EXTINF:-1,Magellan TV Now
+https://magellantv-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Magellan TV Now alt (Geo)
+https://live693.delivery.roku.com/t2-origin/out/v1/c5313822-a058-4e73-b381-5c3c4173e537/live.m3u8
+#EXTINF:-1,Xplore (Geo)
+https://live796.delivery.roku.com/t2-origin/out/v1/12844b01-48f4-4adb-b889-b41554dfd576/live.m3u8
+#EXTINF:-1,Xplore alt (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00751-litton-xplore-rokuus/playlist.m3u8
+#EXTINF:-1,Great American Adventures (Geo)
+https://live758.delivery.roku.com/t2-origin/out/v1/9b897001-4430-46fd-9eaf-46ee39755e65/live.m3u8
+#EXTINF:-1,Crime 360 (Geo)
+https://aenetworks-crime360-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Law and Crime (Geo)
+https://live116.delivery.roku.com/t2-origin/out/v1/982a2404-7ae7-46d1-8b3a-be4c2b7e3e45/live.m3u8
+#EXTINF:-1,Reelz Famous and Infamous (Geo)
+https://live756.delivery.roku.com/t2-origin/out/v1/e8814217-3c17-477c-843e-12fd51994dbd/live.m3u8
+#EXTINF:-1,Kriminal Presented by A&E
+https://aenetworks-kriminal-1-us-pi.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Real Crime (Geo)
+https://live208.delivery.roku.com/t2-origin/out/v1/62175bac-b28d-4d4f-841b-00b4d51ba51d/live.m3u8
+#EXTINF:-1,Real Crime alt (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-lds-realcrime-rokuus/playlist.m3u8
+#EXTINF:-1,Midsomer Murders
+https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Midsomer Murders alt (Geo)
+https://live742.delivery.roku.com/t2-origin/out/v1/53ff224b-4c0d-4be7-9255-2996a2c7a8ca/live.m3u8
+#EXTINF:-1,Crime Thrill Her
+https://aenetworks-thrillher-1-us-pi.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cinevault Murder and Mayhem (Geo)
+https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rotten Tomatoes (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00491-fandango-rottentomatoesroku-rokuus/playlist.m3u8
+#EXTINF:-1,Backstage (Geo)
+https://live716.delivery.roku.com/t2-origin/out/v1/3ee2b7a5-747b-4e88-8b78-6cbca6b3ff12/live.m3u8
+#EXTINF:-1,Latino Vibes (Geo)
+https://live736.delivery.roku.com/t2-origin/out/v1/dedd6954-8656-420a-a8cd-5a672b05f1b0/live.m3u8
+#EXTINF:-1,Fox Soul
+https://fox-foxsoul-roku.amagi.tv/hls/amagi_hls_data_foxAAAAAA-foxsoul-roku/CDN/playlist.m3u8
+#EXTINF:-1,Vice (Geo)
+https://live769.delivery.roku.com/t2-origin/out/v1/e7077dae-074b-40dc-a77f-3feb8681a331/live.m3u8
+#EXTINF:-1,GQ (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00255-condenastentert-gq-rokuus/playlist.m3u8
+#EXTINF:-1,Perform
+https://aenetworks-perform-1-us-pi.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Perform alt
+https://aenetworks-perform-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Supermarket Sweep (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00145-buzzr-bigballs-supermarket-rokuus/playlist.m3u8
+#EXTINF:-1,Impossible
+https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Game Show Central Channel (Geo)
+https://gsn-gameshowchannnel-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Buzzr (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00145-buzzr-buzzr-rokuus/playlist.m3u8
+#EXTINF:-1,The Price Is Right The Barker Era (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00145-buzzr-bigballs-tpir-8min-rokuus/playlist.m3u8
+#EXTINF:-1,MTV Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13b6dd7ec3510009e032d0/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1,Xtreme Outdoor by History
+https://aenetworks-skills-thrills-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Circle (Geo)
+https://live689.delivery.roku.com/t2-origin/out/v1/29520b30-a3f4-4586-8b90-c45666cf4a13/live.m3u8
+#EXTINF:-1,Ice Road Truckers
+https://aenetworks-iceroadtruckers-1-us-pi.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Ax Men
+https://aenetworks-axmen-1-us-pi.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Deal Zone
+https://aenetworks-dealzone-1-us-pi.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Deal Zone alt
+https://aenetworks-dealzone-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Homemade Nation
+https://aenetworks-ae-1-us-pi.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Homemade Nation alt
+https://aenetworks-ae-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Antiques Roadshow UK
+https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,So Real (Geo)
+https://live762.delivery.roku.com/t2-origin/out/v1/45f33c72-d538-48b0-8c28-f00cf3d05d55/live.m3u8
+#EXTINF:-1,Don't tell the Bride (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-donttellthebride-rokuus/playlist.m3u8
+#EXTINF:-1,The Pet Collective (Geo)
+https://live748.delivery.roku.com/t2-origin/out/v1/a3935b02-c35c-4400-ab2a-d6ff9ba50575/live.m3u8
+#EXTINF:-1,Nosey 
+https://nosey-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Real Nosey 
+https://nosey-realnosey-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Dust
+https://live724.delivery.roku.com/t2-origin/out/v1/8159a915-4536-4d13-89fa-8b7a9a4bf2f7/live.m3u8
+#EXTINF:-1,Doctor Who Classic
+https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Midnight Pulp (Geo) 
+https://live85.delivery.roku.com/t2-origin/out/v1/1553fb39-d46e-41fe-b7b0-18a5813ac22c/live.m3u8
+#EXTINF:-1,The Asylum Movie Channel (Geo)
+https://live705.delivery.roku.com/t2-origin/out/v1/38dcd268-3c97-47a9-971c-2bd6a466d77b/live.m3u8
+#EXTINF:-1,MST3K (Geo)
+https://live784.delivery.roku.com/t2-origin/out/v1/f18a7712-397b-4637-9d0d-84e0bb61428d/live.m3u8
+#EXTINF:-1,UnXplained Zone! 
+https://aenetworks-unxplainedzone-1-us-pi.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Screambox (Geo) 
+https://live759.delivery.roku.com/t2-origin/out/v1/25d83fb3-d088-460d-9ad2-8491516b5e5b/live.m3u8
+#EXTINF:-1,Asian Crush (Geo) 
+https://live289.delivery.roku.com/t2-origin/out/v1/0a718b72-32bf-40bb-b768-09a6fdc9cc01/live.m3u8
+#EXTINF:-1,Retro Crush (Geo) check
+https://live289.delivery.roku.com/t2-origin/out/v1/0a718b72-32bf-40bb-b768-09a6fdc9cc01/live.m3u8
+#EXTINF:-1,Lol Network (Geo)
+https://live738.delivery.roku.com/t2-origin/out/v1/9f9a217c-b962-4278-8648-493d474efdf8/live.m3u8
+#EXTINF:-1,Comedy Central Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13bde24f4ca800093d57b5/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1,Fail army (Geo)
+https://live729.delivery.roku.com/t2-origin/out/v1/7738234c-2327-4739-9fb0-745a98602220/live.m3u8
+#EXTINF:-1,AFV Family
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1,Red Green (Geo)
+https://live523.delivery.roku.com/t2-origin/out/v1/9c2d1b1c-66a4-48e5-8a1e-54cf0d49dee1/live.m3u8
+#EXTINF:-1,Comedy Dynamics (Geo)
+https://live722.delivery.roku.com/t2-origin/out/v1/0d672fdb-6efa-4c93-86f5-173f8cb380f3/live.m3u8
+#EXTINF:-1,Just for laughs Gags (Geo)
+https://live520.delivery.roku.com/t2-origin/out/v1/91449de3-01b5-4f00-9272-cfb570fde211/live.m3u8
+#EXTINF:-1,Estrella News (Geo)
+https://live730.delivery.roku.com/t2-origin/out/v1/cd1206c1-be1f-4dac-a19a-fc7d0fbef6db/live.m3u8
+#EXTINF:-1,Weather Channel en Espanol
+https://live362.delivery.roku.com/t2-origin/out/v1/1907b987-0b6c-4106-9151-e813e3b4d8d2/live.m3u8
+#EXTINF:-1,Estrella TV (Geo)
+https://live731.delivery.roku.com/t2-origin/out/v1/7675d2ef-e0b4-432f-a53c-82a215fe2d12/live.m3u8
+#EXTINF:-1,RCN Más recheck
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,RCN Xtra recheck
+https://latv-rcn-xtra-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Meganoticias Canal
+https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Americateve (Geo) 
+https://live713.delivery.roku.com/t2-origin/out/v1/85bd8cb4-cd12-462d-82b6-963cfb56d142/live.m3u8
+#EXTINF:-1,Euronews Espanol (Geo) 
+https://live727.delivery.roku.com/t2-origin/out/v1/0d797295-86c3-43fa-81c2-0ec4341f5d8b/live.m3u8
+#EXTINF:-1,Euronews Espanol alt
+https://euronews-euronews-spanish-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bein Sports Xtra en Espanol (Geo) 
+https://live618.delivery.roku.com/t2-origin/out/v1/04c1e4b4-6675-4dfe-9a99-f4ed89d4d68c/live.m3u8
+#EXTINF:-1,Canela Sports (Geo) 
+https://live665.delivery.roku.com/t2-origin/out/v1/429a030f-356a-449a-8c27-32cdf4256597/live.m3u8
+#EXTINF:-1,PrendeTV Lo Mejor de Liga MX
+https://linear-193.frequency.stream/dist/roku/193/hls/master/playlist.m3u8
+#EXTINF:-1,PowerNation en Espanol (Geo) 
+https://live751.delivery.roku.com/t2-origin/out/v1/7df185d4-20a9-44c9-85c5-6b965176bd9e/live.m3u8
+#EXTINF:-1,PowerNation en Espanol alt
+https://rtmtv-powernationenespanol-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bob Ross en Espanol (Geo)
+https://live699.delivery.roku.com/t2-origin/out/v1/32f2dafd-451c-4aae-82e0-eab30f7036d5/live.m3u8
+#EXTINF:-1,AFV en Espanol
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1,Sony Canal Competencias
+https://spt-competencias-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sony Canal Comedias
+https://spt-comedias-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Nosey Escandalos
+https://nosey-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Saber Mas (Geo)
+https://live758.delivery.roku.com/t2-origin/out/v1/9b897001-4430-46fd-9eaf-46ee39755e65/live.m3u8
+#EXTINF:-1,Canela TV (Geo)
+https://live667.delivery.roku.com/t2-origin/out/v1/d9cfd91d-360b-4930-98f5-3820817a99d5/live.m3u8
+#EXTINF:-1,Sony Canal Novelas
+https://spt-novelas-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Canela Cinema (Geo)
+https://live663.delivery.roku.com/t2-origin/out/v1/9537c96e-e470-4232-bc10-bfea3c9af0cb/live.m3u8
+#EXTINF:-1,Cine Club
+https://linear-192.frequency.stream/dist/roku/192/hls/master/playlist.m3u8
+#EXTINF:-1,Mytime Movie Network En Espanol (Geo)
+https://live745.delivery.roku.com/t2-origin/out/v1/f33cf116-27b3-4ae3-91a9-89bde8269831/live.m3u8
+#EXTINF:-1,Novelas De Romance
+https://linear-194.frequency.stream/dist/roku/194/hls/master/playlist.m3u8
+#EXTINF:-1,Cine Romantico (Geo)
+https://live719.delivery.roku.com/t2-origin/out/v1/7672a1ee-a8bd-4cf1-9cf2-32f4b39b17ac/live.m3u8
+#EXTINF:-1,Runtime Espanol (Geo) check
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00366-ammo-runtimeespanol-rokuus/playlist.m3u8
+#EXTINF:-1,Runtime Espanol alt
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=2218
+#EXTINF:-1,Novelas en Familia
+https://linear-195.frequency.stream/dist/roku/195/hls/master/playlist.m3u8
+#EXTINF:-1,Cine Real (Geo)
+https://live718.delivery.roku.com/t2-origin/out/v1/fb9aedb1-a6a6-4731-87c1-d52f9662e855/live.m3u8
+#EXTINF:-1,Cine Sureno (Geo)
+https://live721.delivery.roku.com/t2-origin/out/v1/f989a5fa-4a21-4963-ab00-2e3bc201ff2e/live.m3u8
+#EXTINF:-1,Canela Telenovelas (Geo)
+https://live666.delivery.roku.com/t2-origin/out/v1/240faf4d-eb26-4784-8543-2f758cf04ec7/live.m3u8
+#EXTINF:-1,Canela Clásicos (Geo)
+https://live664.delivery.roku.com/t2-origin/out/v1/2ad8ca88-cae5-4d29-ba53-8a3c35ae8810/live.m3u8
+#EXTINF:-1,Oro TV
+https://veranda-orotv-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,OroTV alt (Geo)
+https://live217.delivery.roku.com/t2-origin/out/v1/98665b94-8f8d-415d-9dcc-e11e8eb5a818/live.m3u8
+#EXTINF:-1,Filmex Clasico (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00747-cineestelarincc-filmexclasico-rokuus/playlist.m3u8
+#EXTINF:-1,Filmex Clasico alt (Geo)
+https://live686.delivery.roku.com/t2-origin/out/v1/65e5ce86-6181-47e5-975d-49f6420c8dd5/live.m3u8
+#EXTINF:-1,Cine Estrella TV (Geo)
+https://live717.delivery.roku.com/t2-origin/out/v1/583f6502-ed06-487e-91a5-7706b43f4b56/live.m3u8
+#EXTINF:-1,Misterios sin Resolver (Geo)
+https://live551.delivery.roku.com/t2-origin/out/v1/e8670a94-1ec4-4efd-8e69-d9d1cc681160/live.m3u8
+#EXTINF:-1,MMC (Geo) 
+https://live743.delivery.roku.com/t2-origin/out/v1/3ef28ed6-8b8a-4954-9efc-68534b4f480b/live.m3u8
+#EXTINF:-1,Flash (Geo) 
+https://live305.delivery.roku.com/t2-origin/out/v1/4997d8a6-cd2b-4fb5-b9ba-aa7928b8e125/live.m3u8
+#EXTINF:-1,iHeart Latino Hits 
+https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,VEVO Reggaeton and Trap (Geo) 
+https://live608.delivery.roku.com/t2-origin/out/v1/7fed02af-3fec-4fc4-9677-b1d7864784b8/live.m3u8
+#EXTINF:-1,VEVO Latino (Geo) 
+https://live605.delivery.roku.com/t2-origin/out/v1/c6a9143b-5a02-4abb-bb44-300b9aa08f34/live.m3u8
+#EXTINF:-1,MTV Spankin New
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d73c186a8060007fd7aca/master.m3u8?deviceId=2d50efd5-2148-592a-86d8-3d56a0143b92&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=2d50efd5-2148-592a-86d8-3d56a0143b92&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1,MTV Block Party
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1,iHeart The Beat 
+https://iheart-iheartthebeat-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1,VEVO Pop (Geo) 
+https://live610.delivery.roku.com/t2-origin/out/v1/267d9ad7-d942-4680-9ebc-2c5d7905a475/live.m3u8
+#EXTINF:-1,MTV Yo!
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1,iHeart Alt Radio
+https://iheart-iheartaltradio-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,iHeart Hit Nation 
+https://iheart-ihearthitnation-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,VEVO R&B (Geo) 
+https://live609.delivery.roku.com/t2-origin/out/v1/aad8b4bf-c6a4-4b34-af85-8ebc21dcc39e/live.m3u8
+#EXTINF:-1,VEVO Hip Hop (Geo) 
+https://live603.delivery.roku.com/t2-origin/out/v1/bea82980-82c1-45e6-8665-c373af71899a/live.m3u8
+#EXTINF:-1,iHeart Country 
+https://iheart-iheartcountry-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,VEVO Country (Geo) 
+https://live600.delivery.roku.com/t2-origin/out/v1/0667dde2-16ae-4392-8881-ff362c134505/live.m3u8
+#EXTINF:-1,WMX Rock (Geo) 
+https://live342.delivery.roku.com/t2-origin/out/v1/59555d2b-bbb3-4b73-b244-54759c9c18f0/live.m3u8
+#EXTINF:-1,VEVO 2K (Geo) 
+https://live42.delivery.roku.com/t2-origin/out/v1/b15dd253-7856-45e4-bc84-778067daafb5/live.m3u8
+#EXTINF:-1,Vevo 90s (Geo) 
+https://live599.delivery.roku.com/t2-origin/out/v1/e6efdb74-84b5-481d-bb21-80828570e5b1/live.m3u8
+#EXTINF:-1,iHeart 90s
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Vevo 80s (Geo) 
+https://live598.delivery.roku.com/t2-origin/out/v1/376c6b79-612f-469c-ac83-a2cd7f2f669c/live.m3u8
+#EXTINF:-1,iHeart 80s
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1,Vevo 70s (Geo) check
+https://live597.delivery.roku.com/t2-origin/out/v1/355df07f-bc41-4642-8f1c034745a6d4f2/live.m3u8
+

@@ -1,0 +1,937 @@
+#EXTM3U
+#EXTINF:-1,The Preview Channel -TCL
+https://previewchannel-previewchannel-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Preview Channel .CA -TCL
+https://previewchannel-previewchannel-1-ca.tcl.wurl.tv/playlist.m3u8 
+#EXTINF:-1,OAN Plus -TCL
+https://oan-plus-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,One America News -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-oneamericanews-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Scripps News -TCL
+https://scripps-newsy-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Scripps News alt -TCL
+https://scripps-newsy-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,News 12 NY -TCL
+https://cheddar-news12ny-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cheddar -TCL
+https://cheddar-cheddar-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Africa News English -TCL
+https://euronews-africanews-english-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Africa News English .DE -TCL
+https://euronews-africanews-english-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Africa News English .FR -TCL
+https://euronews-africanews-english-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Africa News French .FR -TCL
+https://euronews-africanews-french-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Jovempan News -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-jovempan-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Euronews World -TCL 
+https://euronews-euronews-world-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Euronews World .AU -TCL
+https://euronews-euronews-world-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Euronews World .DE -TCL
+https://euronews-euronews-world-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Euronews World .MX -TCL
+https://euronews-euronews-world-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Euronews World .FR -TCL
+https://euronews-euronews-world-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Euronews Portugese .BR -TCL
+https://euronews-euronews-portugues-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Euronews Spanish .MX -TCL
+https://euronews-euronews-spanish-2-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Euronews Spanish -TCL
+https://euronews-euronews-spanish-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Euronews French .FR -TCL
+https://euronews-euronews-french-3-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Euronews German .DE -TCL
+https://euronews-euronews-german-4-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,MegaNoticias Canal -TCL
+https://pctv-meganoticias-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,MegaNoticias Canal .CA -TCL
+https://pctv-meganoticias-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,MegaNoticias .MX -TCL
+https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg TV -TCL
+https://bloomberg-bloombergtv-3-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg TV .MX -TCL
+https://bloomberg-bloombergtv-3-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg TV .BR -TCL
+https://bloomberg-bloombergtv-3-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg TV .DE -TCL
+https://bloomberg-bloombergtv-3-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg TV .FR -TCL
+https://bloomberg-bloombergtv-3-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg Originals -TCL
+https://bloomberg-quicktake-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg Originals .MX -TCL
+https://bloomberg-quicktake-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg Originals .BR -TCL
+https://bloomberg-quicktake-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg Originals .DE -TCL
+https://bloomberg-quicktake-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg Originals .FR -TCL
+https://bloomberg-quicktake-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Young Turks -TCL (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01220-theyoungturksne-tyt-tcl/playlist.m3u8
+#EXTINF:-1,Newsmax 2 -TCL
+https://newsmax-newsmaxtv-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Newsmax 2 US alt -TCL
+https://newsmax-newsmaxtv-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Newsmax 2 .AU -TCL
+https://newsmax-newsmaxtv-2-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Newsmax 2 .CA -TCL
+https://newsmax-newsmaxtv-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Newsmax 2 .MX -TCL
+https://newsmax-newsmaxtv-2-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Newsmax 2 .FR -TCL
+https://newsmax-newsmaxtv-2-fr.tcl.wurl.tv/playlist.m3u8 
+#EXTINF:-1,Newsmax 2 .BR -TCL
+https://newsmax-newsmaxtv-2-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Real Americas Voice -TCL
+https://p1media-realamericasvoice-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Washington Post -TCL (Geo) 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01655-thewashingtonpo-washingtonpost-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Weather Nation -TCL
+https://weathernation-weathernation-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,GB News -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-tclus/playlist.m3u8
+#EXTINF:-1,Newsworld -TCL
+https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-tclus/playlist.m3u8
+#EXTINF:-1,Leadstory -TCL
+https://amg02703-leadstory-amg02703c5-tcl-us-1960.playouts.now.amagi.tv/playlist/amg02703-leadstoryfast-leadstorymega-tclus/playlist.m3u8
+#EXTINF:-1,Newsnet -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-newsnet-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Defiance Media -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-defiancemedia-tcl-ideo/playlist.m3u8
+#EXTINF:-1,ROI -TCL
+https://rise-financial-roi-tv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,ROI .AU -TCL
+https://rise-financial-roi-tv-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,ROI .CA -TCL
+https://rise-financial-roi-tv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,ROI .MX -TCL
+https://rise-financial-roi-tv-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,ION -TCL
+https://scripps-ion-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,ION alt -TCL
+https://scripps-ion-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,ION Plus -TCL
+https://ion-ion-plus-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,ION Mystery -TCL
+https://scripps-ionmystery-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,ION Mystery alt -TCL
+https://scripps-ionmystery-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bounce XL -TCL
+https://scripps-bouncexl-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bounce XL alt -TCL
+https://scripps-bouncexl-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Grit Xtra -TCL
+https://scripps-gritxtra-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Grit Xtra alt -TCL
+https://scripps-gritxtra-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Craction TV -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-cractionstv-tcl/playlist.m3u8
+#EXTINF:-1,Emergency -TCL
+https://rightsboosterltd-emergency-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Emergency .CA -TCL
+https://rightsboosterltd-emergency-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Conflict -TCL
+https://rightsboosterltd-conflict-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Conflict .CA -TCL
+https://rightsboosterltd-conflict-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,History Time .US -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-historytimetclus-tcl/playlist.m3u8
+#EXTINF:-1,History Time -TCL (Geo) to be fixed
+https://amg01515-blueskyeus-amg01515c3-tclideo-northamerica-504.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-historytime-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Homeful -TCL (Geo)
+https://amg01515-blueskyeus-amg01515c4-tclideo-northamerica-505.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-homefulus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Strongman Champions League -TCL
+https://rightsboosterltd-scl-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Strongman Champions League .CA -TCL
+https://rightsboosterltd-scl-1-ca.tcl.wurl.tv/playlist.m3u8 
+#EXTINF:-1,Strongman Champions League .AU -TCL
+https://rightsboosterltd-scl-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Screamin -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00520-tcl-screamin-tcl/playlist.m3u8
+#EXTINF:-1,LoveNature -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureus-tcl/playlist.m3u8
+#EXTINF:-1,Lovenature -TCL (Geo)
+https://amg01515-blueskyeus-amg01515c3-tclideo-northamerica-498.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovenatureus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Lovenature Spanish -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenaturespanish-tcl/playlist.m3u8
+#EXTINF:-1,Lovenature Spanish -TCL (Geo)
+https://amg01515-blueskyeus-amg01515c1-tclideo-northamerica-496.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovenaturespanish-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Davinci -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davincius-tcl/playlist.m3u8
+#EXTINF:-1,Davinci alt -TCL (Geo)
+https://amg00406-tinizine-amg00406c1-tclideo-northamerica-828.playouts.now.amagi.tv/playlist/amg00406-tinizinelimited-davincius-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Crackle -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackle-tcl/playlist.m3u8
+#EXTINF:-1,Crackle -TCL (Geo)
+https://amg00540-crackleplus-amg00540c1-tclideo-northamerica-879.playouts.now.amagi.tv/playlist/amg00540-crackleplusfast-crackle-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Family Time -TCL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3345
+#EXTINF:-1,Family Time -TCL (Geo)
+https://amg09501-amg09501c3-tclideo-na-2402.playouts.now.amagi.tv/playlist/amg09501-quester-familytime-tclideona/playlist.m3u8
+#EXTINF:-1,FreeTV Crime -TCL 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-crimetimeengg-tcl/playlist.m3u8
+#EXTINF:-1,FreeTV Family -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-familytreeeng-tcl/playlist.m3u8
+#EXTINF:-1,FreeTV Drama Vault -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flameandfireeng-tcl/playlist.m3u8
+#EXTINF:-1,FreeTV Horror -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrifyeng-tcl/playlist.m3u8
+#EXTINF:-1,FreeTV Action -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcineeng-tcl/playlist.m3u8
+#EXTINF:-1,Young Hollywood -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-younghollywood-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Nosey -TCL
+https://nosey-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Nosey .CA -TCL
+https://nosey-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Nosey .AU -TCL
+https://nosey-2-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Nosey .BR -TCL
+https://nosey-2-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Nosey .FR -TCL
+https://nosey-2-fr.tcl.wurl.tv/playlist.m3u8 
+#EXTINF:-1,Nosey .DE -TCL
+https://nosey-2-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Nosey Escandalos .CA -TCL 
+https://nosey-3-ca.tcl.wurl.tv/playlist.m3u8 
+#EXTINF:-1,Nosey Escandalos .BR -TCL
+https://nosey-3-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Filmzie -TCL
+https://filmzie-filmzie-3-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Christmas Classics
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4178
+#EXTINF:-1,Gravitas Movies -TCL
+https://gravitas-movies-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Mytime Movie Network -TCL
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Soul Cinema -TCL (Geo)
+https://amg01785-soulofthesouthfast-amg01785c1-tclideo-northamerica-692.playouts.now.amagi.tv/playlist/amg01785-soulofthesouth-soulcinema-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Freemovies Plus -TCL (Geo)
+https://amg02042-ottstudio-amg02042c15-tcl-us-949.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviespluslite-tclus/playlist.m3u8
+#EXTINF:-1,Moviesphere -TCL (Geo)
+https://amg00353-lionsgatestudios-amg00353c2-tclideo-na-2304.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-tclideona/playlist.m3u8
+#EXTINF:-1,Are We There Yet -TCL (Geo)
+https://amg00353-lionsgatestudios-amg00353c5-tclideo-na-2173.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-arewethereyet-tclideona/playlist.m3u8
+#EXTINF:-1,Maverick Black Cinema -TCL
+https://maverick-maverick-black-cinema-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Maverick Black Cinema .CA -TCL
+https://maverick-maverick-black-cinema-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Star Cinema
+https://edge-fast.evrideo.tv/4e160454-ffee-4efc-beb6-a141b0343f51_0_HLS/manifest.m3u8
+#EXTINF:-1,LOL Network -TCL
+https://lol-lolnetwork-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,MST3K -TCL (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-mst3k-tcl/playlist.m3u8
+#EXTINF:-1,Beyond Paranormal -TCL
+https://videoelephantlimited-beyondparanormal-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Beyond Paranormal .CA -TCL
+https://videoelephantlimited-beyondparanormal-1-ca.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Travel Escapes -TCL
+https://videoelephantlimited-travelescapes-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Travel Escapes .CA -TCL
+https://videoelephantlimited-travelescapes-1-ca.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Air and Space -TCL
+https://wingspan-airandspace-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Air and Space .CA -TCL
+https://wingspan-airandspace-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Action -TCL
+https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,HauntTV -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-haunttvus-tcl/playlist.m3u8
+#EXTINF:-1,HauntTV -TCL (Geo) to be fixed
+https://amg01515-blueskyeus-amg01515c3-tclideo-northamerica-500.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-haunttvus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Wedo Movies -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-watch4movies-tcl/playlist.m3u8
+#EXTINF:-1,TidPix -TCL
+https://rushlake-media-gmbh-tidpix-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Tidpix .CA -TCL
+https://rushlake-media-gmbh-tidpix-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cinema Libre
+https://bec-cinemalibre-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Trailers from Hell -TCL
+https://bec-trailersfromhell-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Watch Mojo -TCL
+https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Watch Mojo .CA -TCL
+https://watchmojo-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Watch Mojo .AU -TCL
+https://watchmojo-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Watch Mojo .MX -TCL
+https://watchmojo-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Watch Mojo .BR -TCL
+https://watchmojo-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Watch Mojo .FR -TCL
+https://watchmojo-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Watch Mojo .DE -TCL
+https://watchmojo-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bloody Disgusting -TCL
+https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,MovieDome Family -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
+#EXTINF:-1,Young Hollywood -TCL
+https://younghollywood-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Made in Hollywood -TCL
+https://connection3-ent-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Made in Hollywood .AU -TCL
+https://connection3-ent-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Made in Hollywood .BR -TCL
+https://connection3-ent-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Made in Hollywood .CA -TCL
+https://connection3-ent-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Made in Hollywood .MX -TCL
+https://connection3-ent-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cinelife -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00308-magnoliapicture-cinelife-tcl/playlist.m3u8
+#EXTINF:-1,Popcorn Flix -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-popcornflix-tcl/playlist.m3u8
+#EXTINF:-1,The Grid -TCL
+https://bec-thegrid-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Real Nosey -TCL
+https://nosey-realnosey-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Real Nosey alt -TCL
+https://nosey-realnosey-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Real Nosey .AU -TCL
+https://nosey-realnosey-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Real Nosey .CA -TCL
+https://nosey-realnosey-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Real Nosey .DE -TCL
+https://nosey-realnosey-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Real Nosey .FR -TCL
+https://nosey-realnosey-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Real Nosey .BR -TCL
+https://nosey-realnosey-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Dont tell the Bride -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-dttb-tcl/playlist.m3u8
+#EXTINF:-1,Sony Canal Comedias
+https://spt-comedias-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Twisted Mirror Comedy -TCL
+https://twistedmirror-twistedmirrorcomedy-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Shades of Black -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebeat-tcl/playlist.m3u8
+#EXTINF:-1,Shades of Black -TCL (Geo)
+https://amg00375-fusemedia-amg00375c2-tclideo-northamerica-720.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-shadesofblack-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Mansa Mix -TCL
+https://mansa-mansamix-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Backstage -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebackstage-tcl/playlist.m3u8
+#EXTINF:-1,Backstage -TCL (Geo)
+https://amg00375-fusemedia-amg00375c1-tclideo-northamerica-719.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-backstage-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Trace Sports Stars -TCL
+https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Racing America -TCL (Geo)
+https://racingamerica-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Total Crime -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-totalcrimetclus-tcl/playlist.m3u8
+#EXTINF:-1,Total Crime -TCL (Geo) to be fixed
+https://amg01515-blueskyeus-amg01515c3-tclideo-northamerica-499.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-totalcrime-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Real Crime -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrime-tcl/playlist.m3u8
+#EXTINF:-1,Top True Crime -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-toptruecrime-tcl/playlist.m3u8
+#EXTINF:-1,Crime and Punishment -TCL
+https://rightsboosterltd-crime-and-punishment-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,True Crime Now -TCL (Geo)
+https://amg00376-magellan-amg00376c8-tclideo-northamerica-1383.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowmainus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Homicide -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-homicide-tcl/playlist.m3u8
+#EXTINF:-1,Witz -TCL
+https://bec-witz-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Pecan TV -TCL
+https://bold-tv-corp-pecan-tv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Pecan TV .CA -TCL
+https://bold-tv-corp-pecan-tv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Docurama -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tclAAAAAA-cinedigm-docurama-tcl/playlist.m3u8
+#EXTINF:-1,Real Stories -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-tcl/playlist.m3u8
+#EXTINF:-1,Drone TV -TCL
+https://airvuz-dronetv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Drone TV .CA -TCL
+https://airvuz-dronetv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Drone TV .AU -TCL
+https://airvuz-dronetv-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Drone TV .MX -TCL
+https://airvuz-dronetv-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Drone TV .BR -TCL
+https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Drone TV .DE -TCL
+https://airvuz-dronetv-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Drone TV .FR -TCL
+https://airvuz-dronetv-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Unexplained -TCL
+https://gravitas-unexplained-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,History and Warfare Now -TCL (Geo)
+https://amg00376-magellan-amg00376c16-tclideo-northamerica-1370.playouts.now.amagi.tv/playlist/amg00376-magellantv-historyandwarfarenowmainus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Space Science Now -TCL (Geo)
+https://amg00376-magellan-amg00376c13-tclideo-northamerica-1369.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowmainus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Curiosity Now -TCL
+https://curiosity-curiosity-now-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Docsville -TCL
+https://amg01076-lightning-amg01076c2-tcl-us-2470.playouts.now.amagi.tv/playlist/amg01076-lightning-docsville-tclus/playlist.m3u8
+#EXTINF:-1,Pulse -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-pulse-tclus/playlist.m3u8
+#EXTINF:-1,Museum TV -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-tcl/playlist.m3u8
+#EXTINF:-1,Museum TV .FR -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtvfr-tcl/playlist.m3u8
+#EXTINF:-1,Xploration Station -TCL
+https://srpdigital-xplorationstation-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Xploration Station .CA -TCL
+https://srpdigital-xplorationstation-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Xploration Station .BR -TCL
+https://srpdigital-xplorationstation-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Xploration Station .FR -TCL
+https://srpdigital-xplorationstation-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Xploration Station .MX -TCL
+https://srpdigital-xplorationstation-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Xploration Station .AU -TCL
+https://srpdigital-xplorationstation-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Escapes -TCL
+https://escapes-escapes-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Escapes .BR -TCL
+https://escapes-escapes-2-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Escapes .MX -TCL
+https://escapes-escapes-2-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Escapes .FR -TCL
+https://escapes-escapes-2-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Escapes .AU -TCL
+https://escapes-escapes-2-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Escapes .CA -TCL
+https://escapes-escapes-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Escapes .DE -TCL
+https://escapes-escapes-2-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Documentary + -TCL
+https://documentaryplus-documentaryplus-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Documentary + .CA -TCL
+https://documentaryplus-documentaryplus-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Documentary + .AU -TCL
+https://documentaryplus-documentaryplus-2-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Documentary + .BR -TCL
+https://documentaryplus-documentaryplus-2-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Documentary + .MX -TCL
+https://documentaryplus-documentaryplus-2-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Documentary + .DE -TCL
+https://documentaryplus-documentaryplus-2-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Dread TV -TCL
+https://epicpictures-dreadtv-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Go Traveler -TCL (Geo)
+https://amg09501-amg09501c1-tclideo-na-2400.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-tclideona/playlist.m3u8
+#EXTINF:-1,Now 70s -TCL
+https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-tclus/playlist.m3u8
+#EXTINF:-1,Now 80s -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-tclus/playlist.m3u8
+#EXTINF:-1,Now 90s -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-tclus/playlist.m3u8
+#EXTINF:-1,Our Vinyl TV -TCL
+https://ourvinyltv-ourvinyltv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Our Vinyl TV .CA -TCL
+https://ourvinyltv-ourvinyltv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Our Vinyl TV .BR -TCL
+https://ourvinyltv-ourvinyltv-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Our Vinyl TV .FR -TCL
+https://ourvinyltv-ourvinyltv-1-fr.tcl.wurl.tv/playlist.m3u8 
+#EXTINF:-1,Our Vinyl TV .MX -TCL
+https://ourvinyltv-ourvinyltv-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Qwest Jazz -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-jazz-tcl-tcl/playlist.m3u8
+#EXTINF:-1,Trace Urban -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-traceurban-tcl/playlist.m3u8
+#EXTINF:-1,Trace Urban -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurban-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Trace Latina -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
+#EXTINF:-1,Trace Latina -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Trace Brazuca -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracebrazuca-tcl/playlist.m3u8
+#EXTINF:-1,Hipstr -TCL (Geo)
+https://amg09501-amg09501c2-tclideo-na-2401.playouts.now.amagi.tv/playlist/amg09501-quester-hipstr-tclideona/playlist.m3u8
+#EXTINF:-1,Balle Balle -TCL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3406
+#EXTINF:-1,Outdoor Action TV -TCL
+https://careco-outdoor-action-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Outdoor America -TCL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3962
+#EXTINF:-1,Pac 12 -TCL (Geo)
+https://amg00384-pac12fast-amg00384c1-tclideo-northamerica-409.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Golive Sports Cast -TCL (Geo)
+https://amg02635-karenterprises-amg02635c2-tcl-us-2038.playouts.now.amagi.tv/playlist/amg02635-karenterprises-golivesportscastcp-tclus/playlist.m3u8
+#EXTINF:-1,Fox Sports -TCL (Geo)
+https://amg02855-foxsports-amg02855c1-tclideo-na-2100.playouts.now.amagi.tv/playlist/amg02855-foxnewsnetwork-foxsports-tclideona/playlist.m3u8
+#EXTINF:-1,Edge Sport -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-edgesport-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Motorvision -TCL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3467
+#EXTINF:-1,MTRSPRT 1 -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-tcl-ideo/playlist.m3u8
+#EXTINF:-1,MTRSPRT 1 -TCL alt
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-tcl/playlist.m3u8
+#EXTINF:-1,Mav TV Select -TCL (Geo)
+https://amg00378-mavtv-amg00378c4-tcl-us-1327.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-mavtvselectdomestic-tclus/playlist.m3u8
+#EXTINF:-1,Mav TV Select N.A -TCL (Geo)
+https://amg00378-mavtv-amg00378c4-tclideo-na-2696.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-mavtvselectdomestic-tclideona/playlist.m3u8
+#EXTINF:-1,Women's Sport Network
+https://faststudios-womensnetwork-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fuel TV -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvus-tcl/playlist.m3u8
+#EXTINF:-1,Fuel TV .AU -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvaus-tcl/playlist.m3u8
+#EXTINF:-1,Fuel TV .BR -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-tcl/playlist.m3u8
+#EXTINF:-1,Fuel TV .DE -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeade-tcl/playlist.m3u8
+#EXTINF:-1,Fuel TV .FR -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeafrance-tcl/playlist.m3u8
+#EXTINF:-1,Fite TV -TCL
+https://answermedia-fite-tv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Fite TV .CA -TCL
+https://answermedia-fite-tv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Ultimate Classic Wrestling -TCL
+https://answermedia-ultimateclassicwrestling-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Black Belt -TCL (Geo)
+https://amg02188-jungotv-amg02188c1-tcl-us-2082.playouts.now.amagi.tv/playlist/amg02188-jungotv-blackbelt-tclus/playlist.m3u8
+#EXTINF:-1,Cops .CA -TCL
+https://langleyproductions-cops-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cops .Au -TCL
+https://langleyproductions-cops-2-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Tastemade Int Australia -TCL (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintaus-tcl/playlist.m3u8
+#EXTINF:-1,Tastemade India -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeindia-tcl/playlist.m3u8
+#EXTINF:-1,Tastemade ES16 Intl -TCL (Geo)
+https://tm-es16intl-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Tastemade Freetv16 -TCL (Geo)
+https://tm-freetv16-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Tastemade Freetv16 -TCL alt
+https://tastemade-tastemadefreetv16-tcl-mmaw8.amagi.tv/playlist/tastemade-tastemadefreetv16-tcl/playlist.m3u8
+#EXTINF:-1,Tastemade 16 INTL -TCL alt
+https://tastemade-tastemadees16intl-tcl-p49s8.amagi.tv/playlist/tastemade-tastemadees16intl-tcl/playlist.m3u8
+#EXTINF:-1,Tastemade ENG -TCL (Geo)
+https://tm-intl-eng-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Tastemade Germany -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmgermany-tcl/playlist.m3u8
+#EXTINF:-1,Gusto -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustous-tcl/playlist.m3u8
+#EXTINF:-1,Gusto TV -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-gustotv-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Real Life -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallife-tcl/playlist.m3u8
+#EXTINF:-1,Bob Ross -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tclAAAAAA-cinedigm-bobross-tcl/playlist.m3u8
+#EXTINF:-1,Go Usa .AU -TCL
+https://brandusa-gousa-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Go Usa .BR -TCL
+https://brandusa-gousa-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Go Usa .MX -TCL
+https://brandusa-gousa-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Game Play -TCL
+https://buffactorymedia-gameplay-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Game Play .CA -TCL
+https://buffactorymedia-gameplay-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Game Play .AU -TCL
+https://buffactorymedia-gameplay-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Game Play .DE -TCL
+https://buffactorymedia-gameplay-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Gameshow Central -TCL
+https://gsn-gameshowchannnel-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Gameshow Central .CA -TCL
+https://gsn-gameshowchannnel-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Commune -TCL
+https://bec-commune-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Baywatch -TCL (Geo)
+https://amg00145-fremantlemedia-amg00145c2-tclideo-northamerica-617.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-baywatch-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,McLeods Daughter's -TCL (Geo)
+https://amg00627-banijay-amg00627c7-tclideo-northamerica-644.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Dust -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-dust-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Quip -TCL (Geo)
+https://amg00145-fremantlemedia-amg00145c3-tclideo-northamerica-620.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-quip-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Deal or no Deal -TCL (Geo)
+https://amg00627-banijay-amg00627c2-tclideo-northamerica-643.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodeal-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,The Biggest Loser -TCL (Geo)
+https://amg00627-banijay-amg00627c3-tclideo-northamerica-641.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Wipeout Xtra -TCL (Geo)
+https://amg00627-banijay-amg00627c4-tclideo-northamerica-640.playouts.now.amagi.tv/playlist/amg00627-banijayfast-wipeoutxtra-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Fear Factor -TCL (Geo)
+https://amg00627-banijay-amg00627c5-tclideo-northamerica-639.playouts.now.amagi.tv/playlist/amg00627-banijayfast-fearfactor-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Family Feud -TCL (Geo)
+https://amg00145-fremantlemedia-amg00145c1-tclideo-northamerica-616.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-familyfeud-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,The Red Green Show -TCL
+https://answermedia-theredgreenshow-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Red Green Show .CA -TCL
+https://answermedia-theredgreenshow-2-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Myzen Fit -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzentven-tcl/playlist.m3u8
+#EXTINF:-1,Global Fashion Channnel -TCL
+https://gfcomnimedia-globalfashionchannel-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Global Fashion Channel .CA -TCL
+https://gfcomnimedia-globalfashionchannel-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Global Fashion Channel .FR -TCL
+https://gfcomnimedia-globalfashionchannel-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Petclub -TCL
+https://amg01076-lightning-amg01076c1-tcl-us-2471.playouts.now.amagi.tv/playlist/amg01076-lightning-petclub-tclus/playlist.m3u8
+#EXTINF:-1,Fashion TV -TCL 
+https://fashiontv-fashiontv-5-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Fashion TV .CA -TCL
+https://fashiontv-fashiontv-5-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Fashion TV .AU -TCL
+https://fashiontv-fashiontv-5-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Fashion TV .BR -TCL
+https://fashiontv-fashiontv-5-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Fashion TV .DE -TCL
+https://fashiontv-fashiontv-5-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Fashion TV .FR -TCL
+https://fashiontv-fashiontv-5-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Fashion TV .MX -TCL
+https://fashiontv-fashiontv-5-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Lovestories TV -TCL
+https://lovestoriestv-lovestoriestv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Lovestories TV .CA -TCL
+https://lovestoriestv-lovestoriestv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Lovestories TV .AU -TCL
+https://lovestoriestv-lovestoriestv-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Lovestories TV .BR -TCL
+https://lovestoriestv-lovestoriestv-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Lovestories TV .FR -TCL
+https://lovestoriestv-lovestoriestv-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Lovestories TV .DE -TCL
+https://lovestoriestv-lovestoriestv-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Lovestories TV .MX -TCL
+https://lovestoriestv-lovestoriestv-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Today's Home Owner
+https://janson-todayshomeowner-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Homeful -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-homefulustclus-tcl/playlist.m3u8
+#EXTINF:-1,HSN -TCL
+https://qvchsn-hsn-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,QVC -TCL
+https://qvchsn-qvc-2-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,MoreU -TCL
+https://bec-moreu-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Emotional
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00520-tcl-emotional-tcl/playlist.m3u8
+#EXTINF:-1,Tru Blu -TCL
+https://trublufactual-trublu-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Design Network -TCL
+https://thedesignnetwork-tdn-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Design Network .CA -TCL
+https://thedesignnetwork-tdn-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Design Network .AU -TCL
+https://thedesignnetwork-tdn-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Design Network .BR -TCL
+https://thedesignnetwork-tdn-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Design Network .DE -TCL
+https://thedesignnetwork-tdn-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Design Network .MX -TCL
+https://thedesignnetwork-tdn-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,TV Manjaro (Oterra Check)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3347
+#EXTINF:-1,Awe Plus -TCL
+https://aweencore-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Real Wild -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+#EXTINF:-1,Wonder -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wonder-tcl/playlist.m3u8
+#EXTINF:-1,Timeline -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timeline-tcl/playlist.m3u8
+#EXTINF:-1,Demand Africa -TCL
+https://demandafrica-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bein Sports Xtra -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
+#EXTINF:-1,Dazn Womens Football -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenfootball-tcl/playlist.m3u8
+#EXTINF:-1,Unbeaten -TCL
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Sports Grid -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-tcl/playlist.m3u8
+#EXTINF:-1,Sports Grid Network -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-sportsgridnetwork-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Sports News Highlights -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-sportsnewshighlights-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Pickle TV -TCL
+https://answermedia-pickletv-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Crackle Classics -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackleclassics-tcl/playlist.m3u8
+#EXTINF:-1,Crackle Classics -TCL (Geo)
+https://amg00540-crackleplus-amg00540c2-tclideo-northamerica-885.playouts.now.amagi.tv/playlist/amg00540-crackleplusfast-crackleclassics-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Bollywood HD Classic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4154
+#EXTINF:-1,Comedy Dynamics -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tclAAAAAA-cinedigm-comedydynamics-tcl/playlist.m3u8
+#EXTINF:-1,Just for Laughs Gags -TCL
+https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Just for Laughs Gags .AU -TCL
+https://distributionsjustepourrire-justforlaughsgags-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Just for Laughs Gags .DE -TCL
+https://distributionsjustepourrire-justforlaughsgags-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Just for Laughs Gags .FR -TCL
+https://distributionsjustepourrire-justforlaughsgags-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Just for Laughs Gags .MX -TCL
+https://distributionsjustepourrire-justforlaughsgags-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Funny or Die -TCL
+https://funny-or-die-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Funny or Die alt -TCL
+https://funny-or-die-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Funny or Die .CA -TCL
+https://funny-or-die-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Funny or Die .AU -TCL
+https://funny-or-die-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Funny or Die .BR -TCL
+https://funny-or-die-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Funny or Die .FR -TCL
+https://funny-or-die-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Funny or Die .MX -TCL
+https://funny-or-die-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cinenanar -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00520-tcl-cinenanar-tcl/playlist.m3u8
+#EXTINF:-1,Yaquelaverite -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-yaquelaverite-tcl/playlist.m3u8
+#EXTINF:-1,Dove Now -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tclAAAAAA-cinedigm-dovenow-tcl/playlist.m3u8
+#EXTINF:-1,Cinesureno -TCL
+https://tclAAAAAA-cinesureno-tcl-zegjq.amagi.tv/playlist/tclAAAAAA-cinesureno-tcl/playlist.m3u8
+#EXTINF:-1,Law and Crime -TCL
+https://tclAAAAAA-lawandcrime-tcl-tk7zp.amagi.tv/playlist/tclAAAAAA-lawandcrime-tcl/playlist.m3u8
+#EXTINF:-1,Johnny Carson -TCL
+https://tclAAAAAA-sf-johnnycarson-tcl-zyvor.amagi.tv/playlist/tclAAAAAA-sf-johnnycarson-tcl/playlist.m3u8
+#EXTINF:-1,The Carol Burnett Show -TCL
+https://tclAAAAAA-sf-thecarolburnettshow-tcl-2sc3l.amagi.tv/playlist/tclAAAAAA-sf-thecarolburnettshow-tcl/playlist.m3u8
+#EXTINF:-1,Nolly Africa
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3405
+#EXTINF:-1,La Corriente -TCL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4177
+#EXTINF:-1,Vivaldi -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01523-mezzo-vivalditv-tcl/playlist.m3u8
+#EXTINF:-1,Shoutfactory -TCL (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-shoutfactory-tcl/playlist.m3u8
+#EXTINF:-1,TokushoutSU -TCL (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-tokushoutsu-tcl/playlist.m3u8
+#EXTINF:-1,Naruto -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-naruto-tcl/playlist.m3u8
+#EXTINF:-1,Kartoon -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-kartoon-tclus/playlist.m3u8
+#EXTINF:-1,Brat TV -TCL
+https://tclAAAAAA-brat-tcl-2mpk7.amagi.tv/playlist/tclAAAAAA-brat-tcl/playlist.m3u8
+#EXTINF:-1,Brat TV alt -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-brattv-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Brat TV other alt -TCL
+https://brat-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Con TV Anime -TCL CHECK
+https://contvanime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,So Real -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tclAAAAAA-cinedigm-soreal-tcl/playlist.m3u8
+#EXTINF:-1,Degrassi -TCL
+https://dhx-degrassi-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Aspire Life TV -TCL (Geo)
+https://amg00495-uptv-amg00495c1-tclideo-northamerica-791.playouts.now.amagi.tv/playlist/amg00495-uptvfast-aspiretvlife-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Alter -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-alter-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Darkmatter -TCL
+https://tricoast-tv-dark-matter-01-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Lonestar -TCL 
+https://lonestar-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,Law and Crime -TCL (Geo)
+https://lawandcrime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,SparkLight Love -TCL
+https://candlelightmedia-sparklightlove-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Chicken Soup For The Soul -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-chickensoup-tcl/playlist.m3u8
+#EXTINF:-1,MovieDome UK -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-tcl/playlist.m3u8
+#EXTINF:-1,MovieDome -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedome-tcl/playlist.m3u8
+#EXTINF:-1,Action Hollywood Movies -TCL
+https://amg01076-lightning-amg01076c9-tcl-us-2480.playouts.now.amagi.tv/playlist/amg01076-lightning-actionhollywood-tclus/playlist.m3u8
+#EXTINF:-1,Court TV -TCL
+https://scripps-courttv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Court TV alt -TCL
+https://scripps-courttv-1-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Ondemand China -TCL
+https://newidco-ondemandchina-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Ondemand China .CA -TCL
+https://newidco-ondemandchina-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Best TV Ever -TCL
+https://bec-besttvever-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Danger TV -TCL
+https://dangertv-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,PowerNation -TCL (Geo)
+https://amg01258-raycom-amg01258c3-tcl-us-908.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernation-tclus/playlist.m3u8
+#EXTINF:-1,PowerNation Spanish -TCL (Geo)
+https://amg01258-raycom-amg01258c3-tclideo-na-2029.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationspanish-tclideona/playlist.m3u8
+#EXTINF:-1,Intipacha -TCL
+https://baktilp-intipacha-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Intipacha .MX -TCL
+https://baktilp-intipacha-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Gigglemug -TCL
+https://janson-gigglemug-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Super Simple Songs -TCL
+https://janson-supersimplesongs-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sensical 2 UP -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00722-commonsensemedi-sensical2up-tcl/playlist.m3u8
+#EXTINF:-1,Sensical 5 UP -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00722-commonsensemedi-sensical5up-tcl/playlist.m3u8
+#EXTINF:-1,Sensical 8 UP -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00722-commonsensemedi-sensical8up-tcl/playlist.m3u8
+#EXTINF:-1,NewkID -TCL
+https://newidco-newkid-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,NewkID .CA -TCL
+https://newidco-newkid-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Kids TV -TCL
+https://jansonmedia-kidstv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Dennis and Gnasher -TCL
+https://beanostudios-dennis-and-gnasher-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Dennis and Gnasher .CA -TCL
+https://beanostudios-dennis-and-gnasher-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Dennis and Gnasher .AU -TCL
+https://beanostudios-dennis-and-gnasher-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Dennis and Gnasher .BR -TCL
+https://beanostudios-dennis-and-gnasher-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,WeDO Movies -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-w4freemovies-tcl/playlist.m3u8
+#EXTINF:-1,Myzen TV -TCL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzentv-tcl/playlist.m3u8
+#EXTINF:-1,Bein Xtra Espanol -TCL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8
+#EXTINF:-1,Magellan TV Now -TCL (Geo)
+https://amg00376-magellan-amg00376c1-tclideo-northamerica-1371.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowmainus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Ditty TV -TCL
+https://memphisstudios-dittytv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Ditty TV .CA -TCL
+https://memphisstudios-dittytv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Ditty TV .AU -TCL
+https://memphisstudios-dittytv-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Ditty TV .BR -TCL
+https://memphisstudios-dittytv-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Ditty TV .MX -TCL
+https://memphisstudios-dittytv-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Ditty TV .Fr -TCL
+https://memphisstudios-dittytv-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Circle TV -TCL (Geo)
+https://amg00432-circletvfast-amg00432c1-tclideo-northamerica-412.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,MHZ -TCL
+https://mhz-samsung-linear-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,MHZ .CA -TCL
+https://mhz-samsung-linear-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Filmstream -TCL
+https://spi-filmstream-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Filmstream .CA -TCL
+https://spi-filmstream-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Filmstream .AU -TCL
+https://spi-filmstream-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Filmstream .BR -TCL
+https://spi-filmstream-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Filmstream .DE -TCL
+https://spi-filmstream-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Filmstream .FR -TCL
+https://spi-filmstream-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Ted -TCL
+https://tedconferences-ted-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Nosey Escandalos -TCL
+https://nosey-3-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Nosey Escandolas alt -TCL
+https://nosey-3-us.tcltvplus.wurl.tv/playlist.m3u8
+#EXTINF:-1,Manifest TV -TCL
+https://kdmg-manifesttv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Manifest TV .CA -TCL
+https://kdmg-manifesttv-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Manifest TV .AU -TCL
+https://kdmg-manifesttv-1-au.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Manifest TV .BR -TCL
+https://kdmg-manifesttv-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Manifest TV .DE -TCL
+https://kdmg-manifesttv-1-de.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Manifest TV .FR -TCL
+https://kdmg-manifesttv-1-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Manifest TV .MX -TCL
+https://kdmg-manifesttv-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,RCN Mas+ -TCL
+https://rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,RCN Mas+ .CA -TCL
+https://rcntv-rcnmas-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,RCN Mas+ .MX -TCL
+https://rcntv-rcnmas-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,RCN Xtra -TCL
+https://latv-rcn-xtra-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,RCN Xtra .CA -TCL
+https://latv-rcn-xtra-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,RCN Xtra .MX -TCL
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Pelimex -TCL
+https://telecine-pelimex-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Pelimex .MX -TCL
+https://telecine-pelimex-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Food -TCL 
+https://food-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Wannasee -TCL (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-wannasee-tcl/playlist.m3u8
+#EXTINF:-1,Intouchplus -TCL (Geo)
+https://amg01540-apexmedia-amg01540c2-tclideo-northamerica-983.playouts.now.amagi.tv/playlist/amg01540-apexmediafast-intouchplus-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Sony Kal Hindi -TCL
+https://sony-sonykal-gn-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sony Canal Novelas -TCL
+https://spt-novelas-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sony Canal Compentencias -TCL
+https://spt-competencias-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sony Canal Competencias .MX -TCL
+https://spt-sonyonecompetencias-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sony One Sharktank .MX -TCL
+https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sony One Novelas .MX -TCL
+https://spt-sonyonenovelas-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cine Estrella -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-cineestrella-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Estrella Games -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-estrellagames-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Estrella News -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-estrellanews-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Estrella TV -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-estrellatv-tcl-ideo/playlist.m3u8
+#EXTINF:-1,ESTV -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-estv-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Flou Caribeno -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-floucaribeno-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Flou Cine -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-floucine-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Canel Cinema -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Canela Clasicos -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelaclasicos-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Canela Deportes -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-caneladeportes-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Canela Tele Novelas -TCL (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatelenovelas-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Canela TV -TCL (Geo) 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-tcl-ideo/playlist.m3u8
+#EXTINF:-1,Nuestravision -TCL (Geo)  
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01914-nuestravision-nuestravision-tcl-ideo/playlist.m3u8
+#EXTINF:-1,quiveutgagnerdesmillions -TCL (Geo)
+https://amg02393-awpg-amg02393c1-tcl-us-2150.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-tclus/playlist.m3u8
+#EXTINF:-1,Le meilleur D'arthur -TCL (Geo)
+https://amg02393-awpg-amg02393c2-tcl-us-2151.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-tclus/playlist.m3u8
+#EXTINF:-1,Les Amours -TCL (Geo)
+https://amg02393-awpg-amg02393c3-tcl-us-2152.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-tclus/playlist.m3u8
+#EXTINF:-1,Le meilleur de la tv Realite -TCL (Geo)
+https://amg02393-awpg-amg02393c4-tcl-us-2153.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-tclus/playlist.m3u8
+#EXTINF:-1,Les secrets denos regions -TCL (Geo)
+https://amg02393-awpg-amg02393c6-tcl-us-2188.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-tclus/playlist.m3u8
+#EXTINF:-1,Out TV Proud -TCL (Geo)
+https://amg00375-fusemedia-amg00375c3-tclideo-northamerica-721.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-outtvproud-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Camptastic -TCL (Geo)
+https://amg00375-fusemedia-amg00375c4-tclideo-northamerica-722.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-camptastic-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,SBT International -TCL (Geo)
+https://amg01391-sbtinfast-amg01391c1-tclideo-northamerica-419.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Beond TV -TCL (Geo)
+https://amg01681-beondtv-amg01681c1-tclideo-northamerica-386.playouts.now.amagi.tv/playlist/amg01681-beondtv-beondtv-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Mob TV -TCL (Geo)
+https://amg01324-infamous-amg01324c1-tclideo-northamerica-400.playouts.now.amagi.tv/playlist/amg01324-infamousmedia-mobtv-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,123 Go English -TCL (Geo)
+https://amg02051-soulpublishing-amg02051c17-tclideo-northamerica-527.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,Brightside English -TCL (Geo)
+https://amg02051-soulpublishing-amg02051c9-tclideo-northamerica-528.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsideenglish-tclideonorthamerica/playlist.m3u8
+#EXTINF:-1,5 Mincraft -TCL (Geo)
+https://amg02051-soulpublishing-amg02051c7-tclideo-northamerica-368.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftenglish-tclideonorthamerica/playlist.m3u8
