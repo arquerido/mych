@@ -1,0 +1,255 @@
+#EXTM3U
+#EXTINF:-1,HBCU Go
+https://amg00876-allenmedia-hbcugo-localnow-v0547.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bein Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bleav
+https://linear-477.frequency.stream/dist/sportstv/477/hls/master/playlist.m3u8
+#EXTINF:-1,Bleav Football
+https://linear-493.frequency.stream/dist/sportstv/493/hls/master/playlist.m3u8
+#EXTINF:-1,Sportsgrid (GEO)
+https://sportsgrid-localnow-us.amagi.tv/playlist.m3u8
+#EXTINF:-1,FTF (GEO)
+https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
+#EXTINF:-1,English Football Channel
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/879cd8f5-5239-4881-b919-095f87e4899d.m3u8?adMethod=3&sessionId=veenglishfootballlocalnow
+#EXTINF:-1,Perfect Game
+https://aa6ac80ce06c44f28dd012eb4413f160.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/SportsTV_PerfectGameTV/playlist.m3u8
+#EXTINF:-1,Mav TV Select
+https://b285f2adcb1742e99aac4c945ed399aa.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTV_MavTVSelect/playlist.m3u8
+#EXTINF:-1,The Rugby Network (GEO)
+https://1978425394.rsc.cdn77.org/HLS/TRN_SCTE.m3u8
+#EXTINF:-1,Womens Sport Network
+https://amg01416-faststudios-womennetwork-localnow-9rpxa.amagi.tv/playlist.m3u8
+#EXTINF:-1,World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/scheduler/scheduleMaster/95.m3u8
+#EXTINF:-1,Poker Go
+https://linear-426.frequency.stream/dist/localnow/426/hls/master/playlist.m3u8
+#EXTINF:-1,Poker Night America
+https://d2ac29vaob351i.cloudfront.net/scheduler/scheduleMaster/216.m3u8
+#EXTINF:-1,Xtrem Sports
+https://edge-fast.evrideo.tv/dd07c1bf-9b89-4e56-b819-224b2bbcd807_0_HLS/manifest.m3u8
+#EXTINF:-1,GQ
+https://amg00255-condenast-gq-localnow-5sme3.amagi.tv/playlist.m3u8
+#EXTINF:-1,Coindesk.TV
+https://amg01690-coindeskinc-coindesk-localnow-sojc4.amagi.tv/playlist.m3u8
+#EXTINF:-1,Davinci
+https://amg00406-tinizinelimited-davincius-localnow-cmjt6.amagi.tv/playlist.m3u8
+#EXTINF:-1,Sports News Highlights
+https://amg01756-newsnet-sportsnewshigh-localnow-am55f.amagi.tv/playlist.m3u8
+#EXTINF:-1,Unbeaten (GEO)
+https://unbeaten-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1,Whacked out Sports
+https://hls.showfer.com/stream/63dd69e7f516fcaec90a2271/airy.m3u8
+#EXTINF:-1,Bein Xtra Espanol
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:-1,Slopes TV (may be offline)
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/SlopesTV/index-slopestv.m3u8
+#EXTINF:-1,Swerve Sports
+https://linear-253.frequency.stream/dist/localnow/253/hls/master/playlist.m3u8
+#EXTINF:-1,The American Athlete
+https://linear-285.frequency.stream/dist/localnow/285/hls/master/playlist.m3u8
+#EXTINF:-1,Campuslore
+https://linear-235.frequency.stream/dist/localnow/235/hls/master/playlist.m3u8
+#EXTINF:-1,World Billiards TV
+https://92652ca9374d45ff8669fa318712ccda.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SportsTV_WorldBilliardsTV/playlist.m3u8
+#EXTINF:-1,Byron Allen Presents
+https://linear-584.frequency.stream/dist/localnow/584/hls/master/playlist.m3u8
+#EXTINF:-1,Kozoom TV
+https://kozoom-tv-local-now.evrideo.tv/ae60ea81-15c8-4a4a-97e3-fa45c64431d5_0_HLS/manifest.m3u8
+#EXTINF:-1,Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1,LSN Lacrosse TV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1,Omstars TV
+https://d6wgpvzntti5z.cloudfront.net/scheduler/scheduleMaster/281.m3u8
+#EXTINF:-1,ITSF TV
+https://edge-fast.evrideo.tv/99a6543a-9d90-4412-8576-398aebc882fb_0_HLS/manifest.m3u8
+#EXTINF:-1,Dungeon TV (may be offline)
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/DungeonTV/Index-dungeontv.m3u8
+#EXTINF:-1,Adventure Sports TV
+https://epg-adventure-sports-tv-2-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_64a82d39d6651dc235068ca4_epg-adventure-sports-tv-2-live/master.m3u8
+#EXTINF:-1,Carbon TV
+https://amg01570-carbontv-carbontv-localnow-i7zkx.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fuel TV
+https://amg01074-fueltv-fueltvusen-sportstv-fj9t1.amagi.tv/playlist_eng.m3u8
+#EXTINF:-1,Outdoor America (GEO)
+https://outdooramerica-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_613badcfc8f36f5402024a43_outdooramerica-live-1/master.m3u8
+#EXTINF:-1,Outdoor Action TV
+https://0a8290df61a34f34ac8faa356829259c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SportsTV_OutdoorAction/playlist.m3u8
+#EXTINF:-1,The Explorers
+https://edge-fast2.evrideo.tv/a1ddb5a6-5a3b-45b0-b09d-c21632782847_0_HLS/manifest.m3u8
+#EXTINF:-1,Teton Gravity Research TV
+https://d1ur2fy7sesb3x.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,Escape TV
+https://escape-tv-local-now.evrideo.tv/fda7b95a-29b9-497a-b783-5dda1e7234c5_1000014752_HLS/master.m3u8
+#EXTINF:-1,Waypoint TV
+https://amg00381-waypointcommuni-waypointtv-localnow-yukrz.amagi.tv/master.m3u8
+#EXTINF:-1,Pursuit Up
+https://linear-205.frequency.stream/dist/localnow/205/hls/master/playlist.m3u8
+#EXTINF:-1,Bosco Plus (may be offline)
+https://epg-boscoplus-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_64494c9376de49679e09fa72_epg-boscoplus-live/index.m3u8
+#EXTINF:-1,Wired2Fish TV
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+#EXTINF:-1,Level Up TV
+https://5fa24d54392444f3b90c875f37db0857.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTV_LevelUpTV/playlist.m3u8
+#EXTINF:-1,The Ring TV
+https://edge-fast2.evrideo.tv/a1ddb5a6-5a3b-45b0-b09d-c21632782847_0_HLS/manifest.m3u8
+#EXTINF:-1,Sport Fishing TV
+https://edge-fast.evrideo.tv/ea8e88dd-90d0-471d-9958-4df61396c098_0_HLS/manifest.m3u8
+#EXTINF:-1,Horse and Country
+https://amg00810-hctvltd-hncfree-localnow-t4eey.amagi.tv/playlist.m3u8
+#EXTINF:-1,Extreme Plus
+https://dy9x7so5g8z3m.cloudfront.net/scheduler/scheduleMaster/276.m3u8
+#EXTINF:-1,Horizon Sports
+https://dcicealhbcymw.cloudfront.net/strm/link/horizonsports.m3u8
+#EXTINF:-1,Nitro TV
+https://nitro-tv-local-now.evrideo.tv/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/manifest.m3u8
+#EXTINF:-1,Americas Boating Channel
+https://edge-fast2.evrideo.tv/31bec8cf-d869-45a8-b43b-e36c91b2e38a_0_HLS/manifest.m3u8
+#EXTINF:-1,Awe Plus
+https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
+#EXTINF:-1,Channel Fight Masterclass
+https://d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8
+#EXTINF:-1,Spartan TV
+https://d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8
+#EXTINF:-1,ACL Cornhole TV
+https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV_SCTE.m3u8
+#EXTINF:-1,ChopperTown
+https://linear-11.frequency.stream/dist/localnow/11/hls/master/playlist.m3u8
+#EXTINF:-1,ESR 24x7 Esports Network
+https://eyeonesports.com/ES2RA-628g.m3u8
+#EXTINF:-1,Wai Lana TV
+https://edge-fast2.evrideo.tv/59b8d64d-1d70-4e77-a3de-33e824ead919_0_HLS/manifest.m3u8
+#EXTINF:-1,Boxing TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8
+#EXTINF:-1,Prime Fight
+https://edge-fast2.evrideo.tv/313fc62f-0109-43fc-85ab-650abfaa9d12_0_HLS/manifest.m3u8
+#EXTINF:-1,Strongman Champions League
+https://3432e021b91043f0814aa9d377c401d2.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SportsTV_StrongmanChampionsLeague/playlist.m3u8
+#EXTINF:-1,Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,Fite 24x7
+https://ed7ded3f297b46df98c69334c7822c61.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTV_FITE247/playlist.m3u8
+#EXTINF:-1,Fight TV
+https://edge-fast.evrideo.tv/2c1b92e0-9ef4-41b1-9713-ba53b562e94c_0_HLS/manifest.m3u8
+#EXTINF:-1,Pro Fight League
+https://4d362f8e.wurl.com/U3BvcnRzVFZfUEZMTU1BX0hMUw/playlist.m3u8
+#EXTINF:-1,Kung Fu Plus
+https://edge-fast.evrideo.tv/9e927eb7-5729-4176-ac4c-a3f8ad762435_0_HLS/manifest.m3u8
+#EXTINF:-1,Pro Wrestling TV
+https://ov.ottera.tv/live/master.m3u8?channel=ptv_pw
+#EXTINF:-1,The Grappling Network
+https://d15g7z5n3epv7t.cloudfront.net/scheduler/scheduleMaster/236.m3u8
+#EXTINF:-1,Impact Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,XFC
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+#EXTINF:-1,Hi YAH!
+https://linear-59.frequency.stream/dist/localnow/59/hls/master/playlist.m3u8
+#EXTINF:-1,NHRA Drag Racing
+https://ov.ottera.tv/live/master.m3u8?channel=prl_nh
+#EXTINF:-1,Speedvision
+https://2535b897.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVFZfU3BlZWR2aXNpb25fSExT/playlist.m3u8
+#EXTINF:-1,Racing America (GEO)
+https://racingamerica-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1,RPM
+http://axp-rp-estv.otteravision.com/ESTV/rpm/playlist.m3u8
+#EXTINF:-1,MOTO America
+https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8
+#EXTINF:-1,Automotion
+https://edge-fast2.evrideo.tv/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/manifest.m3u8
+#EXTINF:-1,Drive + Speed
+https://edge-fast2.evrideo.tv/2f833f43-9e48-4a6e-88a8-8d99c32eb898_0_HLS/manifest.m3u8
+#EXTINF:-1,Chrono
+https://edge-fast2.evrideo.tv/2516e6dc-178a-4ad5-9b52-a90c8895968f_0_HLS/manifest.m3u8
+#EXTINF:-1,Motorsport.tv
+https://5b4d3a97.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVFZfTW90b3JTcG9ydHR2X0hMUw/playlist.m3u8
+#EXTINF:-1,Motorvision.tv
+https://ov.ottera.tv/live/master.m3u8?channel=mvg_mv
+#EXTINF:-1,Motorracing
+https://dcicealhbcymw.cloudfront.net/strm/link/motorracing.m3u8
+#EXTINF:-1,Sports Connect
+http://axp-sc-estv.otteravision.com/ESTV/sportsconnect/playlist.m3u8
+#EXTINF:-1,Sports.tv Flix
+https://linear-280.frequency.stream/dist/sportstv/280/hls/master/playlist.m3u8
+#EXTINF:-1,Sport.tv Doc
+https://linear-282.frequency.stream/dist/localnow/282/hls/master/playlist.m3u8
+#EXTINF:-1,Chukker
+https://the-chukker-channel-tv-local-now.evrideo.tv/ee1f7251-f83f-4a8e-b132-6da0d79f8d34_1000014578_HLS/master.m3u8
+#EXTINF:-1,FRN
+https://na.linear.zype.com/b8d724a2-491d-462f-87e1-80e3a0d07a85/8c5c9ea4-3ab4-4e56-b3a4-8ff9dd2291eb-local-now/live.m3u8
+#EXTINF:-1,Bloomberg Originals
+https://bloomberg-originals-2-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_642c3da2c998bab08e064a23_bloomberg-originals-2-live/origin-contribution-m1-bloomberg-quicktake-localnow.m3u8
+#EXTINF:-1,RJ Sport
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/4eb188de-4a5b-4268-9b4d-82eb16031f3b.m3u8?adMethod=3&sessionId=lvrjsportslocalnow
+#EXTINF:-1,Video Elephant Sports (may be offline)
+https://fueltools-prod01-v1-fast.fuelmedia.io/mrss?ChId=f0dba201-6674-47f3-9d3d-cde18cba5b32&maxItems=50&ContentType=epg
+#EXTINF:-1,RJ
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/2c5f4430-fec6-44ed-accf-32103c019a73.m3u8?adMethod=3&sessionId=lvrjnewslocalnow
+#EXTINF:-1,Oan Plus
+https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
+#EXTINF:-1,Pattrn
+https://linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8
+#EXTINF:-1,The Weather Channel En Espanol
+https://d3l7dafcu55vvf.cloudfront.net/out/v1/70c49418b07348f08cdc17cf94e5b3f0/index.m3u8
+#EXTINF:-1,KHQ NBC News 6
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/96ef92fd-36df-43e5-b434-ed10cc615742.m3u8?adMethod=3&sessionId=khqlocalnow
+#EXTINF:-1,KTMF ABC News 23
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/af0f7e66-d5cc-4d60-8795-ebddc983e1ae.m3u8?adMethod=3&sessionId=ktmflocalnow
+#EXTINF:-1,KULR NBC News 8
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/ff1112f8-7ffe-494d-8cce-7954b4487f48.m3u8?adMethod=3&sessioinId=kurllocalnow
+#EXTINF:-1,KWYB ABC News 5
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/1e4f79b1-fb5e-458c-b617-d3ac5d21564e.m3u8?adMethod=3&sessionId=kwyblocalnow
+#EXTINF:-1,KFBB ABC News 25
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/1e4f79b1-fb5e-458c-b617-d3ac5d21564e.m3u8?adMethod=3&sessionId=kfbblocalnow
+#EXTINF:-1,KNDU NBC News 25
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/8bc71947-0aa6-4849-b31e-1c4e0c5e0e2c.m3u8?adMethod=3&sessionId=kndulocalnow
+#EXTINF:-1,KEZI ABC News 9 
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/68c81515-3f51-423e-b813-c2371e68630a.m3u8?adMethod=3&sessionId=kezilocalnow
+#EXTINF:-1,KIMT CBD News 3
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/61905b40-556c-4306-8367-336da5853890.m3u8?adMethod=3&sessionId=kimtlocalnow
+#EXTINF:-1,WEVV CBS News 44
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/1672aee1-19c6-43d3-88c9-972e8fd8c41c.m3u8?adMethod=3&sessionId=wevvlocalnow
+#EXTINF:-1,WFFT Fox News 55
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/bd34df05-e619-4325-839b-c535b3711666.m3u8?adMethod=3&sessionId=wfftlocalnow
+#EXTINF:-1,KDRV ABC News 12
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/f96442b0-078f-4620-93bc-e5dfa990c572.m3u8?adMethod=3&sessionId=kdrvlocalnow
+#EXTINF:-1,WTHI CBS News 10
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/6c184b88-1133-416d-8b43-3c54d0167535.m3u8?adMethod=3&sessionId=whtilocalnow
+#EXTINF:-1,WTVA NBC News 9
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/6cd278c0-3af5-4964-98e0-16487642b91a.m3u8?adMethod=3&sessionId=wtvalocalnow
+#EXTINF:-1,WLFI CBS News 16
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/9c6a431c-7560-4a86-b659-fb1dfa3ef17c.m3u8?adMethod=3&sessionId=wlfilocalnow
+#EXTINF:-1,KADN FOX News 15
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/564982d0-5d6b-4f08-92fb-27d9f72ca6dd.m3u8?adMethod=3&sessionId=kadnlocalnow
+#EXTINF:-1,WJRT ABC News 12
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/6cedb338-4fa7-419b-be37-4cc8e7008d9b.m3u8?adMethod=3&sessionId=wjrtlocalnow
+#EXTINF:-1,KHSL CBS News 12
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/9bb1377e-32c7-4ec2-a906-9e00c6360cd1.m3u8?adMethod=3&sessionId=khsllocalnow
+#EXTINF:-1,KITV ABC News 4
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c7ed2016-ab63-46cf-b881-0e05f02918cb.m3u8?adMethod=3&sessionId=kitvlocalnow
+#EXTINF:-1,KVOA NBC 4 
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/02a758bd-6764-49df-8199-d26aaf6ab3e3.m3u8?adMethod=3&sessionId=kvoalocalnow
+#EXTINF:-1,WAAY ABC News 31
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/6b3399b8-0ab2-48ee-b0c7-8d69722a6a29.m3u8?adMethod=3&sessionId=waaylocalnow
+#EXTINF:-1,KWWL NBC 7
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e20ea4ed-ca87-430a-a8c4-92cfa8fd33cf.m3u8?adMethod=3&sessionId=kwwllocalnow
+#EXTINF:-1,WKOW ABC 27
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/27e09272-cc4f-4160-8c3f-c6c8ef924add.m3u8?adMethod=3&sessionId=wkowlocalnow
+#EXTINF:-1,WAOW ABC 19
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e4268c24-9778-40ea-9cd9-63643de892b2.m3u8?adMethod=3&sessionId=waowlocalnow
+#EXTINF:-1,WQOQ ABC 18
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e697653b-af00-416a-9553-ab7f1fbcadfe.m3u8?adMethod=3&sessionId=wqowlocalnow
+#EXTINF:-1,WXOW ABC 19
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e988bce8-93e4-45f7-84fe-6ca7f841fff9.m3u8?adMethod=3&sessionId=wxowlocalnow
+#EXTINF:-1,WREX NBC 13
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/84c07322-892b-4007-bccb-1a63239eac13.m3u8?adMethod=3&sessionId=wrexlocalnow
+#EXTINF:-1,WSIL ABC 3
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/a4b9b881-cdf4-4859-b809-0f2abe62486d.m3u8?adMethod=3&sessionId=wsillocalnow
+#EXTINF:-1,FOX 13 Memphis NOW
+https://amg02104-imagicommcommun-whbqbreaking-newson-46m1s.amagi.tv/playlist.m3u8
+#EXTINF:-1,FOX 23 Tulsa NOW
+https://amg02104-imagicommcommun-kokibreaking-newson-7i1e1.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg Television
+https://m113640-fcdn.mp.lura.live/live/origin-contribution-m1-btv-plus-localnow.m3u8

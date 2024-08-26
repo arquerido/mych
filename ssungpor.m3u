@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,Africanews (Portugal)
+https://rakuten-africanews-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,AVF Family (Portugal)
+https://futuretoday-afv-family-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg Quicktake (Portugal)
+https://bloomberg-quicktake-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Bloomberg TV+ (Portugal)
+https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Brat TV (Geo)
+https://brat-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Documentaries (Portugal)
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Edgesport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Estv
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Euronews (Portugal)
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Rakuten Family (Portugal)
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Insight tv
+https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,MyTime Movie Network
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Qwest Classical
+https://qwest-classic-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Qwest Jazz and Beyond
+https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Qwest TV Mix
+https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Reuters (Portugal)
+https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Venn TV
+https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Young Hollywood	-
+https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
