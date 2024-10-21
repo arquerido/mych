@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:-1,Alien Nation
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-aliennation-tablo/playlist.m3u8
-#EXTINF:-1,Alien Nation alt
+#EXTINF:-1,Alien Nation alt check
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dust-int-tablo/playlist.m3u8
+#EXTINF:-1,Buzzfeed Unsolved
+https://amg01545-amg01545c3-tablo-us-3140.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Circle TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00432-circletv-circletv-tablo/playlist.m3u8
 #EXTINF:-1,Comedy Dynamics
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-tablo/playlist.m3u8
-#EXTINF:-1,Crime Hunters
+#EXTINF:-1,Crime Hunters (Geo) recheck
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-crimehunters-tablo/playlist.m3u8
 #EXTINF:-1,Docurama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-docurama-tablo/playlist.m3u8
@@ -29,6 +33,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-tablo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-tablo/playlist.m3u8
 #EXTINF:-1,Gusto TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-tablo/playlist.m3u8
+#EXTINF:-1,Gusto TV Espanol (Geo)
+https://amg01077-gustofast-amg01077c8-tablo-us-2221.playouts.now.amagi.tv/playlist/amg01077-gusto-gustoesp-tablous/playlist.m3u8
 #EXTINF:-1,The Design Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00441-thedesignnetwor-thedesignnetwork-tablo/playlist.m3u8	
 #EXTINF:-1,History Time
@@ -39,7 +45,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureus-tablo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-totalcrime-tablo/playlist.m3u8
 #EXTINF:-1,Nosey
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-nosey-tablo/playlist.m3u8
-#EXTINF:-1,Real Nosey
+#EXTINF:-1,Nosey Judge
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-realnosey-tablo/playlist.m3u8	
 #EXTINF:-1,Outside TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00354-outsidetv-outsidetv-tablo/playlist.m3u8
@@ -47,7 +53,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00354-outsidetv-outsidetv-tablo/pla
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00384-pac12network-pac12-tablo/playlist.m3u8
 #EXTINF:-1,DraftKings
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00697-draftkings-draftkings-tablo/playlist.m3u8
-#EXTINF:-1,Meateater
+#EXTINF:-1,Meateater recheck
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01786-themeateater-meateater-tablo/playlist.m3u8
 #EXTINF:-1,WPT World Poker Tour
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertour-tablo/playlist.m3u8
@@ -64,7 +70,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tabl
 #EXTINF:-1,Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1,Court TV Legendary
-https:/cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttvlegenderytrials-tablo/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttvlegenderytrials-tablo/playlist.m3u8
 #EXTINF:-1,Stories by AMC
 https://amc-amcpresents-1-us.tablo.wurl.tv/playlist.m3u8
 #EXTINF:-1,All Weddings WE Tv
@@ -99,30 +105,109 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00242-fubotvinc-fubomaximumeffort-t
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00242-fubotvinc-fubosports-tablo/playlist.m3u8
 #EXTINF:-1,Sports News Highlights
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01756-newsnet-sportsnewshighlights-tablo/playlist.m3u8
-#EXTINF:-1,Surfer
+#EXTINF:-1,Racing America (Geo)
+https://amg01416-amg01416c3-tablo-us-3843.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Surfer (Geo)
 https://amg13231-actve-amg13231c1-tablo-us-1225.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-tablous/playlist.m3u8
-#EXTINF:-1,Skate Boarding
+#EXTINF:-1,Skate Boarding (Geo)
 https://amg13231-actve-amg13231c1-tablo-us-1225.playouts.now.amagi.tv/playlist/amg13231-actvefast-skateboarding-tablous/playlist.m3u8
-#EXTINF:-1,Snow Boarder
+#EXTINF:-1,Snow Boarder (Geo)
 https://amg13231-actve-amg13231c1-tablo-us-1225.playouts.now.amagi.tv/playlist/amg13231-actvefast-snowboarder-tablous/playlist.m3u8
-#EXTINF:-1,Powder
+#EXTINF:-1,Powder (Geo)
 https://amg13231-actve-amg13231c1-tablo-us-1225.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-tablous/playlist.m3u8
-#EXTINF:-1,Bike
+#EXTINF:-1,Bike (Geo)
 https://amg13231-actve-amg13231c1-tablo-us-1225.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-tablous/playlist.m3u8
 #EXTINF:-1,Mytime Movie Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovienetwork-tablo/playlist.m3u8
+#EXTINF:-1,Almost Friday (Geo)
+https://amg02042-ottstudio-amg02042c2-tablo-us-1757.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-almostfriday-tablous/playlist.m3u8
+#EXTINF:-1,Fawesome (Geo)
+https://amg00108-amg00108c3-tablo-us-3082.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Freemovies Plus (Geo)
 https://amg02042-ottstudio-amg02042c15-tablo-us-950.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviespluslite-tablous/playlist.m3u8
-#EXTINF:-1,Christmas Plus (Geo)
-https://amg02042-ottstudio-amg02042c17-tablo-us-1661.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-christmaspluslite-tablous/playlist.m3u8
 #EXTINF:-1,Bloomberg TV+
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02298-nuvyyoinc-bloombergtv-tablo/playlist.m3u8
 #EXTINF:-1,Bloomberg Originals
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02298-nuvyyoinc-bloombergoriginals-tablo/playlist.m3u8
-#EXTINF:-1,Carbon TV
+#EXTINF:-1,Carbon TV check
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-carbontv-tablo/playlist.m3u8
 #EXTINF:-1,QVC The Big Dish
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01717-qvcinc-thebigdish-tablo/playlist.m3u8
+#EXTINF:-1,The Country Network (Geo)
+https://amg00600-tcn-amg00600c1-tablo-us-1764.playouts.now.amagi.tv/playlist/amg00600-thecountrynetworkfast-thecountrynetwork-tablous/playlist.m3u8
 #EXTINF:-1,The Washington Post
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02298-nuvyyoinc-washingtonpost-tablo/playlist.m3u8
-
+#EXTINF:-1,Time TV (Geo)
+https://amg01851-timetv-amg01851c1-tablo-us-1940.playouts.now.amagi.tv/playlist/amg01851-timefast-time-tablous/playlist.m3u8
+#EXTINF:-1,KATC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-katc-tablo/playlist.m3u8
+#EXTINF:-1,KBZK
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-kbzk-tablo/playlist.m3u8
+#EXTINF:-1,KERO
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-kero-tablo/playlist.m3u8
+#EXTINF:-1,KGTV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-kgtv-tablo/playlist.m3u8
+#EXTINF:-1,KGUN
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-kgun-tablo/playlist.m3u8
+#EXTINF:-1,KIVI
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-kivi-tablo/playlist.m3u8
+#EXTINF:-1,KJRH
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-kjrh-tablo/playlist.m3u8
+#EXTINF:-1,KMGH
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-kmgh-tablo/playlist.m3u8
+#EXTINF:-1,KMTV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-kmtv-tablo/playlist.m3u8
+#EXTINF:-1,KNXV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-knxv-tablo/playlist.m3u8
+#EXTINF:-1,KOAA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-koaa-tablo/playlist.m3u8
+#EXTINF:-1,KPAX
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-kpax-tablo/playlist.m3u8
+#EXTINF:-1,KRIS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-kris-tablo/playlist.m3u8
+#EXTINF:-1,KSBY
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-ksby-tablo/playlist.m3u8
+#EXTINF:-1,KSHB
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-kshb-tablo/playlist.m3u8
+#EXTINF:-1,KSTU
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-kstu-tablo/playlist.m3u8
+#EXTINF:-1,KTNV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-ktnv-tablo/playlist.m3u8
+#EXTINF:-1,KTVH
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-ktvh-tablo/playlist.m3u8
+#EXTINF:-1,KTVQ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-ktvq-tablo/playlist.m3u8
+#EXTINF:-1,KXXV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-kxxv-tablo/playlist.m3u8
+#EXTINF:-1,WCPO
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wcpo-tablo/playlist.m3u8
+#EXTINF:-1,WEWS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wews-tablo/playlist.m3u8
+#EXTINF:-1,WFTS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wfts-tablo/playlist.m3u8
+#EXTINF:-1,WFTX
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wftx-tablo/playlist.m3u8
+#EXTINF:-1,WGBA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wgba-tablo/playlist.m3u8
+#EXTINF:-1,WKBW
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wkbw-tablo/playlist.m3u8
+#EXTINF:-1,WLEX
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wlex-tablo/playlist.m3u8
+#EXTINF:-1,WMAR
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wmar-tablo/playlist.m3u8
+#EXTINF:-1,WPTV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wptv-tablo/playlist.m3u8
+#EXTINF:-1,WRTV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wrtv-tablo/playlist.m3u8
+#EXTINF:-1,WSYM
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wsym-tablo/playlist.m3u8
+#EXTINF:-1,WTKR
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wtkr-tablo/playlist.m3u8
+#EXTINF:-1,WTMJ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wtmj-tablo/playlist.m3u8
+#EXTINF:-1,WTVF
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wtvf-tablo/playlist.m3u8
+#EXTINF:-1,WTVR
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wtvr-tablo/playlist.m3u8
+#EXTINF:-1,WTXL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-wtxl-tablo/playlist.m3u8
