@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", YGTV
+https://newidco-ygtv-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Weekly Idol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5466
+#EXTINF:0 type="stream" channelId="-1", Arirang K-pop
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5468
+#EXTINF:0 type="stream" channelId="-1", Dingo Music
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5474
+#EXTINF:0 type="stream" channelId="-1", SBS Inkigayo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5490
+#EXTINF:0 type="stream" channelId="-1", Show Champion
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5464
+#EXTINF:0 type="stream" channelId="-1", NEW K-ID
+https://newidco-newkid-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", NEW K-ID 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
+#EXTINF:0 type="stream" channelId="-1", NEW K-POP (Brazil)
+https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
+#EXTINF:0 type="stream" channelId="-1", NEW K-POP (México)
+https://newidco-newkid-1-mx.lg.wurl.tv/3000.m3u8
+#EXTINF:0 type="stream" channelId="-1", NEW K-POP (EU)
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", NEW K-POP (Canada)
+https://newidco-newkid-1-ca.lg.wurl.tv/3000.m3u8
+#EXTINF:0 type="stream" channelId="-1", NEW K-POP (TCL)
+https://2f63ef134ad044c8bc3b4ab0131658e9.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/TCLTVPlus_NewKPop/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", SBS-M
+https://p.skypeak.cloud/stream.m3u8?type=s&id=9%2Chd%2Cl&auth=028aad7fa81bd3f8300de585db22bf69193d63338d9
+#EXTINF:0 type="stream" channelId="-1", SBS-M (alt)
+https://p2.skypeak.cloud/stream.m3u8?type=s&id=9%2Csd%2Cl&auth=e429ba36ee810e2382fbdc17bc084944193d633f6f4
+#EXTINF:0 type="stream" channelId="-1", SBS-M (alt 2)
+https://p.skypeak.cloud/stream.m3u8?type=s&id=9%2Csd%2Cl&auth=7e3261315d574524cc99707a175cf35c193d6347180
+#EXTINF:0 type="stream" channelId="-1", MNet
+https://everylive.space/live/mnet/livestream.m3u8
+#EXTINF:0 type="stream" channelId="-1", Arirang (Music)
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Clips
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
+#EXTINF:0 type="stream" channelId="-1", Whosfan News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=889
+#EXTINF:0 type="stream" channelId="-1", Mukbang
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=882
+#EXTINF:0 type="stream" channelId="-1", K-Content
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6176ff3ba00900000763710f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0 type="stream" channelId="-1", KMovies
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+#EXTINF:0 type="stream" channelId="3249", KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:0 type="stream" channelId="-1", KBS 1
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:0 type="stream" channelId="-1", KBS 2
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:0 type="stream" channelId="-1", MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="5008", SBS
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", SBS funE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1283
+#EXTINF:0 type="stream" channelId="-1", SBS Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1293
+#EXTINF:0 type="stream" channelId="-1", SBS World
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
+#EXTINF:0 type="stream" channelId="-1", SBS Internacional
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=622
+#EXTINF:0 type="stream" channelId="-1", MBC 1
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", KBS1
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1734552199&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzQ1NTIxOTl9fX1dfQ__&Signature=EkBR1fFbcLya9n~dcmz0B7akvNTN-LR4mLeByFWOzaIz~yHNzlV0iGnQphdonZQ50TPvXF~TouKGivc-341avP3XRghubOyAaAFSqUJGc1p8Z~l9cCm1NIoiknLni4m7tRXBmfLr9dHukL8WOmkDev8NKYRE84eS0PuqoaRHdm7aI97aYLkP-FCl2GmZP984dawOr3x4sFulepBOKJFHWWPDRiQlrzft2wPBYuLYu4j~D6lWVlXtgY9EedpErSAYkjtNdzfr2Gx3tPMjbt-OGqNRpXi0096qNQJMDI~ZYUR-hfmFCvRKDDgALW8ERNPePlnVe5cnhEUMj7hEydzU9A__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:0 type="stream" channelId="-1", KBS2
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1734552185&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzQ1NTIxODV9fX1dfQ__&Signature=EkVV6-88PnDc2lhGIjCVQgx4jsrqRFXJKWWt1YbXo5kdhxnQqoZmrZN~I6txaSbCdsvvZ7NvZv8uy6du24wqEqhQNDVkXjn5MM2H8aLfOtaviO1U2tIVBGXtcfOT68JYNAG6qRbIEZvt0L5tLczOtwnWNXatEv9tzwnahAdCv8ZCBC0VXSqJCreX4kJyCFNeP2aBoY6u9wfbtdqRJryxWopv8W3Xq42rr-xBYm7bUC1hJrWb6KA-ktDDBUS5x7HJAuiOuSWm3XBZ7wxCJTbdrhtCmBwiVMx3eRq6yECcyLeS92Vw899SZbUCAVnB72IVHywONKR0yjQ6LJVRyfqzYQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
+
+
+
