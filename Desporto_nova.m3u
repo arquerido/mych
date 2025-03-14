@@ -1,0 +1,153 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1" tvg-name="Benfica TV" tvg-logo="" group-name="",Benfica TV
+https://dokko1new.koskoros.ru/dokko1/premium380/mono.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Sport TV1 (a)" tvg-logo="" group-name="",Sport TV1 (a)
+https://windnew.koskoros.ru/wind/premium49/mono.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="Sport TV1 (b)" tvg-logo="" group-name="",Sport TV1 (b)
+https://top2new.koskoros.ru/top2/eplayerSPORTTV1/mono.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="Sport TV1 (c)" tvg-logo="" group-name="",Sport TV1 (c)
+https://850466559.cdnmistreat.net:8443/hls/xt4p2tyjgzsp4t.m3u8?s=rQ13v-tzSAs0v1MXZBNDbg&e=1741917236
+
+#EXTINF:-1 tvg-id="5" tvg-name="Sport TV1 (d)" tvg-logo="" group-name="",Sport TV1 (d)
+https://love2live.wideiptv.top/SPT1/index.fmp4.m3u8?token=90c89e97422fcb0ccb010176c626482076bc9740-60c4ca533e87d771192edc552a2406a1-1741906157-1741895357
+
+#EXTINF:-1 tvg-id="6" tvg-name="Sport TV2 (a)" tvg-logo="" group-name="",Sport TV2 (a)
+https://dokko1new.koskoros.ru/dokko1/premium74/mono.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="Sport TV2 (b)" tvg-logo="" group-name="",Sport TV2 (b)
+https://top2new.koskoros.ru/top2/eplayerSPORTTV2/mono.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="Sport TV2 (c)" tvg-logo="" group-name="",Sport TV2 (c)
+https://602014809.cdnexpansion.net:8443/hls/a5jiwbhjivxe1us.m3u8?s=n8SWU_dvMFrLgIPdHubBIg&e=1741985855
+
+#EXTINF:-1 tvg-id="7" tvg-name="Sport TV2 (d)" tvg-logo="" group-name="",Sport TV2 (d)
+https://602014809.cdnexpansion.net:8443/hls/a5jiwbhjivxe1us.m3u8?s=p0_1080qiuk6Kxk60lyjJQ&e=1741986117
+
+#EXTINF:-1 tvg-id="8" tvg-name="Sport TV3 (a)" tvg-logo="" group-name="",Sport TV3 (a)
+https://ddy6new.koskoros.ru/ddy6/premium454/mono.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Sport TV3 (b)" tvg-logo="" group-name="",Sport TV3 (b)
+https://top2new.koskoros.ru/top2/eplayerSPORTTV3/mono.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-name="Sport TV3 (c)" tvg-logo="" group-name="",Sport TV3 (c)
+https://51a.pricesaskeloadsc.com/global/sportv_3pt/index.m3u8?token=70288ed06231c45232ed9148051044f72e3f3e31-95-1741919305-1741886905
+
+#EXTINF:-1 tvg-id="11" tvg-name="Sport TV4 (a)" tvg-logo="" group-name="",Sport TV4 (a)
+https://ddy6new.koskoros.ru/ddy6/premium289/mono.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="Sport TV4 (b)" tvg-logo="" group-name="",Sport TV4 (b)
+https://top2new.koskoros.ru/top2/eplayerSPORTTV4/mono.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-name="Sport TV4 (c)" tvg-logo="" group-name="",Sport TV4 (c)
+https://ca8s9.pricesaskeloadsc.com/global/sportv_4pt/index.m3u8?token=98d4acaf23e4180fea8d7a1bcadea9519837d7cf-bf-1741919381-1741886981
+
+#EXTINF:-1 tvg-id="14" tvg-name="Sport TV5 (a)" tvg-logo="" group-name="",Sport TV5 (a)
+https://ddy6new.koskoros.ru/ddy6/premium290/mono.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="Sport TV5 (b)" tvg-logo="" group-name="",Sport TV5 (b)
+https://top2new.koskoros.ru/top2/eplayerSPORTTV5/mono.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="Sport TV5 (c)" tvg-logo="" group-name="",Sport TV5 (c)
+https://602014809.cdnexpansion.net:8443/hls/vndxx07b0.m3u8?s=KgttY4_3uQoKcPH1sOoXHg&e=1741986297
+
+#EXTINF:-1 tvg-id="16" tvg-name="Sport TV6 (a)" tvg-logo="" group-name="",Sport TV6 (a)
+https://ddy6new.koskoros.ru/ddy6/premium291/mono.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="Sport TV6 (b)" tvg-logo="" group-name="",Sport TV6 (b)
+https://top2new.koskoros.ru/top2/eplayerSPORTTV6/mono.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-name="Sport TV6 (c)" tvg-logo="" group-name="",Sport TV6 (c)
+https://cbado.pricesaskeloadsc.com/global/sportv_6pt/index.m3u8?token=ce0636b3396c71245e4cd8d176558a997c4cf88e-d5-1741919483-1741887083
+
+#EXTINF:-1 tvg-id="19" tvg-name="DAZN 1 (Eleven Sports PT)" tvg-logo="" group-name="",DAZN 1 (Eleven Sports PT)
+https://ddy6new.koskoros.ru/ddy6/premium455/mono.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-name="DAZN 2 (Eleven Sports PT)" tvg-logo="" group-name="",DAZN 2 (Eleven Sports PT)
+https://windnew.koskoros.ru/wind/premium456/mono.m3u8
+
+#EXTINF:-1 tvg-id="21" tvg-name="DAZN 3 (Eleven Sports PT)" tvg-logo="" group-name="",DAZN 3 (Eleven Sports PT)
+https://ddy6new.koskoros.ru/ddy6/premium457/mono.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-name="DAZN 4 (Eleven Sports PT)" tvg-logo="" group-name="",DAZN 4 (Eleven Sports PT)
+https://ddy6new.koskoros.ru/ddy6/premium458/mono.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-name="DAZN 5 (Eleven Sports PT)" tvg-logo="" group-name="",DAZN 5 (Eleven Sports PT)
+https://ddy6new.koskoros.ru/ddy6/premium459/mono.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-name="ESPN 1 (Brasil)" tvg-logo="" group-name="",ESPN 1 (Brasil)
+https://zekonew.koskoros.ru/zeko/premium81/mono.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-name="ESPN 2 (Brasil)" tvg-logo="" group-name="",ESPN 2 (Brasil)
+https://zekonew.koskoros.ru/zeko/premium82/mono.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-name="ESPN 3 (Brasil)" tvg-logo="" group-name="",ESPN 3 (Brasil)
+https://zekonew.koskoros.ru/zeko/premium83/mono.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-name="ESPN 4 (Brasil)" tvg-logo="" group-name="",ESPN 4 (Brasil)
+https://zekonew.koskoros.ru/zeko/premium84/mono.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="Arena Sport 1" tvg-logo="" group-name="",Arena Sport 1
+https://ddy6new.koskoros.ru/ddy6/premium432/mono.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="Arena Sport 2" tvg-logo="" group-name="",Arena Sport 2
+https://zekonew.koskoros.ru/zeko/premium433/mono.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-name="Arena Sport 3" tvg-logo="" group-name="",Arena Sport 3
+https://ddy6new.koskoros.ru/ddy6/premium434/mono.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="Arena Sport 4" tvg-logo="" group-name="",Arena Sport 4
+https://windnew.koskoros.ru/wind/premium580/mono.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-name="beIN Sports MENA English 1" tvg-logo="" group-name="",beIN Sports MENA English 1
+https://windnew.koskoros.ru/wind/premium61/mono.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="beIN Sports MENA English 2" tvg-logo="" group-name="",beIN Sports MENA English 2
+https://windnew.koskoros.ru/wind/premium90/mono.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="beIN Sports MENA English 3" tvg-logo="" group-name="",beIN Sports MENA English 3
+https://windnew.koskoros.ru/wind/premium46/mono.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="DAZN Spain 1" tvg-logo="" group-name="",DAZN Spain 1
+https://windnew.koskoros.ru/wind/premium445/mono.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-name="DAZN Spain 2" tvg-logo="" group-name="",DAZN Spain 2
+https://zekonew.koskoros.ru/zeko/premium446/mono.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-name="DAZN Spain 3" tvg-logo="" group-name="",DAZN Spain 3
+https://zekonew.koskoros.ru/zeko/premium447/mono.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="DAZN Spain 4" tvg-logo="" group-name="",DAZN Spain 4
+https://zekonew.koskoros.ru/zeko/premium448/mono.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="Eleven Sports PL 1" tvg-logo="" group-name="",Eleven Sports PL 1
+https://windnew.koskoros.ru/wind/premium71/mono.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="Eleven Sports PL 2" tvg-logo="" group-name="",Eleven Sports PL 2
+https://windnew.koskoros.ru/wind/premium72/mono.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="Eleven Sports PL 3" tvg-logo="" group-name="",Eleven Sports PL 3
+https://windnew.koskoros.ru/wind/premium73/mono.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-name="TNT Brasil" tvg-logo="" group-name="",TNT Brasil
+https://windnew.koskoros.ru/wind/premium87/mono.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="TNT Sports UK 1" tvg-logo="" group-name="",TNT Sports UK 1
+https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="TNT Sports UK 2" tvg-logo="" group-name="",TNT Sports UK 2
+https://nfsnew.koskoros.ru/nfs/premium32/mono.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-name="TNT Sports UK 3" tvg-logo="" group-name="",TNT Sports UK 3
+https://nfsnew.koskoros.ru/nfs/premium33/mono.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="TNT Sports UK 4" tvg-logo="" group-name="",TNT Sports UK 4
+https://nfsnew.koskoros.ru/nfs/premium34/mono.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-name="SuperSport MaXimo 1" tvg-logo="" group-name="",SuperSport MaXimo 1
+https://dokko1new.koskoros.ru/dokko1/premium572/mono.m3u8
+
+
