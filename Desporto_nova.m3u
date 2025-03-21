@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1  tvg-name="Benfica TV" tvg-id="1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-pt.png?raw=true",Benfica TV
+#EXTINF:-1  tvg-name="Benfica TV" tvg-id="Benfica.TV.fr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-pt.png?raw=true",Benfica TV
 https://dokko1new.koskoros.ru/dokko1/premium380/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV1 (a)" tvg-id="2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",Sport TV1 (a)
 https://windnew.koskoros.ru/wind/premium49/mono.m3u8
