@@ -1,8 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1  tvg-name="Benfica TV" tvg-id="BTV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-pt.png?raw=true",Benfica TV
-https://dokko1new.koskoros.ru/dokko1/premium380/mono.m3u8?format=ts
+https://dokko1new.koskoros.ru/dokko1/premium380/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV1 (a)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",Sport TV1 (a)
-https://windnew.koskoros.ru/wind/premium49/mono.m3u8
+https://windnew.koskoros.ru/wind/premium49/mono.m3u8?format=ts
 #EXTINF:-1  tvg-name="Sport TV1 (b)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",Sport TV1 (b)
 https://top2new.koskoros.ru/top2/eplayerSPORTTV1/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV1 (c)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",Sport TV1 (c)
