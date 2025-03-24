@@ -1,7 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1  tvg-name="Benfica TV" tvg-id="BTV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-pt.png?raw=true",Benfica TV
-#EXTVLCOPT:http-referrer=https://daddylive.mp/
-#EXTVLCOPT:http-origin=https://daddylive.mp
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.koskoros.ru/dokko1/premium380/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV1 (a)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",Sport TV1 (a)
@@ -102,3 +101,49 @@ https://nfsnew.koskoros.ru/nfs/premium33/mono.m3u8
 https://nfsnew.koskoros.ru/nfs/premium34/mono.m3u8
 #EXTINF:-1  tvg-name="SuperSport MaXimo 1" tvg-id="MAXIMO.1.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-maximo1-za.png?raw=true",SuperSport MaXimo 1
 https://dokko1new.koskoros.ru/dokko1/premium572/mono.m3u8
+#EXTINF:-1  tvg-name="Astro Supert Sport 1" tvg-id="Astro.SuperSport.HD.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-sports-plus-my.png?raw=true",Astro Supert Sport 1
+https://zekonew.koskoros.ru/zeko/premium123/mono.m3u8
+#EXTINF:-1  tvg-name="Astro Supert Sport 2" tvg-id="Astro.SuperSport.2.HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-sports-plus-my.png?raw=true",Astro Supert Sport 2
+https://windnew.koskoros.ru/wind/premium124/mono.m3u8
+#EXTINF:-1  tvg-name="Astro Supert Sport 3" tvg-id="Astro.SuperSport.3.HD.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-sports-plus-my.png?raw=true",Astro Supert Sport 3
+https://zekonew.koskoros.ru/zeko/premium125/mono.m3u8
+#EXTINF:-1  tvg-name="Astro Supert Sport 4" tvg-id="Astro.SuperSport.4.HD.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-sports-plus-my.png?raw=true",Astro Supert Sport 4
+https://zekonew.koskoros.ru/zeko/premium126/mono.m3u8
+#EXTINF:-1  tvg-name="Arena Sport 1 Premium" tvg-id="arena-premium-1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/arena-sport-1-hr.png?raw=true",Arena Sport 1 Premium
+https://windnew.koskoros.ru/wind/premium134/mono.m3u8
+#EXTINF:-1  tvg-name="Arena Sport 2 Premium" tvg-id="arena-premium-2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/arena-sport-2-hr.png?raw=true",Arena Sport 2 Premium
+https://ddy6new.koskoros.ru/ddy6/premium135/mono.m3u8
+#EXTINF:-1  tvg-name="Arena Sport 3 Premium" tvg-id="arena-premium-3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/arena-sport-3-hr.png?raw=true",Arena Sport 3 Premium
+https://ddy6new.koskoros.ru/ddy6/premium139/mono.m3u8
+#EXTINF:-1  tvg-name="beIN SPORTS MENA 1" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-max-hz-int.png?raw=true",beIN SPORTS MENA 1
+https://dokko1new.koskoros.ru/dokko1/premium91/mono.m3u8
+#EXTINF:-1  tvg-name="beIN SPORTS MENA 2" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-max-hz-int.png?raw=true",beIN SPORTS MENA 2
+https://dokko1new.koskoros.ru/dokko1/premium92/mono.m3u8
+#EXTINF:-1  tvg-name="beIN SPORTS MENA 3" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-max-hz-int.png?raw=true",beIN SPORTS MENA 3
+https://dokko1new.koskoros.ru/dokko1/premium93/mono.m3u8
+#EXTINF:-1  tvg-name="beIN SPORTS MENA 4" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-max-hz-int.png?raw=true",beIN SPORTS MENA 4
+https://dokko1new.koskoros.ru/dokko1/premium94/mono.m3u8
+#EXTINF:-1  tvg-name="beIN SPORTS MENA 5" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-max-hz-int.png?raw=true",beIN SPORTS MENA 5
+https://dokko1new.koskoros.ru/dokko1/premium95/mono.m3u8
+#EXTINF:-1  tvg-name="beIN SPORTS MENA 6" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-max-hz-int.png?raw=true",beIN SPORTS MENA 6
+https://dokko1new.koskoros.ru/dokko1/premium96/mono.m3u8
+#EXTINF:-1  tvg-name="beIN SPORTS MENA 7" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-max-hz-int.png?raw=true",beIN SPORTS MENA 7
+https://dokko1new.koskoros.ru/dokko1/premium97/mono.m3u8
+#EXTINF:-1  tvg-name="beIN SPORTS MENA 8" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-max-hz-int.png?raw=true",beIN SPORTS MENA 8
+https://ddy6new.koskoros.ru/ddy6/premium98/mono.m3u8
+#EXTINF:-1  tvg-name="beIN SPORTS OLYMPIC CHANNEL" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-max-hz-int.png?raw=true",beIN SPORTS OLYMPIC CHANNEL
+https://ddy6new.koskoros.ru/ddy6/premium99/mono.m3u8
+#EXTINF:-1  tvg-name="beIN SPORTS XTRA" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-max-hz-int.png?raw=true",beIN SPORTS XTRA
+https://ddy6new.koskoros.ru/ddy6/premium100/mono.m3u8
+#EXTINF:-1  tvg-name="beIN SPORTS MAX 4" tvg-id="http://beinsports.fr/" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-max-hz-int.png?raw=true",beIN SPORTS MAX 4
+https://ddy6new.koskoros.ru/ddy6/premium494/mono.m3u8
+#EXTINF:-1  tvg-name="beIN SPORTS MAX 5" tvg-id="http://beinsports.fr/" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-max-hz-int.png?raw=true",beIN SPORTS MAX 5
+https://ddy6new.koskoros.ru/ddy6/premium495/mono.m3u8
+#EXTINF:-1  tvg-name="beIN SPORTS MAX 6" tvg-id="http://beinsports.fr/" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-max-hz-int.png?raw=true",beIN SPORTS MAX 6
+https://ddy6new.koskoros.ru/ddy6/premium496/mono.m3u8
+#EXTINF:-1  tvg-name="beIN SPORTS MAX 7" tvg-id="http://beinsports.fr/" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-max-hz-int.png?raw=true",beIN SPORTS MAX 7
+https://ddy6new.koskoros.ru/ddy6/premium497/mono.m3u8
+#EXTINF:-1  tvg-name="beIN SPORTS MAX 8" tvg-id="http://beinsports.fr/" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-max-hz-int.png?raw=true",beIN SPORTS MAX 8
+https://ddy6new.koskoros.ru/ddy6/premium498/mono.m3u8
+#EXTINF:-1  tvg-name="beIN SPORTS MAX 9" tvg-id="http://beinsports.fr/",beIN SPORTS MAX 9
+https://ddy6new.koskoros.ru/ddy6/premium499/mono.m3u8
