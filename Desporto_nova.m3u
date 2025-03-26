@@ -1,43 +1,44 @@
-#EXTM3U
-
+﻿#EXTM3U
 #EXTINF:-1  tvg-name="Benfica TV (a)" tvg-id="BTV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-pt.png?raw=true",Benfica TV (a)
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.koskoros.ru/dokko1/premium380/mono.m3u8
-
 #EXTINF:-1  tvg-name="Benfica TV (b)" tvg-id="BTV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-pt.png?raw=true",Benfica TV (b)
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrunns.iosplayer.ru/dokko1/premium380/mono.m3u8
-
 #EXTINF:-1  tvg-name="Benfica TV (c)" tvg-id="BTV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-pt.png?raw=true",Benfica TV (c)
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/qHsts6HukRZ8yXYWMPWXWtpg-SAKQCbSSVv48GLIsSrOPPNq5PcajApLYslCEfet66AqAlM4WzTQjCpCWjM6OicQONcZYl2gQlKHm5YiG3iDUPYeSeQUl0OnZ919dg06UjIb3WhqZ_HW1-mfTe2SuHxt5ccJ5aNu1NvmmE5ZxwQ/hls/index.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://huhu.to/play/1531114528/index.m3u8
 #EXTINF:-1  tvg-name="Benfica TV (d)" tvg-id="BTV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-pt.png?raw=true",Benfica TV (d)
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/Atf5fNqH3txMptkj9e3ztcn9awOhX0yvKKvQEhxZfKwI-TetW1BLAy8O3vijWj1XPxRIrYuR5tR3S_Zxfg27l1067ViaApkJVMFh_KNhr8LVviHjRlb7aRmA1xGIlWgWZ37C8sNVVC6YRwBPzVKvFD06QuX9ZZ-JqaFO3NHkqG0/hls/index.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://huhu.to/play/1059923452/index.m3u8
+#EXTINF:-1  tvg-name="Benfica TV (e)" tvg-id="BTV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-pt.png?raw=true",Benfica TV (e)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://huhu.to/play/2894250918/index.m3u8
 #EXTINF:-1  tvg-name="Sport TV1 (a)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",Sport TV1 (a)
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium49/mono.m3u8
-
 #EXTINF:-1  tvg-name="Sport TV1 (b)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",Sport TV1 (b)
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://top2new.koskoros.ru/top2/eplayerSPORTTV1/mono.m3u8
-
 #EXTINF:-1  tvg-name="Sport TV1 (c)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",Sport TV1 (c)
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/i0CIIDtV028n0Chm8OVldgBvxfjdMG1Nmou20SGwsy8PIvIvtcKvZhAE4HGLgPmTcOfg63Q086x_IiGWngmqt79PdaSkBDCeD1qo5RL5UmEXN8GnAqX-VnNm3uX_ypYvxz96RVEj3KOHI8SmgJR2eDG_Xmb9U-d52PARCfRyayA/hls/index.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://huhu.to/play/3428940222/index.m3u8
 #EXTINF:-1  tvg-name="Sport TV1 (d)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",Sport TV1 (d)
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/Y_gtI7Jx7tlwDFBqKNjeNtcgOxHToj7ehwM0U55vPpWLpnF9HLd6SJ87q6-BdIbjHsydy1uppAWfcQi5wTsCwTjLeWFvs267L-1ecF_TfGcto7rcnqIPbn_BMGOP8z6AH4E8AYBBUTshQh5bc-FxbM1N4kVW-uB6Rt5VnX04pN8/hls/index.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://huhu.to/play/1000427064/index.m3u8
 #EXTINF:-1  tvg-name="Sport TV1 (e)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",Sport TV1 (e)
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/pSvvcRsH6Lla3KYg3r2gicEn0At2aT1bf5Xj5hL2d5jimgbBYr2qJbke1BxZ6-FDNgHgIwfvhh1vo6PGQ-P9MJ4xv5F5ckeuyqD1K93OBQcqRcliPLCfWWmg9Xy4RGTaprxB8JY6sr_u6UQKAxkfZAWuiikS5WSMWBmq_5-21Ak/hls/index.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://huhu.to/play/1438628906/index.m3u8
+#EXTINF:-1  tvg-name="Sport TV1 (f)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",Sport TV1 (f)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://huhu.to/play/3966581533/index.m3u8
+#EXTINF:-1  tvg-name="Sport TV1 (g)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",Sport TV1 (g)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://huhu.to/play/2112830810/index.m3u8
 #EXTINF:-1  tvg-name="Sport TV2 (a)" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true",Sport TV2 (a)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://dokko1new.koskoros.ru/dokko1/premium74/mono.m3u8
@@ -46,10 +47,10 @@ https://dokko1new.koskoros.ru/dokko1/premium74/mono.m3u8
 https://top2new.koskoros.ru/top2/eplayerSPORTTV2/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV2 (c)" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true",Sport TV2 (c)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://602014809.cdnexpansion.net:8443/hls/a5jiwbhjivxe1us.m3u8?s=n8SWU_dvMFrLgIPdHubBIg&e=1741985855
+https://huhu.to/play/2080453864/index.m3u8
 #EXTINF:-1  tvg-name="Sport TV2 (d)" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true",Sport TV2 (d)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://602014809.cdnexpansion.net:8443/hls/a5jiwbhjivxe1us.m3u8?s=p0_1080qiuk6Kxk60lyjJQ&e=1741986117
+https://huhu.to/play/2344682350/index.m3u8
 #EXTINF:-1  tvg-name="Sport TV3 (a)" tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true",Sport TV3 (a)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium454/mono.m3u8
@@ -58,7 +59,10 @@ https://ddy6new.koskoros.ru/ddy6/premium454/mono.m3u8
 https://top2new.koskoros.ru/top2/eplayerSPORTTV3/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV3 (c)" tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true",Sport TV3 (c)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://51a.pricesaskeloadsc.com/global/sportv_3pt/index.m3u8?token=70288ed06231c45232ed9148051044f72e3f3e31-95-1741919305-1741886905
+https://huhu.to/play/3064015582/index.m3u8
+#EXTINF:-1  tvg-name="Sport TV3 (d)" tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true",Sport TV3 (d)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://huhu.to/play/1096883544/index.m3u8
 #EXTINF:-1  tvg-name="Sport TV4 (a)" tvg-id="SPORT.TV4.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true",Sport TV4 (a)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium289/mono.m3u8
@@ -67,7 +71,10 @@ https://ddy6new.koskoros.ru/ddy6/premium289/mono.m3u8
 https://top2new.koskoros.ru/top2/eplayerSPORTTV4/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV4 (c)" tvg-id="SPORT.TV4.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true",Sport TV4 (c)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ca8s9.pricesaskeloadsc.com/global/sportv_4pt/index.m3u8?token=98d4acaf23e4180fea8d7a1bcadea9519837d7cf-bf-1741919381-1741886981
+https://huhu.to/play/75626190/index.m3u8
+#EXTINF:-1  tvg-name="Sport TV4 (d)" tvg-id="SPORT.TV4.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true",Sport TV4 (d)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://huhu.to/play/4081172808/index.m3u8
 #EXTINF:-1  tvg-name="Sport TV5 (a)" tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true",Sport TV5 (a)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium290/mono.m3u8
@@ -76,7 +83,10 @@ https://ddy6new.koskoros.ru/ddy6/premium290/mono.m3u8
 https://top2new.koskoros.ru/top2/eplayerSPORTTV5/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV5 (c)" tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true",Sport TV5 (c)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://602014809.cdnexpansion.net:8443/hls/vndxx07b0.m3u8?s=KgttY4_3uQoKcPH1sOoXHg&e=1741986297
+https://huhu.to/play/971104126/index.m3u8
+#EXTINF:-1  tvg-name="Sport TV5 (d)" tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true",Sport TV5 (d)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://huhu.to/play/3458328824/index.m3u8
 #EXTINF:-1  tvg-name="Sport TV6 (a)" tvg-id="Sport.TV.6.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-6-pt.png?raw=true",Sport TV6 (a)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium291/mono.m3u8
@@ -85,7 +95,10 @@ https://ddy6new.koskoros.ru/ddy6/premium291/mono.m3u8
 https://top2new.koskoros.ru/top2/eplayerSPORTTV6/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV6 (c)" tvg-id="Sport.TV.6.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-6-pt.png?raw=true",Sport TV6 (c)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://cbado.pricesaskeloadsc.com/global/sportv_6pt/index.m3u8?token=ce0636b3396c71245e4cd8d176558a997c4cf88e-d5-1741919483-1741887083
+https://huhu.to/play/2118231470/index.m3u8
+#EXTINF:-1  tvg-name="Sport TV7" tvg-id="http://sport.tv.7.hd.pt/" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-mais-pt.png?raw=true",Sport TV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://huhu.to/play/1126272030/index.m3u8
 #EXTINF:-1  tvg-name="DAZN 1 (Eleven Sports PT)" tvg-id="DAZN.1.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-1-pt.png?raw=true",DAZN 1 (Eleven Sports PT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium455/mono.m3u8
@@ -101,6 +114,9 @@ https://ddy6new.koskoros.ru/ddy6/premium458/mono.m3u8
 #EXTINF:-1  tvg-name="DAZN 5 (Eleven Sports PT)" tvg-id="DAZN.5.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-5-pt.png?raw=true",DAZN 5 (Eleven Sports PT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium459/mono.m3u8
+#EXTINF:-1  tvg-name="DAZN 6 (Eleven Sports PT)" tvg-id="DAZN.6.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-6-pt.png?raw=true",DAZN 6 (Eleven Sports PT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://huhu.to/play/3984238709/index.m3u8
 #EXTINF:-1  tvg-name="ESPN 1 (Brasil)" tvg-id="ESPN.1.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true",ESPN 1 (Brasil)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium81/mono.m3u8
@@ -242,3 +258,6 @@ https://ddy6new.koskoros.ru/ddy6/premium498/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS MAX 9" tvg-id="http://beinsports.fr/" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-9-max-int.png?raw=true",beIN SPORTS MAX 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium499/mono.m3u8
+#EXTINF:-1  tvg-name="beIN SPORTS MAX 10" tvg-id="http://beinsports.fr/" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-10-max-int.png?raw=true",beIN SPORTS MAX 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://huhu.to/play/3800425623/index.m3u8
