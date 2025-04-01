@@ -1,0 +1,242 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/CnphStu.png@jpg" group-title="24/7 STREAMS",(North) Korean Central Television
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://waw01-1gbe.fscdn.fun/nknews/index.m3u8?md5=nZUgHENb68iNLS8NR2ChvQ&expires=1737237600&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_xko39c40/width/640@jpg" group-title="DARTS",2025 International Darts Open Day One
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1NTc4ZGJlNTVjZDEyLWM1OTktYmE5NC1lNTA1LTA1NjFlMDUw/master.m3u8?md5=2pzLOaaT6ONLjrEUu6n0fQ&expires=1743811140&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_ihbjvih0/width/640@jpg" group-title="DARTS",2025 International Darts Open Day Three
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1ZmVjNDhjOThhZGU2LTVmYTgtOTYxNC02NTFhLWZmOWMyMjM1/master.m3u8?md5=BvfJTwuk7yaqEUaMC0Ck1A&expires=1743983940&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_do2btydu/width/640@jpg" group-title="DARTS",2025 International Darts Open Day Two
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1YTI2YmUzNTdkYzEzLTE4N2ItMjAwNC03MzJhLTdjMmJmYjkz/master.m3u8?md5=tWzjcGVONm0nbSZMF88FRA&expires=1743897540&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://p3-fs.flowstreams.top/cows1/preview.jpg@jpg" group-title="24/7 STREAMS",24/7 COWS
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://p3.flowstreams.top/cows1/index.m3u8?md5=BC_315UONip5N57SgSUs3A&expires=1740772800&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://waw01-1gbe.fscdn.fun/southpark/preview.jpg@jpg" group-title="24/7 STREAMS",24/7 South Park
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=otrcbfcS7DFjja08DP6NqQ&expires=1737196080&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://waw01-1gbe.fscdn.fun/thesimpsons/preview.jpg@jpg" group-title="24/7 STREAMS",24/7 The Simpsons
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=otrcbfcS7DFjja08DP6NqQ&expires=1737196080&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/phi-nyk/1280x720.png@jpg" group-title="BASKETBALL",76ers at Knicks
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1MmI0YTY4NDY0YTExLTY0N2ItYmVjNC04YmFlLTA2YmE0NTlk/master.m3u8?md5=aZXDhsi3BO1vj6_38gZm0Q&expires=1743560100&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/O6zHqVY.png@jpg" group-title="MLB",Arizona Diamondbacks vs. New York Yankees
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1MmQ4YjNmYzE5YTY1LTZjZDktMTEwNC05NzExLTc2M2QwNGE2/master.m3u8?md5=rtZM_Hhaf8hTY6iXbZXDEg&expires=1743559500&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/R0HfSWg.png@jpg" group-title="MLB",Atlanta Braves vs. Los Angeles Dodgers
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1OWUzMmMwNDYzMDRlLWI4MTktNTdhNC1kYTU5LTcwMDc3MTky/master.m3u8?md5=zJsrl60vNHU9jvM-beyUQA&expires=1743570600&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_s523d55u/width/640@jpg" group-title="DARTS",BetMGM Premier League - Night Nine
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1NjBhOGIwOGU3YjIzLTllMDktYjgzNC02ZjE3LTZjNDZlZTVj/master.m3u8?md5=HV9pCkjLyZ4b5Fc8JGaprg&expires=1743724740&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/VqJ7zLw.png@jpg" group-title="MLB",Cleveland Guardians vs. San Diego Padres
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1OGRiM2QyY2Q3MzU5LWUyNWEtYjY3NC1hYWIwLWEzMDM1NDU5/master.m3u8?md5=c0GeKDj0obSWmOyAnQy9Tg&expires=1743568800&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/sDtumi5.jpeg@jpg" group-title="FOOTBALL",Copa del Rey: Real Madrid vs Real Sociedad
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1NTU4ZjdlYzM5ODJhLTQxZjktNDI3NC0xYmJjLThmZTVhYzI3/master.m3u8?md5=hlkQS59PB0WvXdEWLFZg3A&expires=1743546600&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/7gjiEj8.png@jpg" group-title="MLB",Detroit Tigers vs. Seattle Mariners
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1ODVmMjkyM2QzZTM1LTk2OGItM2U2NC1kNjJmLTk2ZTkzMmRh/master.m3u8?md5=c0GeKDj0obSWmOyAnQy9Tg&expires=1743568800&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/hZpV2YX.jpeg@jpg" group-title="FOOTBALL",EPL: Arsenal vs Fulham
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1NGFiMTE1OTQ0ZTdjLTY0YWItZjc1NC1mMGQ3LWI2NjQ3NTll/master.m3u8?md5=tuyZroQiwx2R1tyFHXtr0Q&expires=1743542100&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/ZPTlH0X.jpeg@jpg" group-title="FOOTBALL",EPL: Nottingham Forest vs Manchester United
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1OTRlYjAwNjVkMTdjLTdlZmItNmYwNC1iODZiLTBjMDBiMjcz/master.m3u8?md5=vzfgQwSgqncEOd5Uxegf7w&expires=1743543000&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/XrdOCpt.jpeg@jpg" group-title="FOOTBALL",EPL: Wolverhampton Wanderers vs West Ham United
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1NGQ4YjM2NTNkMzJkLTU1Y2EtYmE2NC1kZjJkLWNlYzkyODZh/master.m3u8?md5=tuyZroQiwx2R1tyFHXtr0Q&expires=1743542100&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/kJ6395b.jpeg@jpg" group-title="24/7 STREAMS",ESPN
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1ZmQ0OWRiYjcxMmY4LTcwZGItMTQzNC1iOWY5LTdhY2U1YmQ2/master.m3u8?md5=ucMRWDzzwlEe3TgY4qZ2zg&expires=1705611600&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/K4h74lJ.jpeg@jpg" group-title="CRICKET",IPL: Kolkata Knight Riders vs Sunrisers Hyderabad
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1ODgzYTAxZjAzMGMyLTc1Y2ItNDJlNC0zMDM3LTQ2MzNlYTJl/master.m3u8?md5=JStEq8jDSktn2S5TM-FuKQ&expires=1743703200&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/1D2QAnR.jpeg@jpg" group-title="CRICKET",IPL: Lucknow Super Giants vs Mumbai Indians
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1ODgzYTAxZjAzMGMyLTc1Y2ItNDJlNC0zMDM3LTQ2MzNlYTJl/master.m3u8?md5=MEUmZ_yMC3mbU0P4AqMrbQ&expires=1743789600&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/tTfyw5I.jpeg@jpg" group-title="CRICKET",IPL: Royal Challengers Bangalore vs Gujarat Titans
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1ODgzYTAxZjAzMGMyLTc1Y2ItNDJlNC0zMDM3LTQ2MzNlYTJl/master.m3u8?md5=pD-21qDaErTTF5cbMNmmFA&expires=1743616800&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/bt1V3Dq.png@jpg" group-title="MLB",Kansas City Royals vs. Milwaukee Brewers
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1MjU5MGQ0MTJkM2FkLTJhYTgtNDVkNC1iNGEwLTgyOTZhMDJj/master.m3u8?md5=WmzkMWsDIt7Xdxu5Iq-83w&expires=1743561600&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/orl-sas/1280x720.png@jpg" group-title="BASKETBALL",Magic at Spurs
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1NTM1YWRkNDAwNjYzLWI3MjktMjBlNC1kMDhjLWFlNTdlODc1/master.m3u8?md5=RSXTrVYfqaR8VgV8p6NwFQ&expires=1743561900&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/PPqxOOd.png@jpg" group-title="MLB",Minnesota Twins vs. Chicago White Sox
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1ZjA3N2MwNjE0OWVkLTljZDgtMzAxNC05OTA4LTdhZTgzNDk5/master.m3u8?md5=WmzkMWsDIt7Xdxu5Iq-83w&expires=1743561600&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/pJtMdZ6.png@jpg" group-title="MLB",New York Mets vs. Miami Marlins
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1YjVmMDI3YjEwMzljLWQzNjgtZGI5NC1hZjZmLTBiOGNmODQ0/master.m3u8?md5=3oCipMhj_wNpxtnyq461MQ&expires=1743558000&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/nFaTozV.png@jpg" group-title="MLB",Pittsburgh Pirates vs. Tampa Bay Rays
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1ZjQ1MmEzYzNhMzIwLThiN2ItMGYyNC1mODEyLTEzNzI4YmQz/master.m3u8?md5=rtZM_Hhaf8hTY6iXbZXDEg&expires=1743559500&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_8he30hy3/width/640@jpg" group-title="DARTS",Players Championship 10 - Board 1
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1Mjk0ZDI2YWM2ZGIwLWU1MjktNWVmNC0xZTM2LWQxOTMxNGRj/master.m3u8?md5=Xuzy7phKrvPY1YKKCeLFpg&expires=1743551940&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_wlc8rfph/width/640@jpg" group-title="DARTS",Players Championship 10 - Board 2
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1YTQyZTNmN2U1MzI2LTA3ODktNDNjNC04NWY2LTFjMmVhNDZl/master.m3u8?md5=Xuzy7phKrvPY1YKKCeLFpg&expires=1743551940&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_5gpp09s2/width/640@jpg" group-title="DARTS",Players Championship 10 - Board 3
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1OTFkMDc0MzgyMmNmLWFlYWEtZTIwNC1iODQ3LWU3YmZiOTJk/master.m3u8?md5=Xuzy7phKrvPY1YKKCeLFpg&expires=1743551940&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_1zhr70zd/width/640@jpg" group-title="DARTS",Players Championship 10 - Board 4
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1N2ZjODVlZTdhNjZkLWM2YWEtODYxNC1jNGFlLTU5ZjhhNjlh/master.m3u8?md5=Xuzy7phKrvPY1YKKCeLFpg&expires=1743551940&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/tor-chi/1280x720.png@jpg" group-title="BASKETBALL",Raptors at Bulls
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1ZWZkZGFhMzRhYzA0LTFhZTktM2EzNC1jZWM1LWRlNDlkMjdj/master.m3u8?md5=RSXTrVYfqaR8VgV8p6NwFQ&expires=1743561900&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/V0jtSUC.png@jpg" group-title="MLB",San Francisco Giants vs. Houston Astros
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1ZGEzZjZhMzYwNTQ3LTU4OWEtYmY1NC1hMTYzLTRiODA1MWZl/master.m3u8?md5=b9AcyPd4s7fVHWqalRZMHQ&expires=1743563400&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/phx-mil/1280x720.png@jpg" group-title="BASKETBALL",Suns at Bucks
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=aZXDhsi3BO1vj6_38gZm0Q&expires=1743560100&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/LZSYXTh.png@jpg" group-title="MLB",Texas Rangers vs. Cincinnati Reds
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1MmZlYmFjYzI2MDc1LWYzZjktNjk3NC1lZDRhLTg5MDQ1NDU4/master.m3u8?md5=3oCipMhj_wNpxtnyq461MQ&expires=1743558000&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/min-den/1280x720.png@jpg" group-title="BASKETBALL",Timberwolves at Nuggets
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=Iv5hGa4R9h23fUkXptpgMQ&expires=1743569100&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/por-atl/1280x720.png@jpg" group-title="BASKETBALL",Trail Blazers at Hawks
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1ZjIxMWVhYWJhYjgxLTUzMzktMGQwNC1jNjAzLTBmMDQ4YmU5/master.m3u8?md5=aZXDhsi3BO1vj6_38gZm0Q&expires=1743560100&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/TEQeTuf.jpeg@jpg" group-title="COMBAT SPORTS",UFC 314
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1NzM5YWI2YWVjMWEyLTMwZDgtNjM5NC0yZTZkLTk3NWI5Nzhh/master.m3u8?md5=Ca7Xiid2-vxVNEFGrXt77Q&expires=1744520400&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/FWW3oLQ.jpeg@jpg" group-title="COMBAT SPORTS",UFC Fight Night: Emmett vs. Murphy
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1NzM5YWI2YWVjMWEyLTMwZDgtNjM5NC0yZTZkLTk3NWI5Nzhh/master.m3u8?md5=vhUdXVLJSN1TrdjqEa8PwQ&expires=1743915600&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/gsw-mem/1280x720.png@jpg" group-title="BASKETBALL",Warriors at Grizzlies
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1M2Q1MGEyZThiNWQwLThkMzktOGQyNC03NjdiLTE1NTQ2NmI3/master.m3u8?md5=RSXTrVYfqaR8VgV8p6NwFQ&expires=1743561900&net=MTguMjEyLjE1NC4xNTU%3D
+
+#EXTINF:-1 tvg-logo="https://mc-sl2jmurch6.b-cdn.net/thumbnail/plain/https://i.imgur.com/8RLQXsL.png@jpg" group-title="MLB",Washington Nationals vs. Toronto Blue Jays
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1YjQyNWFjNjFhNmYzLTE3NTktNDg1NC00YTQ3LTQxYmM1MTVi/master.m3u8?md5=HMXeDW9DoJpyVDhr60CMiQ&expires=1743559620&net=MTguMjEyLjE1NC4xNTU%3D
+
