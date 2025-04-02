@@ -1,206 +1,269 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1  tvg-name="Benfica TV (a)" tvg-id="BTV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-pt.png?raw=true",Benfica TV (a)
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium380/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium380/mono.m3u8
 #EXTINF:-1  tvg-name="Benfica TV (b)" tvg-id="BTV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-pt.png?raw=true",Benfica TV (b)
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://webhdrunns.iosplayer.ru/dokko1/premium380/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium380/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV1 (a)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",Sport TV1 (a)
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium49/mono.m3u8
+https://windnew.newkso.ru/wind/premium49/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV1 (b)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",Sport TV1 (b)
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://top2new.koskoros.ru/top2/eplayerSPORTTV1/mono.m3u8
+https://top2new.newkso.ru/top2/eplayerSPORTTV1/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV2 (a)" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true",Sport TV2 (a)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium74/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV2 (b)" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true",Sport TV2 (b)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://top2new.koskoros.ru/top2/eplayerSPORTTV2/mono.m3u8
+https://top2new.newkso.ru/top2/eplayerSPORTTV2/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV3 (a)" tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true",Sport TV3 (a)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium454/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium454/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV3 (b)" tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true",Sport TV3 (b)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://top2new.koskoros.ru/top2/eplayerSPORTTV3/mono.m3u8
+https://top2new.newkso.ru/top2/eplayerSPORTTV3/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV4 (a)" tvg-id="SPORT.TV4.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true",Sport TV4 (a)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium289/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV4 (b)" tvg-id="SPORT.TV4.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true",Sport TV4 (b)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://top2new.koskoros.ru/top2/eplayerSPORTTV4/mono.m3u8
+https://top2new.newkso.ru/top2/eplayerSPORTTV4/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV5 (a)" tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true",Sport TV5 (a)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium290/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium290/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV5 (b)" tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true",Sport TV5 (b)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://top2new.koskoros.ru/top2/eplayerSPORTTV5/mono.m3u8
+https://top2new.newkso.ru/top2/eplayerSPORTTV5/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV6 (a)" tvg-id="Sport.TV.6.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-6-pt.png?raw=true",Sport TV6 (a)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium291/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium291/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV6 (b)" tvg-id="Sport.TV.6.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-6-pt.png?raw=true",Sport TV6 (b)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://top2new.koskoros.ru/top2/eplayerSPORTTV6/mono.m3u8
+https://top2new.newkso.ru/top2/eplayerSPORTTV6/mono.m3u8
 #EXTINF:-1  tvg-name="DAZN 1 (Eleven Sports PT)" tvg-id="DAZN.1.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-1-pt.png?raw=true",DAZN 1 (Eleven Sports PT)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium455/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium455/mono.m3u8
 #EXTINF:-1  tvg-name="DAZN 2 (Eleven Sports PT)" tvg-id="DAZN.2.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-2-pt.png?raw=true",DAZN 2 (Eleven Sports PT)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium456/mono.m3u8
+https://windnew.newkso.ru/wind/premium456/mono.m3u8
 #EXTINF:-1  tvg-name="DAZN 3 (Eleven Sports PT)" tvg-id="DAZN.3.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-3-pt.png?raw=true",DAZN 3 (Eleven Sports PT)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium457/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium457/mono.m3u8
 #EXTINF:-1  tvg-name="DAZN 4 (Eleven Sports PT)" tvg-id="DAZN.4.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-4-pt.png?raw=true",DAZN 4 (Eleven Sports PT)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium458/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium458/mono.m3u8
 #EXTINF:-1  tvg-name="DAZN 5 (Eleven Sports PT)" tvg-id="DAZN.5.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-5-pt.png?raw=true",DAZN 5 (Eleven Sports PT)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium459/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium459/mono.m3u8
 #EXTINF:-1  tvg-name="ESPN 1 (Brasil)" tvg-id="ESPN.1.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-ar.png?raw=true",ESPN 1 (Brasil)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium81/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium81/mono.m3u8
 #EXTINF:-1  tvg-name="ESPN 2 (Brasil)" tvg-id="ESPN.2.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-2-ar.png?raw=true",ESPN 2 (Brasil)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium82/mono.m3u8
+https://windnew.newkso.ru/wind/premium82/mono.m3u8
 #EXTINF:-1  tvg-name="ESPN 3 (Brasil)" tvg-id="ESPN.3.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-3-ar.png?raw=true",ESPN 3 (Brasil)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium83/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium83/mono.m3u8
 #EXTINF:-1  tvg-name="ESPN 4 (Brasil)" tvg-id="ESPN.4.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/espn-4-nl.png?raw=true",ESPN 4 (Brasil)
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium85/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium85/mono.m3u8
 #EXTINF:-1  tvg-name="Arena Sport 1" tvg-id="Arena.Sport.1.HD.hr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/arena-sport-1-hr.png?raw=true",Arena Sport 1
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium432/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 #EXTINF:-1  tvg-name="Arena Sport 2" tvg-id="Arena.Sport.2.HD.hr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/arena-sport-2-hr.png?raw=true",Arena Sport 2
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium433/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
 #EXTINF:-1  tvg-name="Arena Sport 3" tvg-id="Arena.Sport.3.HD.hr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/arena-sport-3-hr.png?raw=true",Arena Sport 3
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium434/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
 #EXTINF:-1  tvg-name="Arena Sport 4" tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/arena-sport-4-hr.png?raw=true",Arena Sport 4
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium580/mono.m3u8
+https://windnew.newkso.ru/wind/premium580/mono.m3u8
 #EXTINF:-1  tvg-name="beIN Sports MENA English 1" tvg-id="bein.com-01_EN.bein" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png?raw=true",beIN Sports MENA English 1
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium61/mono.m3u8
+https://windnew.newkso.ru/wind/premium61/mono.m3u8
 #EXTINF:-1  tvg-name="beIN Sports MENA English 2" tvg-id="bein.com-02_EN.bein" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png?raw=true",beIN Sports MENA English 2
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium90/mono.m3u8
+https://windnew.newkso.ru/wind/premium90/mono.m3u8
 #EXTINF:-1  tvg-name="beIN Sports MENA English 3" tvg-id="bein.com-03_EN.bein" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/horizontal/bein-sports-3-hz-int.png?raw=true",beIN Sports MENA English 3
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium46/mono.m3u8
+https://windnew.newkso.ru/wind/premium46/mono.m3u8
 #EXTINF:-1  tvg-name="DAZN Spain 1" tvg-id="DAZN.1.es" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-1-es.png?raw=true",DAZN Spain 1
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium445/mono.m3u8
+https://windnew.newkso.ru/wind/premium445/mono.m3u8
 #EXTINF:-1  tvg-name="DAZN Spain 2" tvg-id="DAZN.2.es" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-2-es.png?raw=true",DAZN Spain 2
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium446/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
 #EXTINF:-1  tvg-name="DAZN Spain 3" tvg-id="DAZN.3.es" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-3-es.png?raw=true",DAZN Spain 3
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium447/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium447/mono.m3u8
 #EXTINF:-1  tvg-name="DAZN Spain 4" tvg-id="DAZN.4.es" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/dazn-4-es.png?raw=true",DAZN Spain 4
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium448/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium448/mono.m3u8
 #EXTINF:-1  tvg-name="Eleven Sports PL 1" tvg-id="Eleven.Sports.1.pl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-1-pt.png?raw=true",Eleven Sports PL 1
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium71/mono.m3u8
+https://windnew.newkso.ru/wind/premium71/mono.m3u8
 #EXTINF:-1  tvg-name="Eleven Sports PL 2" tvg-id="Eleven.Sports.2.pl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-2-pt.png?raw=true",Eleven Sports PL 2
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium72/mono.m3u8
+https://windnew.newkso.ru/wind/premium72/mono.m3u8
 #EXTINF:-1  tvg-name="Eleven Sports PL 3" tvg-id="Eleven.Sports.3.pl" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-3-pt.png?raw=true",Eleven Sports PL 3
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium73/mono.m3u8
+https://windnew.newkso.ru/wind/premium73/mono.m3u8
 #EXTINF:-1  tvg-name="TNT Brasil" tvg-id="TNT.br" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/brazil/tnt-br.png?raw=true",TNT Brasil
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium87/mono.m3u8
+https://windnew.newkso.ru/wind/premium87/mono.m3u8
 #EXTINF:-1  tvg-name="TNT Sports UK 1" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true",TNT Sports UK 1
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
 #EXTINF:-1  tvg-name="TNT Sports UK 2" tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true",TNT Sports UK 2
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium32/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
 #EXTINF:-1  tvg-name="TNT Sports UK 3" tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true",TNT Sports UK 3
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium33/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8
 #EXTINF:-1  tvg-name="TNT Sports UK 4" tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true",TNT Sports UK 4
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium34/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
 #EXTINF:-1  tvg-name="SuperSport MaXimo 1" tvg-id="MAXIMO.1.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-maximo1-za.png?raw=true",SuperSport MaXimo 1
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium572/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium572/mono.m3u8
 #EXTINF:-1  tvg-name="Astro Supert Sport 1" tvg-id="Astro.SuperSport.HD.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-bug-my.png?raw=true",Astro Supert Sport 1
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium123/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
 #EXTINF:-1  tvg-name="Astro Supert Sport 2" tvg-id="Astro.SuperSport.2.HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-2-bug-my.png?raw=true",Astro Supert Sport 2
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium124/mono.m3u8
+https://windnew.newkso.ru/wind/premium124/mono.m3u8
 #EXTINF:-1  tvg-name="Astro Supert Sport 3" tvg-id="Astro.SuperSport.3.HD.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-3-bug-my.png?raw=true",Astro Supert Sport 3
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium125/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
 #EXTINF:-1  tvg-name="Astro Supert Sport 4" tvg-id="Astro.SuperSport.4.HD.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-4-bug-my.png?raw=true",Astro Supert Sport 4
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium126/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 #EXTINF:-1  tvg-name="Arena Sport 1 Premium" tvg-id="arena-premium-1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/arena-sport-1-hr.png?raw=true",Arena Sport 1 Premium
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium134/mono.m3u8
+https://windnew.newkso.ru/wind/premium134/mono.m3u8
 #EXTINF:-1  tvg-name="Arena Sport 2 Premium" tvg-id="arena-premium-2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/arena-sport-2-hr.png?raw=true",Arena Sport 2 Premium
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium135/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
 #EXTINF:-1  tvg-name="Arena Sport 3 Premium" tvg-id="arena-premium-3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/arena-sport-3-hr.png?raw=true",Arena Sport 3 Premium
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium139/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS MENA 1" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-1-int.png?raw=true",beIN SPORTS MENA 1
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium91/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium91/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS MENA 2" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-2-int.png?raw=true",beIN SPORTS MENA 2
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium92/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS MENA 3" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-3-int.png?raw=true",beIN SPORTS MENA 3
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium93/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS MENA 4" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-4-int.png?raw=true",beIN SPORTS MENA 4
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium94/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS MENA 5" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-5-int.png?raw=true",beIN SPORTS MENA 5
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium95/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium95/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS MENA 6" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-6-int.png?raw=true",beIN SPORTS MENA 6
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium96/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS MENA 7" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-7-int.png?raw=true",beIN SPORTS MENA 7
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium97/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium97/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS MENA 8" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-8-int.png?raw=true",beIN SPORTS MENA 8
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium98/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS OLYMPIC CHANNEL" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-4k-int.png?raw=true",beIN SPORTS OLYMPIC CHANNEL
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium99/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS XTRA" tvg-id="beINSports.qa" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-xtra-int.png?raw=true",beIN SPORTS XTRA
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium100/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium100/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS MAX 4" tvg-id="http://beinsports.fr/" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-4-max-int.png?raw=true",beIN SPORTS MAX 4
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium494/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS MAX 5" tvg-id="http://beinsports.fr/" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-5-max-int.png?raw=true",beIN SPORTS MAX 5
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium495/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS MAX 6" tvg-id="http://beinsports.fr/" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-6-max-int.png?raw=true",beIN SPORTS MAX 6
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium496/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium496/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS MAX 7" tvg-id="http://beinsports.fr/" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-7-max-int.png?raw=true",beIN SPORTS MAX 7
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium497/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium497/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS MAX 8" tvg-id="http://beinsports.fr/" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-8-max-int.png?raw=true",beIN SPORTS MAX 8
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium498/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium498/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS MAX 9" tvg-id="http://beinsports.fr/" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-9-max-int.png?raw=true",beIN SPORTS MAX 9
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium499/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium499/mono.m3u8
 #EXTINF:-1  tvg-name="beIN SPORTS MAX 10" tvg-id="http://beinsports.fr/" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/beinsports/old/stacked/bein-sports-9-max-int.png?raw=true",beIN SPORTS MAX 10
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium500/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium500/mono.m3u8
