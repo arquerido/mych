@@ -786,6 +786,12 @@ https://windnew.newkso.ru/wind/premium445/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 
+#EXTINF:-1 tvg-id="DAZN.2.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-2.png" group-title="SPAIN",DAZN 2 Spain
+#EXTVLCOPT:http-origin=https://xtreaweb.top
+#EXTVLCOPT:http-referrer=https://xtreaweb.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
+
 #EXTINF:-1 tvg-id="DAZN.3.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-3.png" group-title="SPAIN",DAZN 3 Spain
 #EXTVLCOPT:http-origin=https://xtreaweb.top
 #EXTVLCOPT:http-referrer=https://xtreaweb.top/
@@ -3725,6 +3731,12 @@ https://dokko1new.newkso.ru/dokko1/premium560/mono.m3u8
 #EXTVLCOPT:http-referrer=https://xtreaweb.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium561/mono.m3u8
+
+#EXTINF:-1 tvg-id="Canal.TyC.Sports.ar" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tyc-sports-ar.png" group-title="ARGENTINA",TYC Sports Argentina
+#EXTVLCOPT:http-origin=https://xtreaweb.top
+#EXTVLCOPT:http-referrer=https://xtreaweb.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8
 
 #EXTINF:-1 tvg-id="TeenNick.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/teennick-us.png" group-title="UNITED STATES",TeenNick
 #EXTVLCOPT:http-origin=https://xtreaweb.top
