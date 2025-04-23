@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="None" tvg-name="1.2.3 TV (7)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",1.2.3 TV (7)
+#EXTINF:-1 tvg-id="None" tvg-name="1.2.3 TV (7)" tvg-logo="" group-title="Germany",1.2.3 TV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/2.6
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/2.6","Referer":"https://vavoo.to/"}
 https://vavoo.to/play/51258455/index.m3u8
+
 #EXTINF:-1 tvg-id="None" tvg-name="13TH STREET (7)" tvg-logo="" group-title="Germany" http-user-agent="VAVOO/2.6" http-referrer="https://vavoo.to/",13TH STREET (7)
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:http-referrer=https://vavoo.to/
