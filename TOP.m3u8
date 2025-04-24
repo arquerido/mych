@@ -1000,13 +1000,7 @@ https://x4new.newkso.ru/x4/mavtv/mono.m3u8
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://wikinew.newkso.ru/wiki/ustvmlbnetwork/mono.m3u8
-
-#EXTINF:-1 group-title="USA",MLB Network [USA]
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://wikinew.newkso.ru/wiki/ustvmlbnetwork/mono.m3u8
+https://hztnew.newkso.ru/hzt/ustvmlbnetwork1/mono.m3u8
 
 #EXTINF:-1 group-title="USA",MSNBC [USA]
 #EXTVLCOPT:http-referrer=https://topembed.pw/
@@ -2050,7 +2044,7 @@ https://wikinew.newkso.ru/wiki/Ziggosport02NL/mono.m3u8
 #EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://wikinew.newkso.ru/wiki/Ziggosport2NL/mono.m3u8
+https://wikinew.newkso.ru/wiki/Ziggosport3NL/mono.m3u8
 
 #EXTINF:-1 group-title="NETHERLANDS",Ziggo Sport 4 [Netherlands]
 #EXTVLCOPT:http-referrer=https://topembed.pw/
@@ -2063,4 +2057,10 @@ https://wikinew.newkso.ru/wiki/Ziggosport4NL/mono.m3u8
 #EXTVLCOPT:http-origin=https://topembed.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://wikinew.newkso.ru/wiki/ZiggoSportNL/mono.m3u8
+
+#EXTINF:-1 group-title="USA",be INSPORTSUSA [USA]
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-origin=https://topembed.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://x4new.newkso.ru/x4/beinsportsusa/mono.m3u8
 
