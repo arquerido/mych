@@ -69,6 +69,9 @@ https://dokko1new.newkso.ru/dokko1/premium782/mono.m3u8|Referer=https://xextream
 #EXTINF:-1 tvg-id="Altitude.Sports.-.Denver.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/altitude-sports.png" group-title="UNITED STATES",Altitude Sports
 https://nfsnew.newkso.ru/nfs/premium923/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
 
+#EXTINF:-1 tvg-id="American.Heroes.Channel.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/american-heroes-channel.png" group-title="UNITED STATES",American Heroes Channel
+https://ddy6new.newkso.ru/ddy6/premium206/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
+
 #EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/animal-planet.png" group-title="UNITED STATES",Animal Planet
 https://nfsnew.newkso.ru/nfs/premium304/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
 
@@ -482,6 +485,9 @@ https://nfsnew.newkso.ru/nfs/premium652/mono.m3u8|Referer=https://xextreamplay.x
 
 #EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/disney-xd.png" group-title="UNITED STATES",Disney XD
 https://zekonew.newkso.ru/zeko/premium314/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dubai-racing.png" group-title="UNITED ARAB EMIRATES",Dubai Racing 1 UAE
+https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dubai-sports.png" group-title="UNITED ARAB EMIRATES",Dubai Sports 1 UAE
 https://dokko1new.newkso.ru/dokko1/premium604/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
@@ -1244,6 +1250,9 @@ https://windnew.newkso.ru/wind/premium853/mono.m3u8|Referer=https://xextreamplay
 
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rai-sport-it.png" group-title="ITALY",Rai Sport Italy
 https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
+
+#EXTINF:-1 tvg-id="Rally.TV.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rally-tv.png" group-title="UNITED STATES",Rally Tv
+https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
 
 #EXTINF:-1 tvg-id="RealMadridTV(Spanish).es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/real-madrid-tv-spain.png" group-title="SPAIN",Real Madrid TV Spain
 https://dokko1new.newkso.ru/dokko1/premium523/mono.m3u8|Referer=https://xextreamplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://xextreamplay.xyz
