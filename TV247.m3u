@@ -39,7 +39,7 @@ https://ft.fbcdntv247.cfd/memfs/56af1099-35de-4c64-ace2-99eb216793b4_output_0.m3
 #EXTINF:-1 tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-name="CNBC FHD",CNBC FHD
 https://ft.fbcdntv247.cfd/memfs/4268c138-3258-42b8-8192-f9a3873e7794_output_0.m3u8
 
-#EXTINF:-1 tvg-id="CW.Plus.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" tvg-name="The CW",The CW
+#EXTINF:-1 tvg-id="CW.(WDCW).District.of.Columbia.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" tvg-name="CW",CW
 https://ft.fbcdntv247.cfd/memfs/cw.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel",Discovery Channel
@@ -142,7 +142,7 @@ https://ft.fbcdntv247.cfd/memfs/b8e3ff52-2d13-45a6-a3a0-9e64c1a0080c_output_0.m3
 https://ft.fbcdntv247.cfd/memfs/c20312cb-10ba-47eb-9441-91d03ef3ef19_output_0.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tudn-us.png?raw=true" tvg-name="TUDN",TUDN
-https://ft.fbcdntv247.cfd/memfs/f18e6b4a-a385-4704-bd35-bc09358d1f44_output_0.m3u8
+https://ft.fbcdntv247.cfd/memfs/f18e6b4a-a385-4704-bd35-bc09358d1f44.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
 https://ft.fbcdntv247.cfd/memfs/594edb0c-896e-4853-b97b-26c3a4f05156_output_0.m3u8
