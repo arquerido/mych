@@ -1,21 +1,21 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/daddylive-channels-epg.xml"
 
-#EXTINF:-1  tvg-name="Benfica TV (a)" tvg-id="BTV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-pt.png?raw=true",Benfica TV (a)
+#EXTINF:-1  tvg-name="Benfica TV (a)" tvg-id="BenficaTVMulticamaras(src01).pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-pt.png?raw=true",Benfica TV (a)
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.koskoros.ru/dokko1/premium380/mono.m3u8
-#EXTINF:-1  tvg-name="Benfica TV (b)" tvg-id="BTV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-pt.png?raw=true",Benfica TV (b)
+#EXTINF:-1  tvg-name="Benfica TV (b)" tvg-id="BenficaTVMulticamaras(src01).pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-pt.png?raw=true",Benfica TV (b)
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrunns.iosplayer.ru/dokko1/premium380/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV1 (a)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",Sport TV1 (a)
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium49/mono.m3u8
+https://windnew.newkso.ru/wind/premium49/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV1 (b)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",Sport TV1 (b)
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://top2new.koskoros.ru/top2/eplayerSPORTTV1/mono.m3u8
+https://top2new.newkso.ru/top2/eplayerSPORTTV1/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV2 (a)" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true",Sport TV2 (a)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://dokko1new.koskoros.ru/dokko1/premium74/mono.m3u8
@@ -46,13 +46,14 @@ https://ddy6new.koskoros.ru/ddy6/premium291/mono.m3u8
 #EXTINF:-1  tvg-name="Sport TV6 (b)" tvg-id="Sport.TV.6.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-6-pt.png?raw=true",Sport TV6 (b)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://top2new.koskoros.ru/top2/eplayerSPORTTV6/mono.m3u8
-#EXTINF:-1  tvg-name="DAZN 1 (Eleven Sports PT)" tvg-id="DAZN.1.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-1-pt.png?raw=true",DAZN 1 (Eleven Sports PT)
+#EXTINF:-1  tvg-name="DAZN 1 (Eleven Sports PT)" tvg-id="ElevenSports1(src01).pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-1-pt.png?raw=true",DAZN 1 (Eleven Sports PT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium455/mono.m3u8
-#EXTINF:-1  tvg-name="DAZN 2 (Eleven Sports PT)" tvg-id="DAZN.2.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-2-pt.png?raw=true",DAZN 2 (Eleven Sports PT)
+#EXTINF:-1  tvg-name="DAZN 2 (Eleven Sports PT)" tvg-id="ElevenSports1
+2(src01).pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-2-pt.png?raw=true",DAZN 2 (Eleven Sports PT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium456/mono.m3u8
-#EXTINF:-1  tvg-name="DAZN 3 (Eleven Sports PT)" tvg-id="DAZN.3.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-3-pt.png?raw=true",DAZN 3 (Eleven Sports PT)
+#EXTINF:-1  tvg-name="DAZN 3 (Eleven Sports PT)" tvg-id="ElevenSports3(src01).pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-3-pt.png?raw=true",DAZN 3 (Eleven Sports PT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium457/mono.m3u8
 #EXTINF:-1  tvg-name="DAZN 4 (Eleven Sports PT)" tvg-id="DAZN.4.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-4-pt.png?raw=true",DAZN 4 (Eleven Sports PT)
