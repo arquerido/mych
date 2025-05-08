@@ -218,19 +218,19 @@ http://ott.udptv.net/stream/iptv/blastsports/master.m3u8?u=discord.gg/civ3&p=6d5
 #EXTINF:-1 tvg-id="Astro.Sports.Plus.my" tvg-name="Astro Sports Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png" group-title="MALAYSIA",Astro Sports Plus
 https://ott.djdoolky76.net/stream/astro/astrosportsplus/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
-#EXTINF:-1  tvg-name="Astro Supersport 1" tvg-id="Astro.Grandstand.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-bug-my.png?raw=true" group-title="MALAYSIA",Astro Supersport 1
+#EXTINF:-1  tvg-name="Astro Grandstand" tvg-id="Astro.Grandstand.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-grandstand-my.png?raw=true" group-title="MALAYSIA",Astro Grandstand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
 
-#EXTINF:-1  tvg-name="Astro Supersport 2" tvg-id="Astro.Footbal.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-2-bug-my.png?raw=true" group-title="MALAYSIA",Astro Supersport 2
+#EXTINF:-1  tvg-name="Astro Football" tvg-id="Astro.Footbal.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-football-my.png" group-title="MALAYSIA",Astro Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium124/mono.m3u8
 
-#EXTINF:-1  tvg-name="Astro Supersport 3" tvg-id="Astro.Premier.League.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-3-bug-my.png?raw=true" group-title="MALAYSIA",Astro Supersport 3
+#EXTINF:-1  tvg-name="Astro Premier League" tvg-id="Astro.Premier.League.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-premier-league-my.png?raw=true" group-title="MALAYSIA",Astro Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
 
-#EXTINF:-1  tvg-name="Astro Supersport 4" tvg-id="Astro.Badminton.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/screen-bug/astro-supersport-4-bug-my.png?raw=true" group-title="MALAYSIA",Astro Supersport 4
+#EXTINF:-1  tvg-name="Astro Premier League 2" tvg-id="Astro.Premier.League.2.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-premier-league-2-my.png?raw=true" group-title="MALAYSIA",Astro Premier League 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 
@@ -243,19 +243,13 @@ https://ott-s1.udptv.net/stream/astro/astrobadminton/master.m3u8?u=discord.gg/ci
 #EXTINF:-1 tvg-id="Astro.Cricket.my" tvg-name="Astro Cricket" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-cricket-my.png" group-title="MALAYSIA",Astro Cricket
 https://ott-s1.udptv.net/stream/astro/astrocricket/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
-#EXTINF:-1 tvg-id="Astro.Football.my" tvg-name="Astro Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-football-my.png" group-title="MALAYSIA",Astro Football
-https://ott-s1.udptv.net/stream/astro/astrofootball/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-
 #EXTINF:-1 tvg-id="Astro.Premier.my" tvg-name="Astro Premier Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/premier-sports-1-uk.png" group-title="MALAYSIA",Astro Premier Sports
 https://ott-s1.udptv.net/stream/astro/premiersports/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
-#EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-name="Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="MALAYSIA",Astro Premier League
-https://ott.udptv.net/stream/iptv/premierleague/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-
-#EXTINF:-1 tvg-id="blastPH.Premier.Sports" tvg-name="Premier Sports" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2023/11/10172037-slfpj2wmabtpkf9y.png" group-title="OTHERS",Premier Sports
+#EXTINF:-1 tvg-id="blastPH.Premier.Sports" tvg-name="Premier Sports PH" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2023/11/10172037-slfpj2wmabtpkf9y.png" group-title="OTHERS",Premier Sports
 https://ott.udptv.net/stream/iptv/premiersports/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
-#EXTINF:-1 tvg-id="blastPH.Premier.Sports.2" tvg-name="Premier Sports 2" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2023/11/10172018-cca8pjjxus5tlupb.png" group-title="OTHERS",Premier Sports 2
+#EXTINF:-1 tvg-id="blastPH.Premier.Sports.2" tvg-name="Premier Sports 2 PH" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2023/11/10172018-cca8pjjxus5tlupb.png" group-title="OTHERS",Premier Sports 2
 https://ott.udptv.net/stream/iptv/premiersports2/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
 #EXTINF:-1 tvg-id="skyuk/premiersports1" tvg-name="Premier Sports 1 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/premier-sports-1-uk.png?raw=true" group-title="UNITED KINGDOM",Premier Sports 1 UK
