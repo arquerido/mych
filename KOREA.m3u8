@@ -1,0 +1,140 @@
+#EXTM3U
+
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/16" tvg-id="1ba066dd1b7bdc38cf85d52e25722542" tvg-chno="1",SBS
+http://132.145.84.42:9981/stream/channelid/1567006747?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" tvg-id="559f7ecec2c968cc60774570a01f931f" tvg-chno="2",1TV
+http://132.145.84.42:9981/stream/channelid/1316921173?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237810007_114611.png" tvg-id="59cdf7bb1402c569f78fcdb558c895a4" tvg-chno="3",2TV
+http://132.145.84.42:9981/stream/channelid/1006095705?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/4/3/1522738393212_70061.png" tvg-id="2c9df846fc1cfbd0ebc57824095b231b" tvg-chno="5",KBS Joy
+http://132.145.84.42:9981/stream/channelid/1190698284?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2019/9/2/1567407662408_155622.png" tvg-id="43614a86430b08ed7f9393c4120ae97e" tvg-chno="7",KBS WORLD
+http://132.145.84.42:9981/stream/channelid/105537859?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/13" tvg-id="21d9345a618e2c595af8b2b0bb22bd59" tvg-chno="8",SBS funE
+http://132.145.84.42:9981/stream/channelid/1513412897?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/8" tvg-id="165219ad64be3bf8bc93df5dd9b7cc25" tvg-chno="11",SBS Golf
+http://132.145.84.42:9981/stream/channelid/756634134?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/9" tvg-id="8c6c79fcebd0153c220c09c32ed9fe10" tvg-chno="15",SBS Golf2
+http://132.145.84.42:9981/stream/channelid/2088332428?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/2" tvg-id="d0f8c64a2118fd8a8164bc1559777cbd" tvg-chno="17",SBS Plus
+http://132.145.84.42:9981/stream/channelid/1254553808?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/4/3/1522738393154_70050.png" tvg-id="5e2f0c87becf452b0c2da40c7b0cf23c" tvg-chno="18",KBS Drama
+http://132.145.84.42:9981/stream/channelid/118239070?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/4" tvg-id="405f7d5e26c211a7018da85a6cd42493" tvg-chno="21",SBS M
+http://132.145.84.42:9981/stream/channelid/1585274688?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/5" tvg-id="587e3a0d8bf13257c316abfd0e356da2" tvg-chno="22",K POP
+http://132.145.84.42:9981/stream/channelid/221937240?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2021/3/29/1617003238551_233261.png" tvg-id="7d69a8b3eaa7f221c92eb05b24fcdd3f" tvg-chno="23",KBS ****
+http://132.145.84.42:9981/stream/channelid/866675069?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2021/3/29/1617003417355_233294.png" tvg-id="2fc5bf4ea2aabdde24b7d49b7c81bba2" tvg-chno="24",KBS Story
+http://132.145.84.42:9981/stream/channelid/1321190703?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2021/8/6/1628236007478_271543.png" tvg-id="a627de4a5e5b74cb5c468dd55b66f6e4" tvg-chno="25",독도
+http://132.145.84.42:9981/stream/channelid/1256073126?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2021/11/5/1636096742409_283912.png" tvg-id="d3af5f46362789ff84c33c88d91d3525" tvg-chno="26",KBS NEWS D
+http://132.145.84.42:9981/stream/channelid/1180676051?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/17" tvg-id="4e0c1f7cb28d40bc8f78e95ed23dc1cb" tvg-chno="27",SBS BIZ
+http://132.145.84.42:9981/stream/channelid/2082409550?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2021/3/29/1617003311661_233272.png" tvg-id="b9085f8d812684d4df2fb624a75a7515" tvg-chno="28",KBS LIFE
+http://132.145.84.42:9981/stream/channelid/224331961?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/4/3/1522738651266_70243.png" tvg-id="4f08edae3951c9a9e57963e6dbb20eb1" tvg-chno="29",1FM
+http://132.145.84.42:9981/stream/channelid/787286095?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/4/3/1522738651354_70254.png" tvg-id="c5cb3a85a5d3345203c23c13517ec1a2" tvg-chno="30",2FM
+http://132.145.84.42:9981/stream/channelid/87739333?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/10" tvg-id="725e67325ef68ad4425f1f708ed02590" tvg-chno="31",FM4U
+http://132.145.84.42:9981/stream/channelid/845635186?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/11" tvg-id="b97cf646bccfe44e8c1480e0e9c64e36" tvg-chno="32",표준FM
+http://132.145.84.42:9981/stream/channelid/1190558905?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/12" tvg-id="0550200b86f72ff1760f03fbe6944106" tvg-chno="33",POWER FM
+http://132.145.84.42:9981/stream/channelid/186667013?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/18" tvg-id="1c54cbed19a21af0b3275db0c978d32c" tvg-chno="34",LOVE FM
+http://132.145.84.42:9981/stream/channelid/1842041884?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/4/3/1522738651015_70210.png" tvg-id="20c4a12d6f5e95ba55ad291466931e36" tvg-chno="35",1라디오
+http://132.145.84.42:9981/stream/channelid/765576224?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/3/21/1679364982300_334708.png" tvg-id="0fe210603376fe2cab5d430cf0ef7b58" tvg-chno="36",2라디오
+http://132.145.84.42:9981/stream/channelid/1611719183?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/4/3/1522738651184_70232.png" tvg-id="f4c0826e137b0b73e44160e16b8ca07b" tvg-chno="37",3라디오
+http://132.145.84.42:9981/stream/channelid/1854062836?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2018/8/2/1533183629657_93104.png" tvg-id="01b293be8b898c9aa6c10579d10651e0" tvg-chno="38",한민족방송
+http://132.145.84.42:9981/stream/channelid/1049866753?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/19" tvg-id="fb085b37a9109abd34d2299aadba800e" tvg-chno="39",GorealraM
+http://132.145.84.42:9981/stream/channelid/928712955?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/6" tvg-id="59d2df464ab8019d3eab0107f74dc200" tvg-chno="40",올댓뮤직
+http://132.145.84.42:9981/stream/channelid/1189073497?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/45" tvg-id="334c4c3e68da18aecdd79a34877f492e" tvg-chno="43",SBS Life
+http://132.145.84.42:9981/stream/channelid/1045187635?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/57" tvg-id="23950cc54eccb23e3dac87ddc5a7d85b" tvg-chno="45",[LIVE] 런닝맨 무료TV : 제2의멤버
+http://132.145.84.42:9981/stream/channelid/1158452515?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="cdf8cada5381cdc44069862f51bc8105" tvg-chno="46",[LIVE] 런닝맨 무료TV : 원년멤버
+http://132.145.84.42:9981/stream/channelid/1523251405?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="f671572400beeb1bcff9f2fe688cc9ec" tvg-chno="47",[LIVE] 추적자 무료TV
+http://132.145.84.42:9981/stream/channelid/609710582?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="2aab1fa754ae03b2c899319794c4e456" tvg-chno="48",[LIVE] 돌아와요 아저씨 무료TV
+http://132.145.84.42:9981/stream/channelid/656386858?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="84b1a01dae99267c614e0f15cb85803a" tvg-chno="49",[LIVE] 시티홀 무료TV
+http://132.145.84.42:9981/stream/channelid/497070468?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="93ec97697695dd8850ad1c6471279461" tvg-chno="50",[LIVE] 앨리스 무료TV
+http://132.145.84.42:9981/stream/channelid/1771564179?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="6389388fcf489650e2e4eacb1518b734" tvg-chno="51",[LIVE] 모래시계 무료TV
+http://132.145.84.42:9981/stream/channelid/255363427?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="fd289de53f1d4609c5608c4832fb8efb" tvg-chno="52",[LIVE] 대물 무료TV
+http://132.145.84.42:9981/stream/channelid/1704798461?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="677c995b5748083e34c1a49ce7061d73" tvg-chno="53",[LIVE] 상속자들 무료TV
+http://132.145.84.42:9981/stream/channelid/1536785511?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="9c0b9d5559c14760e56307434417fc97" tvg-chno="54",[LIVE] 펀치 무료TV
+http://132.145.84.42:9981/stream/channelid/1436355484?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="ab0a9c999a8291729c9f67e344e9b470" tvg-chno="55",[LIVE] 질투의 화신 무료TV
+http://132.145.84.42:9981/stream/channelid/429656747?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="759630f52870398d469613682acdca71" tvg-chno="56",[LIVE] 스토브리그 무료TV
+http://132.145.84.42:9981/stream/channelid/1966118517?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="0dc6596c22bcd10351f5dcfbed40d47b" tvg-chno="57",[LIVE] 웬그막 무료TV
+http://132.145.84.42:9981/stream/channelid/1817822733?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="95846fe3eebc9e5991e864d2edc46118" tvg-chno="58",[LIVE] 신의 선물 무료TV
+http://132.145.84.42:9981/stream/channelid/1668252821?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="1fdc9926dc70c431af5a36a687605e12" tvg-chno="59",[LIVE] 쓰리데이즈 무료TV
+http://132.145.84.42:9981/stream/channelid/647617567?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="1e1e47c6b24e82736b7f6a325a679f66" tvg-chno="60",[LIVE] 아내의 유혹 무료TV
+http://132.145.84.42:9981/stream/channelid/1179065886?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="206b6060d69e9743b5c620551940e74e" tvg-chno="61",[LIVE] 꼬꼬무 무료TV
+http://132.145.84.42:9981/stream/channelid/1616931616?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="4192d0e3594abb7e4b448b77b5dbc230" tvg-chno="62",[LIVE] 그알 무료TV : 미궁
+http://132.145.84.42:9981/stream/channelid/1674613313?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="1c22d692188c55893f318b21e173f8c3" tvg-chno="64",[LIVE] 체인지 무료TV
+http://132.145.84.42:9981/stream/channelid/316023324?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="261efb48e320fd689bbf06a2f121613e" tvg-chno="65",[LIVE] 오!마이베이비 무료TV
+http://132.145.84.42:9981/stream/channelid/1224416806?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/58" tvg-id="6c11bd2dbb6e846d7e57c1972a047e38" tvg-chno="68",[LIVE] 궁금한이야기Y 무료TV
+http://132.145.84.42:9981/stream/channelid/767365484?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="30df448c87b07134e0d294a1b8d551e4" tvg-chno="69",[LIVE] 골목식당 무료TV
+http://132.145.84.42:9981/stream/channelid/205840176?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="802fdfdaacb7521f8ab3957754bc01ba" tvg-chno="70",[LIVE] 미우새 무료TV : 도전기
+http://132.145.84.42:9981/stream/channelid/1524576128?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/26" tvg-id="4b37159717f879929973636f7f1fe1f7" tvg-chno="71",[LIVE] 조명섭 무료TV
+http://132.145.84.42:9981/stream/channelid/387266379?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/53" tvg-id="67f8646744510ad050db790bf408b56a" tvg-chno="72",[LIVE] 대환장 한국 체험기
+http://132.145.84.42:9981/stream/channelid/1734670439?profile=pass
+#EXTINF:-1 logo="http://132.145.84.42:9981/imagecache/54" tvg-id="3a7b86c6da21a7bf989a883cc876c21a" tvg-chno="73",[LIVE] 트로트 인기 TOP 50
+http://132.145.84.42:9981/stream/channelid/1183218490?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/2/8/1675841680191_329869.png" tvg-id="b62dd26d59fce2db05005a95d13048c1" tvg-chno="77",쌈, 마이웨이
+http://132.145.84.42:9981/stream/channelid/1842490806?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/2/8/1675841680406_329881.png" tvg-id="3d952c5c6b518b39062ce8e8e04bec6b" tvg-chno="78",태조 왕건
+http://132.145.84.42:9981/stream/channelid/1546425661?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/4/3/1680507537929_336755.png" tvg-id="188b0d9cf2a17bfc8ee35325526e38f9" tvg-chno="79",직장의 신
+http://132.145.84.42:9981/stream/channelid/470649624?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/2/8/1675841680866_329927.png" tvg-id="daee465433c167dc93b34f9477f15c54" tvg-chno="80",아이가 다섯
+http://132.145.84.42:9981/stream/channelid/1413934810?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/5/10/1683696624872_343015.png" tvg-id="5c281767270b96cfac279630341b2fbc" tvg-chno="81",제빵왕 김탁구
+http://132.145.84.42:9981/stream/channelid/1729570908?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/5/3/1683091899391_339371.png" tvg-id="0c65e991f92fb2dded0f24dd6d36d276" tvg-chno="82",1박 2일
+http://132.145.84.42:9981/stream/channelid/300508428?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/6/15/1686805862172_346369.png" tvg-id="f53337cbe0f3584902fe94e4294260db" tvg-chno="83",내 딸 서영이
+http://132.145.84.42:9981/stream/channelid/1261908981?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/2/8/1675841748902_329983.png" tvg-id="704ca93dd7ecda3236fca6036fd81080" tvg-chno="84",역사저널 그날
+http://132.145.84.42:9981/stream/channelid/1034505328?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/2/8/1675841749129_330009.png" tvg-id="5cead17d5021bcaed2192df707b4f056" tvg-chno="85",인간극장
+http://132.145.84.42:9981/stream/channelid/2110909020?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2023/2/8/1675841749330_330021.png" tvg-id="671bc80dd36062b2787459cf85e54a79" tvg-chno="86",어린이 만화동산
+http://132.145.84.42:9981/stream/channelid/231218023?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2022/11/18/1668733711354_319765.png" tvg-id="8484d3d694d6307c9fdcc03537732b11" tvg-chno="87",KBS WORLD MULTILINGUAL
+http://132.145.84.42:9981/stream/channelid/1456702596?profile=pass
+#EXTINF:-1 logo="https://padmin.static.kbs.co.kr/live/2022/11/21/1668995416339_320041.png" tvg-id="05153e2ad8626cd011822a07899592b9" tvg-chno="88",KBS WORLD ENGLISH
+http://132.145.84.42:9981/stream/channelid/708711685?profile=pass
