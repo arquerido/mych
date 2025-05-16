@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/daddylive-channels-epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/daddylive-channels-epg.xml"
 
 #EXTINF:-1  tvg-name="Benfica TV (a)" tvg-id="BenficaTVMulticamaras(src01).pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-pt.png?raw=true" group-title="PORTUGAL",Benfica TV (a)
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
@@ -9,6 +9,9 @@ https://dokko1new.newkso.ru/dokko1/premium380/mono.m3u8
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.newkso.ru/dokko1/premium380/mono.m3u8
+
+#EXTINF:-1  tvg-name="Benfica TV (backup)" tvg-id="BenficaTVMulticamaras(src01).pt" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/benfica-tv.png" group-title="PORTUGAL",Benfica TV (backup)
+https://ddylv-proxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMzgwL21vbm8ubTN1OA==
 
 #EXTINF:-1  tvg-name="Sport TV1 (a)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="PORTUGAL",Sport TV1 (a)
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -21,8 +24,7 @@ https://windnew.newkso.ru/wind/premium49/mono.m3u8
 https://top2new.newkso.ru/top2/eplayerSPORTTV1/mono.m3u8
 
 #EXTINF:-1  tvg-name="Sport TV1 (backup)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="PORTUGAL",Sport TV1 (backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://sportsonline.si/channels/pt/sporttv1.php
+https://ddylv-proxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=
 
 #EXTINF:-1  tvg-name="Sport TV2 (a)" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true" group-title="PORTUGAL",Sport TV2 (a)
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -34,6 +36,9 @@ https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://top2new.newkso.ru/top2/eplayerSPORTTV2/mono.m3u8
 
+#EXTINF:-1  tvg-name="Sport TV2 (backup)" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true" group-title="PORTUGAL",Sport TV2 (backup)
+https://ddylv-proxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzQvbW9uby5tM3U4
+
 #EXTINF:-1  tvg-name="Sport TV3 (a)" tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true" group-title="PORTUGAL",Sport TV3 (a)
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -43,6 +48,9 @@ https://ddy6new.newkso.ru/ddy6/premium454/mono.m3u8
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://top2new.newkso.ru/top2/eplayerSPORTTV3/mono.m3u8
+Backup
+#EXTINF:-1  tvg-name="Sport TV3 (backup)" tvg-id="SPORT.TV3.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true" group-title="PORTUGAL",Sport TV3 (backup)
+https://ddylv-proxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NTQvbW9uby5tM3U4
 
 #EXTINF:-1  tvg-name="Sport TV4 (a)" tvg-id="SPORT.TV4.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true" group-title="PORTUGAL",Sport TV4 (a)
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -54,6 +62,9 @@ https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://top2new.newkso.ru/top2/eplayerSPORTTV4/mono.m3u8
 
+#EXTINF:-1  tvg-name="Sport TV4 (backup)" tvg-id="SPORT.TV4.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true" group-title="PORTUGAL",Sport TV4 (backup)
+https://ddylv-proxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yODkvbW9uby5tM3U4
+
 #EXTINF:-1  tvg-name="Sport TV5 (a)" tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true" group-title="PORTUGAL",Sport TV5 (a)
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -64,6 +75,9 @@ https://ddy6new.newkso.ru/ddy6/premium290/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://top2new.newkso.ru/top2/eplayerSPORTTV5/mono.m3u8
 
+#EXTINF:-1  tvg-name="Sport TV5 (backup)" tvg-id="SPORT.TV5.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true" group-title="PORTUGAL",Sport TV5 (backup)
+https://ddylv-proxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTAvbW9uby5tM3U4
+
 #EXTINF:-1  tvg-name="Sport TV6 (a)" tvg-id="Sport.TV.6.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-6-pt.png?raw=true" group-title="PORTUGAL",Sport TV6 (a)
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -73,6 +87,9 @@ https://ddy6new.newkso.ru/ddy6/premium291/mono.m3u8
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://top2new.newkso.ru/top2/eplayerSPORTTV6/mono.m3u8
+
+#EXTINF:-1  tvg-name="Sport TV6 (backup)" tvg-id="Sport.TV.6.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-6-pt.png?raw=true" group-title="PORTUGAL",Sport TV6 (backup)
+https://ddylv-proxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTEvbW9uby5tM3U4
 
 #EXTINF:-1  tvg-name="NBA TV" tvg-id="test" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/nba-tv-pt.png?raw=true" group-title="PORTUGAL",NBA TV PT
 #EXTVLCOPT:http-referrer=https://topembed.pw/
