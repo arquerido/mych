@@ -16,9 +16,13 @@ https://dokko1new.newkso.ru/dokko1/premium380/mono.m3u8
 https://windnew.newkso.ru/wind/premium49/mono.m3u8
 
 #EXTINF:-1  tvg-name="Sport TV1 (b)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="PORTUGAL",Sport TV1 (b)
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-referrer=https://topembed.pw/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://top2new.newkso.ru/top2/eplayerSPORTTV1/mono.m3u8
+
+#EXTINF:-1  tvg-name="Sport TV1 (backup)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="PORTUGAL",Sport TV1 (backup)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://j5pzts4vewch7un8x93byg.cdnshave.net:8443/hls/xt4p2tyjgzsp4t.m3u8
 
 #EXTINF:-1  tvg-name="Sport TV2 (a)" tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true" group-title="PORTUGAL",Sport TV2 (a)
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
