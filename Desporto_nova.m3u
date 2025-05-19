@@ -18,7 +18,7 @@ https://dokko1new.newkso.ru/dokko1/premium380/mono.m3u8
 https://windnew.newkso.ru/wind/premium49/mono.m3u8
 
 #EXTINF:-1  tvg-name="Sport TV1 (b)" tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="PORTUGAL",Sport TV1 (b)
-#EXTVLCOPT:http-referrer=https://topembed.pw/
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://top2new.newkso.ru/top2/eplayerSPORTTV1/mono.m3u8
 
@@ -838,10 +838,11 @@ https://zekonew.newkso.ru/zeko/premium758/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium767/mono.m3u8
 
-#EXTINF:-1  tvg-name="Fox Sports 2 Argentina" tvg-id="Fox Sports 2 Argentina" tvg-logo="Fox Sports 2 Argentina" group-title="Fox Sports 2 Argentina",Fox Sports 2 Argentina
-#EXTVLCOPT:http-referrer=Fox Sports 2 Argentina
-#EXTVLCOPT:http-user-agent=Fox Sports 2 Argentina
-Fox Sports 2 Argentina
+#EXTINF:-1  tvg-name="Fox Sports 2 Argentina" tvg-id="FOXSPORTS2.ar" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-2-ar.png" group-title="Fox Sports 2 Argentina",Fox Sports 2 Argentina
+#EXTVLCOPT:http-origin=https://alldownplay.xyz
+#EXTVLCOPT:http-referrer=https://alldownplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium768/mono.m3u8
 
 #EXTINF:-1  tvg-name="Fox Sports 3 Argentina" tvg-id="FoxSports3(Argentina).ar" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-3-ar.png" group-title="ARGENTINA",Fox Sports 3 Argentina
 #EXTVLCOPT:http-origin=https://alldownplay.xyz
