@@ -93,7 +93,6 @@ https://x4new.newkso.ru/x4/nbatvpt/mono.m3u8
 https://ddy6new.newkso.ru/ddy6/premium455/mono.m3u8
 
 #EXTINF:-1  tvg-name="DAZN 2 (Eleven Sports PT)" tvg-id="ElevenSports2(src01).pt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/eleven-sports-2-pt.png?raw=true" group-title="PORTUGAL",DAZN 2 (Eleven Sports PT)
-#EXTVLCOPT:http-origin=https://alldownplay.xyz
 #EXTVLCOPT:http-referrer=https://alldownplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium456/mono.m3u8
