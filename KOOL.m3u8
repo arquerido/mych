@@ -2,8 +2,9 @@
 #EXTINF:-1  tvg-name="24 KITCHEN" tvg-id="24kitchen.pt" group-title="Portugal",24 KITCHEN
 #EXTVLCOPT:http-referrer=https://kool.to/
 #EXTVLCOPT:http-user-agent=KOOL
+#EXTVLCOPT:http-origin=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL","Referer":"https://kool.to"}/
-http://arquerido-mych.hf.space:7860/proxy/m3u?url=https://kool.to/play/2176778441/index.m3u8
+https://kool.to/play/2176778441/index.m3u8
 
 #EXTINF:-1  tvg-name="A BOLA TV" tvg-id="abolatv.pt" group-title="Portugal",A BOLA TV
 #EXTVLCOPT:http-referrer=https://kool.to/
