@@ -1,0 +1,75 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/ppv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnphStu.png" group-title="24/7 STREAMS",(North) Korean Central Television
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=D8Im5EkjSnA5WCIV79FY4A&expires=1748661579
+#EXTINF:-1 tvg-logo="https://extension.usu.edu/drought/images/drought-mitigation-cows-thumbnail.png" group-title="24/7 STREAMS",24/7 COWS
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=D8Im5EkjSnA5WCIV79FY4A&expires=1748661579
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",24/7 Family Guy
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=BQYi1Xlqtp-aFsGFs9sOUQ&expires=1748661580
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 STREAMS",24/7 South Park
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=D8Im5EkjSnA5WCIV79FY4A&expires=1748661579
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="24/7 STREAMS",24/7 The Simpsons
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=D8Im5EkjSnA5WCIV79FY4A&expires=1748661579
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x3OPAo3.jpeg" group-title="WRESTLING",AEW: Saturday Night Collision
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=wayXrp6HJW1URy7VpQ_WHw&expires=1748748600
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8v1hImc.png" group-title="MLB",Athletics vs. Toronto Blue Jays
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YjQyNWFjNjFhNmYzLTE3NTktNDg1NC00YTQ3LTQxYmM1MTVi/master.m3u8?md5=5FDFRL33UAc1ZhO2cAw2qw&expires=1748659020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcGnthd.png" group-title="MLB",Boston Red Sox vs. Atlanta Braves
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YWMxN2M4YWMzNTVjLWY0NjgtMTIwNC00MmY5LWZjMzJhNGU4/master.m3u8?md5=niq5a3t0WhxKt72E2Vtquw&expires=1748659500
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KAQM5Zy.png" group-title="MLB",Chicago White Sox vs. Baltimore Orioles
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmM0NzVlNjM1NTY0LWFjZWEtZDI4NC1kZjllLWVjZDc3N2E4/master.m3u8?md5=JOqi2DEOFackl28pOfrQSA&expires=1748658900
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hwQwlJt.png" group-title="MLB",Cincinnati Reds vs. Chicago Cubs
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmY3MTBkYWJlMmMyLTI4NmItMzdlNC1iNjQ2LWM1Nzc3ZTRl/master.m3u8?md5=cQ81AAEi81xQIYj3f82THQ&expires=1748641800
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6uX4nBz.png" group-title="FOOTBALL",Club WC Play In: Los Angeles FC vs América
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjFkODA5OWI4ZTVlLWY4YzgtYWYzNC1jNTc3LWNiOTBiMGYz/master.m3u8?md5=fHotVaNLFKqWR35wLLuZGQ&expires=1748757600
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BpBYBzw.png" group-title="MLB",Colorado Rockies vs. New York Mets
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTgwYWU4MzQ5OGRjLTEzYzgtMzBmNC0zY2IyLTdhM2ZlY2Uy/master.m3u8?md5=rGUNlA85dp_McD1sjJAp-Q&expires=1748659200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8vJ0hAE.png" group-title="MLB",Detroit Tigers vs. Kansas City Royals
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MGY0YTI5ZjVkMGRiLTkyNTktODgyNC03OTQ3LTBiOWIzYzRm/master.m3u8?md5=Gi-k_7WEKKW6XGPrfV7DAw&expires=1748662800
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/atl-sea/1280x720.png" group-title="BASKETBALL",Dream at Storm
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjMwNGFhYzBmNDQwLWFlYTktNjViNC0yZWJkLWQ1OTg3NzZk/master.m3u8?md5=BQYi1Xlqtp-aFsGFs9sOUQ&expires=1748661580&t=1748618380
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G6wUVQD.png" group-title="MOTORSPORTS",F1: Spanish Grand Prix (Practice 2)
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=BQYi1Xlqtp-aFsGFs9sOUQ&expires=1748661580&t=1748618380
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eGWSX8N.png" group-title="MOTORSPORTS",F1: Spanish Grand Prix (Practice 3)
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=D8Im5EkjSnA5WCIV79FY4A&expires=1748661579&t=1748618379
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GY5f7iK.png" group-title="MOTORSPORTS",F1: Spanish Grand Prix (Qualifying)
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=8108ncrg8d3Bbp1VNUwsUA&expires=1748661581&t=1748618381
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pJC3wv.png" group-title="MOTORSPORTS",F1: Spanish Grand Prix (Race)
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=BQYi1Xlqtp-aFsGFs9sOUQ&expires=1748661580&t=1748618380
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaVFhfz.png" group-title="ICE HOCKEY",Florida Panthers vs. Edmonton Oilers
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=tGNNWXo5HSjKIovEw1h4MQ&expires=1749094200
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/nyl-was/1280x720.png" group-title="BASKETBALL",Liberty at Mystics
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ODJmYjIwOWQ2OWI1LTgzYWItODk2NC0zZmNjLTExYTdjOWM3/master.m3u8?md5=BQYi1Xlqtp-aFsGFs9sOUQ&expires=1748661580&t=1748618380
+#EXTINF:-1 tvg-logo="https://i.imgur.com/imsYTA9.png" group-title="MLB",Los Angeles Angels vs. Cleveland Guardians
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MGY2OTdiZGE1YjJjLTMzODgtNTY3NC0yMjI3LTg3YWM0ZDRm/master.m3u8?md5=rGUNlA85dp_McD1sjJAp-Q&expires=1748659200
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/min-phx/1280x720.png" group-title="BASKETBALL",Lynx at Mercury
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Nzc1NDg5YWIxMDZhLWUwMmItMWMwNC0wYTQ3LTM3Y2JjNGMy/master.m3u8?md5=D8Im5EkjSnA5WCIV79FY4A&expires=1748661579&t=1748618379
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pookGfX.png" group-title="MLB",Milwaukee Brewers vs. Philadelphia Phillies
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzAyZDA2OTVjOTc2LTgwNTktN2U1NC04Njg3LTY2YjkzYWIw/master.m3u8?md5=Vol17UMvyQi9OUB8usyYZA&expires=1748657700
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qgldZmI.png" group-title="MLB",Minnesota Twins vs. Seattle Mariners
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ODVmMjkyM2QzZTM1LTk2OGItM2U2NC1kNjJmLTk2ZTkzMmRh/master.m3u8?md5=TQQdF39E_roKVPQ8F5yJoA&expires=1748670000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oidNMWU.png" group-title="MLB",New York Yankees vs. Los Angeles Dodgers
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OWUzMmMwNDYzMDRlLWI4MTktNTdhNC1kYTU5LTcwMDc3MTky/master.m3u8?md5=TQQdF39E_roKVPQ8F5yJoA&expires=1748670000
+#EXTINF:-1 tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_37bnk0ds/width/640" group-title="DARTS",PDC: 2025 European Darts Open Day One
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjQ4YjM4NmI0OTQxLTdmMGItNGQ0NC1iZGU2LWE3MzM4ODRi/master.m3u8?md5=IVOb6n6uMLit4qb_4cwuWA&expires=1748651340
+#EXTINF:-1 tvg-logo="https://open.http.mp.streamamg.com/p/3000668/sp/300066800/thumbnail/entry_id/0_iajq5yea/width/640" group-title="DARTS",PDC: 2025 European Darts Open Day Two
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTEwZDZmNjBjZmY3LTU5MGItNDk2NC05YjkxLTg1MGZhNWFl/master.m3u8?md5=R6ZpAAB33aXK2NcvK2slDA&expires=1748737740
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TjAWm4f.png" group-title="MLB",Pittsburgh Pirates vs. San Diego Padres
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OGRiM2QyY2Q3MzU5LWUyNWEtYjY3NC1hYWIwLWEzMDM1NDU5/master.m3u8?md5=4vtE666BeSzWFkO8tgm1yw&expires=1748668200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jAhAJBF.png" group-title="MLB",San Francisco Giants vs. Miami Marlins
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YjVmMDI3YjEwMzljLWQzNjgtZGI5NC1hZjZmLTBiOGNmODQ0/master.m3u8?md5=rGUNlA85dp_McD1sjJAp-Q&expires=1748659200
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/las-lva/1280x720.png" group-title="BASKETBALL",Sparks at Aces
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTI1NjViMTBlZDU3LTYzMmItZWIxNC1hYTRmLTA3MmE4Nzhh/master.m3u8?md5=D8Im5EkjSnA5WCIV79FY4A&expires=1748661579&t=1748618379
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4GiDmom.png" group-title="MLB",St. Louis Cardinals vs. Texas Rangers
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTUxZDg4MGIwYjVhLWNjZDktY2EwNC01ODA5LTZkOTViMDE5/master.m3u8?md5=9iCm0cEX41R303Rn20BHCw&expires=1748662500
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/wnba/latest/ced/con-ind/1280x720.png" group-title="BASKETBALL",Sun at Fever
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NmJjZmJhZjg2ZjUzLTg2NWItODFhNC1iMzYyLWVhNzNiYzUw/master.m3u8?md5=D8Im5EkjSnA5WCIV79FY4A&expires=1748661579&t=1748618379
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1UGNLCx.png" group-title="MLB",Tampa Bay Rays vs. Houston Astros
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGEzZjZhMzYwNTQ3LTU4OWEtYmY1NC1hMTYzLTRiODA1MWZl/master.m3u8?md5=Gi-k_7WEKKW6XGPrfV7DAw&expires=1748662800
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqupbgS.png" group-title="WRESTLING",WWE: Friday Night Smackdown
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=Hw69mXT67oBzVGm8uZoG_Q&expires=1748662200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9Vazpw.png" group-title="MLB",Washington Nationals vs. Arizona Diamondbacks
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YWVhYWY3YmY4OGUzLWM0NmItZWUzNC1hZGE1LTU2NDk5ZGIy/master.m3u8?md5=4vtE666BeSzWFkO8tgm1yw&expires=1748668200
