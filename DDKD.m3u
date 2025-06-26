@@ -1,19 +1,19 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/daddylive-channels-epg.xml"
 
 #EXTINF:-1 tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vamos.png" group-title="SPAIN",#Vamos Spain
-https://daddio.onrender.com:7860/proxy/m3u?url=https://windnew.newkso.ru/wind/premium521/mono.m3u8
+https://arquerido-wtfdad.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium521/mono.m3u8
 
 #EXTINF:-1 tvg-id="20(Italian).it" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/20mediaset.png" group-title="ITALY",20 Mediaset Italy
-https://windnew.newkso.ru/wind/premium857/mono.m3u8
+https://arquerido-piggy.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium857/mono.m3u8
 
 #EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/3sat.png" group-title="GERMANY",3sat DE
-https://ddy6new.newkso.ru/ddy6/premium726/mono.m3u8
+https://arquerido-mynewdad.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium726/mono.m3u8
 
 #EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/5-usa.png" group-title="UNITED KINGDOM",5 USA
-https://windnew.newkso.ru/wind/premium360/mono.m3u8
+https://arquerido-eaztea.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium360/mono.m3u8
 
 #EXTINF:-1 tvg-id="6eren.dk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/6eren.png" group-title="DENMARK",6'eren Denmark
-https://dokko1new.newkso.ru/dokko1/premium800/mono.m3u8
+https://arquerido-mynewdad.hf.space/proxy/m3u?url=https://dokko1new.newkso.ru/dokko1/premium800/mono.m3u8
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/a-sport-pk.png" group-title="PAKISTAN",A Sport PK
 https://ddy6new.newkso.ru/ddy6/premium269/mono.m3u8
