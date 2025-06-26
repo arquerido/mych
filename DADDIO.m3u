@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://github.com/Pukabyte/dlepg/raw/refs/heads/main/daddylive-channels-epg.xml"  
 #EXTINF:-1 group-title="#DAHF",ABC USA
 http://scafroglia93-ua.hf.space/proxy/m3u?url=https%3A%2F%2Fthedaddy.click%2Fstream%2Fstream-51.php
 #EXTINF:-1 group-title="#DAHF",A&E USA
