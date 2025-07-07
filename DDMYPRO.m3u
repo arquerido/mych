@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Pukabyte/dlepg/refs/heads/main/daddylive-channels-epg.xml"
 
 #EXTINF:-1 tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vamos.png" group-title="SPAIN",#Vamos Spain
-https://TMIcaI3XLxGCiCH:xMugFlhthNDA999@95.135.129.11:47445/proxy/stream?url=https://windnew.newkso.ru/wind/premium521/mono.m3u8
+https://TMIcaI3XLxGCiCH:xMugFlhthNDA999@95.135.129.11:47445/https://windnew.newkso.ru/wind/premium521/mono.m3u8
 
 #EXTINF:-1 tvg-id="20(Italian).it" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/20mediaset.png" group-title="ITALY",20 Mediaset Italy
-https://TMIcaI3XLxGCiCH:xMugFlhthNDA999@95.135.129.11:47445/stream?url=https://windnew.newkso.ru/wind/premium857/mono.m3u8
+https://TMIcaI3XLxGCiCH:xMugFlhthNDA999@95.135.129.11:47445/?url=https://windnew.newkso.ru/wind/premium857/mono.m3u8
 
 #EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/3sat.png" group-title="GERMANY",3sat DE
 https://nzo66-tvproxy.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium726/mono.m3u8
