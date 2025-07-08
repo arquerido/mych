@@ -1,8 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/vamos.png" group-title="SPAIN",#Vamos Spain
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://unacceptable-maire-arquerido-72bebd70.koyeb.app/fetch/?url=https://windnew.newkso.ru/wind/premium521/mono.m3u8
 
