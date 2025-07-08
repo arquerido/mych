@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Pukabyte/dlepg/refs/heads/main/daddylive-channels-epg.xml"
 
 #EXTINF:-1 tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vamos.png" group-title="SPAIN",#Vamos Spain
+#EXTVLCOPT:http-origin=https://https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://mych.xbxjipeozxfosmsxlj.workers.dev?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium521%2Fmono.m3u8&data=aHR0cC1vcmlnaW46PWh0dHBzOi8vdmVjbG91ZC5ldXxodHRwLXJlZmVycmVyOj1odHRwczovL3ZlY2xvdWQuZXUvfGh0dHAtdXNlci1hZ2VudDo9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzMC4wLjAuMCBTYWZhcmkvNTM3LjM2
 
 #EXTINF:-1 tvg-id="20(Italian).it" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/20mediaset.png" group-title="ITALY",20 Mediaset Italy
