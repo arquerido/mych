@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", YGTV
+https://newidco-ygtv-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Weekly Idol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5466
+#EXTINF:0 type="stream" channelId="-1", Arirang K-pop
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5468
+#EXTINF:0 type="stream" channelId="-1", Dingo Music
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5474
+#EXTINF:0 type="stream" channelId="-1", SBS Inkigayo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5490
+#EXTINF:0 type="stream" channelId="-1", Show Champion
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5464
+#EXTINF:0 type="stream" channelId="-1", NEW K-ID
+https://newidco-newkid-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", NEW K-ID 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
+#EXTINF:0 type="stream" channelId="-1", NEW K-POP (Brazil)
+https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
+#EXTINF:0 type="stream" channelId="-1", NEW K-POP (México)
+https://newidco-newkid-1-mx.lg.wurl.tv/3000.m3u8
+#EXTINF:0 type="stream" channelId="-1", NEW K-POP (EU)
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", NEW K-POP (Canada)
+https://newidco-newkid-1-ca.lg.wurl.tv/3000.m3u8
+#EXTINF:0 type="stream" channelId="-1", NEW K-POP (TCL)
+https://2f63ef134ad044c8bc3b4ab0131658e9.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/TCLTVPlus_NewKPop/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", SBS-M
+https://tvlive.sbs.co.kr/sbsmtvpc/sbsmtv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDAzMjMyNzYsInBhdGgiOiIvc2JzbXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjljZTdlOTUzLWE0YTUtNDVhOS04NDZmLWY5NmVkNWQwMGMwOSIsImlhdCI6MTc0MDMxNjA3Nn0.o1Dc9afiOAjrU44W-mdkkIwLDU2NRD0-AvzECUXMago
+#EXTINF:0 type="stream" channelId="-1", MNet
+https://everylive.space/live/mnet/livestream.m3u8
+#EXTINF:0 type="stream" channelId="-1", M2
+https://jmp2.uk/sam-KRBC3200023BG.m3u8
+#EXTINF:0 type="stream" channelId="-1", Mnet I-LAND2
+https://jmp2.uk/sam-KRBC3200028P2.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kpoptv
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Arirang (Music)
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Clips
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
+#EXTINF:0 type="stream" channelId="-1", Whosfan News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=889
+#EXTINF:0 type="stream" channelId="-1", Mukbang
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=882
+#EXTINF:0 type="stream" channelId="-1", K-Content
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6176ff3ba00900000763710f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0 type="stream" channelId="-1", KMovies
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+#EXTINF:0 type="stream" channelId="3249", KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:0 type="stream" channelId="-1", KBS 1
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:0 type="stream" channelId="-1", KBS 2
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:0 type="stream" channelId="-1", MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="5008", SBS
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", JTBC
+https://everylive.space/live/jtbc/livestream.m3u8
+#EXTINF:0 type="stream" channelId="-1", UBC-SBS
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVN
+https://jmp2.uk/sam-KRBC3200018FU.m3u8
+#EXTINF:0 type="stream" channelId="-1", OCN
+https://jmp2.uk/sam-KRBC3200017JQ.m3u8
+#EXTINF:0 type="stream" channelId="-1", OGN
+https://jmp2.uk/sam-KRBC3200005SH.m3u8
+#EXTINF:0 type="stream" channelId="-1", K-ASMR
+https://jmp2.uk/sam-KRBC41000021C.m3u8
+#EXTINF:0 type="stream" channelId="-1", K-POP by CJ ENM
+https://jmp2.uk/sam-CA3900002PM.m3u8
+
+
