@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-
+#EXTM3U
 #EXTINF:-1 tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/vamos.png" group-title="SPAIN",#Vamos Spain
 https://windnew.newkso.ru/wind/premium521/mono.m3u8
 #EXTINF:-1 tvg-id="20(Italian).it" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/20mediaset.png" group-title="ITALY",20 Mediaset Italy
@@ -1479,4 +1478,5 @@ https://dokko1new.newkso.ru/dokko1/premium797/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UNGROUPED",TF1 France [Stream Conflict #469]
 https://windnew.newkso.ru/wind/premium469/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UNGROUPED",YTV CA [Stream Conflict #296]
+
 https://ddy6new.newkso.ru/ddy6/premium296/mono.m3u8
