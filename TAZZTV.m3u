@@ -1,8 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="https://assets.tazztv.xyz/uploads/eptemplates/icons/bLtaTOdZed4aM8JkL1xmXi9Lha35I2pJNaAligfEwE1K89GbPX.jpeg" group-title="TAZZ WORLD",Sky Sports Main Event HD
-#EXTVLCOPT:http-origin=https://tazztv.xyz
-#EXTVLCOPT:http-referrer=https://tazztv.xyz/
-#EXTVLCOPT:http-user-agent=okhttp/4.10.0
 https://tazzdevil.arquerido.workers.dev/play/skymaineventuk
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="https://assets.tazztv.xyz/uploads/eptemplates/icons/3DWffQCrY0o5onsURFtsRZ4djJssfTH5kmNovfcFXBO0b04IkF.jpeg" group-title="TAZZ WORLD",Sky Sports Premier League HD
 https://tazzdevil.arquerido.workers.dev/play/skyepluk
@@ -182,3 +179,4 @@ https://tazzdevil.arquerido.workers.dev/play/telemundo
 https://tazzdevil.arquerido.workers.dev/play/rtl
 #EXTINF:-1 tvg-id="NBC.Universo.-.Eastern.feed.us" tvg-name="UNIVERSO HD" tvg-logo="https://assets.tazztv.xyz/uploads/eptemplates/icons/VfN1bN1ZEK4KKsCM2taJFYr0OJ9lwQAD53pzVFGhrFikqX0jif.png" group-title="TAZZ WORLD",UNIVERSO HD
 https://tazzdevil.arquerido.workers.dev/play/universo
+
