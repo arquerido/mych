@@ -3,12 +3,12 @@
 #EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/5-usa.png" group-title="UNITED KINGDOM",5 USA
 #EXTVLCOPT:http-referrer=https://fstv.online/
 #EXTVLCOPT:http-origin=https://fstv.online
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 TiviMate/4.7.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmMxYmNiYzYxZWEwLTVmMTktMzllNC0wMmNlLTIyY2QyNzVh/master.m3u8?md5=Rn6SVBQkB1EoTBQCgDzopA&expires=1755670859&t=1755627659
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/a-sport-pk.png" group-title="PAKISTAN",A Sport PK
 #EXTVLCOPT:http-referrer=https://fstv.online/
 #EXTVLCOPT:http-origin=https://fstv.online
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 TiviMate/4.7.0
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2E4ODAzYjkwNThiLTI5MDgtMjZlNC1jNjY5LTc3YTM0Mzdk/master.m3u8?md5=lvjOWNPb2T17ARg8pgDz-Q&expires=1755670865&t=1755627665
 #EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/aande.png" group-title="UNITED STATES",A&E USA
 #EXTVLCOPT:http-referrer=https://fstv.online/
@@ -2209,4 +2209,5 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODc0MzBiZTc4
 #EXTVLCOPT:http-referrer=https://fstv.online/
 #EXTVLCOPT:http-origin=https://fstv.online
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDUyZGJhNWViMDE1LTZmZDktNGQyNC04ODYyLWQ2OWIyZTU3/master.m3u8?md5=Rn6SVBQkB1EoTBQCgDzopA&expires=1755670859&t=1755627659
