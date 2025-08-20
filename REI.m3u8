@@ -1,0 +1,441 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",CNN Brasil
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7685b7e26da7cdd166f53216783de078:89b8a2d4e233a8831693615fe0d03509
+https://abgqhhbaaaaaaaama4o5qczstybdl.ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zmpncidiwv/out/v1/56b839863a7642e2a99a8b5144341aea/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Globo News
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57ecd6a2086b99cc1d0452b102a7043b:11386090a315fc1e88427aeed4a60900
+https://abgqhhbaaaaaaaamedap6j4vebjdg.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsfrp5mjrb/out/v1/9fa07e663bc94e9f93c53726a558478a/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",CazéTV
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://abgqhhbaaaaaaaampb5zelh6d3hy6.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",CazéTV 2
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",CazéTV 3
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1cc74a5123cb29f0ec0bc40d6c2f270:a5ed8184ee98c3f0a3c261129c8d6e8b
+https://abgqhhbaaaaaaaamd5dynhpgv3rkb.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/jg2rwtxaop/out/v1/74eba8f71bf14154ac3a9491371a6628/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Combate
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02c5848f99cc0e2d189ec785862f3e58:d7089c9e7e1a55a73c016c3fc33fe603
+https://abc3orwaaaaaaaamlphkqottmn4jc.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ocdmtrviru/out/v1/e1732a27283d45d1b2de0c220e0ca62f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Premiere
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://abgqhhbaaaaaaaamgyske232j4one.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Premiere (Alternativo)
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://abgqhhbaaaaaaaamgyske232j4one.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Premiere 2
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Premiere 2 (Alternativo)
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Premiere 3
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Premiere 3 (Alternativo)
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Premiere 4
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Premiere 4 (Alternativo)
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Premiere 5
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Premiere 5 (Alternativo)
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Premiere 6
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
+https://a136aivottlinear-a.akamaihd.net/OTTB/gru-nitro/live/clients/dash/enc/phxwb8s3u9/out/v1/45162b5b3c62402aa2e763b38517be9d/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Premiere 6 (Alternativo)
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
+https://a136aivottlinear-a.akamaihd.net/OTTB/gru-nitro/live/clients/dash/enc/phxwb8s3u9/out/v1/45162b5b3c62402aa2e763b38517be9d/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Premiere 7
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
+https://abgqhhbaaaaaaaamafrj6yx3tzguk.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/s818vishap/out/v1/7a63dfa162b443ceb195075092adbb21/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Premiere 7 (Alternativo)
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
+https://abgqhhbaaaaaaaamafrj6yx3tzguk.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/s818vishap/out/v1/7a63dfa162b443ceb195075092adbb21/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Premiere 8
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
+https://abgqhhbaaaaaaaamc4ksvxqvci7ml.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/wwinlbo2f3/out/v1/3f77baf7841a4fdeb9001961b9541a08/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Premiere 8 (Alternativo)
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
+https://abgqhhbaaaaaaaamc4ksvxqvci7ml.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/wwinlbo2f3/out/v1/3f77baf7841a4fdeb9001961b9541a08/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Prime Video
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51d5e9ad4d6fd081e24edd87bbcb6c9:ef8579803c10ddf15d33c3a62413c8d1
+https://abc3orwaaaaaaaamlphkqottmn4jc.ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/i7vyktvs94/out/v1/e22459a415a84f89b64d36f172d929da/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Sportv
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://abgqhhbaaaaaaaamlk56gfiik2ug5.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Sportv (Alternativo)
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://abgqhhbaaaaaaaamlk56gfiik2ug5.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Sportv 2
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
+https://abgqhhbaaaaaaaammndourvrl7ioa.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Sportv 2 (Alternativo)
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
+https://abgqhhbaaaaaaaammndourvrl7ioa.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Sportv 3
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Sportv 3 (Alternativo)
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Futura
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfa82a6044c0718d09b03e0dbeb4156a:06cb6f49b64ebe067ab4952d0bede6a3
+https://a36aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/swkktyrevj/out/v1/bd2d93c0932344b6bd3599cd3edef60a/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Globoplay Novelas
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab4523b0358f3c59f1da92b3f478232:253ef14355d987d4076b4544e4741977
+https://a128aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/ds9ertnhrl/out/v1/cb791b7362754ba1b87d9474ccd95fa3/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Gloob
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=543f29c521f94da05621232642b63c9f:5ea2c9b188bec0b6d438f5514278b67f
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/sjbrjzcmin/out/v1/17ffd96f922c4370977c4780c31b4558/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Gloobinho
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04e98050020f0179d09d71cc858f9fad:c7c12371f6e94e0342e94f188f0159f5
+https://abgqhhbaaaaaaaamivsfthvgchhme.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/gndmtl8lkm/out/v1/7543a7700b96455c8e66a65e89ea4ead/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",GNT
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c4d19c8cda9e78bae924e07ce49cb04:4a3a155e480a67b81c5492befe07fa61
+https://abgqhhbaaaaaaaamauj5hw5tle33x.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/h9c8z9m1dq/out/v1/9b1b1aa15b4f471ea19674290554499e/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Modo Viagem
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=63af4556621061c3c120488cbef43dc8:760001c8159fef838827603e3477fdff
+https://a137aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/di8gz3gds1/out/v1/a655796e8c964ea6962bb01ecf124e60/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Multishow
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a93ff790eca6f86ad6adb53929fe1c4:6664fa23d82cbfeaf5cdb2d662bec3b3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x7aaupxajb/out/v1/49d602c6294147a18d798ce6abbb6957/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Viva
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab4523b0358f3c59f1da92b3f478232:253ef14355d987d4076b4544e4741977
+https://a128aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/ds9ertnhrl/out/v1/cb791b7362754ba1b87d9474ccd95fa3/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Canal Brasil
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c78393bae527ea4a139317693510bc84:366460861aa79c1dd1cef80f08e4fa60
+https://a92aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/2glwrcj9am/out/v1/d1edbefeaf7b4a89940e300bda5ecb5a/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Canal Off
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1476b7cb370e3e2cb5dc07417a4e7bef:d92e9289e145f14674815ee602e57ae7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/r0gyywkof7/out/v1/3ce56dd956ae4fcb80123b970084351e/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Megapix
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf8a2c054a3148309bce1039a9a5d603:9417daf3a25dff3f78d76c1ebb550654
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/21ilsertww/out/v1/124c84cbafc745b6b2c47fc9be606727/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Studio Universal
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff696814dc3a3b8d88285c44fbcf03cf:8497445fcfebe0b1a2637025408b8fd1
+https://a193aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/yklw4lfzq0/out/v1/cae21ff755304da5a462793362c6072b/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",SyFy
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc9f3a3f7ce7922c3b599e2e0c1f7830:4591bf63837b4b342058c5e11a51744a
+https://a182aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/1hz9ifohl2/out/v1/ac9abc088bfa42d49218644005535e02/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",Universal TV
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae04c9f2517cc96bdd039770fd03c901:cc04c096cfdf3f4e194428aa57d81a57
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/a7i5fpzezv/out/v1/f79c30ef69104693b6ceac0eba60e6d6/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="IReidoscanaisLife",USA
+#EXTVLCOPT:http-origin=https://reidoscanais.life/
+#EXTVLCOPT:http-referrer=https://reidoscanais.life/
+#EXTVLCOPT:http-user-agent=Mozilla/50 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc9f3a3f7ce7922c3b599e2e0c1f7830:4591bf63837b4b342058c5e11a51744a
+https://a182aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/1hz9ifohl2/out/v1/ac9abc088bfa42d49218644005535e02/cenc.mpd
+
