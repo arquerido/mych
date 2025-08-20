@@ -1176,7 +1176,7 @@ http://xfireflix.fun/opflix/stream.php?id=352921&e=.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/ce7c9696313070a9238ade6d0b8c6c67.png" group-title="PORTUGAL ➾ SPORTS", PT: BENFICA TV
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352922
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352922&e=.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/93673aa325443895b136366bbfc38fc4.png" group-title="PORTUGAL ➾ SPORTS", PT: CANAL 11
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
