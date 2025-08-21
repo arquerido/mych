@@ -4,47 +4,47 @@
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352838
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352838&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/574bf954a7d9977135a11aea5a17102d.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: NAT GEO
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/574bf954a7d9977135a11aea5a17102d.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: NAT GEO
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352839
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352839&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/d4602c73330509214ee8324552e8e897.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: NAT GEO WILD
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4602c73330509214ee8324552e8e897.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: NAT GEO WILD
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352840
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352840&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2023-04/a1b305ea7b0e852adefe7dbb105da387.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: CAZA Y PESCA
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/a1b305ea7b0e852adefe7dbb105da387.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: CAZA Y PESCA
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352841
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352841&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2022-05/e5841517874fb6f89b1d336ff814cff9.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: CAÇAVISION
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e5841517874fb6f89b1d336ff814cff9.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: CAÇAVISION
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352842
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352842&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-09/b34346f2d94d16e97f40441515e48cbf.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: A&E
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b34346f2d94d16e97f40441515e48cbf.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: A&E
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352843
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352843&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2023-05/aa39afd1595de483bb3ea94a9220ba63.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: CRIME DISTRICT
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/aa39afd1595de483bb3ea94a9220ba63.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: CRIME DISTRICT
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352844
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352844&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: DISCOVERY WORLD
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: DISCOVERY WORLD
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352845
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352845&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/6032909e08119f5609aef6340cb3740e.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: HISTORIA
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6032909e08119f5609aef6340cb3740e.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: HISTORIA
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352846
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352846&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/db6a791521e3d31c550efeb266ba2bb6.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/db6a791521e3d31c550efeb266ba2bb6.png" group-title="PORTUGAL ➾ DOCUMENTARY", PT: INVESTIGATION DISCOVERY
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352847
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
@@ -54,217 +54,217 @@ http://xfireflix.fun/opflix/stream.php?id=352847&e=.m3u8
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352848
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352848&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/8387532c7a04a1fdc7a6846aae51bac4.png" group-title="PORTUGAL ➾ KIDS", PT: BABY TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8387532c7a04a1fdc7a6846aae51bac4.png" group-title="PORTUGAL ➾ KIDS", PT: BABY TV
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352849
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352849&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/871261a4089358903b96c27d13de2f1f.png" group-title="PORTUGAL ➾ KIDS", PT: BOOMERANG
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/871261a4089358903b96c27d13de2f1f.png" group-title="PORTUGAL ➾ KIDS", PT: BOOMERANG
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352850
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352850&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/29f1c10d6d10f0dba48ef1ab8f5650a1.png" group-title="PORTUGAL ➾ KIDS", PT: CANAL PANDA
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/29f1c10d6d10f0dba48ef1ab8f5650a1.png" group-title="PORTUGAL ➾ KIDS", PT: CANAL PANDA
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352851
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352851&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/8f4a17537e3d35fc10f7258bda5c1de2.png" group-title="PORTUGAL ➾ KIDS", PT: CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8f4a17537e3d35fc10f7258bda5c1de2.png" group-title="PORTUGAL ➾ KIDS", PT: CARTOON NETWORK
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352852
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352852&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/8421402691971ea1c41aecab55b6eaba.png" group-title="PORTUGAL ➾ KIDS", PT: DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8421402691971ea1c41aecab55b6eaba.png" group-title="PORTUGAL ➾ KIDS", PT: DISNEY CHANNEL
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352853
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352853&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/d8e3dffef846a877bebfee531a9a986e.png" group-title="PORTUGAL ➾ KIDS", PT: DISNEY JUNIOR
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d8e3dffef846a877bebfee531a9a986e.png" group-title="PORTUGAL ➾ KIDS", PT: DISNEY JUNIOR
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352854
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352854&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2022-04/6f0484ce1b78c3e3b76a1e440dfb0682.jpg" group-title="PORTUGAL ➾ KIDS", PT: DISNEY+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f0484ce1b78c3e3b76a1e440dfb0682.jpg" group-title="PORTUGAL ➾ KIDS", PT: DISNEY+
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352855
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352855&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORTUGAL ➾ KIDS", PT: DISNEY+ PIXAR
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORTUGAL ➾ KIDS", PT: DISNEY+ PIXAR
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352856
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352856&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/48ce455058185ecb6f7a06d4a237372d.png" group-title="PORTUGAL ➾ KIDS", PT: JIMJAM
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/48ce455058185ecb6f7a06d4a237372d.png" group-title="PORTUGAL ➾ KIDS", PT: JIMJAM
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352857
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352857&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORTUGAL ➾ KIDS", PT: KURIAKOS KIDS
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORTUGAL ➾ KIDS", PT: KURIAKOS KIDS
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352858
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352858&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/bdd79f5b3d2dde9c095cbbd602af1de0.png" group-title="PORTUGAL ➾ KIDS", PT: NICK JUNIOR
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bdd79f5b3d2dde9c095cbbd602af1de0.png" group-title="PORTUGAL ➾ KIDS", PT: NICK JUNIOR
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352859
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352859&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/7ba49f9f77fcc701888de284da556394.png" group-title="PORTUGAL ➾ KIDS", PT: NICKELODEON
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7ba49f9f77fcc701888de284da556394.png" group-title="PORTUGAL ➾ KIDS", PT: NICKELODEON
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352860
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352860&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2022-04/3cefd291288dfa0625349be7c43007c8.png" group-title="PORTUGAL ➾ KIDS", PT: PANDA KIDS
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/3cefd291288dfa0625349be7c43007c8.png" group-title="PORTUGAL ➾ KIDS", PT: PANDA KIDS
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352861
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352861&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/f56b8e30125f68fe1d3ed3274e461134.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: A BOLA TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f56b8e30125f68fe1d3ed3274e461134.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: A BOLA TV
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352862
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352862&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2022-06/33df3da365e8d1a5debd13803f9e993b.jpg" group-title="PORTUGAL ➾ LIFESTYLE", PT: ALMA LUSA
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/33df3da365e8d1a5debd13803f9e993b.jpg" group-title="PORTUGAL ➾ LIFESTYLE", PT: ALMA LUSA
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352863
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352863&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/22b90dd09952697c58877aff096f8999.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: AR TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22b90dd09952697c58877aff096f8999.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: AR TV
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352864
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352864&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/6bd0c23f862e4131e7dbbe307bc98c1a.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: BIGGS
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6bd0c23f862e4131e7dbbe307bc98c1a.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: BIGGS
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352865
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352865&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/d4ee9b446cc63844d9c2fbf86fded3d4.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: CASA E COZINHA
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4ee9b446cc63844d9c2fbf86fded3d4.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: CASA E COZINHA
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352866
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352866&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/02288d1748b84afa4bf4d13d6d2e6727.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: BLAZE
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/02288d1748b84afa4bf4d13d6d2e6727.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: BLAZE
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352867
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352867&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2022-01/0b4408c37e8c354d6bf4317d2a0b754f.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: CANCAO NOVA
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0b4408c37e8c354d6bf4317d2a0b754f.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: CANCAO NOVA
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352868
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352868&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/27276a58bc8105c1ee377d75d7af2f13.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: CANAL Q
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/27276a58bc8105c1ee377d75d7af2f13.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: CANAL Q
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352869
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352869&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/8f95bb48e77b4199e2b4b82fa5b0e97f.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: CBS REALITY
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8f95bb48e77b4199e2b4b82fa5b0e97f.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: CBS REALITY
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352870
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352870&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/c5f058eed1f49095b75e2234ae703754.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: E!
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5f058eed1f49095b75e2234ae703754.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: E!
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352871
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352871&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/24ab44b55e4bf2de5ad55ba14be2554a.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: FOOD NETWORK
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/24ab44b55e4bf2de5ad55ba14be2554a.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: FOOD NETWORK
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352872
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352872&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/f290d90bb57058d837daece37550435c.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: ODISSEIA
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f290d90bb57058d837daece37550435c.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: ODISSEIA
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352873
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352873&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/caa6360e94c2e434d525c13688d7a40a.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: PORTO CANAL
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/caa6360e94c2e434d525c13688d7a40a.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: PORTO CANAL
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352874
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352874&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/e7aeb547717f6e110c331e6aa4135d26.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: RTP 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e7aeb547717f6e110c331e6aa4135d26.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: RTP 1
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352875
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352875&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2020-05/8a5bcde9b3bd3182948bc4c10e4673a4.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: RTP 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-05/8a5bcde9b3bd3182948bc4c10e4673a4.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: RTP 2
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352876
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352876&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/f7178a16c0b410328e6590e1fd25a937.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: RTP 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f7178a16c0b410328e6590e1fd25a937.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: RTP 3
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352877
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352877&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-09/aa1ce489efce8eb73edf68f36dc6c72e.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: RTP AÇORES
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/aa1ce489efce8eb73edf68f36dc6c72e.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: RTP AÇORES
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352878
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352878&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/ae038bcd82a1074dc6659ba454c77d33.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: RTP MADEIRA
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ae038bcd82a1074dc6659ba454c77d33.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: RTP MADEIRA
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352879
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352879&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/149de92adf67fa96415a4e4ad74b062d.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: RTP MEMÓRIA
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/149de92adf67fa96415a4e4ad74b062d.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: RTP MEMÓRIA
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352880
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352880&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/acba61f833c6fdf7dffb57ce79055908.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: RTP ÁFRICA
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/acba61f833c6fdf7dffb57ce79055908.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: RTP ÁFRICA
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352881
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352881&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2022-05/83ccd96060ac85f5dc1edfb7a078cb99.jpg" group-title="PORTUGAL ➾ LIFESTYLE", PT: SAUDE+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/83ccd96060ac85f5dc1edfb7a078cb99.jpg" group-title="PORTUGAL ➾ LIFESTYLE", PT: SAUDE+
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352882
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352882&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/f635b82d815b50fe826d0dd86b2da632.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: SIC
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f635b82d815b50fe826d0dd86b2da632.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: SIC
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352883
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352883&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/ebc03e0ee47b8550771dcf1c7d2bb89c.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: SIC CARAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ebc03e0ee47b8550771dcf1c7d2bb89c.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: SIC CARAS
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352884
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352884&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/6f8729e8ca0e2050908b375500f224f9.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: SIC K
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f8729e8ca0e2050908b375500f224f9.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: SIC K
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352885
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352885&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/977c0ecb61363c74eff0f34c59905fb4.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: SIC RADICAL
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/977c0ecb61363c74eff0f34c59905fb4.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: SIC RADICAL
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352886
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352886&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/76eab48a6cb0f09a95fc547ed7d8a309.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: TLC
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/76eab48a6cb0f09a95fc547ed7d8a309.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: TLC
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352887
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352887&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/1a1f809513ab32d7bd5d5472605a3a0a.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: TRAVEL CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1a1f809513ab32d7bd5d5472605a3a0a.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: TRAVEL CHANNEL
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352888
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352888&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2023-06/60238430d0c25e5b66a86aa814b0bde5.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: TV MANA 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/60238430d0c25e5b66a86aa814b0bde5.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: TV MANA 1
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352889
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352889&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/e463c6dec5ae80331584d526357312e1.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: TVI FICÇÃO
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e463c6dec5ae80331584d526357312e1.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: TVI FICÇÃO
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352890
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352890&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/d399fedc17277522ba8d0416ee36498d.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: TVI REALITY
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d399fedc17277522ba8d0416ee36498d.png" group-title="PORTUGAL ➾ LIFESTYLE", PT: TVI REALITY
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352891
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
@@ -274,112 +274,112 @@ http://xfireflix.fun/opflix/stream.php?id=352891&e=.m3u8
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352892
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352892&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/ff2deccfb9fb15c90083f7c28ef24e05.png" group-title="PORTUGAL ➾ MOVIE", PT: AMC
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ff2deccfb9fb15c90083f7c28ef24e05.png" group-title="PORTUGAL ➾ MOVIE", PT: AMC
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352893
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352893&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/ab8a5bb7de8a56c0dcd49dcce1b15d42.png" group-title="PORTUGAL ➾ MOVIE", PT: AXN
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ab8a5bb7de8a56c0dcd49dcce1b15d42.png" group-title="PORTUGAL ➾ MOVIE", PT: AXN
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352894
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352894&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2022-05/46bd7963439cfb05cc5fa6a74e27ffcc.png" group-title="PORTUGAL ➾ MOVIE", PT: AXN BLACK
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/46bd7963439cfb05cc5fa6a74e27ffcc.png" group-title="PORTUGAL ➾ MOVIE", PT: AXN BLACK
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352895
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352895&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/1d31c6f7a6aa294e24dc1b66948442cb.png" group-title="PORTUGAL ➾ MOVIE", PT: AXN MOVIES
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d31c6f7a6aa294e24dc1b66948442cb.png" group-title="PORTUGAL ➾ MOVIE", PT: AXN MOVIES
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352896
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352896&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/211d3e396d86a6ae2569a8508a37e282.png" group-title="PORTUGAL ➾ MOVIE", PT: AXN WHITE
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/211d3e396d86a6ae2569a8508a37e282.png" group-title="PORTUGAL ➾ MOVIE", PT: AXN WHITE
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352897
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352897&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/a4996bfaef88ad7b8cc6c457a53b52db.png" group-title="PORTUGAL ➾ MOVIE", PT: CANAL HOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4996bfaef88ad7b8cc6c457a53b52db.png" group-title="PORTUGAL ➾ MOVIE", PT: CANAL HOLLYWOOD
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352898
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352898&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-09/114f6e6869a36118459e2f676012e5bc.png" group-title="PORTUGAL ➾ MOVIE", PT: CANAL NOS
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/114f6e6869a36118459e2f676012e5bc.png" group-title="PORTUGAL ➾ MOVIE", PT: CANAL NOS
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352899
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352899&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/1d2248be6d1a2b629f8ead3f41558ccf.png" group-title="PORTUGAL ➾ MOVIE", PT: CINE MUNDO
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d2248be6d1a2b629f8ead3f41558ccf.png" group-title="PORTUGAL ➾ MOVIE", PT: CINE MUNDO
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352900
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352900&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/fd8c5e231ea4d017d5998c69fac50b24.png" group-title="PORTUGAL ➾ MOVIE", PT: FOX
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fd8c5e231ea4d017d5998c69fac50b24.png" group-title="PORTUGAL ➾ MOVIE", PT: FOX
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352901
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352901&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/cfff810431b4d8089b10819a2b42ff24.png" group-title="PORTUGAL ➾ MOVIE", PT: FOX COMEDY
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cfff810431b4d8089b10819a2b42ff24.png" group-title="PORTUGAL ➾ MOVIE", PT: FOX COMEDY
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352902
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352902&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/079dbfbc1da0e76173cd3a002f26eb00.png" group-title="PORTUGAL ➾ MOVIE", PT: FOX CRIME
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/079dbfbc1da0e76173cd3a002f26eb00.png" group-title="PORTUGAL ➾ MOVIE", PT: FOX CRIME
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352903
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352903&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/9a97e75d0b0813a123a7e333f75af9b9.png" group-title="PORTUGAL ➾ MOVIE", PT: FOX LIFE
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9a97e75d0b0813a123a7e333f75af9b9.png" group-title="PORTUGAL ➾ MOVIE", PT: FOX LIFE
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352904
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352904&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/62026fb360365534347674c3d5041ec2.png" group-title="PORTUGAL ➾ MOVIE", PT: FOX MOVIES
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/62026fb360365534347674c3d5041ec2.png" group-title="PORTUGAL ➾ MOVIE", PT: FOX MOVIES
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352905
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352905&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2023-04/64fd3bf86a91bf4b98ae289b8af890e4.png" group-title="PORTUGAL ➾ MOVIE", PT: HOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/64fd3bf86a91bf4b98ae289b8af890e4.png" group-title="PORTUGAL ➾ MOVIE", PT: HOLLYWOOD
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352906
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352906&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORTUGAL ➾ MOVIE", PT: MEO VIDEOCLUBE
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORTUGAL ➾ MOVIE", PT: MEO VIDEOCLUBE
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352907
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352907&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/8b1ec4589ef03aaf0359eb18198f2080.png" group-title="PORTUGAL ➾ MOVIE", PT: NOS STUDIOS
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8b1ec4589ef03aaf0359eb18198f2080.png" group-title="PORTUGAL ➾ MOVIE", PT: NOS STUDIOS
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352908
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352908&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/00cfc2c30fdd7d84ebed9489cc0c6ca9.png" group-title="PORTUGAL ➾ MOVIE", PT: SIC MULHER
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/00cfc2c30fdd7d84ebed9489cc0c6ca9.png" group-title="PORTUGAL ➾ MOVIE", PT: SIC MULHER
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352909
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352909&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/3098e701203ad4b48b0be528b27bdd29.png" group-title="PORTUGAL ➾ MOVIE", PT: SYFY PORTUGAL
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3098e701203ad4b48b0be528b27bdd29.png" group-title="PORTUGAL ➾ MOVIE", PT: SYFY PORTUGAL
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352910
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352910&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/171a8586f36fec35a18bf5854ac8b35d.png" group-title="PORTUGAL ➾ MOVIE", PT: TVCINE ACTION
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/171a8586f36fec35a18bf5854ac8b35d.png" group-title="PORTUGAL ➾ MOVIE", PT: TVCINE ACTION
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352911
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352911&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/14b6fc20d38f98098f2654649f603bf2.png" group-title="PORTUGAL ➾ MOVIE", PT: TVCINE EDITION
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14b6fc20d38f98098f2654649f603bf2.png" group-title="PORTUGAL ➾ MOVIE", PT: TVCINE EDITION
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352912
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352912&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/167e3049cd1d1a5497a95f8ff399a161.png" group-title="PORTUGAL ➾ MOVIE", PT: TVCINE EMOTION
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/167e3049cd1d1a5497a95f8ff399a161.png" group-title="PORTUGAL ➾ MOVIE", PT: TVCINE EMOTION
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352913
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352913&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/f41f432f7892851986a82363c0f66332.png" group-title="PORTUGAL ➾ MOVIE", PT: TVCINE TOP
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f41f432f7892851986a82363c0f66332.png" group-title="PORTUGAL ➾ MOVIE", PT: TVCINE TOP
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352914
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
@@ -389,112 +389,112 @@ http://xfireflix.fun/opflix/stream.php?id=352914&e=.m3u8
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352915
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352915&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="PORTUGAL ➾ SPORTS", PT: ELEVEN SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title="PORTUGAL ➾ SPORTS", PT: ELEVEN SPORTS 1
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352916
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352916&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="PORTUGAL ➾ SPORTS", PT: ELEVEN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title="PORTUGAL ➾ SPORTS", PT: ELEVEN SPORTS 2
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352917
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352917&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="PORTUGAL ➾ SPORTS", PT: ELEVEN SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title="PORTUGAL ➾ SPORTS", PT: ELEVEN SPORTS 3
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352918
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352918&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="PORTUGAL ➾ SPORTS", PT: ELEVEN SPORTS 4
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title="PORTUGAL ➾ SPORTS", PT: ELEVEN SPORTS 4
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352919
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352919&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="PORTUGAL ➾ SPORTS", PT: ELEVEN SPORTS 5
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="PORTUGAL ➾ SPORTS", PT: ELEVEN SPORTS 5
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352920
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352920&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="PORTUGAL ➾ SPORTS", PT: ELEVEN SPORTS 6
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="PORTUGAL ➾ SPORTS", PT: ELEVEN SPORTS 6
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352921
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352921&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/ce7c9696313070a9238ade6d0b8c6c67.png" group-title="PORTUGAL ➾ SPORTS", PT: BENFICA TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce7c9696313070a9238ade6d0b8c6c67.png" group-title="PORTUGAL ➾ SPORTS", PT: BENFICA TV
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352922
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352922&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/93673aa325443895b136366bbfc38fc4.png" group-title="PORTUGAL ➾ SPORTS", PT: CANAL 11
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93673aa325443895b136366bbfc38fc4.png" group-title="PORTUGAL ➾ SPORTS", PT: CANAL 11
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352923
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352923&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="PORTUGAL ➾ SPORTS", PT: EUROSPORT 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png" group-title="PORTUGAL ➾ SPORTS", PT: EUROSPORT 1
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352924
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352924&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/44e7fcd83142484151969cb5ec092f2c.png" group-title="PORTUGAL ➾ SPORTS", PT: EUROSPORT 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44e7fcd83142484151969cb5ec092f2c.png" group-title="PORTUGAL ➾ SPORTS", PT: EUROSPORT 2
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352925
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352925&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-11/11dfc661a91cd89755e23af61a56807f.png" group-title="PORTUGAL ➾ SPORTS", PT: FOX SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/11dfc661a91cd89755e23af61a56807f.png" group-title="PORTUGAL ➾ SPORTS", PT: FOX SPORTS
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352926
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352926&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/2df8f6e6d22413d34871a4e44e7117fb.png" group-title="PORTUGAL ➾ SPORTS", PT: FUEL TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2df8f6e6d22413d34871a4e44e7117fb.png" group-title="PORTUGAL ➾ SPORTS", PT: FUEL TV
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352927
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352927&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/dd1edbd59250fb5df9e46713fa7e9c24.png" group-title="PORTUGAL ➾ SPORTS", PT: MOTORVISION TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dd1edbd59250fb5df9e46713fa7e9c24.png" group-title="PORTUGAL ➾ SPORTS", PT: MOTORVISION TV
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352928
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352928&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORT TV +
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORT TV +
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352929
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352929&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORT TV 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORT TV 1
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352930
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352930&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORT TV 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORT TV 2
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352931
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352931&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORT TV 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORT TV 3
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352932
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352932&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORT TV 4
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORT TV 4
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352933
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352933&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORT TV 5
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORT TV 5
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352934
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352934&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORT TV 6
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORT TV 6
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352935
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352935&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORT TV NBA
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORT TV NBA
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352936
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352936&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORTING TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="PORTUGAL ➾ SPORTS", PT: SPORTING TV
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352937
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
@@ -504,107 +504,107 @@ http://xfireflix.fun/opflix/stream.php?id=352937&e=.m3u8
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352938
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352938&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/48735d59be1fb5f7b553176ef45a23b4.png" group-title="PORTUGAL", PT: BLOOMBERG
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/48735d59be1fb5f7b553176ef45a23b4.png" group-title="PORTUGAL", PT: BLOOMBERG
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352939
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352939&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2022-07/6e8078421bf72e8fae6ecbebbaec85fd.png" group-title="PORTUGAL", PT: CANAL MACAU
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6e8078421bf72e8fae6ecbebbaec85fd.png" group-title="PORTUGAL", PT: CANAL MACAU
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352940
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352940&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/ac1ea8e2c36914812a32029089a0b6d1.png" group-title="PORTUGAL", PT: CM TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac1ea8e2c36914812a32029089a0b6d1.png" group-title="PORTUGAL", PT: CM TV
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352941
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352941&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-11/3c7353e281a0f304777f37ec58a6b22a.png" group-title="PORTUGAL", PT: CNN PORTUGAL
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/3c7353e281a0f304777f37ec58a6b22a.png" group-title="PORTUGAL", PT: CNN PORTUGAL
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352942
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352942&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/f2d6e3aff23355d4203d9ddb8efa0633.png" group-title="PORTUGAL", PT: EURONEWS
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f2d6e3aff23355d4203d9ddb8efa0633.png" group-title="PORTUGAL", PT: EURONEWS
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352943
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352943&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/4c9ed2c815adfefb06bcb05ddee39727.png" group-title="PORTUGAL", PT: SIC NOTICIAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c9ed2c815adfefb06bcb05ddee39727.png" group-title="PORTUGAL", PT: SIC NOTICIAS
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352944
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352944&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/85c7a4f09d37b9ad96ddc40a0d48337c.png" group-title="PORTUGAL", PT: TVI
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85c7a4f09d37b9ad96ddc40a0d48337c.png" group-title="PORTUGAL", PT: TVI
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352945
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352945&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/062c41cd06e96ce8510d943d7c51edf3.png" group-title="PORTUGAL", PT: 24 KITCHEN
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/062c41cd06e96ce8510d943d7c51edf3.png" group-title="PORTUGAL", PT: 24 KITCHEN
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352946
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352946&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORTUGAL", PT: ADVANCE SIC
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORTUGAL", PT: ADVANCE SIC
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352947
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352947&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORTUGAL", PT: CAMPO PEQUENO
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORTUGAL", PT: CAMPO PEQUENO
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352948
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352948&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2023-05/dec253af1ae13fa8427d2b1161f780e5.png" group-title="PORTUGAL", PT: CANAL VIDA
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dec253af1ae13fa8427d2b1161f780e5.png" group-title="PORTUGAL", PT: CANAL VIDA
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352949
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352949&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/06c6937ea3a6feba2e4a2f98030ef1f8.png" group-title="PORTUGAL", PT: KURIAKOS TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/06c6937ea3a6feba2e4a2f98030ef1f8.png" group-title="PORTUGAL", PT: KURIAKOS TV
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352950
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352950&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2022-08/4cefd33fa39d9f718ec85aef91a09896.png" group-title="PORTUGAL", PT: NBA TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/4cefd33fa39d9f718ec85aef91a09896.png" group-title="PORTUGAL", PT: NBA TV
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352951
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352951&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2023-04/cdbc2f555b8d1e89eb34575db4b04aab.png" group-title="PORTUGAL", PT: RTP ARENA
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/cdbc2f555b8d1e89eb34575db4b04aab.png" group-title="PORTUGAL", PT: RTP ARENA
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352952
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352952&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2023-04/54df892171325d99e6c38d3b28d2df7c.jpg" group-title="PORTUGAL", PT: SIC INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/54df892171325d99e6c38d3b28d2df7c.jpg" group-title="PORTUGAL", PT: SIC INTERNACIONAL
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352953
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352953&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2023-04/db8f499229b8217be7574125eb449f7a.png" group-title="PORTUGAL", PT: TOROS
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/db8f499229b8217be7574125eb449f7a.png" group-title="PORTUGAL", PT: TOROS
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352954
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352954&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2023-04/45b8541fb653ee36234e68169c70b795.png" group-title="PORTUGAL", PT: TPA NOTÍCIAS
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/45b8541fb653ee36234e68169c70b795.png" group-title="PORTUGAL", PT: TPA NOTÍCIAS
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352955
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352955&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORTUGAL", PT: TV RECORD
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORTUGAL", PT: TV RECORD
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352956
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352956&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-05/ebb638597b4f6b35d739a3d94ac85b1d.png" group-title="PORTUGAL", PT: AFRO MUSIC CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/ebb638597b4f6b35d739a3d94ac85b1d.png" group-title="PORTUGAL", PT: AFRO MUSIC CHANNEL
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352957
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352957&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/portal/picon/2021-07/9eb16db3f705768cdb9266a9c7de0730.png" group-title="PORTUGAL", PT: MTV PORTUGAL
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9eb16db3f705768cdb9266a9c7de0730.png" group-title="PORTUGAL", PT: MTV PORTUGAL
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352958
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
 http://xfireflix.fun/opflix/stream.php?id=352958&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="imgp.php?url=http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORTUGAL", PT: CANAL 180
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PORTUGAL", PT: CANAL 180
 #EXTVLCOPT:http-origin=http://xfireflix.fun/opflix/
 #EXTVLCOPT:http-referrer=http://xfireflix.fun/opflix/play.php?cid=352959
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 TiviMate/4.7.0
