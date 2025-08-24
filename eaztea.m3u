@@ -1,0 +1,889 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling1\cocoaplatform1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\partightenfactor0
+
+\f0\fs24 \cf0 #EXTM3U\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\
+#EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/5-usa.png" group-title="UNITED KINGDOM",5 USA\
+https://channels-sigma.vercel.app/api/stream/VE1NmMxYmNiYzYxZWEwLTVmMTktMzllNC0wMmNlLTIyY2QyNzVh\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/a-sport-pk.png" group-title="PAKISTAN",A Sport PK\
+https://channels-sigma.vercel.app/api/stream/VE1M2E4ODAzYjkwNThiLTI5MDgtMjZlNC1jNjY5LTc3YTM0Mzdk\
+#EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/aande.png" group-title="UNITED STATES",A&amp;E USA\
+https://channels-sigma.vercel.app/api/stream/VE1ODU3NzEyNDEyMzgzLTNjYjktZDVmNC05ZTdkLWQ2MWU0YTZm\
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/abc.png" group-title="UNITED STATES",ABC USA\
+https://channels-sigma.vercel.app/api/stream/VE1OTNlZDZjNTA4NTQ4LTExZGEtYWRkNC01ZTNhLTY3NTRmNzQ4\
+#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/amc.png" group-title="UNITED STATES",AMC USA\
+https://channels-sigma.vercel.app/api/stream/VE1Y2Q1NjU4YzFhOWYxLTZjMzgtNTQ2NC0yYTk3LWZmMjI5ZTY5\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/abu-dhabi-sports.png" group-title="UNITED ARAB EMIRATES",Abu Dhabi Sports 1 Premium\
+https://channels-sigma.vercel.app/api/stream/VE1YmU1ZjlmOTJhM2M3LTE4NmItMTRiNC1iZGZkLTRhMjQ5NDNm\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/abu-dhabi-sports.png" group-title="UNITED ARAB EMIRATES",Abu Dhabi Sports 1 UAE\
+https://channels-sigma.vercel.app/api/stream/VE1NjkwZWNkZjAwZWY5LTdhM2EtOGRiNC1kZmExLWE3M2M1NWRi\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/abu-dhabi-sports.png" group-title="UNITED ARAB EMIRATES",Abu Dhabi Sports 2 Premium\
+https://channels-sigma.vercel.app/api/stream/VE1ZjRhOWFlODQxNWFjLTA2OGItZTE0NC1jMTUxLWQ4MWY4YTVk\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/abu-dhabi-sports.png" group-title="UNITED ARAB EMIRATES",Abu Dhabi Sports 2 UAE\
+https://channels-sigma.vercel.app/api/stream/VE1ZTJlYTJkODJiOWYyLTlkZWItY2ZkNC1lMWJhLTE3MGU1YWZh\
+#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/adult-swim.png" group-title="UNITED STATES",Adult Swim\
+https://channels-sigma.vercel.app/api/stream/VE1M2VhYzRiMmQxMDhlLTIzZWItN2M3NC1iMTIxLWFhYWQwMGZk\
+#EXTINF:-1 tvg-id="American.Heroes.Channel.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/american-heroes-channel.png" group-title="UNITED STATES",American Heroes Channel\
+https://channels-sigma.vercel.app/api/stream/VE1ZTI0ZTc1OTZjY2JmLTg5NzktZDUzNC03NGQ3LTliMDJlMTli\
+#EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/animal-planet.png" group-title="UNITED STATES",Animal Planet\
+https://channels-sigma.vercel.app/api/stream/VE1ZTBiMTA2YTc5ZGIzLWJlYWItNmJjNC04NjQzLWRjNzkzYzlj\
+#EXTINF:-1 tvg-id="Antena.3.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/antena-3.png" group-title="SPAIN",Antena 3 Spain\
+https://channels-sigma.vercel.app/api/stream/VE1NmE4OTI3YjYxZTkxLTZkZmItMTNkNC03ZjJmLWRjZWMyOTVj\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-1.png" group-title="BOSNIA AND HERZEGOVINA",Arena Sport 1 BiH\
+https://channels-sigma.vercel.app/api/stream/VE1ZWY1ODY4ZjNmZWQyLWYzOTktNmIzNC01NzY3LTI2OGMwY2E2\
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-1.png" group-title="CROATIA",Arena Sport 1 Croatia\
+https://channels-sigma.vercel.app/api/stream/VE1MzVkZWNhYjVkMjNhLTM5MTgtMmJjNC1lZjMzLTlhM2JlMGVi\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-1-premium.png" group-title="SERBIA",Arena Sport 1 Premium\
+https://channels-sigma.vercel.app/api/stream/VE1NjIyOWQ1YjEzN2RiLWY0MDgtYWVkNC1jMGQ2LTgzNDg2N2E5\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-1.png" group-title="SERBIA",Arena Sport 1 Serbia\
+https://channels-sigma.vercel.app/api/stream/VE1MTM0YzEwZmUzNjc0LTlkYjktYzdkNC1iZjRmLTdlMzQ4YzEz\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-2-premium.png" group-title="SERBIA",Arena Sport 2 Premium\
+https://channels-sigma.vercel.app/api/stream/VE1OWE3YmM2Zjk1NGNkLTQ2ZjktYmIyNC1hMDIwLWRkMzFiNTg0\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-2.png" group-title="SERBIA",Arena Sport 2 Serbia\
+https://channels-sigma.vercel.app/api/stream/VE1YzU3YjNkNDc1ODM5LWZiOWItNTg0NC01OWYzLTdlZGRhYzkz\
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.hr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-3.png" group-title="CROATIA",Arena Sport 3 Croatia\
+https://channels-sigma.vercel.app/api/stream/VE1N2FiMzFlYmUwNWJmLWMwZGEtOGMzNC01NDdiLTc2MzJhZWU0\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-3-premium.png" group-title="SERBIA",Arena Sport 3 Premium\
+https://channels-sigma.vercel.app/api/stream/VE1ZGU2YWRmYmYwMDlmLTMxODgtNWZiNC1hZTJiLWQyYjA3MzQ0\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-3.png" group-title="SERBIA",Arena Sport 3 Serbia\
+https://channels-sigma.vercel.app/api/stream/VE1Yzg5ZjgxZDY3YzY4LTBiNzktMTExNC1mNjRjLWNlMDU5MzE5\
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-4.png" group-title="CROATIA",Arena Sport 4 Croatia\
+https://channels-sigma.vercel.app/api/stream/VE1MDRiMDU4ZWRlMWIyLTAyZjktMDBjNC01ZDM3LWJlNDk5NTI3\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-4.png" group-title="SERBIA",Arena Sport 4 Serbia\
+https://channels-sigma.vercel.app/api/stream/VE1OTgzOGY4OWU3MzU0LTQ2NzgtMGRjNC1jNDQyLWNiOGY5YjI0\
+#EXTINF:-1 tvg-id="Astro.Cricket.my" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/astro-cricket.png" group-title="MALAYSIA",Astro Cricket\
+https://channels-sigma.vercel.app/api/stream/VE1ZTc0NWUxMjk4ZjA0LTdkODktZjZmNC0yYTlhLTBjM2ZkN2U4\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/astro-supersport-1.png" group-title="MALAYSIA",Astro SuperSport 1\
+https://channels-sigma.vercel.app/api/stream/VE1NDk4NmFmZTBkMjEzLTlmMWItM2Q4NC0xYTQzLTBmYzQ2NWE1\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/astro-supersport-2.png" group-title="MALAYSIA",Astro SuperSport 2\
+https://channels-sigma.vercel.app/api/stream/VE1NDUzZGQ0MDAzMDQxLTk2OGItY2UwNC0zOTNkLTRhNThkNGY0\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/astro-supersport-3.png" group-title="MALAYSIA",Astro SuperSport 3\
+https://channels-sigma.vercel.app/api/stream/VE1Nzc5YWNmOGVlNmFjLTdmNDktMzY3NC1iNGRiLWYzZjQxNzRh\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/astro-supersport-4.png" group-title="MALAYSIA",Astro SuperSport 4\
+https://channels-sigma.vercel.app/api/stream/VE1YWRiNzUyNTE3ZjI3LTczOGItMjJmNC00ZGNhLWE2NzdlMzg3\
+#EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bbc-america.png" group-title="UNITED STATES",BBC America (BBCA)\
+https://channels-sigma.vercel.app/api/stream/VE1MzUzYzZiN2RiM2MwLTJjMDktYWRjNC0xYmE2LTM1YTQ5NThi\
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bbc-four.png" group-title="UNITED KINGDOM",BBC Four UK\
+https://channels-sigma.vercel.app/api/stream/VE1MjI4YWMwMzk5NDhkLTY0NjgtZTJhNC1hZmNiLWRiMjI4MWVi\
+#EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bbc-news.png" group-title="UNITED STATES",BBC News Channel HD\
+https://channels-sigma.vercel.app/api/stream/VE1MzA2Y2U4NzAwNWU4LTkxZDktZjY4NC1lOGQ2LTNlNDc2MDNm\
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bbc-one.png" group-title="UNITED KINGDOM",BBC One UK\
+https://channels-sigma.vercel.app/api/stream/VE1OGIxMWVlOGVkYzM1LTM4NzktOWZhNC1iYTBmLThlY2FkYjc4\
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bbc-three.png" group-title="UNITED KINGDOM",BBC Three UK\
+https://channels-sigma.vercel.app/api/stream/VE1MmMzYmU4ZTUzMDFlLTEzZGEtNmVlNC1kNDM1LTEyMmFiY2Y4\
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bbc-two.png" group-title="UNITED KINGDOM",BBC Two UK\
+https://channels-sigma.vercel.app/api/stream/VE1ZDIyYjU1N2E1ZDg5LTlhNWEtOWM5NC05Y2Q5LTAyYjI0NjJj\
+#EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/showtime-shoxbet-usa.png" group-title="UNITED STATES",BET USA\
+https://channels-sigma.vercel.app/api/stream/VE1ODIxNDlhMGQ2ZDI0LWIyNTktZjYxNC1jMDZmLTc3Yjk3NGQw\
+#EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/big-ten-network.png" group-title="UNITED STATES",BIG TEN Network (BTN USA)\
+https://channels-sigma.vercel.app/api/stream/VE1ZTc5Mzk2ZmY5OTAzLWMyNWItNmNhNC0zMThlLTFkZTU0YjZj\
+#EXTINF:-1 tvg-id="Bandsports.HD.br" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/band-sports.png" group-title="BRAZIL",Bandsports Brazil\
+https://channels-sigma.vercel.app/api/stream/VE1ODIwYmVkNDE3NDA0LWIwYjgtN2U2NC1jZDA2LTM1YTYyYWRm\
+#EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-6.png" group-title="UNITED STATES",BeIN SPORTS USA\
+https://channels-sigma.vercel.app/api/stream/VE1ZDM2NTM4NGFmMTcwLTcxNWItMjUyNC04ZmY0LTZkYjM3OGYy\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-hd.png" group-title="QATAR",BeIN Sports HD Qatar\
+https://channels-sigma.vercel.app/api/stream/VE1ZjFlYmIyYTRmYWYzLTdkMDktOTdmNC1kMWMyLTdkMGNkMzJj\
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/boomerang.png" group-title="UNITED STATES",Boomerang\
+https://channels-sigma.vercel.app/api/stream/VE1OThiOTdjM2Y2MjRjLTE3MmEtMzUwNC1hZjViLWExYzFhMzE5\
+#EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bravo.png" group-title="UNITED STATES",Bravo USA\
+https://channels-sigma.vercel.app/api/stream/VE1YWVlOWQ1YTQyOGY4LTU1NGEtNWYxNC0yNzk2LTJkZGVkNTI2\
+#EXTINF:-1 tvg-id="CANAL+.MOTOGP.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/canal-plus.png" group-title="FRANCE",CANAL+ MotoGP France\
+https://channels-sigma.vercel.app/api/stream/VE1NTNkNWYwODNmYjMxLWQxZmItN2E5NC1iZWRkLWRiOWY0MTIy\
+#EXTINF:-1 tvg-id="CANAL+.Sport.5.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/canal-plus-sport-5.png" group-title="POLAND",CANAL+ SPORT 5 Poland\
+https://channels-sigma.vercel.app/api/stream/VE1NTJkNjBiZmI5ODY1LTA1Y2ItOWU1NC04ZmJhLWU2ZTQzYWIx\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cbs-sports-golazo.png" group-title="UNITED STATES",CBS Sports Golazo\
+https://channels-sigma.vercel.app/api/stream/VE1Y2Y0NTg2ODg4MmVkLTVhOGEtYzMzNC01YjY0LTM0ZTFiNDNl\
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cbs-sports-network.png" group-title="UNITED STATES",CBS Sports Network (CBSSN)\
+https://channels-sigma.vercel.app/api/stream/VE1YjM0ZmQ3MGM1ODM4LWM0MzgtMWU1NC01YTU0LTdiOGYyOTRi\
+#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cbs-usa.png" group-title="UNITED STATES",CBS USA\
+https://channels-sigma.vercel.app/api/stream/VE1ZWIxZmMyYWVlZDRkLTMzZGEtNDY4NC0zOGY5LTQ0ZDQ3M2Vj\
+#EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cmt.png" group-title="UNITED STATES",CMT USA\
+https://channels-sigma.vercel.app/api/stream/VE1MWYwNDhhYzE5ZWM2LTQwNTgtMjhjNC1iNDEyLTk0MjIwYTI2\
+#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nbc-usa.png" group-title="UNITED STATES",CNBC USA\
+https://channels-sigma.vercel.app/api/stream/VE1NGM0MTVkMjNjZTRkLWQ5ZWItZjNkNC1jODc1LWYzZTU3ZDFk\
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cnn.png" group-title="UNITED STATES",CNN USA\
+https://channels-sigma.vercel.app/api/stream/VE1NDVkYjcxMjdlODk4LWY1N2EtYzE3NC0xZTA0LWU2ZTJmNjhk\
+#EXTINF:-1 tvg-id="CTV.(CFCN).Calgary,.AB.ca" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/ctv-ca.png" group-title="CANADA",CTV Canada\
+https://channels-sigma.vercel.app/api/stream/VE1YjNjMzk4OGU5YTRiLTU3OWItNTk4NC0zODNiLTYxZTkwMzgz\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cw.png" group-title="UNITED STATES",CW PIX 11 USA\
+https://channels-sigma.vercel.app/api/stream/VE1Mzg5ZTkwMTQ5YmMwLTEwN2EtNDcxNC1lMzlmLTI3NTUyOTcx\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cw.png" group-title="UNITED STATES",CW USA\
+https://channels-sigma.vercel.app/api/stream/VE1OWVmNzZmZjZkNTZlLWMzNmItOTFhNC1kMzljLWFiYTJhYjNl\
+#EXTINF:-1 tvg-id="Canal.11.HD.pt" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/porto-canal-portugal.png" group-title="PORTUGAL",Canal 11 Portugal\
+https://channels-sigma.vercel.app/api/stream/VE1YTNlZmE5MTBmYWU2LWFmOWEtYTUxNC1jYjJhLWIyODY3ZWZl\
+#EXTINF:-1 tvg-id="CANAL+.Family.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/canalplusfamily.png" group-title="POLAND",Canal+ Family Poland\
+https://channels-sigma.vercel.app/api/stream/VE1OTg5YTJkY2RmNGVhLWMzYmItOTIxNC0wZjYwLWZlMjU4MTJi\
+#EXTINF:-1 tvg-id="CANAL+.FORMULA1.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/canal-plus-formula1.png" group-title="FRANCE",Canal+ Formula 1\
+https://channels-sigma.vercel.app/api/stream/VE1ZjQ0MTQ2MjBiNjRhLTRiZjgtZDBhNC1kZTA3LWIxZjM5Zjc4\
+#EXTINF:-1 tvg-id="CANAL+.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/canal-plus.png" group-title="FRANCE",Canal+ France\
+https://channels-sigma.vercel.app/api/stream/VE1NjEzOWJjYmE1MTcwLTE3NGItNjAwNC0xNTFjLTE1Mzk0Nzli\
+#EXTINF:-1 tvg-id="CANAL+.PREMIUM.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/canal-plus-premium.png" group-title="POLAND",Canal+ Premium Poland\
+https://channels-sigma.vercel.app/api/stream/VE1MzJkOWEyNGI2ODdmLTk2NTgtZjY5NC01MWE0LWE3ZDk3MWY4\
+#EXTINF:-1 tvg-id="CANAL+.Seriale.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/canal-plus-seriale.png" group-title="POLAND",Canal+ Seriale Poland\
+https://channels-sigma.vercel.app/api/stream/VE1MWY0NWFiNDU2Nzc5LTk1YmEtNGNjNC04YzIyLWRkMTdmYzJk\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/canal-plus-sport-1-afrique.png" group-title="AFRICA",Canal+ Sport 1 Afrique\
+https://channels-sigma.vercel.app/api/stream/VE1OGUxYmU5ZTI1NWE1LWFmZjgtZDVhNC0wMDg4LTVkNzkyNDJj\
+#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/canal-plus-sport-france.png" group-title="FRANCE",Canal+ Sport France\
+https://channels-sigma.vercel.app/api/stream/VE1OWIwYjEwOWRmODQ0LWFhOWItMTg5NC1mNjU1LTc1M2Q5YmVl\
+#EXTINF:-1 tvg-id="CANAL+.Sport.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/canal-plus-sport-poland.png" group-title="POLAND",Canal+ Sport Poland\
+https://channels-sigma.vercel.app/api/stream/VE1OGRlY2MxNTVmYzcyLWU4MjgtYmE4NC00ZGQ5LTg1NjA0Y2Vm\
+#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cartoon-network.png" group-title="UNITED STATES",Cartoon Network\
+https://channels-sigma.vercel.app/api/stream/VE1YjY4YmM1Y2NhMGI5LTdjM2EtZjM2NC1kODcwLWI2MDYxMWEw\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/channel-11-israel.png" group-title="ISRAEL",Channel 11 Israel\
+https://channels-sigma.vercel.app/api/stream/VE1ODBiODQ0MmVmMmM0LWZjOTgtNWYxNC00MjI5LTcyZWQyYzVk\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/channel-12-israel.png" group-title="ISRAEL",Channel 12 Israel\
+https://channels-sigma.vercel.app/api/stream/VE1NWM4ZTQxMTg5YzEzLTc1MTktMzliNC1mYWQ3LWZmNTcwMzMx\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/channel-13-israel.png" group-title="ISRAEL",Channel 13 Israel\
+https://channels-sigma.vercel.app/api/stream/VE1ZDEwZGI4OTRkYjA1LTkxOWEtNWI5NC02OGRhLThlMGUxNTE5\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/channel-14-israel.png" group-title="ISRAEL",Channel 14 Israel\
+https://channels-sigma.vercel.app/api/stream/VE1NmEwYzEyMTM2ZDI2LWM2ZWItN2U0NC00MWM4LTc4ZjlhODFi\
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/channel-4-uk.png" group-title="UNITED KINGDOM",Channel 4 UK\
+https://channels-sigma.vercel.app/api/stream/VE1MzI1YTk1NzI0Y2M0LTc2ZjktM2RhNC0xNjU4LTE3MDY4NTVj\
+#EXTINF:-1 tvg-id="Channel.5.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/channel-5-uk.png" group-title="UNITED KINGDOM",Channel 5 UK\
+https://channels-sigma.vercel.app/api/stream/VE1MTI1OWQ0NDgwMjM1LTA4MmEtZmEwNC1mZjVjLTZjMmJkN2Jj\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/channel-9-israel.png" group-title="ISRAEL",Channel 9 Israel\
+https://channels-sigma.vercel.app/api/stream/VE1OTcyMjgyZDZmMDM4LWQwNzktOGNhNC04NDVmLWM1MzQ4NjI5\
+#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cinemax.png" group-title="UNITED STATES",Cinemax USA\
+https://channels-sigma.vercel.app/api/stream/VE1NDcxMmQwNmFjODdhLTY2NWItNTAzNC0xZjQ0LWMxMDVjNGY4\
+#EXTINF:-1 tvg-id="Combate..br" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/combate-brasil.png" group-title="BRAZIL",Combate Brazil\
+https://channels-sigma.vercel.app/api/stream/VE1NGM5ZjJmY2IwZjg5LWM2NjktMzk4NC02YjFkLTc3ZTA3NWQ4\
+#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/comedy-central.png" group-title="UNITED STATES",Comedy Central\
+https://channels-sigma.vercel.app/api/stream/VE1MmM1ZjA4NTI1NDk1LTI1MGItYzQ0NC1hN2Q3LTcyYjRmNWNh\
+#EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-1.png" group-title="GREECE",Cosmote Sport 1 HD\
+https://channels-sigma.vercel.app/api/stream/VE1MjJmNzhhNWExZjdmLTY2ZmEtYjE1NC1mODA3LWZkZmZmY2E3\
+#EXTINF:-1 tvg-id="COSMOTE.Sport.2.HD.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-2.png" group-title="GREECE",Cosmote Sport 2 HD\
+https://channels-sigma.vercel.app/api/stream/VE1ODUwN2YzYzYxYzBjLTEwZWEtM2Y3NC1hNTY3LTNlYzYzNTA2\
+#EXTINF:-1 tvg-id="COSMOTE.Sport.3.HD.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-3.png" group-title="GREECE",Cosmote Sport 3 HD\
+https://channels-sigma.vercel.app/api/stream/VE1MGM5NGMyMWYxNTUyLTE4Y2ItMTM0NC1hZjIwLWYxY2E0MjU3\
+#EXTINF:-1 tvg-id="COSMOTE.Sport.4.HD.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-4.png" group-title="GREECE",Cosmote Sport 4 HD\
+https://channels-sigma.vercel.app/api/stream/VE1YzEyNjJkYzlmZGNiLTRhMDgtMDBkNC04NGEwLTA0MGZhOWZk\
+#EXTINF:-1 tvg-id="COSMOTE.Sport.5.HD.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-5.png" group-title="GREECE",Cosmote Sport 5 HD\
+https://channels-sigma.vercel.app/api/stream/VE1NzEyMTFlZGVkY2U4LTFiYTgtN2RhNC1iNDQ5LTI2MGE2ZWZj\
+#EXTINF:-1 tvg-id="COSMOTE.Sport.6.HD.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-6.png" group-title="GREECE",Cosmote Sport 6 HD\
+https://channels-sigma.vercel.app/api/stream/VE1NDFiODY5MWQwNzIzLTE5NWItN2Y1NC0wYzMyLWQyNmQ3OTI5\
+#EXTINF:-1 tvg-id="COSMOTE.Sport.7.HD.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-7.png" group-title="GREECE",Cosmote Sport 7 HD\
+https://channels-sigma.vercel.app/api/stream/VE1MTk4NWQ2YmFjNGI1LTEzY2ItYTg5NC05NjAwLWE2ZTJkNTE0\
+#EXTINF:-1 tvg-id="COSMOTE.Sport.8.HD.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-8.png" group-title="GREECE",Cosmote Sport 8 HD\
+https://channels-sigma.vercel.app/api/stream/VE1OTg3Nzg5NjY2MTk1LWI5M2EtYjUxNC1kOTAzLTc3YWYzNDI0\
+#EXTINF:-1 tvg-id="COSMOTE.Sport.9.HD.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-9.png" group-title="GREECE",Cosmote Sport 9 HD\
+https://channels-sigma.vercel.app/api/stream/VE1ZmVjODQwYjlkYTcyLTdkNmItZTdlNC0yMDcwLTI5ZTc2MGQ3\
+#EXTINF:-1 tvg-id="Court.TV.US.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/court-tv.png" group-title="UNITED STATES",Court TV USA\
+https://channels-sigma.vercel.app/api/stream/VE1ZmU0MDFiYzViZDM1LTUzM2ItMDlhNC1lOTZhLWViNjMwOTNl\
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cuatro-spain.png" group-title="SPAIN",Cuatro Spain\
+https://channels-sigma.vercel.app/api/stream/VE1MDBmYTQ0ZjhiMmJmLTMyNGEtYjg4NC02YmFmLTY4OGY0YmE0\
+#EXTINF:-1 tvg-id="DAZN.1.de" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dazn-1.png" group-title="GERMANY",DAZN 1 Bar DE\
+https://channels-sigma.vercel.app/api/stream/VE1MTFjZGZhYmFmNDJlLThiMTktM2RiNC1kZDgzLWJkMDljMzcz\
+#EXTINF:-1 tvg-id="DAZN.1.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dazn-1.png" group-title="SPAIN",DAZN 1 Spain\
+https://channels-sigma.vercel.app/api/stream/VE1ZDgzYzhiMmI1MmU1LWFkOGItNTQzNC1jMWFhLTBjZDZhZDQ4\
+#EXTINF:-1 tvg-id="DAZN.2.de" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dazn-2.png" group-title="GERMANY",DAZN 2 Bar DE\
+https://channels-sigma.vercel.app/api/stream/VE1ZDkwMTZlODJlNWUxLWNmOGEtOTE3NC1hMTBlLTlmOGZiNmZl\
+#EXTINF:-1 tvg-id="DAZN.2.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dazn-2.png" group-title="SPAIN",DAZN 2 Spain\
+https://channels-sigma.vercel.app/api/stream/VE1YTU2ZTBkNmFhNDBkLTNlZWEtMGU4NC01YjZiLWI3ZTdjMjAz\
+#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dazn-f1.png" group-title="SPAIN",DAZN F1 ES\
+https://channels-sigma.vercel.app/api/stream/VE1MTVkYTM4NWZjNTU0LWJhOGItZDMzNC01ODMzLTRkNjliNThi\
+#EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dazn-laliga.png" group-title="SPAIN",DAZN LaLiga\
+https://channels-sigma.vercel.app/api/stream/VE1Yzg5OTJjNTRlOTNjLTc4MmItNzY0NC1jNTUwLTZjOGMwNGVi\
+#EXTINF:-1 tvg-id="DAZN.LALIGA.2.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dazn-laliga-2.png" group-title="SPAIN",DAZN LaLiga 2\
+https://channels-sigma.vercel.app/api/stream/VE1ZWFiYTk5MWE1NTk3LTYzNTktYTMwNC0xNDM0LTBjODJjZThm\
+#EXTINF:-1 tvg-id="Dave(src01).uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dave.png" group-title="UNITED KINGDOM",Dave\
+https://channels-sigma.vercel.app/api/stream/VE1NDJmYWNjYjdkYWI4LTFmZGEtZGQzNC0wNTE3LWJjNjJhNTMx\
+#EXTINF:-1 tvg-id="Destination.America.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/destination-america.png" group-title="UNITED STATES",Destination America\
+https://channels-sigma.vercel.app/api/stream/VE1NTQ2NGQ1NDExMTE4LTQwMGEtYWFlNC0zYWY1LTFiMzUzYzA2\
+#EXTINF:-1 tvg-id="Digi.Sport.1.ro" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/digi-sport-1.png" group-title="ROMANIA",Digi Sport 1 Romania\
+https://channels-sigma.vercel.app/api/stream/VE1MzlkNDA4MjNkYWYwLWU5MzktY2RlNC03MmI1LTQ1YmYyMjVj\
+#EXTINF:-1 tvg-id="Digi.Sport.2.ro" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/digi-sport-2.png" group-title="ROMANIA",Digi Sport 2 Romania\
+https://channels-sigma.vercel.app/api/stream/VE1ODIxOTkzMTE3YzNiLTA2NWItODIzNC1lNWRjLWM5OTc0MzRl\
+#EXTINF:-1 tvg-id="Digi.Sport.3.ro" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/digi-sport-3.png" group-title="ROMANIA",Digi Sport 3 Romania\
+https://channels-sigma.vercel.app/api/stream/VE1ZjM0NDZiMDU4NjJiLWQwZTktZTA1NC0wNTEwLThiZGY5YmZj\
+#EXTINF:-1 tvg-id="Digi.Sport.4.ro" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/digi-sport-4.png" group-title="ROMANIA",Digi Sport 4 Romania\
+https://channels-sigma.vercel.app/api/stream/VE1MzM3OWMxYTAzNjVjLTlkMTgtOWI5NC03NDA2LWYyZGQ2NzE2\
+#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/discovery-channel.png" group-title="UNITED STATES",Discovery Channel\
+https://channels-sigma.vercel.app/api/stream/VE1MWQ1ZGU3MWNkMjVlLTg4YzgtYzI2NC1jY2ExLTg0YTE3MDBj\
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/discovery-life-channel.png" group-title="UNITED STATES",Discovery Life Channel\
+https://channels-sigma.vercel.app/api/stream/VE1ODhlZDkzOTA2MzJhLTQ5YmEtZjg1NC04NTU3LTk2NzEwMTI1\
+#EXTINF:-1 tvg-id="CTV.Speed.ca" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/discovery-velocity.png" group-title="CANADA",Discovery Velocity CA\
+https://channels-sigma.vercel.app/api/stream/VE1NDJkOTY3YTM2YWI2LWI2ZTgtZjAwNC04YzYxLTdkNTEzZmRj\
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/disney-channel.png" group-title="UNITED STATES",Disney Channel\
+https://channels-sigma.vercel.app/api/stream/VE1NWExNTMwNzQ3NzMyLTdkYjgtMGQ5NC0zNDkwLWI4YThkYzk1\
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/disney-junior.png" group-title="UNITED STATES",Disney JR\
+https://channels-sigma.vercel.app/api/stream/VE1N2Y1YWIwZDE5MTljLTEyZjgtYWI2NC0xM2Y2LWQwYjdmNGMx\
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/disney-xd.png" group-title="UNITED STATES",Disney XD\
+https://channels-sigma.vercel.app/api/stream/VE1NWNmYmE3M2Q4Y2UxLTEwYjktN2IxNC01ZGE1LTY4ZmE1NTU5\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dubai-racing.png" group-title="UNITED ARAB EMIRATES",Dubai Racing 1 UAE\
+https://channels-sigma.vercel.app/api/stream/VE1OWZjMGQ4MjIwNTM4LTFlYWItN2ZiNC0zMDFiLWQwMDZmYzE4\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dubai-sports.png" group-title="UNITED ARAB EMIRATES",Dubai Sports 1 UAE\
+https://channels-sigma.vercel.app/api/stream/VE1M2I0NjA5ODExMGEyLWI2MmEtNmFjNC1iMWJmLWUwMjllMTE1\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dubai-sports.png" group-title="UNITED ARAB EMIRATES",Dubai Sports 2 UAE\
+https://channels-sigma.vercel.app/api/stream/VE1NTZkMDA5MTZiNTliLTNhN2EtZmZiNC1kNDkwLTU1YjVkNmYz\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dubai-sports.png" group-title="UNITED ARAB EMIRATES",Dubai Sports 3 UAE\
+https://channels-sigma.vercel.app/api/stream/VE1MzFjMzEwNDM2Mjg4LTI4NDktY2I2NC0yMTc1LWE0NzMwOWE2\
+#EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/e-entertainment.png" group-title="UNITED STATES",E! Entertainment Television\
+https://channels-sigma.vercel.app/api/stream/VE1NTlkNmFmMTI0ZjA0LThmOTgtMGRmNC1iOTg1LWM5MmMyMTg3\
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/e4-channel.png" group-title="UNITED KINGDOM",E4 Channel\
+https://channels-sigma.vercel.app/api/stream/VE1NGQ0MTlhMmQ0YWZmLTRhMTktZjlkNC0zM2YzLWQ3ODczMjE2\
+#EXTINF:-1 tvg-id="ESPN.1.nl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/espn-1.png" group-title="NETHERLANDS",ESPN 1 NL\
+https://channels-sigma.vercel.app/api/stream/VE1ZWQ0YzRkNTRiYTUwLTJmYmEtNDRiNC03MWJiLTc1NzIwY2Yx\
+#EXTINF:-1 tvg-id="ESPN.2.nl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/espn-2.png" group-title="NETHERLANDS",ESPN 2 NL\
+https://channels-sigma.vercel.app/api/stream/VE1Yjk4MTJhMzE4MDM3LTZkMTgtNzcxNC1kYTJkLTA3ZmY3ZjFl\
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/espn-brasil.png" group-title="BRAZIL",ESPN Brazil\
+https://channels-sigma.vercel.app/api/stream/VE1YTkxZDg1NDg0YjI4LTU1N2EtNGUyNC1lNzA5LTY0YjE2MDM0\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/espn-sur.png" group-title="ARGENTINA",ESPN SUR\
+https://channels-sigma.vercel.app/api/stream/VE1MTdiNmE4ZGE2OGI1LTA3ZGItNGM5NC0zOTQ4LTU0YzEzNjg5\
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/espn-usa.png" group-title="UNITED STATES",ESPN USA\
+https://channels-sigma.vercel.app/api/stream/VE1Yzc1NzQ2MmVkOGViLTUyYTgtNTc2NC0xNzVjLWE2MmQyOGE4\
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/espn-1.png" group-title="BRAZIL",ESPN2 Brazil\
+https://channels-sigma.vercel.app/api/stream/VE1ZWE4ODIyMDMxMTFmLWMzZGEtYzc1NC1jMTUxLWMxNjU3MDA4\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/espn-2-sur.png" group-title="ARGENTINA",ESPN2 SUR\
+https://channels-sigma.vercel.app/api/stream/VE1Y2YwMDM0MjNiNGMyLTc4MzktNjliNC1mMDc5LWNiM2I3ZWVl\
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/espn-2-usa.png" group-title="UNITED STATES",ESPN2 USA\
+https://channels-sigma.vercel.app/api/stream/VE1NDJlMzQ4NzNiMGYzLTA2OTgtYWQ1NC1lN2VmLTlkZWQ3YTQy\
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/espn-1.png" group-title="BRAZIL",ESPN3 Brazil\
+https://channels-sigma.vercel.app/api/stream/VE1ZDg1NzU2ODRjMzIwLTMyMDgtNmVkNC0yYWVlLWJiMGRkZWM0\
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/espn-4-brasil.png" group-title="BRAZIL",ESPN4 Brazil\
+https://channels-sigma.vercel.app/api/stream/VE1NmUxMjEyNWRhYjRjLWFjMTgtMzQ1NC1kYzUyLTZiMWM1Njk4\
+#EXTINF:-1 tvg-id="ESPN.U.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/espn-u-usa.png" group-title="UNITED STATES",ESPNU USA\
+https://channels-sigma.vercel.app/api/stream/VE1NDJlY2IxMDVhM2ZmLWUzMDgtMWI4NC00OTVmLTQzM2YyZjY0\
+#EXTINF:-1 tvg-id="ESPN.News.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/espnews.png" group-title="UNITED STATES",ESPNews\
+https://channels-sigma.vercel.app/api/stream/VE1N2U1ODA1MmJmNDA5LTVhZjktNDI1NC0xNmJmLTA0ZTVkZGE5\
+#EXTINF:-1 tvg-id="Eleven.Sports.1.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/eleven-sports-1.png" group-title="POLAND",Eleven Sports 1 Poland\
+https://channels-sigma.vercel.app/api/stream/VE1ZTIwNTEyNGQ4YjNhLWExNGEtZjdjNC1iYjhhLWU1NjA0ZmJk\
+#EXTINF:-1 tvg-id="Eleven.Sports.2.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/eleven-sports-2.png" group-title="POLAND",Eleven Sports 2 Poland\
+https://channels-sigma.vercel.app/api/stream/VE1NGM2MmQxMzA4MDdlLTg2MjktMjBkNC0zOTJiLTEzZDRiMDJh\
+#EXTINF:-1 tvg-id="Eurosport.1.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/eurosport-1.png" group-title="POLAND",EuroSport 1 Poland\
+https://channels-sigma.vercel.app/api/stream/VE1Y2I1YzkzZWVlNTBjLTQ1ODktNGRlNC1hYzFkLTYyMTZlNzBm\
+#EXTINF:-1 tvg-id="Eurosport.1.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/eurosport-1.png" group-title="SPAIN",EuroSport 1 Spain\
+https://channels-sigma.vercel.app/api/stream/VE1YmVjM2ZjYTQ5MjNmLTY0MmEtNTU4NC0wNmQyLTc5MTIzM2U5\
+#EXTINF:-1 tvg-id="Eurosport.2.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/eurosport-2.png" group-title="POLAND",EuroSport 2 Poland\
+https://channels-sigma.vercel.app/api/stream/VE1NjViODExNjQxNTU3LTM0ZTgtOTFmNC0wNTYwLWYzNzU3YjE5\
+#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/eurosport-2.png" group-title="SPAIN",EuroSport 2 Spain\
+https://channels-sigma.vercel.app/api/stream/VE1N2QwZGYyZWZkZDhlLTVmNDgtZjk0NC0zZjM2LTM5YTBkOWUy\
+#EXTINF:-1 tvg-id="Eurosport.2.bg" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/eurosport-2.png" group-title="BULGARIA",Eurosport 2 Bulgaria\
+https://channels-sigma.vercel.app/api/stream/VE1YTM4MmM1MDQ1YjU5LWYzMmEtYTgzNC1mMTYzLTZiNGQzMGRi\
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/eurosport-2.png" group-title="FRANCE",Eurosport 2 France\
+https://channels-sigma.vercel.app/api/stream/VE1NGQwZDYzYTVlZjBiLTNlZjktZjk3NC1kYjU0LTNjN2EzZDE5\
+#EXTINF:-1 tvg-id="Fox.Deportes.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/fox-deportes.png" group-title="UNITED STATES",FOX Deportes USA\
+https://channels-sigma.vercel.app/api/stream/VE1ZjIyMTA1NDFlMTQ5LTI4N2ItNjk4NC02M2UzLTdjMjAzZTEw\
+#EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/fox-usa.png" group-title="UNITED STATES",FOX USA\
+https://channels-sigma.vercel.app/api/stream/VE1MjczMGJkYzRlNTA1LTBhMzgtOTAzNC1jMDQ5LTBhOTYxNjI0\
+#EXTINF:-1 tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/fuse-tv.png" group-title="UNITED STATES",FUSE TV USA\
+https://channels-sigma.vercel.app/api/stream/VE1MTM4YjJmNjg3NWE0LTJkZmEtNWIwNC1lZTQ1LWExYTAyNmJh\
+#EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/fx-movie-channel.png" group-title="UNITED STATES",FX Movie Channel\
+https://channels-sigma.vercel.app/api/stream/VE1NzlkZTFlNzliOTM1LWMzOTgtY2Q3NC0yYWFkLTQ5ZWJlNDUz\
+#EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/fx-usa.png" group-title="UNITED STATES",FX USA\
+https://channels-sigma.vercel.app/api/stream/VE1YjY5YzA0MWE0Y2VjLTY2ZWEtMzQxNC0xZDMyLTFiODM4M2Q3\
+#EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/fxx-usa.png" group-title="UNITED STATES",FXX USA\
+https://channels-sigma.vercel.app/api/stream/VE1MDk2MTUzM2NjYzFiLWE0YTktYjYxNC1hNDUzLTkwNThmNzgy\
+#EXTINF:-1 tvg-id="FilmBox.Premium.HD.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/filmbox-premium.png" group-title="POLAND",FilmBox Premium Poland\
+https://channels-sigma.vercel.app/api/stream/VE1M2JiNDViNDgxNmM2LThjODgtNmVkNC0zMzI1LTU0ZTJiYTVi\
+#EXTINF:-1 tvg-id="Fox.Business.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/fox-business.png" group-title="UNITED STATES",Fox Business\
+https://channels-sigma.vercel.app/api/stream/VE1ODNkYmE0NjVlNGJmLTAxZDktOTkyNC1iMjJhLTkxYWY4ZmQ4\
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/fox-cricket.png" group-title="AUSTRALIA",Fox Cricket\
+https://channels-sigma.vercel.app/api/stream/VE1NDg5OWI1MDQ3MDVhLWM3YTktYzYyNC1jNDg5LWNjZDU3NTI3\
+#EXTINF:-1 tvg-id="Fox.News.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/fox-news.png" group-title="UNITED STATES",Fox News\
+https://channels-sigma.vercel.app/api/stream/VE1ZmYyZDIyYzcxMGQyLWM5OGItOTgyNC1hNzhlLTU0NmEzZjdl\
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/fox-sports-1-usa.png" group-title="UNITED STATES",Fox Sports 1 USA\
+https://channels-sigma.vercel.app/api/stream/VE1N2EwODYxNTMyNTBmLTU1MmItMGE1NC0xODQzLWM0OWIzMWFm\
+#EXTINF:-1 tvg-id="Freeform.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/freeform.png" group-title="UNITED STATES",Freeform\
+https://channels-sigma.vercel.app/api/stream/VE1YjA1OTQxYzQ4NmQ5LTllMGEtOWQ3NC1mZGUyLTVmNjM5Zjkx\
+#EXTINF:-1 tvg-id="GOL.PLAY.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/gol-play-spain.png" group-title="SPAIN",GOL PLAY Spain\
+https://channels-sigma.vercel.app/api/stream/VE1YTJjODZlY2RlZDFlLWJlZGEtODA2NC1jNDc0LTI4YjYxZDlm\
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/golf-channel.png" group-title="UNITED STATES",GOLF Channel USA\
+https://channels-sigma.vercel.app/api/stream/VE1YmRlMmJjMjQ1OWIzLWE0ODgtZjUxNC1hY2JiLTJjZGI0N2I5\
+#EXTINF:-1 tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/game-show-network.png" group-title="UNITED STATES",Game Show Network\
+https://channels-sigma.vercel.app/api/stream/VE1YzNhYjE3ODdmZTQ1LTJkY2EtZjk3NC00MjMwLTA5YTA3Y2Uw\
+#EXTINF:-1 tvg-id="HBO.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/hbo-poland.png" group-title="POLAND",HBO Poland\
+https://channels-sigma.vercel.app/api/stream/VE1YjcwMWQzOTM3ZDQwLTI1YmItNzZmNC1kYjA0LTEwYmNkY2Zi\
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/hbo-usa.png" group-title="UNITED STATES",HBO USA\
+https://channels-sigma.vercel.app/api/stream/VE1YmU1YjI5NjI3OTVjLWYwY2EtNTIzNC0yM2ZkLTU2Y2QyNDc1\
+#EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/hgtv.png" group-title="UNITED STATES",HGTV\
+https://channels-sigma.vercel.app/api/stream/VE1YjM3N2ZiODlmYzI2LTFhNjktNDRkNC02NjMzLTMyZDU5MjA1\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/hot3-israel.png" group-title="ISRAEL",HOT3 Israel\
+https://channels-sigma.vercel.app/api/stream/VE1MzY2NDIwOTA3MmQwLTE2NWItMTY5NC05MDRkLWUwNTM3MjBl\
+#EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/hallmark-movies.png" group-title="UNITED STATES",Hallmark Movies &amp; Mysteries\
+https://channels-sigma.vercel.app/api/stream/VE1MWUwNDJiZDI4OWRhLTJmOWItZDg1NC0xNDBhLWQ3ODhmZTMz\
+#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/headline-news.png" group-title="UNITED STATES",Headline News\
+https://channels-sigma.vercel.app/api/stream/VE1ZWU1NDA1ZTlhZTYzLTc4NzgtMWQxNC0yZDQyLTMzYjcyYjk3\
+#EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/history-usa.png" group-title="UNITED STATES",History USA\
+https://channels-sigma.vercel.app/api/stream/VE1MmU4M2UyYjIzOGYzLWNmZWEtNDc2NC0zMWM2LWM4NGQ3Yjlh\
+#EXTINF:-1 tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/ion-usa.png" group-title="UNITED STATES",ION USA\
+https://channels-sigma.vercel.app/api/stream/VE1MjViOWU1N2E3MDQwLTMwZjktMjhlNC1lYjQ1LTMwODdmMjZh\
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/itv-1-uk.png" group-title="UNITED KINGDOM",ITV 1 UK\
+https://channels-sigma.vercel.app/api/stream/VE1ZDI0ZjZlY2EwMzAwLWQ0OTgtODFmNC1hNTA4LWE5ZTVkODgx\
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/itv-2-uk.png" group-title="UNITED KINGDOM",ITV 2 UK\
+https://channels-sigma.vercel.app/api/stream/VE1MTZkODJmMWEyODg0LTA1ZmItMTZiNC1iOTBlLThhNzBiYzM3\
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/itv-3-uk.png" group-title="UNITED KINGDOM",ITV 3 UK\
+https://channels-sigma.vercel.app/api/stream/VE1NGRlMGI0MjhkMTk3LTFiYjktMTZlNC00NWZlLTk1MDhmODBj\
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/itv-4-uk.png" group-title="UNITED KINGDOM",ITV 4 UK\
+https://channels-sigma.vercel.app/api/stream/VE1ZDI2ODYwN2RlOGM0LTdiMGEtNGQ2NC1iMmQ4LTlmNDNkNjky\
+#EXTINF:-1 tvg-id="Investigation.Discovery.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/investigation-discovery.png" group-title="UNITED STATES",Investigation Discovery (ID USA)\
+https://channels-sigma.vercel.app/api/stream/VE1MGMxNDk1Nzg2MWJjLTc1ZmEtZTMyNC05NzE1LWMxMjZkZmMy\
+#EXTINF:-1 tvg-id="La.chaine.l\'e2\uc0\u128 \u153 \'c3\u137 quipe.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/lequipe-france.png" group-title="FRANCE",L'Equipe France\
+https://channels-sigma.vercel.app/api/stream/VE1ZjQ4OTVhM2JhOTI2LTJmZTktMzJlNC1kMmVmLTkzNjk1ZWM3\
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/laliga-tv-hypermotion.png" group-title="SPAIN",LALIGA TV Hypermotion\
+https://channels-sigma.vercel.app/api/stream/VE1ZTNlZDE2M2Q3NDcyLThlYjktMzgxNC0zYTRhLWYwYTFjNzA3\
+#EXTINF:-1 tvg-id="La.Sexta.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/la-sexta.png" group-title="SPAIN",La Sexta Spain\
+https://channels-sigma.vercel.app/api/stream/VE1Y2NkNjMyYmIyNTYwLTE5NjgtN2RhNC00NjVhLTgzN2RjYzJi\
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/laliga-smartbank.png" group-title="SPAIN",LaLiga SmartBank TV\
+https://channels-sigma.vercel.app/api/stream/VE1ZTNlZDE2M2Q3NDcyLThlYjktMzgxNC0zYTRhLWYwYTFjNzA3\
+#EXTINF:-1 tvg-id="Law.and.Crime.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/law-and-crime-network.png" group-title="UNITED STATES",Law &amp; Crime Network\
+https://channels-sigma.vercel.app/api/stream/VE1NzAyMWIwZWZhNGRkLTczZmItNjYwNC0zNjMzLWU0NGVjOGNi\
+#EXTINF:-1 tvg-id="Lifetime.Movies.-.East.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/lifetime-movie-network-us.png" group-title="UNITED STATES",Lifetime Movies Network\
+https://channels-sigma.vercel.app/api/stream/VE1NTA3ZGIyZjlkNDEzLTgzNWItYTc0NC1kZWFhLWQ2ZDY5MGM2\
+#EXTINF:-1 tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/lifetime-network.png" group-title="UNITED STATES",Lifetime Network\
+https://channels-sigma.vercel.app/api/stream/VE1MmY5ZjdlOWYzNTcyLTJlMzktM2E0NC1hN2IwLTQxZWIyNTM4\
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/m6-france.png" group-title="FRANCE",M6 France\
+https://channels-sigma.vercel.app/api/stream/VE1YTM4MmM1MDQ1YjU5LWYzMmEtYTgzNC1mMTYzLTZiNGQzMGRi\
+#EXTINF:-1 tvg-id="MavTV.USA.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/mavtv-usa.png" group-title="UNITED STATES",MAVTV USA\
+https://channels-sigma.vercel.app/api/stream/VE1NmRmZWIxN2ZjYmM5LWZhOGEtODZiNC0yYzk1LThmZmIwM2Y1\
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/mlb-network-usa.png" group-title="UNITED STATES",MLB Network USA\
+https://channels-sigma.vercel.app/api/stream/VE1OTJlY2ExNzdjNmUwLTAyMWEtZmUxNC02MDhiLWY4YTk3MjI3\
+#EXTINF:-1 tvg-id="MSNBC.USA.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/msnbc.png" group-title="UNITED STATES",MSNBC\
+https://channels-sigma.vercel.app/api/stream/VE1NmIyMzc5ZTZhZTgxLTg5ZWEtZWYwNC0wMmU4LTM2YTNkZWU5\
+#EXTINF:-1 tvg-id="MTV.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/mtv.png" group-title="UNITED KINGDOM",MTV UK\
+https://channels-sigma.vercel.app/api/stream/VE1ODY3YjU0NGZhOGFlLTJiNDktMzIwNC0wNjkyLTg0ZWNhNDVh\
+#EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/mtv.png" group-title="UNITED STATES",MTV USA\
+https://channels-sigma.vercel.app/api/stream/VE1ZWZkMzFkZDkzYzJiLTRkMjgtMzExNC1kMjc4LWJlMzkxYzdj\
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/mutv-uk.png" group-title="UNITED KINGDOM",MUTV UK\
+https://channels-sigma.vercel.app/api/stream/VE1MzY0ZTZhZmYxMmNlLWVjNTktMTlmNC05MGE2LTQxZmEzYWVi\
+#EXTINF:-1 tvg-id="Magnolia.-.East.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/magnolia-network.png" group-title="UNITED STATES",Magnolia Network\
+https://channels-sigma.vercel.app/api/stream/VE1ZmU1NjNiMGM0NTdhLWRjNmEtNTc5NC1lYmZmLTUxNTlmNjEz\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/match-boets-ru.png" group-title="RUSSIA",Match Boets Russia\
+https://channels-sigma.vercel.app/api/stream/VE1NzQ2YTAxMjY4MDQ1LThjZTgtN2U3NC1hOWRhLTY3MDM2ZGU2\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/match-football-1-ru.png" group-title="RUSSIA",Match Football 1 Russia\
+https://channels-sigma.vercel.app/api/stream/VE1MDMwYmQwYzQxNzhhLWZjNDgtYmNlNC02M2E1LTBlNzI3OGRl\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/match-football-2-ru.png" group-title="RUSSIA",Match Football 2 Russia\
+https://channels-sigma.vercel.app/api/stream/VE1M2YyYjEzYWJiMjQ5LWQ0OGItY2VlNC1kNTlmLWM4NjNjZDkw\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/match-football-3-ru.png" group-title="RUSSIA",Match Football 3 Russia\
+https://channels-sigma.vercel.app/api/stream/VE1YjA2N2QxMWI2ZWNiLTczOWItNzUwNC0zN2VkLWY5OTEzNmUx\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/match-premier-ru.png" group-title="RUSSIA",Match Premier Russia\
+https://channels-sigma.vercel.app/api/stream/VE1ZDIzN2UwNDUwOTNiLTJmMjktNGNkNC1lMjc3LTNiMGQzN2Vi\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/match-tv-ru.png" group-title="RUSSIA",Match TV Russia\
+https://channels-sigma.vercel.app/api/stream/VE1ZDg5NmFlMDk1NDQwLTkwNWItMTNmNC1jYjBmLTU2YzQwZjRj\
+#EXTINF:-1 tvg-id="Motowizja.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/motowizja-pl.png" group-title="POLAND",Motowizja Poland\
+https://channels-sigma.vercel.app/api/stream/VE1ZDY5MmRjMzVjYWIxLWZjYTgtMDJjNC02ODEwLTZjNGE4MjQ4\
+#EXTINF:-1 tvg-id="MplusDEPORTES2(src01).es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/movistar-deportes-2.png" group-title="SPAIN",Movistar Deportes 2 Spain\
+https://channels-sigma.vercel.app/api/stream/VE1OWViODc0NDQzNDY1LTk2YzgtZjMzNC1kNWZiLTU1N2U4N2I2\
+#EXTINF:-1 tvg-id="MplusDEPORTES3(src01).es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/movistar-deportes-3.png" group-title="SPAIN",Movistar Deportes 3 Spain\
+https://channels-sigma.vercel.app/api/stream/VE1NDgwOGRkMGIzOWM2LTljZjktYjI4NC1mM2QwLWY2OTFiOGYz\
+#EXTINF:-1 tvg-id="MplusDEPORTES4(src01).es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/movistar-deportes-4.png" group-title="SPAIN",Movistar Deportes 4 Spain\
+https://channels-sigma.vercel.app/api/stream/VE1ZTU4OWY2ZmEyZGMxLTVmMTktZjljNC1lOGNhLTdkMjU1MTM1\
+#EXTINF:-1 tvg-id="MplusDEPORTES(src01).es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/movistar-deportes.png" group-title="SPAIN",Movistar Deportes Spain\
+https://channels-sigma.vercel.app/api/stream/VE1YTg3Mzc2NjQ2MjI3LTc1NzktM2IyNC05MWRmLTRhODJhZDdl\
+#EXTINF:-1 tvg-id="MovistarGolf(Spanish).es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/movistar-golf.png" group-title="SPAIN",Movistar Golf Spain\
+https://channels-sigma.vercel.app/api/stream/VE1N2ZhMDQ1ZWQwNjhiLWIyMjgtYWMyNC0zYTIwLTRlZGI5Mzhj\
+#EXTINF:-1 tvg-id="MovistarLaLiga(Spanish).es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/movistar-laliga.png" group-title="SPAIN",Movistar Laliga\
+https://channels-sigma.vercel.app/api/stream/VE1ODljNjM3YTQzYWVmLWFkNTktZDgzNC1hMmZlLTE3ZDExYjI1\
+#EXTINF:-1 tvg-id="MovistarLigadeCampeones(Spanish).es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/movistar-liga-de-campeones.png" group-title="SPAIN",Movistar Liga de Campeones\
+https://channels-sigma.vercel.app/api/stream/VE1NTczZDY2ZThlMDE2LWIzM2EtYzE5NC03OGQ4LTJkNmE2NzY3\
+#EXTINF:-1 tvg-id="MovistarPlusplus(src01).es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/0-spain.png" group-title="SPAIN",Movistar Plus+ (#0 Spain)\
+https://channels-sigma.vercel.app/api/stream/VE1MTdmNDllZTUwZWJhLTZlMjktY2IyNC1hYTdjLTRmNGQyZjNk\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/movistar-supercopa.png" group-title="SPAIN",Movistar Supercopa de Espa a\
+https://channels-sigma.vercel.app/api/stream/VE1MTdmNDllZTUwZWJhLTZlMjktY2IyNC1hYTdjLTRmNGQyZjNk\
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nba-tv-usa.png" group-title="UNITED STATES",NBA TV USA\
+https://channels-sigma.vercel.app/api/stream/VE1MGViY2VkYzZkM2EzLWU3YzgtMGJiNC0yMTliLTQwNDhlMzgy\
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nbc-sports-philadelphia.png" group-title="UNITED STATES",NBC Sports Philadelphia\
+https://channels-sigma.vercel.app/api/stream/VE1ZjBjNDBhYmIzY2M2LWJmMTktZTBjNC03MmYyLWYyMGQ5YjMy\
+#EXTINF:-1 tvg-id="NBC.Sports.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nbc-usa.png" group-title="UNITED STATES",NBC USA\
+https://channels-sigma.vercel.app/api/stream/VE1NThlZWIyNzVhNTg1LTZkMjgtODczNC00NmE0LWNkOWY1YTEy\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nbc10-philadelphia.png" group-title="UNITED STATES",NBC10 Philadelphia\
+https://channels-sigma.vercel.app/api/stream/VE1OTM5ODRjNDBkMjhlLTVmYTktNGUyNC01ZjM4LWUyMzdmMzhm\
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nfl-network-usa.png" group-title="UNITED STATES",NFL Network\
+https://channels-sigma.vercel.app/api/stream/VE1ODEzM2QxYTFlNzkwLTUzZGItMjNmNC1hZWQ0LTI2NDQxZWZl\
+#EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nick.png" group-title="UNITED STATES",NICK\
+https://channels-sigma.vercel.app/api/stream/VE1MjU2YmY2ZDE4MTQxLTE5NzktZDQxNC05ZWE1LTFjMzlhOWU1\
+#EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nick-jr.png" group-title="UNITED STATES",NICK JR\
+https://channels-sigma.vercel.app/api/stream/VE1MTE3NDAzN2QxMzVkLWQzZWEtNTUwNC01YjYyLWVhZjRjNDJi\
+#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/national-geographic.png" group-title="UNITED STATES",National Geographic (NGC)\
+https://channels-sigma.vercel.app/api/stream/VE1ZWNkODlhMTNmYTM5LWQzNWItMTUyNC00ODVjLWM3MjY1Yzlk\
+#EXTINF:-1 tvg-id="NewsNation.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/ion-usa.png" group-title="UNITED STATES",NewsNation USA\
+https://channels-sigma.vercel.app/api/stream/VE1YzZiOTVlNmNjMDA1LTEwNGItZWY3NC1iZmIwLWY3NzJiYTY4\
+#EXTINF:-1 tvg-id="NewsMax.TV.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/newsmax-usa.png" group-title="UNITED STATES",Newsmax USA\
+https://channels-sigma.vercel.app/api/stream/VE1NmI1NTgwY2JkZGNhLTU1ZWEtYTNhNC1jMDM5LTkwZTJlODIz\
+#EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nicktoons.png" group-title="UNITED STATES",Nicktoons\
+https://channels-sigma.vercel.app/api/stream/VE1OGQ1NTQ0Y2ZhYmU0LWUyN2EtMWNhNC00YzdkLTBlYjdkM2U1\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sport-serbia.png" group-title="SERBIA",Nova Sport Serbia\
+https://channels-sigma.vercel.app/api/stream/VE1NWNkNjMyMTJlZGIxLWE4NDgtMTI0NC1lYTBmLWQ3NzliNzFk\
+#EXTINF:-1 tvg-id="Novasports1.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-1-gr.png" group-title="GREECE",Nova Sports 1 Greece\
+https://channels-sigma.vercel.app/api/stream/VE1MjdhMDRmOWY2OWNmLTRiZjktM2FiNC1lMWZiLTEwMjU3OTg5\
+#EXTINF:-1 tvg-id="Novasports2.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-2-gr.png" group-title="GREECE",Nova Sports 2 Greece\
+https://channels-sigma.vercel.app/api/stream/VE1YzZlNjk3NGZlODllLWFlMjgtYmEwNC1hMGVlLWJhYzFiZWIw\
+#EXTINF:-1 tvg-id="Novasports3.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-3-gr.png" group-title="GREECE",Nova Sports 3 Greece\
+https://channels-sigma.vercel.app/api/stream/VE1ZjRhMGZkOTRjMTkwLWYzNWEtOWExNC05OWIyLWE4MDc1ZDBm\
+#EXTINF:-1 tvg-id="Novasports4.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-4-gr.png" group-title="GREECE",Nova Sports 4 Greece\
+https://channels-sigma.vercel.app/api/stream/VE1NTM2ZmIwMzA2ZTc4LTg0OTgtZWFkNC1kNDM3LWE4OTBmYmYz\
+#EXTINF:-1 tvg-id="Novasports5.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-5-gr.png" group-title="GREECE",Nova Sports 5 Greece\
+https://channels-sigma.vercel.app/api/stream/VE1NDcwZmNmMDI0YWExLWIyMTgtYmJjNC1iOWI5LTQxMTc5Njc4\
+#EXTINF:-1 tvg-id="Novasports6.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-6-gr.png" group-title="GREECE",Nova Sports 6 Greece\
+https://channels-sigma.vercel.app/api/stream/VE1NjhmZDA1ZmYyYmY4LTllMGEtYzNhNC01OWQwLTBlZTY3YjAz\
+#EXTINF:-1 tvg-id="Novasports.News.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-news-gr.png" group-title="GREECE",Nova Sports News Greece\
+https://channels-sigma.vercel.app/api/stream/VE1YjlkZmRmM2QzMTY5LTUxYmItN2FkNC0wMGI3LWMyYjNlZjg0\
+#EXTINF:-1 tvg-id="Novasports.Premier.League.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-premier-league.png" group-title="GREECE",Nova Sports Premier League Greece\
+https://channels-sigma.vercel.app/api/stream/VE1OTg1ZDFmOGIzMzhiLWZhZjgtYzAyNC0xMWNmLWFmZDFlNWJm\
+#EXTINF:-1 tvg-id="Novasports.Prime.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-prime-gr.png" group-title="GREECE",Nova Sports Prime Greece\
+https://channels-sigma.vercel.app/api/stream/VE1OWQ2MGFhZTBhMDAyLTYzZWEtMGI3NC1mM2QwLTE0ODU2MTI4\
+#EXTINF:-1 tvg-id="Novasports.Start.gr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-start-gr.png" group-title="GREECE",Nova Sports Start Greece\
+https://channels-sigma.vercel.app/api/stream/VE1MDczOWRiZmMwMDdiLWUwMDktMTVhNC0zMDU5LWQwNzgzMTY5\
+#EXTINF:-1 tvg-id="ONE.HD.il" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/one-1-hd-israel.png" group-title="ISRAEL",ONE 1 HD Israel\
+https://channels-sigma.vercel.app/api/stream/VE1ZWVhZWU2ZjNlOGI3LTdkOWEtZTIyNC02YWI3LTlmZjZlNGZi\
+#EXTINF:-1 tvg-id="ONE2.HD.il" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/one-2-hd-israel.png" group-title="ISRAEL",ONE 2 HD Israel\
+https://channels-sigma.vercel.app/api/stream/VE1MjJmN2E2MzE4MmMxLTI2OGEtMDI5NC1kYzFkLWRjYjdjYjIy\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/ontime-sports.png" group-title="EGYPT",OnTime Sports\
+https://channels-sigma.vercel.app/api/stream/VE1ZjZlN2ZmYTI3OWQ3LTM1MWEtYWUxNC03YzI3LWEwNTgxNmVm\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/ontime-sports-2.png" group-title="EGYPT",OnTime Sports 2\
+https://channels-sigma.vercel.app/api/stream/VE1ZDk5NDM2MDQ3OTdmLTA0MmItYzIzNC1hYTBhLWFiZjEzNWVm\
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.USA.Eastern.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/oprah.png" group-title="UNITED STATES",Oprah Winfrey Network (OWN)\
+https://channels-sigma.vercel.app/api/stream/VE1YTI0Y2JmMDBjYjhjLWJhYjktMTcxNC1kMTc5LTYxNWQ4OWI0\
+#EXTINF:-1 tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/oxygen-true-crime.png" group-title="UNITED STATES",Oxygen True Crime\
+https://channels-sigma.vercel.app/api/stream/VE1MGM5Nzk2OTE1ZDJjLTA5MWItNzE5NC1hYThlLTFjNmI5ODI4\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/pdc-tv.png" group-title="UNITED STATES",PDC TV\
+https://channels-sigma.vercel.app/api/stream/VE1ZWFiYTk5MWE1NTk3LTYzNTktYTMwNC0xNDM0LTBjODJjZThm\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/pac-12-network-usa.png" group-title="UNITED STATES",Pac-12 Network USA\
+https://channels-sigma.vercel.app/api/stream/VE1MWUzM2M5ODc0NmIzLWQ4NDgtOGI5NC0yMGVlLWVmMzljODg1\
+#EXTINF:-1 tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/paramount-network.png" group-title="UNITED STATES",Paramount Network\
+https://channels-sigma.vercel.app/api/stream/VE1OGZhMjkxYWIwYzE3LTYzM2EtNWVmNC1lY2ZjLTkyN2RkZjUy\
+#EXTINF:-1 tvg-id="Polsat.Film.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/polsat-film-poland.png" group-title="POLAND",Polsat Film Poland\
+https://channels-sigma.vercel.app/api/stream/VE1ZGMxMmYwODRiN2YxLWUwY2ItOGM3NC1kNTk3LTM5YTE1NzI4\
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/polsat-poland.png" group-title="POLAND",Polsat Poland\
+https://channels-sigma.vercel.app/api/stream/VE1OTIzNTQ4YjM5ODFjLTY1MmItNzkwNC02ZTRhLTRhY2FlZDNl\
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/polsat-sport-extra-poland.png" group-title="POLAND",Polsat Sport Extra Poland\
+https://channels-sigma.vercel.app/api/stream/VE1OTUwZDRmNjZhZDY5LTkxZGItZTFlNC1iYjhlLTY1N2QwOGQx\
+#EXTINF:-1 tvg-id="Polsat.Sport.News.HD.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/polsat-sport-news-poland.png" group-title="POLAND",Polsat Sport News Poland\
+https://channels-sigma.vercel.app/api/stream/VE1ZWJmMTdhNzQxZmIyLTkzM2ItOGExNC0wMDIwLTJkYTg3ODBk\
+#EXTINF:-1 tvg-id="Polsat.Sport.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/polsat-sport-poland.png" group-title="POLAND",Polsat Sport Poland\
+https://channels-sigma.vercel.app/api/stream/VE1OWY4MzZhOWY5NGVlLTVhZWEtODc3NC0xZDYzLTNmODJkOTZm\
+#EXTINF:-1 tvg-id="Premiere..br" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/premiere-brazil.png" group-title="BRAZIL",Premier Brazil\
+https://channels-sigma.vercel.app/api/stream/VE1NDJmN2EzYmE5MjIxLTVkYjgtZDhjNC01Zjg2LWE2NTIwYjVh\
+#EXTINF:-1 tvg-id="Prima.Sport.1.ro" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/prima-sport-1-ro.png" group-title="ROMANIA",Prima Sport 1\
+https://channels-sigma.vercel.app/api/stream/VE1OTA5YjkxMTM4MzAyLTZhMjgtODFkNC05NTEwLWRmODU5MTAz\
+#EXTINF:-1 tvg-id="Prima.Sport.2.ro" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/prima-sport-2-ro.png" group-title="ROMANIA",Prima Sport 2\
+https://channels-sigma.vercel.app/api/stream/VE1NjAxMWYyNTNmNDQyLTEyYzgtOGUxNC0yNjM3LTE5YzEwNDI1\
+#EXTINF:-1 tvg-id="Prima.Sport.3.ro" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/prima-sport-3-ro.png" group-title="ROMANIA",Prima Sport 3\
+https://channels-sigma.vercel.app/api/stream/VE1YzBjNzQ2YjgwNDEyLWJhYmEtZWM1NC02Y2JkLTQ4YjBjMTNi\
+#EXTINF:-1 tvg-id="Prima.Sport.4.ro" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/prima-sport-4-ro.png" group-title="ROMANIA",Prima Sport 4\
+https://channels-sigma.vercel.app/api/stream/VE1NmM4ZmI4MmRjYWI0LWEzYjgtNzFhNC05YzYzLWNmOTIxNTMw\
+#EXTINF:-1 tvg-id="RMC.Sport.1.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/rmc-sport-1-fr.png" group-title="FRANCE",RMC Sport 1 France\
+https://channels-sigma.vercel.app/api/stream/VE1YWFjMDk0YzIwYTAyLWUxZDgtNWEwNC0zOGMxLWQ2OWY0Mjdh\
+#EXTINF:-1 tvg-id="RMC.Sport.2.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/rmc-sport-2-fr.png" group-title="FRANCE",RMC Sport 2 France\
+https://channels-sigma.vercel.app/api/stream/VE1NDUyY2Q0MmZhOWY3LTFlNTgtOTUzNC02NmQxLTBmOWU5MzRl\
+#EXTINF:-1 tvg-id="RTE1Network.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/ert-1.png" group-title="UNITED KINGDOM",RTE 1\
+https://channels-sigma.vercel.app/api/stream/VE1YThjYWVjMjRiNDQwLTBjY2EtNWJkNC0xYmMyLTNmYzhjNWVk\
+#EXTINF:-1 tvg-id="RTE2.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/rte-2-uk.png" group-title="UNITED KINGDOM",RTE 2\
+https://channels-sigma.vercel.app/api/stream/VE1MTVhOTJhYzE5ZjZjLTdkOWEtNzllNC02NDIyLTVkZDdlMmQy\
+#EXTINF:-1 tvg-id="RTL.7.nl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/rtl7-netherlands.png" group-title="NETHERLANDS",RTL7 Netherlands\
+https://channels-sigma.vercel.app/api/stream/VE1OGE1YTlkODBkOTMwLTk1ZDktMmM0NC1hN2MwLWQ2ODQzNzJh\
+#EXTINF:-1 tvg-id="RTP.1.HD.pt" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/rtp-1-portugal.png" group-title="PORTUGAL",RTP 1 Portugal\
+https://channels-sigma.vercel.app/api/stream/VE1MzdhZmUxMWNiZTM0LTg1NDgtOGNkNC0wYWUyLWE4NDk1ZTQ1\
+#EXTINF:-1 tvg-id="Racing.TV.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/racing-tv-uk.png" group-title="UNITED KINGDOM",Racing Tv UK\
+https://channels-sigma.vercel.app/api/stream/VE1MTA0NTBiOTRlMWZmLTJiMDktOTdmNC01NTI2LTRmNjM1ZTVh\
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/rai-sport-it.png" group-title="ITALY",Rai Sport Italy\
+https://channels-sigma.vercel.app/api/stream/VE1YjJkMTg5YzczMjEyLWUwOGItOGVhNC1jNWU5LTAyNDA5OWFl\
+#EXTINF:-1 tvg-id="Rally.TV.de" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/rally-tv.png" group-title="UNITED STATES",Rally Tv\
+https://channels-sigma.vercel.app/api/stream/VE1OWZjMGQ4MjIwNTM4LTFlYWItN2ZiNC0zMDFiLWQwMDZmYzE4\
+#EXTINF:-1 tvg-id="RealMadridTV(Spanish).es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/real-madrid-tv-spain.png" group-title="SPAIN",Real Madrid TV Spain\
+https://channels-sigma.vercel.app/api/stream/VE1MzdhNDU5YjZiNzIzLTE3ODgtMDAxNC1kYmU1LTYyYTg1OTI2\
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/reelz-channel.png" group-title="UNITED STATES",Reelz Channel\
+https://channels-sigma.vercel.app/api/stream/VE1ODNmMjBmODk3ODlkLTdlNWItODMyNC1lOTE1LTUwN2YyMDMw\
+#EXTINF:-1 tvg-id="SEC.Network.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sec-network-usa.png" group-title="UNITED STATES",SEC Network USA\
+https://channels-sigma.vercel.app/api/stream/VE1ZmNmYTlkZWY0Mzc1LWJlMmEtMGM2NC03NzNlLTllY2Q1ZDNl\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/ssc-sports-5.jpg" group-title="SAUDI ARABIA",SSC Sport 1\
+https://channels-sigma.vercel.app/api/stream/VE1ZmU0NDZjMWQxYWE1LTM5NjgtOWY4NC0xNjMwLWYzN2U0N2I1\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/ssc-sports-5.jpg" group-title="SAUDI ARABIA",SSC Sport 2\
+https://channels-sigma.vercel.app/api/stream/VE1NzkxZjdiNThjZjdiLTMwMmEtNWM5NC1mZmQwLTM4ZDI3OWIw\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/ssc-sports-5.jpg" group-title="SAUDI ARABIA",SSC Sport 3\
+https://channels-sigma.vercel.app/api/stream/VE1MTY0YjQxNTQ1NzljLTg1OTgtMTQ4NC0zNTY3LWI0YTYzZGFh\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/ssc-sports-5.jpg" group-title="SAUDI ARABIA",SSC Sport 4\
+https://channels-sigma.vercel.app/api/stream/VE1MTIzYTA2MmRlOWU5LWUxM2ItNDhiNC01YzBmLWRlNTU1YzBi\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/ssc-sports-5.jpg" group-title="SAUDI ARABIA",SSC Sport 5\
+https://channels-sigma.vercel.app/api/stream/VE1MjVmZGZmM2VkNGIyLWYzYjktOGRjNC1iZWJmLTVjN2Y5YzA4\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/ssc-sports-extra-2.jpg" group-title="SAUDI ARABIA",SSC Sport Extra 1\
+https://channels-sigma.vercel.app/api/stream/VE1ZjAyOTZhNjQ5N2FiLTg0OGItMzEyNC1mMzkxLTA2YjA5NDYz\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/ssc-sports-extra-2.jpg" group-title="SAUDI ARABIA",SSC Sport Extra 2\
+https://channels-sigma.vercel.app/api/stream/VE1MTViZWFlNzg0OGFhLTQxYjgtOGE5NC05NjFhLTYwYmVlNzIy\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/ssc-sports-extra-2.jpg" group-title="SAUDI ARABIA",SSC Sport Extra 3\
+https://channels-sigma.vercel.app/api/stream/VE1MjhiOTA4ODczOGU5LTFmNGItNTQwNC1lYTJiLWYxZGQ3ZGNh\
+#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/syfy-usa.png" group-title="UNITED STATES",SYFY USA\
+https://channels-sigma.vercel.app/api/stream/VE1ZjZiNTdmMDU4ZTcyLTUxZWItNWM1NC1lMmQ1LTY2YjdiMTEz\
+#EXTINF:-1 tvg-id="Science.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/science-channel.png" group-title="UNITED STATES",Science Channel\
+https://channels-sigma.vercel.app/api/stream/VE1M2UwODQ1YTJjMDJiLWE4YWEtNTdmNC0xYjhjLTQ5MjRhYzg3\
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/showtime-usa.png" group-title="UNITED STATES",Showtime USA\
+https://channels-sigma.vercel.app/api/stream/VE1YTVlOTAzMTc2Y2RjLTZiZWEtNWU1NC00MmFmLTZjZTkyY2Fl\
+#EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-atlantic-uk.png" group-title="UNITED KINGDOM",Sky Atlantic\
+https://channels-sigma.vercel.app/api/stream/VE1NDE3YmM3YzYwYjA2LTUyOTktZjM3NC05ZGRhLTRhMWM5MDUx\
+#EXTINF:-1 tvg-id="Sky.Sport..256.it" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-calcio-6.png" group-title="ITALY",Sky Calcio 6 (256) Italy\
+https://channels-sigma.vercel.app/api/stream/VE1NzUxYjBlZTkxYTk5LTFiMjgtMGEzNC1jMzZjLWQ0ODgzYTUz\
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-cinema-sci-fi-horror-uk.png" group-title="UNITED KINGDOM",Sky Cinema Sci-Fi Horror UK\
+https://channels-sigma.vercel.app/api/stream/VE1MTQ0YzMyMjVmODZkLTU5YWItNjUxNC00YWE1LWVkYzUxOGY0\
+#EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-1-nz.png" group-title="NEW ZEALAND",Sky Sport 1 NZ\
+https://channels-sigma.vercel.app/api/stream/VE1ZTAyYTVhMGZlN2NkLWIzYWItYjM2NC1mM2RhLWNlYjQzZGJk\
+#EXTINF:-1 tvg-id="Sky.Sport.2.nz" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-2-nz.png" group-title="NEW ZEALAND",Sky Sport 2 NZ\
+https://channels-sigma.vercel.app/api/stream/VE1OGNlYzgyYWRlMjhjLTgwODgtNDYzNC1mZmM2LTA0NjRiOGY0\
+#EXTINF:-1 tvg-id="Sky.Sport24.it" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-24-it.png" group-title="ITALY",Sky Sport 24 Italy\
+https://channels-sigma.vercel.app/api/stream/VE1MTI0MWMyMGNmNjI3LTkwN2ItZjZiNC0zOWI4LTg0NGNkNzc0\
+#EXTINF:-1 tvg-id="Sky.Sport.3.nz" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-3-nz.png" group-title="NEW ZEALAND",Sky Sport 3 NZ\
+https://channels-sigma.vercel.app/api/stream/VE1M2Q3ZmQ3YzU0Y2NkLTZhYTgtYmNhNC01ZmVjLTkxOTAyNGVm\
+#EXTINF:-1 tvg-id="Sky.Sport.4.nz" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-4-nz.png" group-title="NEW ZEALAND",Sky Sport 4 NZ\
+https://channels-sigma.vercel.app/api/stream/VE1ZGYxNjI3NTE4ODBjLWZlMDktMGEwNC0yMGFkLTFkM2QxNjI5\
+#EXTINF:-1 tvg-id="Sky.Sport.5.nz" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-5-nz.png" group-title="NEW ZEALAND",Sky Sport 5 NZ\
+https://channels-sigma.vercel.app/api/stream/VE1ZTVkYWVmMTY2NzI3LTU1ODktMGUwNC0yZTEyLWFlODFjZGJl\
+#EXTINF:-1 tvg-id="Sky.Sport.6.nz" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-6-nz.png" group-title="NEW ZEALAND",Sky Sport 6 NZ\
+https://channels-sigma.vercel.app/api/stream/VE1ZDYyODBkMDA5YTkzLTNlZWEtOGFlNC1kM2Q4LTlhYThlY2Mz\
+#EXTINF:-1 tvg-id="Sky.Sport.7.nz" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-7-nz.png" group-title="NEW ZEALAND",Sky Sport 7 NZ\
+https://channels-sigma.vercel.app/api/stream/VE1YjgxYWJiOGZlZDJkLTgzMWEtYTY0NC0zNmI4LTk3Yjk3ZTli\
+#EXTINF:-1 tvg-id="Sky.Sport.8.nz" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-8-nz.png" group-title="NEW ZEALAND",Sky Sport 8 NZ\
+https://channels-sigma.vercel.app/api/stream/VE1YWMyMWQxYjdlOTVhLWNkYWEtY2JmNC00YjBjLTYyZDFhYWQw\
+#EXTINF:-1 tvg-id="Sky.Sport.9.nz" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-9-nz.png" group-title="NEW ZEALAND",Sky Sport 9 NZ\
+https://channels-sigma.vercel.app/api/stream/VE1YzNkMWIzNmNjMGJkLWRhN2ItNjkwNC1jMjViLTNkZGYzNGNm\
+#EXTINF:-1 tvg-id="Sky.Sport.Arena.it" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-arena-it.png" group-title="ITALY",Sky Sport Arena Italy\
+https://channels-sigma.vercel.app/api/stream/VE1MTliZjk4MDY3MzNkLWM0MmEtYzBmNC1jMjkwLTk4ZDBlODM2\
+#EXTINF:-1 tvg-id="Sky.Sport.Austria.1.HD.de" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-austria-1-hd-at.png" group-title="GERMANY",Sky Sport Austria 1 HD\
+https://channels-sigma.vercel.app/api/stream/VE1ZTZjNGI1ZDAxNmJlLTZmZGItYjk0NC1lZTM2LWI5N2M1MDM5\
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.1.de" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-bundesliga-1-hd.png" group-title="GERMANY",Sky Sport Bundesliga 1 HD\
+https://channels-sigma.vercel.app/api/stream/VE1ZjRlMjZmOWYzNjM0LTE0MzktMTE2NC0wNDY2LTQ0MzQ5ZDM2\
+#EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-calcio-it.png" group-title="ITALY",Sky Sport Calcio Italy\
+https://channels-sigma.vercel.app/api/stream/VE1MjgzYmVkM2FmYzJmLTcwZDktNWZlNC1kMTEyLTdjN2NiNTBh\
+#EXTINF:-1 tvg-id="Sky.Sport.F1.it" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-f1-it.png" group-title="ITALY",Sky Sport F1 Italy\
+https://channels-sigma.vercel.app/api/stream/VE1MGNjZGVlZjE0ZmY0LWRiMmItMDQxNC0yMTAzLWQ2NDdlMzY1\
+#EXTINF:-1 tvg-id="Sky.Sport.Max.it" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-football-it.png" group-title="ITALY",Sky Sport Max (Sky Sport Football Italy)\
+https://channels-sigma.vercel.app/api/stream/VE1YTlkN2NkMWNiNGVlLTRjZGEtZTUxNC1mMzliLTQ0ODZhNjcx\
+#EXTINF:-1 tvg-id="Sky.Sport.Mix.de" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-mix-de.png" group-title="GERMANY",Sky Sport Mix DE\
+https://channels-sigma.vercel.app/api/stream/VE1N2YyYmIwN2VhZjNjLWVhYWEtZWNlNC1hZWJiLWEzYzgzZGRj\
+#EXTINF:-1 tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-motogp-it.png" group-title="ITALY",Sky Sport MotoGP Italy\
+https://channels-sigma.vercel.app/api/stream/VE1Y2Y2YTFiODJmNTAzLTExYmItY2ExNC04M2I0LThhNWFjOTM2\
+#EXTINF:-1 tvg-id="Sky.Sport.Select.nz" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-select-nz.png" group-title="NEW ZEALAND",Sky Sport Select NZ\
+https://channels-sigma.vercel.app/api/stream/VE1YTE3ZTQxNzc5Nzg2LTM5ZjktYjYyNC1jNmZmLWQwYmE4OTUw\
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-tennis-it.png" group-title="ITALY",Sky Sport Tennis Italy\
+https://channels-sigma.vercel.app/api/stream/VE1Y2QyMjJhM2Y2ZGFkLTUxNjgtZGJiNC0wZGFjLTRkYzFmNWFl\
+#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-top-event-de.png" group-title="GERMANY",Sky Sport Top Event DE\
+https://channels-sigma.vercel.app/api/stream/VE1ZTNiMzMxYjIzOWJmLWNiYTktMDkxNC1mYmU1LTYxOTIxY2Q1\
+#EXTINF:-1 tvg-id="Sky.Sport.Uno.it" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-uno-it.png" group-title="ITALY",Sky Sport UNO Italy\
+https://channels-sigma.vercel.app/api/stream/VE1YzJhOTdlZjRjNzRlLTZhZDgtMWI5NC1hN2M3LTMyZGMxMzZh\
+#EXTINF:-1 tvg-id="SkySp.Action.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-action-uk.png" group-title="UNITED KINGDOM",Sky Sports Action UK\
+https://channels-sigma.vercel.app/api/stream/VE1NzU5MzE1MDE1YmRiLTlhZmEtN2NlNC00MGYxLTE5NDRjOGMw\
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-arena-uk.png" group-title="UNITED KINGDOM",Sky Sports Arena UK\
+https://channels-sigma.vercel.app/api/stream/VE1N2Y4OTFkZjVlZDI0LWM4YTgtN2JjNC02MDJmLTY4NDllZDFm\
+#EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-cricket-uk.png" group-title="UNITED KINGDOM",Sky Sports Cricket\
+https://channels-sigma.vercel.app/api/stream/VE1NmU4MjU1MTI2MzNiLWY5MDktZjQzNC02MjExLTY1OGI3Y2Q0\
+#EXTINF:-1 tvg-id="SKY.Sport.F1.de" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-f1-de.png" group-title="GERMANY",Sky Sports F1 DE\
+https://channels-sigma.vercel.app/api/stream/VE1M2Q4ZGI3NDU0NGZjLWYwODgtY2RjNC1hNTM4LTc5YTI1YTFl\
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-f1-uk.png" group-title="UNITED KINGDOM",Sky Sports F1 UK\
+https://channels-sigma.vercel.app/api/stream/VE1YjMzY2FhOTJkZDJkLTJkYzktMDMzNC1jZDIxLTY2MGU0OTU4\
+#EXTINF:-1 tvg-id="SkySp.Fball.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-football-uk.png" group-title="UNITED KINGDOM",Sky Sports Football UK\
+https://channels-sigma.vercel.app/api/stream/VE1MDczYTRhZWQ0YmNlLTQ1YzktY2VlNC0yNzRlLWJiYTdhNDRl\
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.it" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-golf-it.png" group-title="ITALY",Sky Sports Golf Italy\
+https://channels-sigma.vercel.app/api/stream/VE1OGU4ZmJlMjJkMDA3LTZjZTktZDgwNC03ZDIwLWVlMjU3NmMz\
+#EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-golf-uk.png" group-title="UNITED KINGDOM",Sky Sports Golf UK\
+https://channels-sigma.vercel.app/api/stream/VE1MmIxNDljMzI0ZGZiLTUyMGItOWQwNC04YTk1LTY4NmEyZjBi\
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-mix-uk.png" group-title="UNITED KINGDOM",Sky Sports MIX UK\
+https://channels-sigma.vercel.app/api/stream/VE1YTg0ZTI2NjgyYWU3LWYyYjktMWEwNC03NjlkLTBkOGRlYzI2\
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-main-event-uk.png" group-title="UNITED KINGDOM",Sky Sports Main Event\
+https://channels-sigma.vercel.app/api/stream/VE1MGEwZGE3YTZhODBhLTZhNWItOTY0NC0xMWQzLWM2NjZiZTI4\
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-news-uk.png" group-title="UNITED KINGDOM",Sky Sports News UK\
+https://channels-sigma.vercel.app/api/stream/VE1ODI4NGU3YmU5NmY5LWU1MzgtNzFiNC1mYmU0LWQ5ODcxYmFm\
+#EXTINF:-1 tvg-id="SkySp.Racing.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-racing-uk.png" group-title="UNITED KINGDOM",Sky Sports Racing UK\
+https://channels-sigma.vercel.app/api/stream/VE1ZTRkMDNhMGMwM2M2LWExZTktMWY2NC01ZjQ5LTVmMjk1YThh\
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-tennis-uk.png" group-title="UNITED KINGDOM",Sky Sports Tennis UK\
+https://channels-sigma.vercel.app/api/stream/VE1ODFjMTRkZGEyOGVhLWMzYTgtNGM2NC1mMjM2LWZkODg3Njgy\
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-witness-uk.png" group-title="UNITED KINGDOM",Sky Witness HD\
+https://channels-sigma.vercel.app/api/stream/VE1NGEyMDUwNjM0ODgxLThkNzktMDJlNC00NTY5LTA3NjQxOWI2\
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-premier-league-uk.png" group-title="UNITED KINGDOM",Sky Sports Premier League\
+https://channels-sigma.vercel.app/api/stream/VE1MmFhNWM0ZDAyZWYyLWM4MmItNWU4NC0xZjBhLTQ0OTAxNTU4\
+#EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/smithsonian-channel-us.png" group-title="UNITED STATES",Smithsonian Channel\
+https://channels-sigma.vercel.app/api/stream/VE1YTU0MDRhOTE5MjJjLWViNWEtZjU4NC01MjVhLTFmZDc4ODk4\
+#EXTINF:-1 tvg-id="SPORTV.br" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sportv-br.png" group-title="BRAZIL",SporTV Brazil\
+https://channels-sigma.vercel.app/api/stream/VE1MjBjZmFiZDE2ZmJiLTBhZmItODg2NC03MjE0LThlMzBjNjZi\
+#EXTINF:-1 tvg-id="SPORTV.2.br" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sportv2-br.png" group-title="BRAZIL",SporTV2 Brazil\
+https://channels-sigma.vercel.app/api/stream/VE1ZTU5OTMzNzY5MzMxLWI4NjgtZjllNC03ZjEwLTEwM2I0Njlj\
+#EXTINF:-1 tvg-id="SPORTV.3.br" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sportv3-br.png" group-title="BRAZIL",SporTV3 Brazil\
+https://channels-sigma.vercel.app/api/stream/VE1ZTMwMmI1MjM2YjJmLWJhN2EtYTE0NC02Zjk3LTNiNTFjYzZi\
+#EXTINF:-1 tvg-id="Sport.1.HD.il" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-1-israel.png" group-title="ISRAEL",Sport 1 Israel\
+https://channels-sigma.vercel.app/api/stream/VE1NzM1NDU4ZGIxOGMzLTM0NDgtMGY4NC1hNzNmLTAzMTExMTRk\
+#EXTINF:-1 tvg-id="Sport.2.HD.il" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-2-israel.png" group-title="ISRAEL",Sport 2 Israel\
+https://channels-sigma.vercel.app/api/stream/VE1NTFjM2YyNGRmOWNkLTYzYWItNTBmNC0yMWI5LWU0Y2U2MjFh\
+#EXTINF:-1 tvg-id="Sport.3.HD.il" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-3-israel.png" group-title="ISRAEL",Sport 3 Israel\
+https://channels-sigma.vercel.app/api/stream/VE1MTlkNWQzNWZmYTZkLWYyYzgtYjBkNC1iM2RiLTAwNmY0ODFh\
+#EXTINF:-1 tvg-id="Sport.4.HD.il" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-4-israel.png" group-title="ISRAEL",Sport 4 Israel\
+https://channels-sigma.vercel.app/api/stream/VE1OGY4YWVjNDc1ZjY4LWY4ZTgtZmQwNC0wZmU4LWFlZDIyODZl\
+#EXTINF:-1 tvg-id="Sport.5.Gold.(57).il" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-5-gold-israel.png" group-title="ISRAEL",Sport 5 Gold Israel\
+https://channels-sigma.vercel.app/api/stream/VE1NWJmNDJlYWFjYzRmLTYxNWEtNmUwNC0xODRkLWU1YTE2ZmZi\
+#EXTINF:-1 tvg-id="Sport.5.HD.(55).il" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-5-israel.png" group-title="ISRAEL",Sport 5 Israel\
+https://channels-sigma.vercel.app/api/stream/VE1ODE3YWU0ZmM5Y2MyLWMwNWEtN2QyNC1jMDQzLTY2OTIxZmE3\
+#EXTINF:-1 tvg-id="Sport.5.Live.HD.(58).il" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-5-live-israel.png" group-title="ISRAEL",Sport 5 Live Israel\
+https://channels-sigma.vercel.app/api/stream/VE1ZTRhYmFmNjQwNzczLWY5NmItOTY3NC01YjRhLTAyMTU5ZWVi\
+#EXTINF:-1 tvg-id="Sport.5+.HD.(56).il" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-5-plus-israel.png" group-title="ISRAEL",Sport 5 PLUS Israel\
+https://channels-sigma.vercel.app/api/stream/VE1M2EyMDMxNWMxMTVmLTkzM2EtOWE1NC0yZmQ0LTg3OTZmYjMw\
+#EXTINF:-1 tvg-id="Sport.5.Stars.HD.(59).il" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-5-stars-israel.png" group-title="ISRAEL",Sport 5 Star Israel\
+https://channels-sigma.vercel.app/api/stream/VE1MjUzOTc3NmYwNzRjLTkwNmItZTkzNC05MDg4LTZkNjFlYWVh\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-klub-1-serbia.png" group-title="SERBIA",Sport Klub 1 Serbia\
+https://channels-sigma.vercel.app/api/stream/VE1YmU4MmNhMTZjN2M1LTNkYTgtZGEzNC00OTM0LWZmYTUzNzc5\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="SERBIA",Sport Klub 2 Serbia\
+https://channels-sigma.vercel.app/api/stream/VE1MzIzNTZmOGM0MzNiLTJkOGItMWYyNC01NWViLWE1M2E5ZWVm\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-klub-3-serbia.png" group-title="SERBIA",Sport Klub 3 Serbia\
+https://channels-sigma.vercel.app/api/stream/VE1MGUwNzUxMDBlYmQ2LTY3ODktMTZmNC0zYzk2LTE0OWY5ZTVk\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-klub-4-serbia.png" group-title="SERBIA",Sport Klub 4 Serbia\
+https://channels-sigma.vercel.app/api/stream/VE1MDNiOWE4OTgxOGVjLWViYjgtNDZmNC1hNDIwLTdkZjg0NGFk\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-klub-hd-serbia.png" group-title="SERBIA",Sport Klub HD Serbia\
+https://channels-sigma.vercel.app/api/stream/VE1NTljODM3ZGRjOTU4LWE5MjktZDc5NC1lN2EwLTJkMTBhZTQ4\
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-tv-1-portugal.png" group-title="PORTUGAL",Sport TV1 Portugal\
+https://channels-sigma.vercel.app/api/stream/VE1MmFjMWFhNjQ1YmQ3LWQzN2EtYjE4NC1lNjJkLWQ0NmEzNWE4\
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-tv-2-portugal.png" group-title="PORTUGAL",Sport TV2 Portugal\
+https://channels-sigma.vercel.app/api/stream/VE1YTVlODE3ODM1OTg1LTc3MzktOTNiNC02NzcyLWZmY2M5M2Vi\
+#EXTINF:-1 tvg-id="SPORT1.de" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport1-de.png" group-title="GERMANY",Sport1 Germany\
+https://channels-sigma.vercel.app/api/stream/VE1ZTEwNDIzNjdiY2VlLTU1M2ItZjg2NC03ZGExLWRhY2JhOTcx\
+#EXTINF:-1 tvg-id="SPORT1+.de" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport1-plus-de.png" group-title="GERMANY",Sport1+ Germany\
+https://channels-sigma.vercel.app/api/stream/VE1MTY2ZDAzOWM3YTViLWMwNzgtNjMwNC1iNzQ3LTVlOTc4OGE0\
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sportdigital-fussball.png" group-title="GERMANY",SportDigital Fussball\
+https://channels-sigma.vercel.app/api/stream/VE1YjMwZWM5YTk3YjFmLTE5ZjktMjA5NC0wYTMyLWFjZWEwNjUx\
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sportsnet-360.png" group-title="CANADA",Sportsnet 360\
+https://channels-sigma.vercel.app/api/stream/VE1MDFmYjhjYmZiZTVhLWU4N2ItZGJiNC0xMWY0LTg5ZTkxNTZm\
+#EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sportsnet-east.png" group-title="CANADA",Sportsnet East\
+https://channels-sigma.vercel.app/api/stream/VE1YzM2NTYwNjg3NzU4LWY1ZjktZmY4NC03MGE0LWY5NzRkODc4\
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sportsnet-one.png" group-title="CANADA",Sportsnet One\
+https://channels-sigma.vercel.app/api/stream/VE1YzQyYTg5M2E2NjI5LTA1MWEtYjFiNC02MDZkLWY0MGRjNjcy\
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sportsnet-ontario.png" group-title="UNITED STATES",Sportsnet Ontario\
+https://channels-sigma.vercel.app/api/stream/VE1NWRlYTRmM2Y4Njg2LTM0MGEtMzMyNC0wMTgzLTIyZjg5NjNi\
+#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sportsnet-west.png" group-title="UNITED STATES",Sportsnet West\
+https://channels-sigma.vercel.app/api/stream/VE1MzE5ZmJiZWIyNDZiLWE5YmItYjdmNC1mMjdiLTQ2ZDhiZWEx\
+#EXTINF:-1 tvg-id="Sportsnet.World.ca" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sportsnet-world.png" group-title="UNITED STATES",Sportsnet World\
+https://channels-sigma.vercel.app/api/stream/VE1ZjA0ZTk4NDQxMDVhLTg1NTgtOWI1NC1hNjc5LWEwNzRiNTZj\
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.in" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/star-sports-1-in.png" group-title="INDIA",Star Sports 1 IN\
+https://channels-sigma.vercel.app/api/stream/VE1Nzk3MjhlYzQ5NGI2LWJhODgtYmYwNC00ZTQwLTZmNzdjOTEz\
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.HINDI.in" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/star-sports-1-hindi-in.png" group-title="INDIA",Star Sports Hindi IN\
+https://channels-sigma.vercel.app/api/stream/VE1ZDhmNWM1NmY5NjkxLTRmNzktZWM4NC0wMmJkLTJhYzMxMzhi\
+#EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/starz-us.png" group-title="UNITED STATES",Starz\
+https://channels-sigma.vercel.app/api/stream/VE1MTEwMTliYzJmNzk2LTA0NjktNWNjNC0zNjA0LTQ2OTliNzc4\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/starzplay.png" group-title="UNITED ARAB EMIRATES",StarzPlay CricLife 1 HD\
+https://channels-sigma.vercel.app/api/stream/VE1MjBlMmIwNTFjNDY4LTQ0MDgtZGQ5NC0zYWE1LWZiYTBjZDFh\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/starzplay.png" group-title="UNITED ARAB EMIRATES",StarzPlay CricLife 2 HD\
+https://channels-sigma.vercel.app/api/stream/VE1MTViNzY1NzdlNTM4LTNhYmEtZjFmNC0wZGFmLTExNDNhYzYy\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/starzplay.png" group-title="UNITED ARAB EMIRATES",StarzPlay CricLife 3 HD\
+https://channels-sigma.vercel.app/api/stream/VE1ZTE2YjJhYmE0YzI0LTJlODktYzllNC01ZjJlLWEzMmNhYjcw\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/supersport-action.png" group-title="SOUTH AFRICA",SuperSport Action\
+https://channels-sigma.vercel.app/api/stream/VE1ZjdiZGNhNDNjZDNjLTE3YTgtMmNhNC01MjcwLWZmN2YzYjQ0\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/supersport-cricket.png" group-title="SOUTH AFRICA",SuperSport Cricket\
+https://channels-sigma.vercel.app/api/stream/VE1OTk3YmJiYWRhNzViLWQwYTktNTJiNC00M2JkLTJjYzU4NjIx\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/supersport-golf.png" group-title="SOUTH AFRICA",SuperSport Golf\
+https://channels-sigma.vercel.app/api/stream/VE1NmU3NDcwODdlNmUyLTE3M2ItODEwNC1mMDc5LTA3NWM5NmMy\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/supersport-grandstand.png" group-title="SOUTH AFRICA",SuperSport Grandstand\
+https://channels-sigma.vercel.app/api/stream/VE1M2Y1MmM2N2NhYThlLTNlNWEtYWI3NC1iYmEwLTBhODU5N2E5\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/supersport-laliga.png" group-title="SOUTH AFRICA",SuperSport LaLiga\
+https://channels-sigma.vercel.app/api/stream/VE1MTQwYjI2YmU0Y2QxLWUxM2ItNzA4NC00ZTg1LWMyNTM1Yzg4\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/supersport-maximo-1.png" group-title="SOUTH AFRICA",SuperSport MaXimo 1\
+https://channels-sigma.vercel.app/api/stream/VE1MmU0YWUzYTZhNjI1LTNiOWEtNWI4NC1iYjI0LWVjODk5NTQ2\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/supersport-psl.png" group-title="SOUTH AFRICA",SuperSport PSL\
+https://channels-sigma.vercel.app/api/stream/VE1OTViZDkyOTE0MzhhLWI4MDktZWYzNC01YzFjLTcxZmVmOGI3\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/supersport-premier-league.png" group-title="SOUTH AFRICA",SuperSport Premier league\
+https://channels-sigma.vercel.app/api/stream/VE1NGNlZWY0MDFhMTkxLTgwNDktNDU4NC1mMDgxLTFlOWNiYzYz\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/supersport-rugby.png" group-title="SOUTH AFRICA",SuperSport Rugby\
+https://channels-sigma.vercel.app/api/stream/VE1ZTRkYjVlYWY3YTM1LTM3YzktOWFhNC0yZTYxLTJmYWM0ZTcz\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/supersport-tennis.png" group-title="SOUTH AFRICA",SuperSport Tennis\
+https://channels-sigma.vercel.app/api/stream/VE1NWUyYjczODVmYmExLTIzZWItYTFjNC1lN2NiLTQ4MmU0MDE3\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/supersport-variety-1.png" group-title="SOUTH AFRICA",SuperSport Variety 1\
+https://channels-sigma.vercel.app/api/stream/VE1ZGJiNTk5NzllMTA2LTY0N2EtNjEwNC1mOTZiLThkMmVjMjc1\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/supersport-variety-3.png" group-title="SOUTH AFRICA",SuperSport Variety 3\
+https://channels-sigma.vercel.app/api/stream/VE1ODBlYzcwOGI2Y2RkLTE5YjgtMDZkNC03Y2FlLWEzODJhMDlj\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/supersport-variety-4.png" group-title="SOUTH AFRICA",SuperSport Variety 4\
+https://channels-sigma.vercel.app/api/stream/VE1ZjJlMDBiNTUwZDBhLTE0MmEtYjE2NC02NDBiLTU2MDI0MDY2\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/supersport-football.png" group-title="SOUTH AFRICA",Supersport Football\
+https://channels-sigma.vercel.app/api/stream/VE1YjAyNTQ3Mzk2YWQ0LWZlMzgtNzVjNC05ZmVlLTZkODNiZmJi\
+#EXTINF:-1 tvg-id="TBS.-.East.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tbs-usa.png" group-title="UNITED STATES",TBS USA\
+https://channels-sigma.vercel.app/api/stream/VE1ZGU0MDY4YjQ3OWNkLTgzZWItOTRlNC0wZTczLTU3Mjg3ZWJj\
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.USA.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tcm-usa.png" group-title="UNITED STATES",TCM USA\
+https://channels-sigma.vercel.app/api/stream/VE1YzE3NTdlYjg4NTQ3LTE3YTgtODhlNC00MjBjLTIzNzA5MGY0\
+#EXTINF:-1 tvg-id="TLC.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tlc-usa.png" group-title="UNITED STATES",TLC\
+https://channels-sigma.vercel.app/api/stream/VE1ZTg0ZWQzZDc3MDYzLTA4NmEtM2E2NC0xZGI3LTQ1MGU5Njgy\
+#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tnt-brasil.png" group-title="BRAZIL",TNT Brazil\
+https://channels-sigma.vercel.app/api/stream/VE1ZDNhNmRlZDkxZGQ3LTBiYTgtYzljNC05NDk2LThlOGE0OWNh\
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="UNITED KINGDOM",TNT Sports 1 UK\
+https://channels-sigma.vercel.app/api/stream/VE1ZjRkNjFhMGRlZmU4LTM2Y2ItMWRjNC1iYTA3LTkyYTQwZjY1\
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tnt-sports-2-uk.png" group-title="UNITED KINGDOM",TNT Sports 2 UK\
+https://channels-sigma.vercel.app/api/stream/VE1Y2ExZjA5ZTVmODY4LTdlZWItMTU3NC1jNjJiLTE3NTA1MGYw\
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tnt-sports-3-uk.png" group-title="UNITED KINGDOM",TNT Sports 3 UK\
+https://channels-sigma.vercel.app/api/stream/VE1ZWFmNDQzMmIyNzdlLTUzYzgtNDM4NC0wZGQ4LTMwODk0ZTgw\
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tnt-sports-4-uk.png" group-title="UNITED KINGDOM",TNT Sports 4 UK\
+https://channels-sigma.vercel.app/api/stream/VE1NGFkMzRlNTY2MmRlLTk2OWEtODJmNC02Y2E5LWUxOTc3MmIw\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tnt-sports-ar.png" group-title="ARGENTINA",TNT Sports Argentina\
+https://channels-sigma.vercel.app/api/stream/VE1OWVkNzZlZDgzMTNiLTlhZTgtZjM1NC1mOGMzLTNjNmRmMzk1\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tnt-sports-hd-chile.png" group-title="CHILE",TNT Sports HD Chile\
+https://channels-sigma.vercel.app/api/stream/VE1MjE4YTA1NjdjZDk5LTFhMzgtZWQwNC03NzNjLTgyMzM2N2Q2\
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tnt-usa.png" group-title="UNITED STATES",TNT USA\
+https://channels-sigma.vercel.app/api/stream/VE1Y2EwYTJkMzUzM2NmLTlkYjgtMGUwNC1lMTAwLTJlZmQ0ZWJl\
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tsn1.png" group-title="CANADA",TSN1\
+https://channels-sigma.vercel.app/api/stream/VE1MTdlNDNiMGRhZTIyLTExZWEtNDBkNC04NTdmLTZjZTM5ZGU5\
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tsn2.png" group-title="CANADA",TSN2\
+https://channels-sigma.vercel.app/api/stream/VE1OTdhZTY3OTkwNDVjLTU2NzgtNTFkNC1jOTU0LWUzNmY1NTU2\
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tsn3.png" group-title="CANADA",TSN3\
+https://channels-sigma.vercel.app/api/stream/VE1OTczZTYwMjU3NjM1LWM3MTgtNjIwNC01YmI4LTE2NzQ0YjUw\
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tsn4.png" group-title="CANADA",TSN4\
+https://channels-sigma.vercel.app/api/stream/VE1YWE2YzY5N2E2MjUzLWIzNTktNmJkNC05YzI4LTUzZjI3NzU1\
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tsn5.png" group-title="CANADA",TSN5\
+https://channels-sigma.vercel.app/api/stream/VE1MTlmNGZkNjAxNGQ3LTczZmEtYzUzNC00MzcwLWYyNzkxMzI5\
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tudn-usa.png" group-title="UNITED STATES",TUDN USA\
+https://channels-sigma.vercel.app/api/stream/VE1ZTY2ODg2Njk1YjU4LTgzMTgtNDZkNC04NTFmLWYzNTVlN2Y2\
+#EXTINF:-1 tvg-id="TV2Sport(src01).dk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tv2-sport-denmark.png" group-title="DENMARK",TV2 Sport Denmark\
+https://channels-sigma.vercel.app/api/stream/VE1Y2QzNmQ2YTI3OGZlLWVhNzgtNWJjNC04MGQ2LWZjZjQ5MTY3\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tv2-sport-x-denmark.png" group-title="DENMARK",TV2 Sport X Denmark\
+https://channels-sigma.vercel.app/api/stream/VE1OTRhODk0OWZkODliLWFhZWEtMWJmNC04M2I4LTE2NWU2N2Q0\
+#EXTINF:-1 tvg-id="TV3Max(src01).dk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tv3-max-denmark.png" group-title="DENMARK",TV3 Max Denmark\
+https://channels-sigma.vercel.app/api/stream/VE1YzM0MTlmYTI3MTM4LTliM2EtMTNlNC0xZTFhLTg1MDhjYzBm\
+#EXTINF:-1 tvg-id="TV3Sport1(src01).dk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tv3-sport-denmark.png" group-title="DENMARK",TV3 Sport Denmark\
+https://channels-sigma.vercel.app/api/stream/VE1OGIyNTg0YTAwMjMwLTkyMjgtZDA2NC03YWI5LTkzNTA4MjVj\
+#EXTINF:-1 tvg-id="TVA.Sports.ca" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tva-sports.png" group-title="CANADA",TVA Sports\
+https://channels-sigma.vercel.app/api/stream/VE1YTcwYjlkZGRjZjkyLWUyNjgtMzQxNC03ODllLWU5MTRkMDQ2\
+#EXTINF:-1 tvg-id="LA.1.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tve-la-1-spain.png" group-title="SPAIN",TVE La 1 Spain\
+https://channels-sigma.vercel.app/api/stream/VE1YjYwYTgzYTJkZWE1LWYwNWItYTUzNC1kN2I3LTJlMjA1Mzk5\
+#EXTINF:-1 tvg-id="LA.2.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tve-la-2-spain.png" group-title="SPAIN",TVE La 2 Spain\
+https://channels-sigma.vercel.app/api/stream/VE1ZDJiODBkZGM5ZGY5LTA1ZmEtMDUwNC1iMmFjLTY3MzMyZTJi\
+#EXTINF:-1 tvg-id="TV.Land.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tvland-us.png" group-title="UNITED STATES",TVLAND\
+https://channels-sigma.vercel.app/api/stream/VE1YjRiOTUzY2Q3NmQwLTNiYWEtMzU4NC02YmYwLWM3ZTczMjYy\
+#EXTINF:-1 tvg-id="TVN.HD.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tvn-hd-poland.png" group-title="POLAND",TVN HD Poland\
+https://channels-sigma.vercel.app/api/stream/VE1YmY5MjdjOThiZjZkLTBlNzgtN2JjNC1hNTI4LWE4NDg2YzNk\
+#EXTINF:-1 tvg-id="TVN.24.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tvn24-poland.png" group-title="POLAND",TVN24 Poland\
+https://channels-sigma.vercel.app/api/stream/VE1ZTllMDdhMjlmNzNiLWJmMDktZTA4NC00OWM0LTRjYjM1MWJm\
+#EXTINF:-1 tvg-id="TVP.Sport.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tvp-sport-poland.png" group-title="POLAND",TVP Sport Poland\
+https://channels-sigma.vercel.app/api/stream/VE1Y2U5M2E0ZTUyMTkyLWE1MmItNjEwNC1mM2Y3LTQxMWExODE0\
+#EXTINF:-1 tvg-id="TVP.1.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tvp1-poland.png" group-title="POLAND",TVP1 Poland\
+https://channels-sigma.vercel.app/api/stream/VE1ZWM3NjY5NTgwMjc1LTlkNDgtZTNmNC0yZjE1LTlmY2E0OWFm\
+#EXTINF:-1 tvg-id="TVP.2.pl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tvp2-poland.png" group-title="POLAND",TVP2 Poland\
+https://channels-sigma.vercel.app/api/stream/VE1OTFhMmE1YzYxYjk1LTQ1N2EtNDlhNC0zODUyLTZiYTYxMTcw\
+#EXTINF:-1 tvg-id="TeenNick.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/teennick-us.png" group-title="UNITED STATES",TeenNick\
+https://channels-sigma.vercel.app/api/stream/VE1MzhiZTZhZDYyNjBkLWUzNGItOTQxNC02Nzk2LWUwNGY3OTE3\
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/telecinco-spain.png" group-title="SPAIN",Telecinco Spain\
+https://channels-sigma.vercel.app/api/stream/VE1OTA5MTAzMWRhOWRiLWZlYmEtZGU1NC1iNTA4LTJlMTQxOWY3\
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/teledeporte-spain.png" group-title="SPAIN",Teledeporte Spain (TDP)\
+https://channels-sigma.vercel.app/api/stream/VE1Zjc0ODA5NTg1YmY1LTcwMTktYWMyNC01MDNiLWRjNTY2MzU4\
+#EXTINF:-1 tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/telemundo-us.png" group-title="UNITED STATES",Telemundo\
+https://channels-sigma.vercel.app/api/stream/VE1MDY2YWU2MDJjMTM3LWY0ZGItNDk3NC1kM2ZkLTQxNWUwYzgy\
+#EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tennis-channel-us.png" group-title="UNITED STATES",Tennis Channel\
+https://channels-sigma.vercel.app/api/stream/VE1MDgxZjg2ZTc3ZGQxLWZhY2EtNDBhNC01OTRmLTY2ZDBlOTM5\
+#EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/the-food-network-us.png" group-title="UNITED STATES",The Food Network\
+https://channels-sigma.vercel.app/api/stream/VE1YTZiYzg4ZTFjOTg3LWUyNWItNTE1NC1mYjUyLWJhZjdlYjc1\
+#EXTINF:-1 tvg-id="Hallmark.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/the-hallmark-channel-us.png" group-title="UNITED STATES",The Hallmark Channel\
+https://channels-sigma.vercel.app/api/stream/VE1MjYxNWJjNDk0N2RkLTA1N2ItMGZjNC0wOTNhLWZjODg5NzQ0\
+#EXTINF:-1 tvg-id="The.Weather.Channel.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/the-weather-channel-us.png" group-title="UNITED STATES",The Weather Channel\
+https://channels-sigma.vercel.app/api/stream/VE1ZGU2YjI5MTlmYmJiLTA5MWEtNzM4NC0yZDc2LTM0MDU0NmE4\
+#EXTINF:-1 tvg-id="TheTravelChannel.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/travel-channel-us.png" group-title="UNITED STATES",Travel Channel\
+https://channels-sigma.vercel.app/api/stream/VE1NGJmMTJmM2Q2NTBkLTMzODktNWY1NC1iYTk5LWVkMmJkNjRh\
+#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/trutv-usa.png" group-title="UNITED STATES",TruTV USA\
+https://channels-sigma.vercel.app/api/stream/VE1NDNiNmYxOWQ0ZjgwLThjMTktNGZjNC02OGViLTBiMmE2MTdi\
+#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/usa-network.png" group-title="UNITED STATES",USA Network\
+https://channels-sigma.vercel.app/api/stream/VE1Yzc0ODAzNzVhZjYyLTlkYzgtODE3NC1mN2MwLTE0YTRmMjE3\
+#EXTINF:-1 tvg-id="UniM\'c3\'a1s..-.Network.Pacific.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/unimas-us.png" group-title="UNITED STATES",Unimas\
+https://channels-sigma.vercel.app/api/stream/VE1NzZmYzMyZDQ0MTAzLWY4YmEtOTRlNC1kNTg1LTdmMzJmNmEy\
+#EXTINF:-1 tvg-id="Univision.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/univision-us.png" group-title="UNITED STATES",Univision\
+https://channels-sigma.vercel.app/api/stream/VE1NDNlZTBjZWMxNTc0LWRhOTktMWE4NC1iMTUxLTQzMTA3ZmZk\
+#EXTINF:-1 tvg-id="V.Sport.Motor.se" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/v-sport-motor-sweden.png" group-title="SWEDEN",V Sport Motor Sweden\
+https://channels-sigma.vercel.app/api/stream/VE1NTgxNWQxMzNlNTczLTlmZDgtZGQ4NC0xMmYzLTRiNGI3MjM1\
+#EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/vh1-usa.png" group-title="UNITED STATES",VH1 USA\
+https://channels-sigma.vercel.app/api/stream/VE1MDU3ZmY3ZjdlNTVkLWM4MDgtNjY3NC1lYjAwLWRlMGZlMDQ2\
+#EXTINF:-1 tvg-id="VTV.+.HD.uy" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/vtvplus-uruguay.png" group-title="URUGUAY",VTV+ Uruguay\
+https://channels-sigma.vercel.app/api/stream/VE1MDQ2MTA1NzU1ZDNjLTRjZmEtZjI5NC1hMTM3LTM0NjI1NGFk\
+#EXTINF:-1 tvg-id="Veronica.nl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/veronica-nl.png" group-title="NETHERLANDS",Veronica NL Netherlands\
+https://channels-sigma.vercel.app/api/stream/VE1ZWUwODM2ZjUwYmM2LWQzYmItNDEyNC01MjYzLWQ5ODY2YjA0\
+#EXTINF:-1 tvg-id="Viaplay1(src01).uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/viaplay-sports-1-uk.png" group-title="UNITED KINGDOM",Viaplay Sports 1 UK\
+https://channels-sigma.vercel.app/api/stream/VE1YTkzMzFmNDRkZjgxLTQ4ZWItY2E0NC03NDI1LThjN2U0NDkw\
+#EXTINF:-1 tvg-id="Viaplay2(src01).uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/viaplay-sports-2-uk.png" group-title="UNITED KINGDOM",Viaplay Sports 2 UK\
+https://channels-sigma.vercel.app/api/stream/VE1ZTI5OTUxMzFiMzdiLTkwZjgtZTExNC05ODE1LWI3N2I2NmM2\
+#EXTINF:-1 tvg-id="ViaplayXtra.uk" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/viaplay-xtra-uk.png" group-title="UNITED KINGDOM",Viaplay Xtra UK\
+https://channels-sigma.vercel.app/api/stream/VE1YWU2ODhkNmEyYTZmLTRmYjgtZjZiNC02YzNiLWY0NTNiZDg1\
+#EXTINF:-1 tvg-id="vodasport(src01).is" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/vodafone-sport.png" group-title="ICELAND",Vodafone Sport\
+https://channels-sigma.vercel.app/api/stream/VE1OWQ3M2RlZTViYWU3LTM2Y2EtZTdmNC0wOGU3LTRmOGZhMzFh\
+#EXTINF:-1 tvg-id="WEtv.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/wetv-usa.png" group-title="UNITED STATES",WETV USA\
+https://channels-sigma.vercel.app/api/stream/VE1ZWFmZDUxNmMyYzRiLWZiOTgtZTZmNC02YjkyLTUzYWVjZjBj\
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/wwe-network.png" group-title="UNITED STATES",WWE Network\
+https://channels-sigma.vercel.app/api/stream/VE1NjIwMTIwZTE4ZWQ0LTdmNmEtZTliNC1iZjY5LTVlNmQ0ZDFm\
+#EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/willow-cricket-us.png" group-title="UNITED STATES",Willow Cricket\
+https://channels-sigma.vercel.app/api/stream/VE1MjJkN2U4ZGYzZWJkLTRhYmEtMTZkNC1lZjQzLWE5ZjlhYjQy\
+#EXTINF:-1 tvg-id="Willow.Xtra.us" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/willow-xtra-us.png" group-title="UNITED STATES",Willow XTRA\
+https://channels-sigma.vercel.app/api/stream/VE1OTc4MjRhYmZhNmVjLTE3MDktNDVlNC04MzM3LWZkZjgzYjNi\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/win-sportsplus-columbia.png" group-title="COLUMBIA",Win Sports+ Columbia\
+https://channels-sigma.vercel.app/api/stream/VE1MmEwMjJmYWIxMTgzLWNhOWEtODBhNC0yMjQwLTI0YmExNTNk\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/yas-tv-uae.png" group-title="UNITED ARAB EMIRATES",Yas TV UAE\
+https://channels-sigma.vercel.app/api/stream/VE1YmU1ZjlmOTJhM2M3LTE4NmItMTRiNC1iZGZkLTRhMjQ5NDNm\
+#EXTINF:-1 tvg-id="yes.Movies.Action.il" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/yes-movies-action-israel.png" group-title="ISRAEL",Yes Movies Action Israel\
+https://channels-sigma.vercel.app/api/stream/VE1NDQ1OTQ2MzI5MzE4LWFlMzgtYTg0NC02Y2Q1LWExMDIxYjcy\
+#EXTINF:-1 tvg-id="yes.Movies.Comedy.il" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/yes-movies-comedy-israel.png" group-title="ISRAEL",Yes Movies Comedy Israel\
+https://channels-sigma.vercel.app/api/stream/VE1MzA4ZjRiOWFlMDBlLWY2OGEtZDRiNC1iNThlLWQwZDI2OTc2\
+#EXTINF:-1 tvg-id="yes.Movies.Kids.il" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/yes-movies-kids-israel.png" group-title="ISRAEL",Yes Movies Kids Israel\
+https://channels-sigma.vercel.app/api/stream/VE1MTM0YTk4Zjc4OWY0LThkN2ItMDM3NC01NDhiLTYyZWQ2NzUw\
+#EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/ziggo-sport-4-nl.png" group-title="NETHERLANDS",Ziggo Sport 4 NL\
+https://channels-sigma.vercel.app/api/stream/VE1NTcxZTg1NzNlZDk2LWYwOGEtOGM5NC1jYjU5LWE3MTFhMDU2\
+#EXTINF:-1 tvg-id="Ziggo.Sport.5.nl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/ziggo-sport-5-nl.png" group-title="NETHERLANDS",Ziggo Sport 5 NL\
+https://channels-sigma.vercel.app/api/stream/VE1NWFlZDk0NzRlYzI1LWFjNzgtY2U1NC1jZmY5LTZjMmE4ZDJj\
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/ziggo-sport-nl.png" group-title="NETHERLANDS",Ziggo Sport NL\
+https://channels-sigma.vercel.app/api/stream/VE1NDIzMWFjZjE1YmM4LWM5MzktOTE4NC0zZmZjLTI0MGVkM2E0\
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-1-france.png" group-title="FRANCE",beIN SPORTS 1 France\
+https://channels-sigma.vercel.app/api/stream/VE1MGRkYTZhOTYzNjIyLTQwMzgtZDY2NC00Y2MzLWM4NDgwOWYz\
+#EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-1.png" group-title="TURKEY",beIN SPORTS 1 Turkey\
+https://channels-sigma.vercel.app/api/stream/VE1OWYxZDNjZTQ3MGVjLWU5YmItZmU5NC1hOWExLTkwZWJlZWZi\
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-2-france.png" group-title="FRANCE",beIN SPORTS 2 France\
+https://channels-sigma.vercel.app/api/stream/VE1M2U5MGUwZjMwZGY5LTgzZDktNmNhNC00NzFjLWQ4MmE2Zjg1\
+#EXTINF:-1 tvg-id="Beinsports.2.tr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-2.png" group-title="TURKEY",beIN SPORTS 2 Turkey\
+https://channels-sigma.vercel.app/api/stream/VE1ZTA0ZmU4MTdhMDk3LTc0ZWEtZmEyNC0xZDBlLWQwOTZlZDlh\
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-3-france.png" group-title="FRANCE",beIN SPORTS 3 France\
+https://channels-sigma.vercel.app/api/stream/VE1NWMyZTYyZmY0OGFhLTVkMzgtY2MxNC1mNWNiLTFlNTFiOTE4\
+#EXTINF:-1 tvg-id="Beinsports.3.tr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-3.png" group-title="TURKEY",beIN SPORTS 3 Turkey\
+https://channels-sigma.vercel.app/api/stream/VE1MzhiMmI4Zjk2OGUxLWIyMjktMDZiNC02NmEyLTZmNTE5MWM2\
+#EXTINF:-1 tvg-id="Beinsports.4.tr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-4.png" group-title="TURKEY",beIN SPORTS 4 Turkey\
+https://channels-sigma.vercel.app/api/stream/VE1ZWQwMDBiOTFlODZmLWVlNmItOWEwNC02MTQ4LTIyZDQ1Mjdl\
+#EXTINF:-1 tvg-id="beINSports3.au" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-3.png" group-title="AUSTRALIA",beIN SPORTS Australia 3\
+https://channels-sigma.vercel.app/api/stream/VE1ZDYyN2FkMDdlMWQxLTVkMWEtMWQ0NC1mYmY5LTU5YjljY2I4\
+#EXTINF:-1 tvg-id="beIN_SPORTS_XTRA1_Digital_Mono_EN.bein" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-xtra.png" group-title="OTHERS",beIN SPORTS XTRA 1\
+https://channels-sigma.vercel.app/api/stream/VE1ODc0MzBiZTc4ODExLTE1ODgtZThmNC0xNTU3LWJlNTdhYjAy\
+#EXTINF:-1 tvg-id="beIN_SPORTS_XTRA2_Digital_Mono_EN.bein" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-xtra.png" group-title="OTHERS",beIN SPORTS XTRA 2\
+https://channels-sigma.vercel.app/api/stream/VE1ZWFiYTk5MWE1NTk3LTYzNTktYTMwNC0xNDM0LTBjODJjZThm\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-en-espa.png" group-title="OTHERS",beIN SPORTS en Espa\'c3\'b1ol\
+https://channels-sigma.vercel.app/api/stream/VE1NmMzNzc0ZTA1MzIzLWVmMWItYjAyNC02ODg0LTAyOWNlM2Iw\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-en-espa.png" group-title="OTHERS",beIN SPORTS en Espa\'e5\uc0\u141 \u152 ol\
+https://channels-sigma.vercel.app/api/stream/VE1NmMzNzc0ZTA1MzIzLWVmMWItYjAyNC02ODg0LTAyOWNlM2Iw\
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.10.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-max-10-france.png" group-title="FRANCE",beIN Sports MAX 10 France\
+https://channels-sigma.vercel.app/api/stream/VE1YWE4YzkzNzY2NTUxLTZkZWEtYTRmNC03NjViLTNjMmMxNDAz\
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-max-4-france.png" group-title="FRANCE",beIN Sports MAX 4 France\
+https://channels-sigma.vercel.app/api/stream/VE1Mjc2NmIwYmJiNjhiLWI3ODgtY2ZmNC1kMjc3LTc2ZGRkNjk3\
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-max-5-france.png" group-title="FRANCE",beIN Sports MAX 5 France\
+https://channels-sigma.vercel.app/api/stream/VE1MzU1OGY1OWY3YzM1LTAxNTgtNmI2NC1mZDRkLTMyN2Q2Nzg2\
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports MAX 6 France\
+https://channels-sigma.vercel.app/api/stream/VE1NzIyNjgxMzRlYTNkLWQyYWEtZGNmNC1kNjlmLWNjMDgxYTg1\
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-max-7-france.png" group-title="FRANCE",beIN Sports MAX 7 France\
+https://channels-sigma.vercel.app/api/stream/VE1ZjJmNTVjNjM5ZTMyLWJiMGEtYjE2NC1mZDRlLThlZTk3NjY4\
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-max-8-france.png" group-title="FRANCE",beIN Sports MAX 8 France\
+https://channels-sigma.vercel.app/api/stream/VE1NDBkZjRiZDc4OTQzLTY0YmEtYjA2NC1kZDcyLWJiN2UwYzI3\
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.9.fr" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-max-9-france.png" group-title="FRANCE",beIN Sports MAX 9 France\
+https://channels-sigma.vercel.app/api/stream/VE1NjdiZDJlMDc5NzliLThkMTktMjNlNC01ZjRhLTFlODk2ODNl\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-1.png" group-title="OTHERS",beIN Sports MENA 1\
+https://channels-sigma.vercel.app/api/stream/VE1MDg2ZTFjMWEwOTU3LTBhNzktZTk0NC1lZmRjLWQ5NzZhNjY4\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-2.png" group-title="OTHERS",beIN Sports MENA 2\
+https://channels-sigma.vercel.app/api/stream/VE1NTY0MGJmNGIzMmIzLTdhODktY2Y1NC05Yjg3LWJlMThjZWM1\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-3.png" group-title="OTHERS",beIN Sports MENA 3\
+https://channels-sigma.vercel.app/api/stream/VE1MjUzYjdlOGU0NGVhLTc3MDgtZDEzNC02ODg5LTgxNDMzMTY2\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-4.png" group-title="OTHERS",beIN Sports MENA 4\
+https://channels-sigma.vercel.app/api/stream/VE1MjI4OWY0MWU3MmJmLTk1NjktYzJjNC1mYjY4LTI0ZDYxYTZm\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-5.png" group-title="OTHERS",beIN Sports MENA 5\
+https://channels-sigma.vercel.app/api/stream/VE1NDA3MzcyNGYzMzJlLWYxYWItZDQ3NC05OTEzLTcyNDkyMTNm\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-6.png" group-title="OTHERS",beIN Sports MENA 6\
+https://channels-sigma.vercel.app/api/stream/VE1YTExYmI2OGZkMTY4LTU4YWEtZGRiNC0wYTQ5LTY5NzRmYmI1\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-7.png" group-title="OTHERS",beIN Sports MENA 7\
+https://channels-sigma.vercel.app/api/stream/VE1NTRjYzVjMzQzN2JiLWIyMDktM2Y2NC0wNDk3LTY2YTc4ZGJl\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-8.png" group-title="OTHERS",beIN Sports MENA 8\
+https://channels-sigma.vercel.app/api/stream/VE1Mzk3NWYxYzQ4OWFhLWJmZTgtZGMwNC01N2ZjLWQzODIzNjNl\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-9.png" group-title="OTHERS",beIN Sports MENA 9\
+https://channels-sigma.vercel.app/api/stream/VE1Y2EyNzZkNGI0MTg5LTIxOTgtMmMwNC00ZDg1LWQxY2EzN2U5\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-mena-english-1.png" group-title="OTHERS",beIN Sports MENA English 1\
+https://channels-sigma.vercel.app/api/stream/VE1NTlmNGEyNGFlMjg2LWVhMGItMjUyNC03NzM4LWFiNWM2YjEz\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-mena-english-2.png" group-title="OTHERS",beIN Sports MENA English 2\
+https://channels-sigma.vercel.app/api/stream/VE1OTg2OTAxYzYzZWYxLTk4ODktMGY3NC01YmUzLTIwYTJkM2Fk\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-mena-english-3.png" group-title="OTHERS",beIN Sports MENA English 3\
+https://channels-sigma.vercel.app/api/stream/VE1ODFjMTRkZGEyOGVhLWMzYTgtNGM2NC1mMjM2LWZkODg3Njgy\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-mena-premium-1.png" group-title="OTHERS",beIN Sports MENA Premium 1\
+https://channels-sigma.vercel.app/api/stream/VE1Mzk3NWYxYzQ4OWFhLWJmZTgtZGMwNC01N2ZjLWQzODIzNjNl\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-mena-premium-2.png" group-title="OTHERS",beIN Sports MENA Premium 2\
+https://channels-sigma.vercel.app/api/stream/VE1Y2EyNzZkNGI0MTg5LTIxOTgtMmMwNC00ZDg1LWQxY2EzN2U5\
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-mena-premium-3.png" group-title="OTHERS",beIN Sports MENA Premium 3\
+https://channels-sigma.vercel.app/api/stream/VE1ODc0MzBiZTc4ODExLTE1ODgtZThmNC0xNTU3LWJlNTdhYjAy\
+#EXTINF:-1 tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/vamos.png" group-title="SPAIN",#Vamos Spain\
+https://channels-sigma.vercel.app/api/stream/VE1ZDUyZGJhNWViMDE1LTZmZDktNGQyNC04ODYyLWQ2OWIyZTU3\
+</pre></body></html>Ztext/plain\uc0\u148 \u149 \
+}
