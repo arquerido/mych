@@ -1,0 +1,1955 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Magenta Sport" group-title="GERMANY",Magenta Sport
+https://taito-gamma.vercel.app/stream/6.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="UNITED KINGDOM",TNT.Sports.1.HD.uk
+https://taito-gamma.vercel.app/stream/31.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="UNITED KINGDOM",TNT.Sports.2.HD.uk
+https://taito-gamma.vercel.app/stream/32.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="UNITED KINGDOM",TNT.Sports.3.HD.uk
+https://taito-gamma.vercel.app/stream/33.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="UNITED KINGDOM",TNT.Sports.4.HD.uk
+https://taito-gamma.vercel.app/stream/34.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.Fball.uk" group-title="UNITED KINGDOM",SkySp.Fball.uk
+https://taito-gamma.vercel.app/stream/35.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsArena.uk" group-title="UNITED KINGDOM",SkySportsArena.uk
+https://taito-gamma.vercel.app/stream/36.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.Action.uk" group-title="UNITED KINGDOM",SkySp.Action.uk
+https://taito-gamma.vercel.app/stream/37.m3u8
+
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" group-title="UNITED KINGDOM",SkySpMainEv.uk
+https://taito-gamma.vercel.app/stream/38.m3u8
+
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" group-title="UNITED STATES",Fox.Sports.1.us
+https://taito-gamma.vercel.app/stream/39.m3u8
+
+#EXTINF:-1 tvg-id="The.Tennis.Channel.us" group-title="UNITED STATES",The.Tennis.Channel.us
+https://taito-gamma.vercel.app/stream/40.m3u8
+
+#EXTINF:-1 tvg-id="beIN_SPORTS_XTRA2_Digital_Mono_EN.bein" group-title="OTHERS",beIN_SPORTS_XTRA2_Digital_Mono_EN.bein
+https://taito-gamma.vercel.app/stream/43.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.us" group-title="UNITED STATES",ESPN.us
+https://taito-gamma.vercel.app/stream/44.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.us" group-title="UNITED STATES",ESPN2.us
+https://taito-gamma.vercel.app/stream/45.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="OTHERS",test
+https://taito-gamma.vercel.app/stream/46.m3u8
+
+#EXTINF:-1 tvg-id="Polsat.Sport.pl" group-title="POLAND",Polsat.Sport.pl
+https://taito-gamma.vercel.app/stream/47.m3u8
+
+#EXTINF:-1 tvg-id="CANAL+.Sport.pl" group-title="POLAND",CANAL+.Sport.pl
+https://taito-gamma.vercel.app/stream/48.m3u8
+
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" group-title="PORTUGAL",SPORT.TV1.HD.pt
+https://taito-gamma.vercel.app/stream/49.m3u8
+
+#EXTINF:-1 tvg-id="Polsat.Sport.Extra.pl" group-title="POLAND",Polsat.Sport.Extra.pl
+https://taito-gamma.vercel.app/stream/50.m3u8
+
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" group-title="UNITED STATES",ABC.(WABC).New.York,.NY.us
+https://taito-gamma.vercel.app/stream/51.m3u8
+
+#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" group-title="UNITED STATES",CBS.(KCBS).Los.Angeles,.CA.us
+https://taito-gamma.vercel.app/stream/52.m3u8
+
+#EXTINF:-1 tvg-id="NBC.Sports.us" group-title="UNITED STATES",NBC.Sports.us
+https://taito-gamma.vercel.app/stream/53.m3u8
+
+#EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" group-title="UNITED STATES",FOX.(KTTV).Los.Angeles,.CA.us
+https://taito-gamma.vercel.app/stream/54.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.1.pl" group-title="POLAND",Eurosport.1.pl
+https://taito-gamma.vercel.app/stream/57.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.2.pl" group-title="POLAND",Eurosport.2.pl
+https://taito-gamma.vercel.app/stream/58.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" group-title="UNITED KINGDOM",SkySp.F1.uk
+https://taito-gamma.vercel.app/stream/60.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="OTHERS",test
+https://taito-gamma.vercel.app/stream/61.m3u8
+
+#EXTINF:-1 tvg-id="Beinsports.tr" group-title="TURKEY",Beinsports.tr
+https://taito-gamma.vercel.app/stream/62.m3u8
+
+#EXTINF:-1 tvg-id="Beinsports.2.tr" group-title="TURKEY",Beinsports.2.tr
+https://taito-gamma.vercel.app/stream/63.m3u8
+
+#EXTINF:-1 tvg-id="Beinsports.3.tr" group-title="TURKEY",Beinsports.3.tr
+https://taito-gamma.vercel.app/stream/64.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.Cricket.uk" group-title="UNITED KINGDOM",SkySp.Cricket.uk
+https://taito-gamma.vercel.app/stream/65.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.us" group-title="UNITED STATES",TUDN.us
+https://taito-gamma.vercel.app/stream/66.m3u8
+
+#EXTINF:-1 tvg-id="Beinsports.4.tr" group-title="TURKEY",Beinsports.4.tr
+https://taito-gamma.vercel.app/stream/67.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.Golf.uk" group-title="UNITED KINGDOM",SkySp.Golf.uk
+https://taito-gamma.vercel.app/stream/70.m3u8
+
+#EXTINF:-1 tvg-id="Eleven.Sports.1.pl" group-title="POLAND",Eleven.Sports.1.pl
+https://taito-gamma.vercel.app/stream/71.m3u8
+
+#EXTINF:-1 tvg-id="Eleven.Sports.2.pl" group-title="POLAND",Eleven.Sports.2.pl
+https://taito-gamma.vercel.app/stream/72.m3u8
+
+#EXTINF:-1 tvg-id="CANAL+.Sport.2.pl" group-title="POLAND",CANAL+.Sport.2.pl
+https://taito-gamma.vercel.app/stream/73.m3u8
+
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="PORTUGAL",SPORT.TV2.HD.pt
+https://taito-gamma.vercel.app/stream/74.m3u8
+
+#EXTINF:-1 tvg-id="CANAL+.Sport.5.pl" group-title="POLAND",CANAL+.Sport.5.pl
+https://taito-gamma.vercel.app/stream/75.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV.br" group-title="BRAZIL",SPORTV.br
+https://taito-gamma.vercel.app/stream/78.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV.2.br" group-title="BRAZIL",SPORTV.2.br
+https://taito-gamma.vercel.app/stream/79.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV.3.br" group-title="BRAZIL",SPORTV.3.br
+https://taito-gamma.vercel.app/stream/80.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.br" group-title="BRAZIL",ESPN.br
+https://taito-gamma.vercel.app/stream/81.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.2.br" group-title="BRAZIL",ESPN.2.br
+https://taito-gamma.vercel.app/stream/82.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.3.br" group-title="BRAZIL",ESPN.3.br
+https://taito-gamma.vercel.app/stream/83.m3u8
+
+#EXTINF:-1 tvg-id="MovistarLaLiga(Spanish).es" group-title="SPAIN",MovistarLaLiga(Spanish).es
+https://taito-gamma.vercel.app/stream/84.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.4.br" group-title="BRAZIL",ESPN.4.br
+https://taito-gamma.vercel.app/stream/85.m3u8
+
+#EXTINF:-1 tvg-id="TNT(Portuguese).br" group-title="BRAZIL",TNT(Portuguese).br
+https://taito-gamma.vercel.app/stream/87.m3u8
+
+#EXTINF:-1 tvg-id="Premiere..br" group-title="BRAZIL",Premiere..br
+https://taito-gamma.vercel.app/stream/88.m3u8
+
+#EXTINF:-1 tvg-id="Combate..br" group-title="BRAZIL",Combate..br
+https://taito-gamma.vercel.app/stream/89.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="OTHERS",test
+https://taito-gamma.vercel.app/stream/90.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="OTHERS",test
+https://taito-gamma.vercel.app/stream/91.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="OTHERS",test
+https://taito-gamma.vercel.app/stream/92.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="OTHERS",test
+https://taito-gamma.vercel.app/stream/93.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="OTHERS",test
+https://taito-gamma.vercel.app/stream/94.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="OTHERS",test
+https://taito-gamma.vercel.app/stream/95.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="OTHERS",test
+https://taito-gamma.vercel.app/stream/96.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="OTHERS",test
+https://taito-gamma.vercel.app/stream/97.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="OTHERS",test
+https://taito-gamma.vercel.app/stream/98.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="OTHERS",test
+https://taito-gamma.vercel.app/stream/99.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="OTHERS",test
+https://taito-gamma.vercel.app/stream/100.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SERBIA",test
+https://taito-gamma.vercel.app/stream/101.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SERBIA",test
+https://taito-gamma.vercel.app/stream/102.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SERBIA",test
+https://taito-gamma.vercel.app/stream/103.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SERBIA",test
+https://taito-gamma.vercel.app/stream/104.m3u8
+
+#EXTINF:-1 tvg-id="TSN1.ca" group-title="CANADA",TSN1.ca
+https://taito-gamma.vercel.app/stream/111.m3u8
+
+#EXTINF:-1 tvg-id="TSN2.ca" group-title="CANADA",TSN2.ca
+https://taito-gamma.vercel.app/stream/112.m3u8
+
+#EXTINF:-1 tvg-id="TSN3.ca" group-title="CANADA",TSN3.ca
+https://taito-gamma.vercel.app/stream/113.m3u8
+
+#EXTINF:-1 tvg-id="TSN4.ca" group-title="CANADA",TSN4.ca
+https://taito-gamma.vercel.app/stream/114.m3u8
+
+#EXTINF:-1 tvg-id="TSN5.ca" group-title="CANADA",TSN5.ca
+https://taito-gamma.vercel.app/stream/115.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" group-title="FRANCE",beIN.SPORTS.1.fr
+https://taito-gamma.vercel.app/stream/116.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" group-title="FRANCE",beIN.SPORTS.2.fr
+https://taito-gamma.vercel.app/stream/117.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.fr" group-title="FRANCE",beIN.SPORTS.3.fr
+https://taito-gamma.vercel.app/stream/118.m3u8
+
+#EXTINF:-1 tvg-id="RMC.Sport.1.fr" group-title="FRANCE",RMC.Sport.1.fr
+https://taito-gamma.vercel.app/stream/119.m3u8
+
+#EXTINF:-1 tvg-id="RMC.Sport.2.fr" group-title="FRANCE",RMC.Sport.2.fr
+https://taito-gamma.vercel.app/stream/120.m3u8
+
+#EXTINF:-1 tvg-id="CANAL+.fr" group-title="FRANCE",CANAL+.fr
+https://taito-gamma.vercel.app/stream/121.m3u8
+
+#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" group-title="FRANCE",CANAL+.SPORT.fr
+https://taito-gamma.vercel.app/stream/122.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="MALAYSIA",test
+https://taito-gamma.vercel.app/stream/123.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="MALAYSIA",test
+https://taito-gamma.vercel.app/stream/124.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="MALAYSIA",test
+https://taito-gamma.vercel.app/stream/125.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="MALAYSIA",test
+https://taito-gamma.vercel.app/stream/126.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="RUSSIA",test
+https://taito-gamma.vercel.app/stream/127.m3u8
+
+#EXTINF:-1 tvg-id="TVP.Sport.pl" group-title="POLAND",TVP.Sport.pl
+https://taito-gamma.vercel.app/stream/128.m3u8
+
+#EXTINF:-1 tvg-id="Polsat.Sport.News.HD.pl" group-title="POLAND",Polsat.Sport.News.HD.pl
+https://taito-gamma.vercel.app/stream/129.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" group-title="UNITED KINGDOM",SkySportsPremierLeague.uk
+https://taito-gamma.vercel.app/stream/130.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo..-.Eastern.Feed.us" group-title="UNITED STATES",Telemundo..-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/131.m3u8
+
+#EXTINF:-1 tvg-id="Univision.-.Eastern.Feed.us" group-title="UNITED STATES",Univision.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/132.m3u8
+
+#EXTINF:-1 tvg-id="UniMás..-.Network.Pacific.us" group-title="UNITED STATES",UniMás..-.Network.Pacific.us
+https://taito-gamma.vercel.app/stream/133.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SERBIA",test
+https://taito-gamma.vercel.app/stream/134.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SERBIA",test
+https://taito-gamma.vercel.app/stream/135.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="RUSSIA",test
+https://taito-gamma.vercel.app/stream/136.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="RUSSIA",test
+https://taito-gamma.vercel.app/stream/137.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="RUSSIA",test
+https://taito-gamma.vercel.app/stream/138.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SERBIA",test
+https://taito-gamma.vercel.app/stream/139.m3u8
+
+#EXTINF:-1 tvg-id="Sport.1.HD.il" group-title="ISRAEL",Sport.1.HD.il
+https://taito-gamma.vercel.app/stream/140.m3u8
+
+#EXTINF:-1 tvg-id="Sport.2.HD.il" group-title="ISRAEL",Sport.2.HD.il
+https://taito-gamma.vercel.app/stream/141.m3u8
+
+#EXTINF:-1 tvg-id="Sport.3.HD.il" group-title="ISRAEL",Sport.3.HD.il
+https://taito-gamma.vercel.app/stream/142.m3u8
+
+#EXTINF:-1 tvg-id="Sport.4.HD.il" group-title="ISRAEL",Sport.4.HD.il
+https://taito-gamma.vercel.app/stream/143.m3u8
+
+#EXTINF:-1 tvg-id="Sport.5.HD.(55).il" group-title="ISRAEL",Sport.5.HD.(55).il
+https://taito-gamma.vercel.app/stream/144.m3u8
+
+#EXTINF:-1 tvg-id="Sport.5+.HD.(56).il" group-title="ISRAEL",Sport.5+.HD.(56).il
+https://taito-gamma.vercel.app/stream/145.m3u8
+
+#EXTINF:-1 tvg-id="Sport.5.Live.HD.(58).il" group-title="ISRAEL",Sport.5.Live.HD.(58).il
+https://taito-gamma.vercel.app/stream/146.m3u8
+
+#EXTINF:-1 tvg-id="Sport.5.Stars.HD.(59).il" group-title="ISRAEL",Sport.5.Stars.HD.(59).il
+https://taito-gamma.vercel.app/stream/147.m3u8
+
+#EXTINF:-1 tvg-id="Sport.5.Gold.(57).il" group-title="ISRAEL",Sport.5.Gold.(57).il
+https://taito-gamma.vercel.app/stream/148.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="ARGENTINA",test
+https://taito-gamma.vercel.app/stream/149.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="ARGENTINA",test
+https://taito-gamma.vercel.app/stream/150.m3u8
+
+#EXTINF:-1 tvg-id="TV3Max(src01).dk" group-title="DENMARK",TV3Max(src01).dk
+https://taito-gamma.vercel.app/stream/223.m3u8
+
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.HINDI.in" group-title="INDIA",STAR.SPORTS.1.HINDI.in
+https://taito-gamma.vercel.app/stream/268.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="PAKISTAN",test
+https://taito-gamma.vercel.app/stream/269.m3u8
+
+#EXTINF:-1 tvg-id="V.Sport.Motor.se" group-title="SWEDEN",V.Sport.Motor.se
+https://taito-gamma.vercel.app/stream/272.m3u8
+
+#EXTINF:-1 tvg-id="CANAL+.FORMULA1.fr" group-title="FRANCE",CANAL+.FORMULA1.fr
+https://taito-gamma.vercel.app/stream/273.m3u8
+
+#EXTINF:-1 tvg-id="SKY.Sport.F1.de" group-title="GERMANY",SKY.Sport.F1.de
+https://taito-gamma.vercel.app/stream/274.m3u8
+
+#EXTINF:-1 tvg-id="Bandsports.HD.br" group-title="BRAZIL",Bandsports.HD.br
+https://taito-gamma.vercel.app/stream/275.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED KINGDOM",test
+https://taito-gamma.vercel.app/stream/276.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED STATES",test
+https://taito-gamma.vercel.app/stream/277.m3u8
+
+#EXTINF:-1 tvg-id="Law.and.Crime.us" group-title="UNITED STATES",Law.and.Crime.us
+https://taito-gamma.vercel.app/stream/278.m3u8
+
+#EXTINF:-1 tvg-id="FUSE.TV.-.Eastern.feed.us" group-title="UNITED STATES",FUSE.TV.-.Eastern.feed.us
+https://taito-gamma.vercel.app/stream/279.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED STATES",test
+https://taito-gamma.vercel.app/stream/280.m3u8
+
+#EXTINF:-1 tvg-id="Court.TV.US.us" group-title="UNITED STATES",Court.TV.US.us
+https://taito-gamma.vercel.app/stream/281.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED ARAB EMIRATES",test
+https://taito-gamma.vercel.app/stream/282.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED ARAB EMIRATES",test
+https://taito-gamma.vercel.app/stream/283.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED ARAB EMIRATES",test
+https://taito-gamma.vercel.app/stream/284.m3u8
+
+#EXTINF:-1 tvg-id="CTV.Speed.ca" group-title="CANADA",CTV.Speed.ca
+https://taito-gamma.vercel.app/stream/285.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED STATES",test
+https://taito-gamma.vercel.app/stream/287.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.News.us" group-title="UNITED STATES",ESPN.News.us
+https://taito-gamma.vercel.app/stream/288.m3u8
+
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="PORTUGAL",SPORT.TV4.HD.pt
+https://taito-gamma.vercel.app/stream/289.m3u8
+
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="PORTUGAL",SPORT.TV5.HD.pt
+https://taito-gamma.vercel.app/stream/290.m3u8
+
+#EXTINF:-1 tvg-id="SPORT.TV6.HD.pt" group-title="PORTUGAL",SPORT.TV6.HD.pt
+https://taito-gamma.vercel.app/stream/291.m3u8
+
+#EXTINF:-1 tvg-id="NewsNation.-.Eastern.Feed.us" group-title="UNITED STATES",NewsNation.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/292.m3u8
+
+#EXTINF:-1 tvg-id="ReelzChannel.us" group-title="UNITED STATES",ReelzChannel.us
+https://taito-gamma.vercel.app/stream/293.m3u8
+
+#EXTINF:-1 tvg-id="Science.us" group-title="UNITED STATES",Science.us
+https://taito-gamma.vercel.app/stream/294.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us" group-title="UNITED STATES",AdultSwim.com.Cartoon.Network.us
+https://taito-gamma.vercel.app/stream/295.m3u8
+
+#EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" group-title="UNITED STATES",Hallmark.Mystery.Eastern.-.HD.us
+https://taito-gamma.vercel.app/stream/296.m3u8
+
+#EXTINF:-1 tvg-id="Fox.Business.us" group-title="UNITED STATES",Fox.Business.us
+https://taito-gamma.vercel.app/stream/297.m3u8
+
+#EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" group-title="UNITED STATES",FXX.USA.-.Eastern.us
+https://taito-gamma.vercel.app/stream/298.m3u8
+
+#EXTINF:-1 tvg-id="Magnolia.-.East.us" group-title="UNITED STATES",Magnolia.-.East.us
+https://taito-gamma.vercel.app/stream/299.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED STATES",test
+https://taito-gamma.vercel.app/stream/300.m3u8
+
+#EXTINF:-1 tvg-id="Freeform.-.East.Feed.us" group-title="UNITED STATES",Freeform.-.East.Feed.us
+https://taito-gamma.vercel.app/stream/301.m3u8
+
+#EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" group-title="UNITED STATES",A.and.E.US.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/302.m3u8
+
+#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" group-title="UNITED STATES",AMC.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/303.m3u8
+
+#EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" group-title="UNITED STATES",Animal.Planet.US.-.East.us
+https://taito-gamma.vercel.app/stream/304.m3u8
+
+#EXTINF:-1 tvg-id="BBC.America.-.East.us" group-title="UNITED STATES",BBC.America.-.East.us
+https://taito-gamma.vercel.app/stream/305.m3u8
+
+#EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" group-title="UNITED STATES",Bravo.USA.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/307.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" group-title="UNITED STATES",CBS.Sports.Network.USA.us
+https://taito-gamma.vercel.app/stream/308.m3u8
+
+#EXTINF:-1 tvg-id="CNBC.USA.us" group-title="UNITED STATES",CNBC.USA.us
+https://taito-gamma.vercel.app/stream/309.m3u8
+
+#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" group-title="UNITED STATES",Comedy.Central.(US).-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/310.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us" group-title="UNITED STATES",Discovery.Life.Channel.us
+https://taito-gamma.vercel.app/stream/311.m3u8
+
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" group-title="UNITED STATES",Disney.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/312.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" group-title="UNITED STATES",Discovery.Channel.(US).-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/313.m3u8
+
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" group-title="UNITED STATES",Disney.XD.USA.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/314.m3u8
+
+#EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" group-title="UNITED STATES",E!.Entertainment.USA.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/315.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.U.us" group-title="UNITED STATES",ESPN.U.us
+https://taito-gamma.vercel.app/stream/316.m3u8
+
+#EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" group-title="UNITED STATES",FX.Networks.East.Coast.us
+https://taito-gamma.vercel.app/stream/317.m3u8
+
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" group-title="UNITED STATES",Golf.Channel.USA.us
+https://taito-gamma.vercel.app/stream/318.m3u8
+
+#EXTINF:-1 tvg-id="Game.Show.Network.-.East.us" group-title="UNITED STATES",Game.Show.Network.-.East.us
+https://taito-gamma.vercel.app/stream/319.m3u8
+
+#EXTINF:-1 tvg-id="Hallmark.-.Eastern.Feed.us" group-title="UNITED STATES",Hallmark.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/320.m3u8
+
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" group-title="UNITED STATES",HBO.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/321.m3u8
+
+#EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" group-title="UNITED STATES",History.Channel.US.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/322.m3u8
+
+#EXTINF:-1 tvg-id="HLN.us" group-title="UNITED STATES",HLN.us
+https://taito-gamma.vercel.app/stream/323.m3u8
+
+#EXTINF:-1 tvg-id="Investigation.Discovery.USA.-.Eastern.us" group-title="UNITED STATES",Investigation.Discovery.USA.-.Eastern.us
+https://taito-gamma.vercel.app/stream/324.m3u8
+
+#EXTINF:-1 tvg-id="ION..-.Eastern.Feed.us" group-title="UNITED STATES",ION..-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/325.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" group-title="UNITED STATES",Lifetime.Network.US.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/326.m3u8
+
+#EXTINF:-1 tvg-id="MSNBC.USA.us" group-title="UNITED STATES",MSNBC.USA.us
+https://taito-gamma.vercel.app/stream/327.m3u8
+
+#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" group-title="UNITED STATES",National.Geographic.US.-.Eastern.us
+https://taito-gamma.vercel.app/stream/328.m3u8
+
+#EXTINF:-1 tvg-id="Nick.Jr..-.East.us" group-title="UNITED STATES",Nick.Jr..-.East.us
+https://taito-gamma.vercel.app/stream/329.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" group-title="UNITED STATES",Nickelodeon.USA.-.East.Feed.us
+https://taito-gamma.vercel.app/stream/330.m3u8
+
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.USA.Eastern.us" group-title="UNITED STATES",Oprah.Winfrey.Network.USA.Eastern.us
+https://taito-gamma.vercel.app/stream/331.m3u8
+
+#EXTINF:-1 tvg-id="Oxygen.-.Eastern.Feed.us" group-title="UNITED STATES",Oxygen.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/332.m3u8
+
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" group-title="UNITED STATES",Paramount+.with.Showtime.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/333.m3u8
+
+#EXTINF:-1 tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" group-title="UNITED STATES",Paramount.Network.USA.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/334.m3u8
+
+#EXTINF:-1 tvg-id="Starz.-.Eastern.us" group-title="UNITED STATES",Starz.-.Eastern.us
+https://taito-gamma.vercel.app/stream/335.m3u8
+
+#EXTINF:-1 tvg-id="TBS.-.East.us" group-title="UNITED STATES",TBS.-.East.us
+https://taito-gamma.vercel.app/stream/336.m3u8
+
+#EXTINF:-1 tvg-id="TLC.USA.-.Eastern.us" group-title="UNITED STATES",TLC.USA.-.Eastern.us
+https://taito-gamma.vercel.app/stream/337.m3u8
+
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" group-title="UNITED STATES",TNT.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/338.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" group-title="UNITED STATES",Cartoon.Network.USA.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/339.m3u8
+
+#EXTINF:-1 tvg-id="TheTravelChannel.us" group-title="UNITED STATES",TheTravelChannel.us
+https://taito-gamma.vercel.app/stream/340.m3u8
+
+#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" group-title="UNITED STATES",truTV.USA.-.Eastern.us
+https://taito-gamma.vercel.app/stream/341.m3u8
+
+#EXTINF:-1 tvg-id="TV.Land.-.Eastern.us" group-title="UNITED STATES",TV.Land.-.Eastern.us
+https://taito-gamma.vercel.app/stream/342.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" group-title="UNITED STATES",USA.Network.-.East.Feed.us
+https://taito-gamma.vercel.app/stream/343.m3u8
+
+#EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" group-title="UNITED STATES",VH1.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/344.m3u8
+
+#EXTINF:-1 tvg-id="CNN.us" group-title="UNITED STATES",CNN.us
+https://taito-gamma.vercel.app/stream/345.m3u8
+
+#EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us" group-title="UNITED STATES",Willow.Cricket.HDTV.(WILLOWHD).us
+https://taito-gamma.vercel.app/stream/346.m3u8
+
+#EXTINF:-1 tvg-id="Fox.News.us" group-title="UNITED STATES",Fox.News.us
+https://taito-gamma.vercel.app/stream/347.m3u8
+
+#EXTINF:-1 tvg-id="Dave(src01).uk" group-title="UNITED KINGDOM",Dave(src01).uk
+https://taito-gamma.vercel.app/stream/348.m3u8
+
+#EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" group-title="UNITED STATES",BBC.World.News.North.America.(BBCWN).us
+https://taito-gamma.vercel.app/stream/349.m3u8
+
+#EXTINF:-1 tvg-id="ITV1.HD.uk" group-title="UNITED KINGDOM",ITV1.HD.uk
+https://taito-gamma.vercel.app/stream/350.m3u8
+
+#EXTINF:-1 tvg-id="ITV2.HD.uk" group-title="UNITED KINGDOM",ITV2.HD.uk
+https://taito-gamma.vercel.app/stream/351.m3u8
+
+#EXTINF:-1 tvg-id="ITV3.HD.uk" group-title="UNITED KINGDOM",ITV3.HD.uk
+https://taito-gamma.vercel.app/stream/352.m3u8
+
+#EXTINF:-1 tvg-id="ITV4.HD.uk" group-title="UNITED KINGDOM",ITV4.HD.uk
+https://taito-gamma.vercel.app/stream/353.m3u8
+
+#EXTINF:-1 tvg-id="Channel4.uk" group-title="UNITED KINGDOM",Channel4.uk
+https://taito-gamma.vercel.app/stream/354.m3u8
+
+#EXTINF:-1 tvg-id="Channel.5.uk" group-title="UNITED KINGDOM",Channel.5.uk
+https://taito-gamma.vercel.app/stream/355.m3u8
+
+#EXTINF:-1 tvg-id="BBCOne.uk" group-title="UNITED KINGDOM",BBCOne.uk
+https://taito-gamma.vercel.app/stream/356.m3u8
+
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" group-title="UNITED KINGDOM",BBC.Two.HD.uk
+https://taito-gamma.vercel.app/stream/357.m3u8
+
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" group-title="UNITED KINGDOM",BBC.Three.HD.uk
+https://taito-gamma.vercel.app/stream/358.m3u8
+
+#EXTINF:-1 tvg-id="5.USA.uk" group-title="UNITED KINGDOM",5.USA.uk
+https://taito-gamma.vercel.app/stream/360.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk" group-title="UNITED KINGDOM",Sky.Witness.HD.uk
+https://taito-gamma.vercel.app/stream/361.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" group-title="UNITED KINGDOM",Sky.Atlantic.HD.uk
+https://taito-gamma.vercel.app/stream/362.m3u8
+
+#EXTINF:-1 tvg-id="E4.HD.uk" group-title="UNITED KINGDOM",E4.HD.uk
+https://taito-gamma.vercel.app/stream/363.m3u8
+
+#EXTINF:-1 tvg-id="RTE1Network.uk" group-title="UNITED KINGDOM",RTE1Network.uk
+https://taito-gamma.vercel.app/stream/364.m3u8
+
+#EXTINF:-1 tvg-id="RTE2.uk" group-title="UNITED KINGDOM",RTE2.uk
+https://taito-gamma.vercel.app/stream/365.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" group-title="UNITED KINGDOM",SkySp.News.HD.uk
+https://taito-gamma.vercel.app/stream/366.m3u8
+
+#EXTINF:-1 tvg-id="MTV.HD.uk" group-title="UNITED KINGDOM",MTV.HD.uk
+https://taito-gamma.vercel.app/stream/367.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SOUTH AFRICA",test
+https://taito-gamma.vercel.app/stream/368.m3u8
+
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="AUSTRALIA",FoxCricket.au
+https://taito-gamma.vercel.app/stream/369.m3u8
+
+#EXTINF:-1 tvg-id="Astro.Cricket.my" group-title="MALAYSIA",Astro.Cricket.my
+https://taito-gamma.vercel.app/stream/370.m3u8
+
+#EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" group-title="UNITED STATES",MTV.USA.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/371.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="OTHERS",test
+https://taito-gamma.vercel.app/stream/372.m3u8
+
+#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" group-title="UNITED STATES",Syfy.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/373.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" group-title="UNITED STATES",Cinemax.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/374.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.Deportes.us" group-title="UNITED STATES",ESPN.Deportes.us
+https://taito-gamma.vercel.app/stream/375.m3u8
+
+#EXTINF:-1 tvg-id="WWE.Network.us" group-title="UNITED STATES",WWE.Network.us
+https://taito-gamma.vercel.app/stream/376.m3u8
+
+#EXTINF:-1 tvg-id="MUTV.HD.uk" group-title="UNITED KINGDOM",MUTV.HD.uk
+https://taito-gamma.vercel.app/stream/377.m3u8
+
+#EXTINF:-1 tvg-id="Veronica.nl" group-title="NETHERLANDS",Veronica.nl
+https://taito-gamma.vercel.app/stream/378.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.1.nl" group-title="NETHERLANDS",ESPN.1.nl
+https://taito-gamma.vercel.app/stream/379.m3u8
+
+#EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" group-title="PORTUGAL",BenficaTVMulticamaras(src01).pt
+https://taito-gamma.vercel.app/stream/380.m3u8
+
+#EXTINF:-1 tvg-id="FX.Movie.Channel.us" group-title="UNITED STATES",FX.Movie.Channel.us
+https://taito-gamma.vercel.app/stream/381.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" group-title="UNITED STATES",HGTV.USA.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/382.m3u8
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.5.nl" group-title="NETHERLANDS",Ziggo.Sport.5.nl
+https://taito-gamma.vercel.app/stream/383.m3u8
+
+#EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us" group-title="UNITED STATES",Food.Network.USA.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/384.m3u8
+
+#EXTINF:-1 tvg-id="SEC.Network.us" group-title="UNITED STATES",SEC.Network.us
+https://taito-gamma.vercel.app/stream/385.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.2.nl" group-title="NETHERLANDS",ESPN.2.nl
+https://taito-gamma.vercel.app/stream/386.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="ARGENTINA",test
+https://taito-gamma.vercel.app/stream/387.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="ARGENTINA",test
+https://taito-gamma.vercel.app/stream/388.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.Movies.-.East.us" group-title="UNITED STATES",Lifetime.Movies.-.East.us
+https://taito-gamma.vercel.app/stream/389.m3u8
+
+#EXTINF:-1 tvg-id="RTL.7.nl" group-title="NETHERLANDS",RTL.7.nl
+https://taito-gamma.vercel.app/stream/390.m3u8
+
+#EXTINF:-1 tvg-id="VTV.+.HD.uy" group-title="URUGUAY",VTV.+.HD.uy
+https://taito-gamma.vercel.app/stream/391.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="COLUMBIA",test
+https://taito-gamma.vercel.app/stream/392.m3u8
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="NETHERLANDS",Ziggo.Sport.nl
+https://taito-gamma.vercel.app/stream/393.m3u8
+
+#EXTINF:-1 tvg-id="The.Weather.Channel.us" group-title="UNITED STATES",The.Weather.Channel.us
+https://taito-gamma.vercel.app/stream/394.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="RUSSIA",test
+https://taito-gamma.vercel.app/stream/395.m3u8
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.4.nl" group-title="NETHERLANDS",Ziggo.Sport.4.nl
+https://taito-gamma.vercel.app/stream/396.m3u8
+
+#EXTINF:-1 tvg-id="Big.Ten.Network.us" group-title="UNITED STATES",Big.Ten.Network.us
+https://taito-gamma.vercel.app/stream/397.m3u8
+
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" group-title="NETHERLANDS",Ziggo.Sport.2.nl
+https://taito-gamma.vercel.app/stream/398.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Network.us" group-title="UNITED STATES",MLB.Network.us
+https://taito-gamma.vercel.app/stream/399.m3u8
+
+#EXTINF:-1 tvg-id="Digi.Sport.1.ro" group-title="ROMANIA",Digi.Sport.1.ro
+https://taito-gamma.vercel.app/stream/400.m3u8
+
+#EXTINF:-1 tvg-id="Digi.Sport.2.ro" group-title="ROMANIA",Digi.Sport.2.ro
+https://taito-gamma.vercel.app/stream/401.m3u8
+
+#EXTINF:-1 tvg-id="Digi.Sport.3.ro" group-title="ROMANIA",Digi.Sport.3.ro
+https://taito-gamma.vercel.app/stream/402.m3u8
+
+#EXTINF:-1 tvg-id="Digi.Sport.4.ro" group-title="ROMANIA",Digi.Sport.4.ro
+https://taito-gamma.vercel.app/stream/403.m3u8
+
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" group-title="UNITED STATES",NBA.TV.USA.us
+https://taito-gamma.vercel.app/stream/404.m3u8
+
+#EXTINF:-1 tvg-id="NFL.Network.us" group-title="UNITED STATES",NFL.Network.us
+https://taito-gamma.vercel.app/stream/405.m3u8
+
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" group-title="UNITED STATES",Sportsnet.(Ontario).ca
+https://taito-gamma.vercel.app/stream/406.m3u8
+
+#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" group-title="UNITED STATES",Sportsnet.(West).-.Satellite/Digital.ca
+https://taito-gamma.vercel.app/stream/407.m3u8
+
+#EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" group-title="CANADA",Sportsnet.(East).-.Satellite/Digital.ca
+https://taito-gamma.vercel.app/stream/408.m3u8
+
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" group-title="CANADA",Sportsnet.360.ca
+https://taito-gamma.vercel.app/stream/409.m3u8
+
+#EXTINF:-1 tvg-id="Sportsnet.World.ca" group-title="UNITED STATES",Sportsnet.World.ca
+https://taito-gamma.vercel.app/stream/410.m3u8
+
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" group-title="CANADA",Sportsnet.One.ca
+https://taito-gamma.vercel.app/stream/411.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SOUTH AFRICA",test
+https://taito-gamma.vercel.app/stream/413.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SOUTH AFRICA",test
+https://taito-gamma.vercel.app/stream/414.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SOUTH AFRICA",test
+https://taito-gamma.vercel.app/stream/416.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SOUTH AFRICA",test
+https://taito-gamma.vercel.app/stream/418.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SOUTH AFRICA",test
+https://taito-gamma.vercel.app/stream/419.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SOUTH AFRICA",test
+https://taito-gamma.vercel.app/stream/420.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SOUTH AFRICA",test
+https://taito-gamma.vercel.app/stream/421.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SOUTH AFRICA",test
+https://taito-gamma.vercel.app/stream/423.m3u8
+
+#EXTINF:-1 tvg-id="beINSports.us" group-title="UNITED STATES",beINSports.us
+https://taito-gamma.vercel.app/stream/425.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.de" group-title="GERMANY",DAZN.1.de
+https://taito-gamma.vercel.app/stream/426.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.2.de" group-title="GERMANY",DAZN.2.de
+https://taito-gamma.vercel.app/stream/427.m3u8
+
+#EXTINF:-1 tvg-id="Eleven.Sports.3.pl" group-title="POLAND",Eleven.Sports.3.pl
+https://taito-gamma.vercel.app/stream/428.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SERBIA",test
+https://taito-gamma.vercel.app/stream/429.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SERBIA",test
+https://taito-gamma.vercel.app/stream/430.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SERBIA",test
+https://taito-gamma.vercel.app/stream/431.m3u8
+
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" group-title="CROATIA",Arena.Sport.1.HD.hr
+https://taito-gamma.vercel.app/stream/432.m3u8
+
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.hr" group-title="CROATIA",Arena.Sport.2.HD.hr
+https://taito-gamma.vercel.app/stream/433.m3u8
+
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.hr" group-title="CROATIA",Arena.Sport.3.HD.hr
+https://taito-gamma.vercel.app/stream/434.m3u8
+
+#EXTINF:-1 tvg-id="MovistarLigadeCampeones(Spanish).es" group-title="SPAIN",MovistarLigadeCampeones(Spanish).es
+https://taito-gamma.vercel.app/stream/435.m3u8
+
+#EXTINF:-1 tvg-id="MplusDEPORTES(src01).es" group-title="SPAIN",MplusDEPORTES(src01).es
+https://taito-gamma.vercel.app/stream/436.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SPAIN",test
+https://taito-gamma.vercel.app/stream/437.m3u8
+
+#EXTINF:-1 tvg-id="MplusDEPORTES2(src01).es" group-title="SPAIN",MplusDEPORTES2(src01).es
+https://taito-gamma.vercel.app/stream/438.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="ROMANIA",test
+https://taito-gamma.vercel.app/stream/439.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="ROMANIA",test
+https://taito-gamma.vercel.app/stream/440.m3u8
+
+#EXTINF:-1 tvg-id="Polsat.News.pl" group-title="POLAND",Polsat.News.pl
+https://taito-gamma.vercel.app/stream/443.m3u8
+
+#EXTINF:-1 tvg-id="TVN.24.pl" group-title="POLAND",TVN.24.pl
+https://taito-gamma.vercel.app/stream/444.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.es" group-title="SPAIN",DAZN.1.es
+https://taito-gamma.vercel.app/stream/445.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.2.es" group-title="SPAIN",DAZN.2.es
+https://taito-gamma.vercel.app/stream/446.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.3.es" group-title="SPAIN",DAZN.3.es
+https://taito-gamma.vercel.app/stream/447.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.4.es" group-title="SPAIN",DAZN.4.es
+https://taito-gamma.vercel.app/stream/448.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" group-title="UNITED KINGDOM",SkySp.Mix.HD.uk
+https://taito-gamma.vercel.app/stream/449.m3u8
+
+#EXTINF:-1 tvg-id="PTV.Sports.pk" group-title="PAKISTAN",PTV.Sports.pk
+https://taito-gamma.vercel.app/stream/450.m3u8
+
+#EXTINF:-1 tvg-id="Viaplay1(src01).uk" group-title="UNITED KINGDOM",Viaplay1(src01).uk
+https://taito-gamma.vercel.app/stream/451.m3u8
+
+#EXTINF:-1 tvg-id="TVP.Info.pl" group-title="POLAND",TVP.Info.pl
+https://taito-gamma.vercel.app/stream/452.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SERBIA",test
+https://taito-gamma.vercel.app/stream/453.m3u8
+
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="PORTUGAL",SPORT.TV3.HD.pt
+https://taito-gamma.vercel.app/stream/454.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" group-title="PORTUGAL",ElevenSports1(src01).pt
+https://taito-gamma.vercel.app/stream/455.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" group-title="PORTUGAL",ElevenSports2(src01).pt
+https://taito-gamma.vercel.app/stream/456.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" group-title="PORTUGAL",ElevenSports3(src01).pt
+https://taito-gamma.vercel.app/stream/457.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" group-title="PORTUGAL",ElevenSports4(src01).pt
+https://taito-gamma.vercel.app/stream/458.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" group-title="PORTUGAL",ElevenSports5(src01).pt
+https://taito-gamma.vercel.app/stream/459.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.Max.it" group-title="ITALY",Sky.Sport.Max.it
+https://taito-gamma.vercel.app/stream/460.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.Uno.it" group-title="ITALY",Sky.Sport.Uno.it
+https://taito-gamma.vercel.app/stream/461.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.Arena.it" group-title="ITALY",Sky.Sport.Arena.it
+https://taito-gamma.vercel.app/stream/462.m3u8
+
+#EXTINF:-1 tvg-id="Canal+.Foot.fr" group-title="FRANCE",Canal+.Foot.fr
+https://taito-gamma.vercel.app/stream/463.m3u8
+
+#EXTINF:-1 tvg-id="Canal+.Sport.360.fr" group-title="FRANCE",Canal+.Sport.360.fr
+https://taito-gamma.vercel.app/stream/464.m3u8
+
+#EXTINF:-1 tvg-id="DIEMA.SPORT.bg" group-title="BULGARIA",DIEMA.SPORT.bg
+https://taito-gamma.vercel.app/stream/465.m3u8
+
+#EXTINF:-1 tvg-id="DIEMA.SPORT.2.bg" group-title="BULGARIA",DIEMA.SPORT.2.bg
+https://taito-gamma.vercel.app/stream/466.m3u8
+
+#EXTINF:-1 tvg-id="DIEMA.SPORT.3.bg" group-title="BULGARIA",DIEMA.SPORT.3.bg
+https://taito-gamma.vercel.app/stream/467.m3u8
+
+#EXTINF:-1 tvg-id="Nova.Sport.bg" group-title="BULGARIA",Nova.Sport.bg
+https://taito-gamma.vercel.app/stream/468.m3u8
+
+#EXTINF:-1 tvg-id="TF1.fr" group-title="FRANCE",TF1.fr
+https://taito-gamma.vercel.app/stream/469.m3u8
+
+#EXTINF:-1 tvg-id="M6.fr" group-title="FRANCE",M6.fr
+https://taito-gamma.vercel.app/stream/470.m3u8
+
+#EXTINF:-1 tvg-id="Ring.BG.bg" group-title="BULGARIA",Ring.BG.bg
+https://taito-gamma.vercel.app/stream/471.m3u8
+
+#EXTINF:-1 tvg-id="MAXSport1(src01).bg" group-title="BULGARIA",MAXSport1(src01).bg
+https://taito-gamma.vercel.app/stream/472.m3u8
+
+#EXTINF:-1 tvg-id="MAXSport2(src01).bg" group-title="BULGARIA",MAXSport2(src01).bg
+https://taito-gamma.vercel.app/stream/473.m3u8
+
+#EXTINF:-1 tvg-id="MAXSport3(src01).bg" group-title="BULGARIA",MAXSport3(src01).bg
+https://taito-gamma.vercel.app/stream/474.m3u8
+
+#EXTINF:-1 tvg-id="MAXSport4(src01).bg" group-title="BULGARIA",MAXSport4(src01).bg
+https://taito-gamma.vercel.app/stream/475.m3u8
+
+#EXTINF:-1 tvg-id="BNT.bg" group-title="BULGARIA",BNT.bg
+https://taito-gamma.vercel.app/stream/476.m3u8
+
+#EXTINF:-1 tvg-id="BNT2(src01).bg" group-title="BULGARIA",BNT2(src01).bg
+https://taito-gamma.vercel.app/stream/477.m3u8
+
+#EXTINF:-1 tvg-id="BNT.3.bg" group-title="BULGARIA",BNT.3.bg
+https://taito-gamma.vercel.app/stream/478.m3u8
+
+#EXTINF:-1 tvg-id="bTV.bg" group-title="BULGARIA",bTV.bg
+https://taito-gamma.vercel.app/stream/479.m3u8
+
+#EXTINF:-1 tvg-id="Nova.TV.bg" group-title="BULGARIA",Nova.TV.bg
+https://taito-gamma.vercel.app/stream/480.m3u8
+
+#EXTINF:-1 tvg-id="bTVAction(src01).bg" group-title="BULGARIA",bTVAction(src01).bg
+https://taito-gamma.vercel.app/stream/481.m3u8
+
+#EXTINF:-1 tvg-id="Diema.bg" group-title="BULGARIA",Diema.bg
+https://taito-gamma.vercel.app/stream/482.m3u8
+
+#EXTINF:-1 tvg-id="FOX.Channel.bg" group-title="BULGARIA",FOX.Channel.bg
+https://taito-gamma.vercel.app/stream/483.m3u8
+
+#EXTINF:-1 tvg-id="BTV.Lady.bg" group-title="BULGARIA",BTV.Lady.bg
+https://taito-gamma.vercel.app/stream/484.m3u8
+
+#EXTINF:-1 tvg-id="Diema.Family.bg" group-title="BULGARIA",Diema.Family.bg
+https://taito-gamma.vercel.app/stream/485.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="AFRICA",test
+https://taito-gamma.vercel.app/stream/486.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="AFRICA",test
+https://taito-gamma.vercel.app/stream/487.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="AFRICA",test
+https://taito-gamma.vercel.app/stream/489.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="AFRICA",test
+https://taito-gamma.vercel.app/stream/490.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.au" group-title="AUSTRALIA",beINSports1.au
+https://taito-gamma.vercel.app/stream/491.m3u8
+
+#EXTINF:-1 tvg-id="beINSports2.au" group-title="AUSTRALIA",beINSports2.au
+https://taito-gamma.vercel.app/stream/492.m3u8
+
+#EXTINF:-1 tvg-id="beINSports3.au" group-title="AUSTRALIA",beINSports3.au
+https://taito-gamma.vercel.app/stream/493.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.fr" group-title="FRANCE",beIN.SPORTS.MAX.4.fr
+https://taito-gamma.vercel.app/stream/494.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" group-title="FRANCE",beIN.SPORTS.MAX.5.fr
+https://taito-gamma.vercel.app/stream/495.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" group-title="FRANCE",beIN.SPORTS.MAX.6.fr
+https://taito-gamma.vercel.app/stream/496.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" group-title="FRANCE",beIN.SPORTS.MAX.7.fr
+https://taito-gamma.vercel.app/stream/497.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" group-title="FRANCE",beIN.SPORTS.MAX.8.fr
+https://taito-gamma.vercel.app/stream/498.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.9.fr" group-title="FRANCE",beIN.SPORTS.MAX.9.fr
+https://taito-gamma.vercel.app/stream/499.m3u8
+
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.10.fr" group-title="FRANCE",beIN.SPORTS.MAX.10.fr
+https://taito-gamma.vercel.app/stream/500.m3u8
+
+#EXTINF:-1 tvg-id="M+.Vamos.es" group-title="SPAIN",M+.Vamos.es
+https://taito-gamma.vercel.app/stream/521.m3u8
+
+#EXTINF:-1 tvg-id="BarcaTV(Catalan).es" group-title="SPAIN",BarcaTV(Catalan).es
+https://taito-gamma.vercel.app/stream/522.m3u8
+
+#EXTINF:-1 tvg-id="RealMadridTV(Spanish).es" group-title="SPAIN",RealMadridTV(Spanish).es
+https://taito-gamma.vercel.app/stream/523.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.1.es" group-title="SPAIN",Eurosport.1.es
+https://taito-gamma.vercel.app/stream/524.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.2.es" group-title="SPAIN",Eurosport.2.es
+https://taito-gamma.vercel.app/stream/525.m3u8
+
+#EXTINF:-1 tvg-id="MplusDEPORTES3(src01).es" group-title="SPAIN",MplusDEPORTES3(src01).es
+https://taito-gamma.vercel.app/stream/526.m3u8
+
+#EXTINF:-1 tvg-id="MplusDEPORTES4(src01).es" group-title="SPAIN",MplusDEPORTES4(src01).es
+https://taito-gamma.vercel.app/stream/527.m3u8
+
+#EXTINF:-1 tvg-id="MovistarGolf(Spanish).es" group-title="SPAIN",MovistarGolf(Spanish).es
+https://taito-gamma.vercel.app/stream/528.m3u8
+
+#EXTINF:-1 tvg-id="Teledeporte.es" group-title="SPAIN",Teledeporte.es
+https://taito-gamma.vercel.app/stream/529.m3u8
+
+#EXTINF:-1 tvg-id="GOL.PLAY.es" group-title="SPAIN",GOL.PLAY.es
+https://taito-gamma.vercel.app/stream/530.m3u8
+
+#EXTINF:-1 tvg-id="Antena.3.es" group-title="SPAIN",Antena.3.es
+https://taito-gamma.vercel.app/stream/531.m3u8
+
+#EXTINF:-1 tvg-id="Telecinco.es" group-title="SPAIN",Telecinco.es
+https://taito-gamma.vercel.app/stream/532.m3u8
+
+#EXTINF:-1 tvg-id="LA.1.es" group-title="SPAIN",LA.1.es
+https://taito-gamma.vercel.app/stream/533.m3u8
+
+#EXTINF:-1 tvg-id="La.Sexta.es" group-title="SPAIN",La.Sexta.es
+https://taito-gamma.vercel.app/stream/534.m3u8
+
+#EXTINF:-1 tvg-id="Cuatro.es" group-title="SPAIN",Cuatro.es
+https://taito-gamma.vercel.app/stream/535.m3u8
+
+#EXTINF:-1 tvg-id="LA.2.es" group-title="SPAIN",LA.2.es
+https://taito-gamma.vercel.app/stream/536.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.F1.es" group-title="SPAIN",DAZN.F1.es
+https://taito-gamma.vercel.app/stream/537.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.LALIGA.es" group-title="SPAIN",DAZN.LALIGA.es
+https://taito-gamma.vercel.app/stream/538.m3u8
+
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.es" group-title="SPAIN",LALIGA.TV.HYPERMOTION.es
+https://taito-gamma.vercel.app/stream/539.m3u8
+
+#EXTINF:-1 tvg-id="Canal.11.HD.pt" group-title="PORTUGAL",Canal.11.HD.pt
+https://taito-gamma.vercel.app/stream/540.m3u8
+
+#EXTINF:-1 tvg-id="ONE.HD.il" group-title="ISRAEL",ONE.HD.il
+https://taito-gamma.vercel.app/stream/541.m3u8
+
+#EXTINF:-1 tvg-id="ONE2.HD.il" group-title="ISRAEL",ONE2.HD.il
+https://taito-gamma.vercel.app/stream/542.m3u8
+
+#EXTINF:-1 tvg-id="yes.Movies.Action.il" group-title="ISRAEL",yes.Movies.Action.il
+https://taito-gamma.vercel.app/stream/543.m3u8
+
+#EXTINF:-1 tvg-id="yes.Movies.Kids.il" group-title="ISRAEL",yes.Movies.Kids.il
+https://taito-gamma.vercel.app/stream/544.m3u8
+
+#EXTINF:-1 tvg-id="yes.Movies.Comedy.il" group-title="ISRAEL",yes.Movies.Comedy.il
+https://taito-gamma.vercel.app/stream/545.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="ISRAEL",test
+https://taito-gamma.vercel.app/stream/546.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="ISRAEL",test
+https://taito-gamma.vercel.app/stream/548.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="ISRAEL",test
+https://taito-gamma.vercel.app/stream/549.m3u8
+
+#EXTINF:-1 tvg-id="Viaplay2(src01).uk" group-title="UNITED KINGDOM",Viaplay2(src01).uk
+https://taito-gamma.vercel.app/stream/550.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="ISRAEL",test
+https://taito-gamma.vercel.app/stream/551.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="ISRAEL",test
+https://taito-gamma.vercel.app/stream/552.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="ISRAEL",test
+https://taito-gamma.vercel.app/stream/553.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.Racing.uk" group-title="UNITED KINGDOM",SkySp.Racing.uk
+https://taito-gamma.vercel.app/stream/554.m3u8
+
+#EXTINF:-1 tvg-id="Racing.TV.uk" group-title="UNITED KINGDOM",Racing.TV.uk
+https://taito-gamma.vercel.app/stream/555.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" group-title="GERMANY",Sky.Sport.Top.Event.de
+https://taito-gamma.vercel.app/stream/556.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.Mix.de" group-title="GERMANY",Sky.Sport.Mix.de
+https://taito-gamma.vercel.app/stream/557.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.1.de" group-title="GERMANY",Sky.Sport.Bundesliga.1.de
+https://taito-gamma.vercel.app/stream/558.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.Austria.1.HD.de" group-title="GERMANY",Sky.Sport.Austria.1.HD.de
+https://taito-gamma.vercel.app/stream/559.m3u8
+
+#EXTINF:-1 tvg-id="TVP.1.pl" group-title="POLAND",TVP.1.pl
+https://taito-gamma.vercel.app/stream/560.m3u8
+
+#EXTINF:-1 tvg-id="TVP.2.pl" group-title="POLAND",TVP.2.pl
+https://taito-gamma.vercel.app/stream/561.m3u8
+
+#EXTINF:-1 tvg-id="Polsat.pl" group-title="POLAND",Polsat.pl
+https://taito-gamma.vercel.app/stream/562.m3u8
+
+#EXTINF:-1 tvg-id="Motowizja.pl" group-title="POLAND",Motowizja.pl
+https://taito-gamma.vercel.app/stream/563.m3u8
+
+#EXTINF:-1 tvg-id="Polsat.Film.pl" group-title="POLAND",Polsat.Film.pl
+https://taito-gamma.vercel.app/stream/564.m3u8
+
+#EXTINF:-1 tvg-id="TVN.HD.pl" group-title="POLAND",TVN.HD.pl
+https://taito-gamma.vercel.app/stream/565.m3u8
+
+#EXTINF:-1 tvg-id="CANAL+.PREMIUM.pl" group-title="POLAND",CANAL+.PREMIUM.pl
+https://taito-gamma.vercel.app/stream/566.m3u8
+
+#EXTINF:-1 tvg-id="CANAL+.Family.pl" group-title="POLAND",CANAL+.Family.pl
+https://taito-gamma.vercel.app/stream/567.m3u8
+
+#EXTINF:-1 tvg-id="FilmBox.Premium.HD.pl" group-title="POLAND",FilmBox.Premium.HD.pl
+https://taito-gamma.vercel.app/stream/568.m3u8
+
+#EXTINF:-1 tvg-id="HBO.pl" group-title="POLAND",HBO.pl
+https://taito-gamma.vercel.app/stream/569.m3u8
+
+#EXTINF:-1 tvg-id="CANAL+.Seriale.pl" group-title="POLAND",CANAL+.Seriale.pl
+https://taito-gamma.vercel.app/stream/570.m3u8
+
+#EXTINF:-1 tvg-id="sportdigital.de" group-title="GERMANY",sportdigital.de
+https://taito-gamma.vercel.app/stream/571.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="RUSSIA",test
+https://taito-gamma.vercel.app/stream/573.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.it" group-title="ITALY",Sky.Sport.Golf.it
+https://taito-gamma.vercel.app/stream/574.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.MotoGP.it" group-title="ITALY",Sky.Sport.MotoGP.it
+https://taito-gamma.vercel.app/stream/575.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" group-title="ITALY",Sky.Sport.Tennis.it
+https://taito-gamma.vercel.app/stream/576.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.F1.it" group-title="ITALY",Sky.Sport.F1.it
+https://taito-gamma.vercel.app/stream/577.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="QATAR",test
+https://taito-gamma.vercel.app/stream/578.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="BOSNIA AND HERZEGOVINA",test
+https://taito-gamma.vercel.app/stream/579.m3u8
+
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" group-title="CROATIA",Arena.Sport.4.HD.hr
+https://taito-gamma.vercel.app/stream/580.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SERBIA",test
+https://taito-gamma.vercel.app/stream/581.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SERBIA",test
+https://taito-gamma.vercel.app/stream/582.m3u8
+
+#EXTINF:-1 tvg-id="Prima.Sport.1.ro" group-title="ROMANIA",Prima.Sport.1.ro
+https://taito-gamma.vercel.app/stream/583.m3u8
+
+#EXTINF:-1 tvg-id="Prima.Sport.2.ro" group-title="ROMANIA",Prima.Sport.2.ro
+https://taito-gamma.vercel.app/stream/584.m3u8
+
+#EXTINF:-1 tvg-id="Prima.Sport.3.ro" group-title="ROMANIA",Prima.Sport.3.ro
+https://taito-gamma.vercel.app/stream/585.m3u8
+
+#EXTINF:-1 tvg-id="Prima.Sport.4.ro" group-title="ROMANIA",Prima.Sport.4.ro
+https://taito-gamma.vercel.app/stream/586.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.Select.nz" group-title="NEW ZEALAND",Sky.Sport.Select.nz
+https://taito-gamma.vercel.app/stream/587.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.1.nz" group-title="NEW ZEALAND",Sky.Sport.1.nz
+https://taito-gamma.vercel.app/stream/588.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.2.nz" group-title="NEW ZEALAND",Sky.Sport.2.nz
+https://taito-gamma.vercel.app/stream/589.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.3.nz" group-title="NEW ZEALAND",Sky.Sport.3.nz
+https://taito-gamma.vercel.app/stream/590.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.4.nz" group-title="NEW ZEALAND",Sky.Sport.4.nz
+https://taito-gamma.vercel.app/stream/591.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.5.nz" group-title="NEW ZEALAND",Sky.Sport.5.nz
+https://taito-gamma.vercel.app/stream/592.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.6.nz" group-title="NEW ZEALAND",Sky.Sport.6.nz
+https://taito-gamma.vercel.app/stream/593.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.7.nz" group-title="NEW ZEALAND",Sky.Sport.7.nz
+https://taito-gamma.vercel.app/stream/594.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.8.nz" group-title="NEW ZEALAND",Sky.Sport.8.nz
+https://taito-gamma.vercel.app/stream/595.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.9.nz" group-title="NEW ZEALAND",Sky.Sport.9.nz
+https://taito-gamma.vercel.app/stream/596.m3u8
+
+#EXTINF:-1 tvg-id="ViaplayXtra.uk" group-title="UNITED KINGDOM",ViaplayXtra.uk
+https://taito-gamma.vercel.app/stream/597.m3u8
+
+#EXTINF:-1 tvg-id="Willow.Xtra.us" group-title="UNITED STATES",Willow.Xtra.us
+https://taito-gamma.vercel.app/stream/598.m3u8
+
+#EXTINF:-1 tvg-id="Novasports.Premier.League.gr" group-title="GREECE",Novasports.Premier.League.gr
+https://taito-gamma.vercel.app/stream/599.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED ARAB EMIRATES",test
+https://taito-gamma.vercel.app/stream/600.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED ARAB EMIRATES",test
+https://taito-gamma.vercel.app/stream/601.m3u8
+
+#EXTINF:-1 tvg-id="CTV.(CFCN).Calgary,.AB.ca" group-title="CANADA",CTV.(CFCN).Calgary,.AB.ca
+https://taito-gamma.vercel.app/stream/602.m3u8
+
+#EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" group-title="UNITED STATES",Smithsonian.Channel.USA.HD.us
+https://taito-gamma.vercel.app/stream/603.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED ARAB EMIRATES",test
+https://taito-gamma.vercel.app/stream/604.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED ARAB EMIRATES",test
+https://taito-gamma.vercel.app/stream/605.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED ARAB EMIRATES",test
+https://taito-gamma.vercel.app/stream/606.m3u8
+
+#EXTINF:-1 tvg-id="Rally.TV.de" group-title="UNITED STATES",Rally.TV.de
+https://taito-gamma.vercel.app/stream/607.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED ARAB EMIRATES",test
+https://taito-gamma.vercel.app/stream/609.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED ARAB EMIRATES",test
+https://taito-gamma.vercel.app/stream/610.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="EGYPT",test
+https://taito-gamma.vercel.app/stream/611.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="EGYPT",test
+https://taito-gamma.vercel.app/stream/612.m3u8
+
+#EXTINF:-1 tvg-id="NewsMax.TV.us" group-title="UNITED STATES",NewsMax.TV.us
+https://taito-gamma.vercel.app/stream/613.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SAUDI ARABIA",test
+https://taito-gamma.vercel.app/stream/614.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SAUDI ARABIA",test
+https://taito-gamma.vercel.app/stream/615.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SAUDI ARABIA",test
+https://taito-gamma.vercel.app/stream/616.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SAUDI ARABIA",test
+https://taito-gamma.vercel.app/stream/617.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SAUDI ARABIA",test
+https://taito-gamma.vercel.app/stream/618.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SAUDI ARABIA",test
+https://taito-gamma.vercel.app/stream/619.m3u8
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" group-title="GREECE",COSMOTE.Sport.1.HD.gr
+https://taito-gamma.vercel.app/stream/622.m3u8
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.2.HD.gr" group-title="GREECE",COSMOTE.Sport.2.HD.gr
+https://taito-gamma.vercel.app/stream/623.m3u8
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.3.HD.gr" group-title="GREECE",COSMOTE.Sport.3.HD.gr
+https://taito-gamma.vercel.app/stream/624.m3u8
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.4.HD.gr" group-title="GREECE",COSMOTE.Sport.4.HD.gr
+https://taito-gamma.vercel.app/stream/625.m3u8
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.5.HD.gr" group-title="GREECE",COSMOTE.Sport.5.HD.gr
+https://taito-gamma.vercel.app/stream/626.m3u8
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.6.HD.gr" group-title="GREECE",COSMOTE.Sport.6.HD.gr
+https://taito-gamma.vercel.app/stream/627.m3u8
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.7.HD.gr" group-title="GREECE",COSMOTE.Sport.7.HD.gr
+https://taito-gamma.vercel.app/stream/628.m3u8
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.8.HD.gr" group-title="GREECE",COSMOTE.Sport.8.HD.gr
+https://taito-gamma.vercel.app/stream/629.m3u8
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.9.HD.gr" group-title="GREECE",COSMOTE.Sport.9.HD.gr
+https://taito-gamma.vercel.app/stream/630.m3u8
+
+#EXTINF:-1 tvg-id="Novasports1.gr" group-title="GREECE",Novasports1.gr
+https://taito-gamma.vercel.app/stream/631.m3u8
+
+#EXTINF:-1 tvg-id="Novasports2.gr" group-title="GREECE",Novasports2.gr
+https://taito-gamma.vercel.app/stream/632.m3u8
+
+#EXTINF:-1 tvg-id="Novasports4.gr" group-title="GREECE",Novasports4.gr
+https://taito-gamma.vercel.app/stream/634.m3u8
+
+#EXTINF:-1 tvg-id="Novasports.Start.gr" group-title="GREECE",Novasports.Start.gr
+https://taito-gamma.vercel.app/stream/637.m3u8
+
+#EXTINF:-1 tvg-id="Novasports.Prime.gr" group-title="GREECE",Novasports.Prime.gr
+https://taito-gamma.vercel.app/stream/638.m3u8
+
+#EXTINF:-1 tvg-id="SPORT1+.de" group-title="GERMANY",SPORT1+.de
+https://taito-gamma.vercel.app/stream/640.m3u8
+
+#EXTINF:-1 tvg-id="SPORT1.de" group-title="GERMANY",SPORT1.de
+https://taito-gamma.vercel.app/stream/641.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="CHILE",test
+https://taito-gamma.vercel.app/stream/642.m3u8
+
+#EXTINF:-1 tvg-id="Fox.Deportes.us" group-title="UNITED STATES",Fox.Deportes.us
+https://taito-gamma.vercel.app/stream/643.m3u8
+
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.USA.us" group-title="UNITED STATES",Turner.Classic.Movies.USA.us
+https://taito-gamma.vercel.app/stream/644.m3u8
+
+#EXTINF:-1 tvg-id="La.chaine.l’Équipe.fr" group-title="FRANCE",La.chaine.l’Équipe.fr
+https://taito-gamma.vercel.app/stream/645.m3u8
+
+#EXTINF:-1 tvg-id="MavTV.USA.us" group-title="UNITED STATES",MavTV.USA.us
+https://taito-gamma.vercel.app/stream/646.m3u8
+
+#EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" group-title="UNITED STATES",CMT.US.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/647.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.us" group-title="UNITED STATES",Boomerang.us
+https://taito-gamma.vercel.app/stream/648.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.-.East.us" group-title="UNITED STATES",Nicktoons.-.East.us
+https://taito-gamma.vercel.app/stream/649.m3u8
+
+#EXTINF:-1 tvg-id="TeenNick.-.Eastern.us" group-title="UNITED STATES",TeenNick.-.Eastern.us
+https://taito-gamma.vercel.app/stream/650.m3u8
+
+#EXTINF:-1 tvg-id="Destination.America.us" group-title="UNITED STATES",Destination.America.us
+https://taito-gamma.vercel.app/stream/651.m3u8
+
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" group-title="UNITED STATES",Disney.Junior.USA.-.East.us
+https://taito-gamma.vercel.app/stream/652.m3u8
+
+#EXTINF:-1 tvg-id="POP.-.East.us" group-title="UNITED STATES",POP.-.East.us
+https://taito-gamma.vercel.app/stream/653.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED STATES",test
+https://taito-gamma.vercel.app/stream/654.m3u8
+
+#EXTINF:-1 tvg-id="WEtv.us" group-title="UNITED STATES",WEtv.us
+https://taito-gamma.vercel.app/stream/655.m3u8
+
+#EXTINF:-1 tvg-id="IFC.HDTV.(East).us" group-title="UNITED STATES",IFC.HDTV.(East).us
+https://taito-gamma.vercel.app/stream/656.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.us" group-title="UNITED STATES",Discovery.Family.Channel.us
+https://taito-gamma.vercel.app/stream/657.m3u8
+
+#EXTINF:-1 tvg-id="SundanceTV.USA.-.East.us" group-title="UNITED STATES",SundanceTV.USA.-.East.us
+https://taito-gamma.vercel.app/stream/658.m3u8
+
+#EXTINF:-1 tvg-id="VICE.us" group-title="UNITED STATES",VICE.us
+https://taito-gamma.vercel.app/stream/659.m3u8
+
+#EXTINF:-1 tvg-id="TV.One.us" group-title="UNITED STATES",TV.One.us
+https://taito-gamma.vercel.app/stream/660.m3u8
+
+#EXTINF:-1 tvg-id="Motor.Trend.HD.us" group-title="UNITED STATES",Motor.Trend.HD.us
+https://taito-gamma.vercel.app/stream/661.m3u8
+
+#EXTINF:-1 tvg-id="Me.TV.us" group-title="UNITED STATES",Me.TV.us
+https://taito-gamma.vercel.app/stream/662.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Network.USA.us" group-title="UNITED STATES",NHL.Network.USA.us
+https://taito-gamma.vercel.app/stream/663.m3u8
+
+#EXTINF:-1 tvg-id="ACC.Network.us" group-title="UNITED STATES",ACC.Network.us
+https://taito-gamma.vercel.app/stream/664.m3u8
+
+#EXTINF:-1 tvg-id="FYI.USA.-.Eastern.us" group-title="UNITED STATES",FYI.USA.-.Eastern.us
+https://taito-gamma.vercel.app/stream/665.m3u8
+
+#EXTINF:-1 tvg-id="Nick.Music.(NICM).us" group-title="UNITED STATES",Nick.Music.(NICM).us
+https://taito-gamma.vercel.app/stream/666.m3u8
+
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.USA.HD.us" group-title="UNITED STATES",Crime.and.Investigation.Network.USA.HD.us
+https://taito-gamma.vercel.app/stream/669.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Premiere.uk" group-title="UNITED KINGDOM",Sky.Premiere.uk
+https://taito-gamma.vercel.app/stream/671.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" group-title="UNITED KINGDOM",Sky.Cinema.Select.uk
+https://taito-gamma.vercel.app/stream/672.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" group-title="UNITED KINGDOM",Sky.Cinema.Hits.HD.uk
+https://taito-gamma.vercel.app/stream/673.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Greats.uk" group-title="UNITED KINGDOM",Sky.Greats.uk
+https://taito-gamma.vercel.app/stream/674.m3u8
+
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" group-title="UNITED KINGDOM",SkyAnimationHD.uk
+https://taito-gamma.vercel.app/stream/675.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" group-title="UNITED KINGDOM",Sky.Family.HD.uk
+https://taito-gamma.vercel.app/stream/676.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Action.uk" group-title="UNITED KINGDOM",Sky.Action.uk
+https://taito-gamma.vercel.app/stream/677.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" group-title="UNITED KINGDOM",Sky.Comedy.Cinema.uk
+https://taito-gamma.vercel.app/stream/678.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" group-title="UNITED KINGDOM",Sky.Thriller.HD.uk
+https://taito-gamma.vercel.app/stream/679.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED STATES",test
+https://taito-gamma.vercel.app/stream/680.m3u8
+
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" group-title="UNITED KINGDOM",Sky.ScFi/HorHD.uk
+https://taito-gamma.vercel.app/stream/681.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Showcase.uk" group-title="UNITED KINGDOM",Sky.Showcase.uk
+https://taito-gamma.vercel.app/stream/682.m3u8
+
+#EXTINF:-1 tvg-id="GOLD(src01).uk" group-title="UNITED KINGDOM",GOLD(src01).uk
+https://taito-gamma.vercel.app/stream/687.m3u8
+
+#EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" group-title="UNITED STATES",HBO.2.-.Eastern.Feed.us
+https://taito-gamma.vercel.app/stream/689.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" group-title="UNITED STATES",HBO.Comedy.HD.-.East.us
+https://taito-gamma.vercel.app/stream/690.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Latino.(HBO.7).-.Eastern.us" group-title="UNITED STATES",HBO.Latino.(HBO.7).-.Eastern.us
+https://taito-gamma.vercel.app/stream/692.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" group-title="UNITED STATES",HBO.Signature.(HBO.3).-.Eastern.us
+https://taito-gamma.vercel.app/stream/693.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" group-title="UNITED STATES",HBO.Zone.HD.-.East.us
+https://taito-gamma.vercel.app/stream/694.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us" group-title="UNITED STATES",Comet.us
+https://taito-gamma.vercel.app/stream/696.m3u8
+
+#EXTINF:-1 tvg-id="CookingChannel.us" group-title="UNITED STATES",CookingChannel.us
+https://taito-gamma.vercel.app/stream/697.m3u8
+
+#EXTINF:-1 tvg-id="Great.American.Family.us" group-title="UNITED STATES",Great.American.Family.us
+https://taito-gamma.vercel.app/stream/699.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="FRANCE",test
+https://taito-gamma.vercel.app/stream/700.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="FRANCE",test
+https://taito-gamma.vercel.app/stream/701.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="FRANCE",test
+https://taito-gamma.vercel.app/stream/702.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="FRANCE",test
+https://taito-gamma.vercel.app/stream/703.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="FRANCE",test
+https://taito-gamma.vercel.app/stream/704.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="FRANCE",test
+https://taito-gamma.vercel.app/stream/705.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="FRANCE",test
+https://taito-gamma.vercel.app/stream/706.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="FRANCE",test
+https://taito-gamma.vercel.app/stream/707.m3u8
+
+#EXTINF:-1 tvg-id="CleoTV.us" group-title="UNITED STATES",CleoTV.us
+https://taito-gamma.vercel.app/stream/715.m3u8
+
+#EXTINF:-1 tvg-id="Sporting.TV.HD.pt" group-title="PORTUGAL",Sporting.TV.HD.pt
+https://taito-gamma.vercel.app/stream/716.m3u8
+
+#EXTINF:-1 tvg-id="AXN.Movies.HD.pt" group-title="PORTUGAL",AXN.Movies.HD.pt
+https://taito-gamma.vercel.app/stream/717.m3u8
+
+#EXTINF:-1 tvg-id="Porto.Canal.HD.pt" group-title="PORTUGAL",Porto.Canal.HD.pt
+https://taito-gamma.vercel.app/stream/718.m3u8
+
+#EXTINF:-1 tvg-id="RTP.1.HD.pt" group-title="PORTUGAL",RTP.1.HD.pt
+https://taito-gamma.vercel.app/stream/719.m3u8
+
+#EXTINF:-1 tvg-id="RTP.2.HD.pt" group-title="PORTUGAL",RTP.2.HD.pt
+https://taito-gamma.vercel.app/stream/720.m3u8
+
+#EXTINF:-1 tvg-id="RTP.3.HD.pt" group-title="PORTUGAL",RTP.3.HD.pt
+https://taito-gamma.vercel.app/stream/721.m3u8
+
+#EXTINF:-1 tvg-id="SIC.HD.pt" group-title="PORTUGAL",SIC.HD.pt
+https://taito-gamma.vercel.app/stream/722.m3u8
+
+#EXTINF:-1 tvg-id="TVI.HD.pt" group-title="PORTUGAL",TVI.HD.pt
+https://taito-gamma.vercel.app/stream/723.m3u8
+
+#EXTINF:-1 tvg-id="TVI.Reality.HD.pt" group-title="PORTUGAL",TVI.Reality.HD.pt
+https://taito-gamma.vercel.app/stream/724.m3u8
+
+#EXTINF:-1 tvg-id="ARTE.de" group-title="GERMANY",ARTE.de
+https://taito-gamma.vercel.app/stream/725.m3u8
+
+#EXTINF:-1 tvg-id="3sat.de" group-title="GERMANY",3sat.de
+https://taito-gamma.vercel.app/stream/726.m3u8
+
+#EXTINF:-1 tvg-id="BBC.One.de" group-title="GERMANY",BBC.One.de
+https://taito-gamma.vercel.app/stream/727.m3u8
+
+#EXTINF:-1 tvg-id="ZDFinfo.de" group-title="GERMANY",ZDFinfo.de
+https://taito-gamma.vercel.app/stream/728.m3u8
+
+#EXTINF:-1 tvg-id="SAT.1.de" group-title="GERMANY",SAT.1.de
+https://taito-gamma.vercel.app/stream/729.m3u8
+
+#EXTINF:-1 tvg-id="ProSieben.de" group-title="GERMANY",ProSieben.de
+https://taito-gamma.vercel.app/stream/730.m3u8
+
+#EXTINF:-1 tvg-id="kabel.eins.de" group-title="GERMANY",kabel.eins.de
+https://taito-gamma.vercel.app/stream/731.m3u8
+
+#EXTINF:-1 tvg-id="sixx.de" group-title="GERMANY",sixx.de
+https://taito-gamma.vercel.app/stream/732.m3u8
+
+#EXTINF:-1 tvg-id="MDR.de" group-title="GERMANY",MDR.de
+https://taito-gamma.vercel.app/stream/733.m3u8
+
+#EXTINF:-1 tvg-id="WDR.de" group-title="GERMANY",WDR.de
+https://taito-gamma.vercel.app/stream/734.m3u8
+
+#EXTINF:-1 tvg-id="SWR/SR.de" group-title="GERMANY",SWR/SR.de
+https://taito-gamma.vercel.app/stream/735.m3u8
+
+#EXTINF:-1 tvg-id="NDR.de" group-title="GERMANY",NDR.de
+https://taito-gamma.vercel.app/stream/736.m3u8
+
+#EXTINF:-1 tvg-id="SUPER.RTL.de" group-title="GERMANY",SUPER.RTL.de
+https://taito-gamma.vercel.app/stream/738.m3u8
+
+#EXTINF:-1 tvg-id="SRFernsehen(src01).de" group-title="GERMANY",SRFernsehen(src01).de
+https://taito-gamma.vercel.app/stream/739.m3u8
+
+#EXTINF:-1 tvg-id="RTL.de" group-title="GERMANY",RTL.de
+https://taito-gamma.vercel.app/stream/740.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="PAKISTAN",test
+https://taito-gamma.vercel.app/stream/741.m3u8
+
+#EXTINF:-1 tvg-id="AXS.TV.USA.HD.us" group-title="UNITED STATES",AXS.TV.USA.HD.us
+https://taito-gamma.vercel.app/stream/742.m3u8
+
+#EXTINF:-1 tvg-id="FashionTV(src01).uk" group-title="UNITED KINGDOM",FashionTV(src01).uk
+https://taito-gamma.vercel.app/stream/744.m3u8
+
+#EXTINF:-1 tvg-id="National.Geographic.Wild.us" group-title="UNITED STATES",National.Geographic.Wild.us
+https://taito-gamma.vercel.app/stream/745.m3u8
+
+#EXTINF:-1 tvg-id="Canal.TyC.Sports.ar" group-title="ARGENTINA",Canal.TyC.Sports.ar
+https://taito-gamma.vercel.app/stream/746.m3u8
+
+#EXTINF:-1 tvg-id="C.More.Fotboll.se" group-title="SWEDEN",C.More.Fotboll.se
+https://taito-gamma.vercel.app/stream/747.m3u8
+
+#EXTINF:-1 tvg-id="COZITV.us" group-title="UNITED STATES",COZITV.us
+https://taito-gamma.vercel.app/stream/748.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="SPAIN",test
+https://taito-gamma.vercel.app/stream/749.m3u8
+
+#EXTINF:-1 tvg-id="C-SPAN.us" group-title="UNITED STATES",C-SPAN.us
+https://taito-gamma.vercel.app/stream/750.m3u8
+
+#EXTINF:-1 tvg-id="FETV.(Family.Entertainment.Television).us" group-title="UNITED STATES",FETV.(Family.Entertainment.Television).us
+https://taito-gamma.vercel.app/stream/751.m3u8
+
+#EXTINF:-1 tvg-id="Grit.us" group-title="UNITED STATES",Grit.us
+https://taito-gamma.vercel.app/stream/752.m3u8
+
+#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.us" group-title="UNITED STATES",NBC.Sports.Bay.Area.us
+https://taito-gamma.vercel.app/stream/753.m3u8
+
+#EXTINF:-1 tvg-id="NBC.Sports.Boston.us" group-title="UNITED STATES",NBC.Sports.Boston.us
+https://taito-gamma.vercel.app/stream/754.m3u8
+
+#EXTINF:-1 tvg-id="NBC.Sports.California.us" group-title="UNITED STATES",NBC.Sports.California.us
+https://taito-gamma.vercel.app/stream/755.m3u8
+
+#EXTINF:-1 tvg-id="FOX.Soccer.Plus.us" group-title="UNITED STATES",FOX.Soccer.Plus.us
+https://taito-gamma.vercel.app/stream/756.m3u8
+
+#EXTINF:-1 tvg-id="The.Fight.Network.(United.States).(TFN).us" group-title="UNITED STATES",The.Fight.Network.(United.States).(TFN).us
+https://taito-gamma.vercel.app/stream/757.m3u8
+
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" group-title="UNITED STATES",Fox.Sports.2.us
+https://taito-gamma.vercel.app/stream/758.m3u8
+
+#EXTINF:-1 tvg-id="SNY:.SportsNet.New.York.(Comcast).us" group-title="UNITED STATES",SNY:.SportsNet.New.York.(Comcast).us
+https://taito-gamma.vercel.app/stream/759.m3u8
+
+#EXTINF:-1 tvg-id="Globo.SP.HD.br" group-title="BRAZIL",Globo.SP.HD.br
+https://taito-gamma.vercel.app/stream/760.m3u8
+
+#EXTINF:-1 tvg-id="Globo.Rio.br" group-title="BRAZIL",Globo.Rio.br
+https://taito-gamma.vercel.app/stream/761.m3u8
+
+#EXTINF:-1 tvg-id="New.England.Sports.Network.us" group-title="UNITED STATES",New.England.Sports.Network.us
+https://taito-gamma.vercel.app/stream/762.m3u8
+
+#EXTINF:-1 tvg-id="YES.Network.us   " group-title="UNITED STATES",YES.Network.us   
+https://taito-gamma.vercel.app/stream/763.m3u8
+
+#EXTINF:-1 tvg-id="Spectrum.Sportsnet.Lakers.us" group-title="UNITED STATES",Spectrum.Sportsnet.Lakers.us
+https://taito-gamma.vercel.app/stream/764.m3u8
+
+#EXTINF:-1 tvg-id="MSG.-.Syracuse.us" group-title="UNITED STATES",MSG.-.Syracuse.us
+https://taito-gamma.vercel.app/stream/765.m3u8
+
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" group-title="UNITED STATES",ABC.(WABC).New.York,.NY.us
+https://taito-gamma.vercel.app/stream/766.m3u8
+
+#EXTINF:-1 tvg-id="FOXSPORTS.ar" group-title="ARGENTINA",FOXSPORTS.ar
+https://taito-gamma.vercel.app/stream/767.m3u8
+
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" group-title="UNITED STATES",FOX.(WNYW).New.York,.NY.us
+https://taito-gamma.vercel.app/stream/768.m3u8
+
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us   " group-title="UNITED STATES",NBC.(WNBC).New.York,.NY.us   
+https://taito-gamma.vercel.app/stream/769.m3u8
+
+#EXTINF:-1 tvg-id="Marquee.Sports.Network.us" group-title="UNITED STATES",Marquee.Sports.Network.us
+https://taito-gamma.vercel.app/stream/770.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="OTHERS",test
+https://taito-gamma.vercel.app/stream/771.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1.fr" group-title="FRANCE",Eurosport1.fr
+https://taito-gamma.vercel.app/stream/772.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.fr" group-title="FRANCE",Eurosport2.fr
+https://taito-gamma.vercel.app/stream/773.m3u8
+
+#EXTINF:-1 tvg-id="ERT1.DTT-1.gr" group-title="GREECE",ERT1.DTT-1.gr
+https://taito-gamma.vercel.app/stream/774.m3u8
+
+#EXTINF:-1 tvg-id="FOXWeather.us" group-title="UNITED STATES",FOXWeather.us
+https://taito-gamma.vercel.app/stream/775.m3u8
+
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" group-title="UNITED STATES",NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us
+https://taito-gamma.vercel.app/stream/777.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED STATES",test
+https://taito-gamma.vercel.app/stream/778.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="CROATIA",test
+https://taito-gamma.vercel.app/stream/779.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="CROATIA",test
+https://taito-gamma.vercel.app/stream/780.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="QATAR",test
+https://taito-gamma.vercel.app/stream/781.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="QATAR",test
+https://taito-gamma.vercel.app/stream/782.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="QATAR",test
+https://taito-gamma.vercel.app/stream/783.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="QATAR",test
+https://taito-gamma.vercel.app/stream/784.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2(Argentina).ar" group-title="ARGENTINA",FoxSports2(Argentina).ar
+https://taito-gamma.vercel.app/stream/788.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports3(Argentina).ar" group-title="ARGENTINA",FoxSports3(Argentina).ar
+https://taito-gamma.vercel.app/stream/789.m3u8
+
+#EXTINF:-1 tvg-id="CMTV.HD.pt" group-title="PORTUGAL",CMTV.HD.pt
+https://taito-gamma.vercel.app/stream/790.m3u8
+
+#EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" group-title="UNITED STATES",MGM+.HDTV.(East).(MGM+HD).us
+https://taito-gamma.vercel.app/stream/791.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" group-title="UNITED STATES",Showtime.2.-.Eastern.us
+https://taito-gamma.vercel.app/stream/792.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.-.East.us" group-title="UNITED STATES",Showtime.Showcase.HD.-.East.us
+https://taito-gamma.vercel.app/stream/793.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" group-title="UNITED STATES",Showtime.Extreme.-.Eastern.us
+https://taito-gamma.vercel.app/stream/794.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" group-title="UNITED STATES",Showtime.FamilyZone.(East).(SHOFe).us
+https://taito-gamma.vercel.app/stream/795.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.Next.HD.-.Eastern.us" group-title="UNITED STATES",Showtime.Next.HD.-.Eastern.us
+https://taito-gamma.vercel.app/stream/796.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="IRELAND",test
+https://taito-gamma.vercel.app/stream/799.m3u8
+
+#EXTINF:-1 tvg-id="6eren.dk" group-title="DENMARK",6eren.dk
+https://taito-gamma.vercel.app/stream/800.m3u8
+
+#EXTINF:-1 tvg-id="DR1.dk" group-title="DENMARK",DR1.dk
+https://taito-gamma.vercel.app/stream/801.m3u8
+
+#EXTINF:-1 tvg-id="DR2.dk" group-title="DENMARK",DR2.dk
+https://taito-gamma.vercel.app/stream/802.m3u8
+
+#EXTINF:-1 tvg-id="Kanal4.dk" group-title="DENMARK",Kanal4.dk
+https://taito-gamma.vercel.app/stream/803.m3u8
+
+#EXTINF:-1 tvg-id="Kanal5.dk" group-title="DENMARK",Kanal5.dk
+https://taito-gamma.vercel.app/stream/804.m3u8
+
+#EXTINF:-1 tvg-id="Canal9.dk" group-title="DENMARK",Canal9.dk
+https://taito-gamma.vercel.app/stream/805.m3u8
+
+#EXTINF:-1 tvg-id="MTV.dk" group-title="DENMARK",MTV.dk
+https://taito-gamma.vercel.app/stream/806.m3u8
+
+#EXTINF:-1 tvg-id="TV2bornholm(src01).dk" group-title="DENMARK",TV2bornholm(src01).dk
+https://taito-gamma.vercel.app/stream/807.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="DENMARK",test
+https://taito-gamma.vercel.app/stream/808.m3u8
+
+#EXTINF:-1 tvg-id="TV3Sport1(src01).dk" group-title="DENMARK",TV3Sport1(src01).dk
+https://taito-gamma.vercel.app/stream/809.m3u8
+
+#EXTINF:-1 tvg-id="TV2Sport(src01).dk" group-title="DENMARK",TV2Sport(src01).dk
+https://taito-gamma.vercel.app/stream/810.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="DENMARK",test
+https://taito-gamma.vercel.app/stream/811.m3u8
+
+#EXTINF:-1 tvg-id="C.More.Series.se" group-title="SWEDEN",C.More.Series.se
+https://taito-gamma.vercel.app/stream/814.m3u8
+
+#EXTINF:-1 tvg-id="V.Film.Family.se" group-title="SWEDEN",V.Film.Family.se
+https://taito-gamma.vercel.app/stream/816.m3u8
+
+#EXTINF:-1 tvg-id="TV2(src01).dk" group-title="DENMARK",TV2(src01).dk
+https://taito-gamma.vercel.app/stream/817.m3u8
+
+#EXTINF:-1 tvg-id="TV2Zulu(src01).dk" group-title="DENMARK",TV2Zulu(src01).dk
+https://taito-gamma.vercel.app/stream/818.m3u8
+
+#EXTINF:-1 tvg-id="TV3plus(src01).dk" group-title="DENMARK",TV3plus(src01).dk
+https://taito-gamma.vercel.app/stream/819.m3u8
+
+#EXTINF:-1 tvg-id="FoxLeague.au" group-title="AUSTRALIA",FoxLeague.au
+https://taito-gamma.vercel.app/stream/820.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports503.au" group-title="AUSTRALIA",FoxSports503.au
+https://taito-gamma.vercel.app/stream/821.m3u8
+
+#EXTINF:-1 tvg-id="FoxFooty.au" group-title="AUSTRALIA",FoxFooty.au
+https://taito-gamma.vercel.app/stream/822.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports505.au" group-title="AUSTRALIA",FoxSports505.au
+https://taito-gamma.vercel.app/stream/823.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports506.au" group-title="AUSTRALIA",FoxSports506.au
+https://taito-gamma.vercel.app/stream/824.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="AUSTRALIA",test
+https://taito-gamma.vercel.app/stream/825.m3u8
+
+#EXTINF:-1 tvg-id="LFCTV.HD.uk" group-title="UNITED KINGDOM",LFCTV.HD.uk
+https://taito-gamma.vercel.app/stream/826.m3u8
+
+#EXTINF:-1 tvg-id="MASN.us" group-title="UNITED STATES",MASN.us
+https://taito-gamma.vercel.app/stream/829.m3u8
+
+#EXTINF:-1 tvg-id="FoxSportsPremium(Spanish).mx" group-title="MEXICO",FoxSportsPremium(Spanish).mx
+https://taito-gamma.vercel.app/stream/830.m3u8
+
+#EXTINF:-1 tvg-id="CBC.(CBLT).Toronto,.ON.ca" group-title="CANADA",CBC.(CBLT).Toronto,.ON.ca
+https://taito-gamma.vercel.app/stream/832.m3u8
+
+#EXTINF:-1 tvg-id="TVA.Sports.ca" group-title="CANADA",TVA.Sports.ca
+https://taito-gamma.vercel.app/stream/833.m3u8
+
+#EXTINF:-1 tvg-id="TVA.Sports.3.ca" group-title="CANADA",TVA.Sports.3.ca
+https://taito-gamma.vercel.app/stream/834.m3u8
+
+#EXTINF:-1 tvg-id="Noovo.(CFJP).Montreal,.QC.ca" group-title="CANADA",Noovo.(CFJP).Montreal,.QC.ca
+https://taito-gamma.vercel.app/stream/835.m3u8
+
+#EXTINF:-1 tvg-id="Global.BC.ca" group-title="CANADA",Global.BC.ca
+https://taito-gamma.vercel.app/stream/836.m3u8
+
+#EXTINF:-1 tvg-id="CTV2.Toronto,.ON.ca" group-title="CANADA",CTV2.Toronto,.ON.ca
+https://taito-gamma.vercel.app/stream/838.m3u8
+
+#EXTINF:-1 tvg-id="RDS.(Réseau.des.sports).ca" group-title="CANADA",RDS.(Réseau.des.sports).ca
+https://taito-gamma.vercel.app/stream/839.m3u8
+
+#EXTINF:-1 tvg-id="RDS2(src01).ca" group-title="CANADA",RDS2(src01).ca
+https://taito-gamma.vercel.app/stream/840.m3u8
+
+#EXTINF:-1 tvg-id="RDS.Info.ca" group-title="CANADA",RDS.Info.ca
+https://taito-gamma.vercel.app/stream/841.m3u8
+
+#EXTINF:-1 tvg-id="TVO.(TV.Ontario).HD.ca" group-title="CANADA",TVO.(TV.Ontario).HD.ca
+https://taito-gamma.vercel.app/stream/842.m3u8
+
+#EXTINF:-1 tvg-id="Prima.TV.ro" group-title="ROMANIA",Prima.TV.ro
+https://taito-gamma.vercel.app/stream/843.m3u8
+
+#EXTINF:-1 tvg-id="Azteca.(XHOR).mx" group-title="MEXICO",Azteca.(XHOR).mx
+https://taito-gamma.vercel.app/stream/844.m3u8
+
+#EXTINF:-1 tvg-id="Rai1.it" group-title="ITALY",Rai1.it
+https://taito-gamma.vercel.app/stream/850.m3u8
+
+#EXTINF:-1 tvg-id="Rai2.it" group-title="ITALY",Rai2.it
+https://taito-gamma.vercel.app/stream/851.m3u8
+
+#EXTINF:-1 tvg-id="Rai3.it" group-title="ITALY",Rai3.it
+https://taito-gamma.vercel.app/stream/853.m3u8
+
+#EXTINF:-1 tvg-id="20(Italian).it" group-title="ITALY",20(Italian).it
+https://taito-gamma.vercel.app/stream/857.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Collection.it" group-title="ITALY",Sky.Cinema.Collection.it
+https://taito-gamma.vercel.app/stream/859.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" group-title="ITALY",Sky.Cinema.Uno.it
+https://taito-gamma.vercel.app/stream/860.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.it" group-title="ITALY",Sky.Cinema.Action.it
+https://taito-gamma.vercel.app/stream/861.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.it" group-title="ITALY",Sky.Cinema.Comedy.it
+https://taito-gamma.vercel.app/stream/862.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.+24.it" group-title="ITALY",Sky.Cinema.Uno.+24.it
+https://taito-gamma.vercel.app/stream/863.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Romance.it" group-title="ITALY",Sky.Cinema.Romance.it
+https://taito-gamma.vercel.app/stream/864.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Family.it" group-title="ITALY",Sky.Cinema.Family.it
+https://taito-gamma.vercel.app/stream/865.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Drama.it" group-title="ITALY",Sky.Cinema.Drama.it
+https://taito-gamma.vercel.app/stream/867.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Suspense.it" group-title="ITALY",Sky.Cinema.Suspense.it
+https://taito-gamma.vercel.app/stream/868.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport24.it" group-title="ITALY",Sky.Sport24.it
+https://taito-gamma.vercel.app/stream/869.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" group-title="ITALY",Sky.Sport.Calcio.it
+https://taito-gamma.vercel.app/stream/870.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport..251.it" group-title="ITALY",Sky.Sport..251.it
+https://taito-gamma.vercel.app/stream/871.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport..252.it" group-title="ITALY",Sky.Sport..252.it
+https://taito-gamma.vercel.app/stream/872.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport..253.it" group-title="ITALY",Sky.Sport..253.it
+https://taito-gamma.vercel.app/stream/873.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport..254.it" group-title="ITALY",Sky.Sport..254.it
+https://taito-gamma.vercel.app/stream/874.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport..255.it" group-title="ITALY",Sky.Sport..255.it
+https://taito-gamma.vercel.app/stream/875.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport..256.it" group-title="ITALY",Sky.Sport..256.it
+https://taito-gamma.vercel.app/stream/876.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport..257.it" group-title="ITALY",Sky.Sport..257.it
+https://taito-gamma.vercel.app/stream/877.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.1.it" group-title="ITALY",Eurosport.1.it
+https://taito-gamma.vercel.app/stream/878.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.2.it" group-title="ITALY",Eurosport.2.it
+https://taito-gamma.vercel.app/stream/879.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Serie.it" group-title="ITALY",Sky.Serie.it
+https://taito-gamma.vercel.app/stream/880.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.Uno.it" group-title="ITALY",Sky.Sport.Uno.it
+https://taito-gamma.vercel.app/stream/881.m3u8
+
+#EXTINF:-1 tvg-id="RaiSport.it" group-title="ITALY",RaiSport.it
+https://taito-gamma.vercel.app/stream/882.m3u8
+
+#EXTINF:-1 tvg-id="SBS.6.nl" group-title="NETHERLANDS",SBS.6.nl
+https://taito-gamma.vercel.app/stream/883.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.de" group-title="GERMANY",Sky.Sport.Tennis.de
+https://taito-gamma.vercel.app/stream/884.m3u8
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Florida.us" group-title="UNITED STATES",FanDuel.Sports.Network.Florida.us
+https://taito-gamma.vercel.app/stream/892.m3u8
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Midwest.St..Louis.us" group-title="UNITED STATES",FanDuel.Sports.Network.Midwest.St..Louis.us
+https://taito-gamma.vercel.app/stream/896.m3u8
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.North.us" group-title="UNITED STATES",FanDuel.Sports.Network.North.us
+https://taito-gamma.vercel.app/stream/898.m3u8
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.San.Diego.us" group-title="UNITED STATES",FanDuel.Sports.Network.San.Diego.us
+https://taito-gamma.vercel.app/stream/901.m3u8
+
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.SoCal.us" group-title="UNITED STATES",FanDuel.Sports.Network.SoCal.us
+https://taito-gamma.vercel.app/stream/902.m3u8
+
+#EXTINF:-1 tvg-id="Fanduel.Sports.Sun.us" group-title="UNITED STATES",Fanduel.Sports.Sun.us
+https://taito-gamma.vercel.app/stream/905.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="UNITED STATES",test
+https://taito-gamma.vercel.app/stream/910.m3u8
+
+#EXTINF:-1 tvg-id="Cytavision.Sports1.HD.cy" group-title="CYPRUS",Cytavision.Sports1.HD.cy
+https://taito-gamma.vercel.app/stream/911.m3u8
+
+#EXTINF:-1 tvg-id="Cytavision.Sports2.HD.cy" group-title="CYPRUS",Cytavision.Sports2.HD.cy
+https://taito-gamma.vercel.app/stream/912.m3u8
+
+#EXTINF:-1 tvg-id="Root.Sports.Northwest.us" group-title="UNITED STATES",Root.Sports.Northwest.us
+https://taito-gamma.vercel.app/stream/920.m3u8
+
+#EXTINF:-1 tvg-id="Space.City.Home.Network.us" group-title="UNITED STATES",Space.City.Home.Network.us
+https://taito-gamma.vercel.app/stream/921.m3u8
+
+#EXTINF:-1 tvg-id="SportsNet.Pittsburgh.us" group-title="UNITED STATES",SportsNet.Pittsburgh.us
+https://taito-gamma.vercel.app/stream/922.m3u8
+
+#EXTINF:-1 tvg-id="Altitude.Sports.-.Denver.us" group-title="UNITED STATES",Altitude.Sports.-.Denver.us
+https://taito-gamma.vercel.app/stream/923.m3u8
+
+#EXTINF:-1 tvg-id="Monumental.Sports.Network.us" group-title="UNITED STATES",Monumental.Sports.Network.us
+https://taito-gamma.vercel.app/stream/924.m3u8
+
