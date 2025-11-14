@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Beinsports.tr" tvg-name="beIN SPORTS" tvg-logo="https://tinyurl.com/logo7b1" group-title="FREESHOT",beIN SPORTS
+https://tfms-xyz-free.lxf69343.workers.dev/id=beINSPORTS1TR
+#EXTINF:-1 tvg-id="Beinsports.2.tr" tvg-name="beIN SPORTS 2" tvg-logo="https://tinyurl.com/logo7b2" group-title="FREESHOT",beIN SPORTS 2
+https://tfms-xyz-free.lxf69343.workers.dev/id=beINSPORTS2TR
+#EXTINF:-1 tvg-id="Beinsports.3.tr" tvg-name="beIN SPORTS 3" tvg-logo="https://tinyurl.com/logo7b33" group-title="FREESHOT",beIN SPORTS 3
+https://tfms-xyz-free.lxf69343.workers.dev/id=beINSPORTS3TR
+#EXTINF:-1 tvg-id="Beinsports.4.tr" tvg-name="beIN SPORTS 4" tvg-logo="https://tinyurl.com/logo7b4" group-title="FREESHOT",beIN SPORTS 4
+https://tfms-xyz-free.lxf69343.workers.dev/id=BEINSPORT4TR
+#EXTINF:-1 tvg-id="Beinsports.5.tr" tvg-name="beIN SPORTS 5" tvg-logo="https://tinyurl.com/logo7b55" group-title="FREESHOT",beIN SPORTS 5
+https://tfms-xyz-free.lxf69343.workers.dev/id=beINSPORTS5TR
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.2.tr" tvg-name="Tivibu Spor 2" tvg-logo="https://tinyurl.com/logo7ts2" group-title="FREESHOT",TİVİBU SPOR 2
+https://tfms-xyz-free.lxf69343.workers.dev/id=TivibuSPOR2
+#EXTINF:-1 tvg-id="TİVİBU.SPOR.3.tr" tvg-name="Tivibu Spor 3" tvg-logo="https://tinyurl.com/logo7ts3" group-title="FREESHOT",TİVİBU SPOR 3
+https://tfms-xyz-free.lxf69343.workers.dev/id=TivibuSPOR3
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News UK" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-news-uk.png" group-title="FREESHOT",Sky Sports News UK
+https://tfms-xyz-free.lxf69343.workers.dev/id=skysportsnews
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-main-event-uk.png" group-title="FREESHOT",Sky Sports Main Event
+https://tfms-xyz-free.lxf69343.workers.dev/id=skysportsmainevent
+#EXTINF:-1 tvg-id="SkySp.Fball.uk" tvg-name="Sky Sports Football UK" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-football-uk.png" group-title="FREESHOT",Sky Sports Football UK
+https://tfms-xyz-free.lxf69343.workers.dev/id=SkySportsFootballUK
+#EXTINF:-1 tvg-id="SkySp.PL.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-premier-league-uk.png" group-title="FREESHOT",Sky Sports Premier League
+https://tfms-xyz-free.lxf69343.workers.dev/id=skysportspremierleague
+#EXTINF:-1 tvg-id="SkySp+.uk" tvg-name="Sky Sports+" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-arena-uk.png" group-title="FREESHOT",Sky Sports+
+https://tfms-xyz-free.lxf69343.workers.dev/id=skysportsplus
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis UK" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-tennis-uk.png" group-title="FREESHOT",Sky Sports Tennis UK
+https://tfms-xyz-free.lxf69343.workers.dev/id=skysportstennisuk
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="Sky Sports F1 UK" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-f1-uk.png" group-title="FREESHOT",Sky Sports F1 UK
+https://tfms-xyz-free.lxf69343.workers.dev/id=SkySportsF1
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports MIX UK" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sports-mix-uk.png" group-title="FREESHOT",Sky Sports MIX UK
+https://tfms-xyz-free.lxf69343.workers.dev/id=skysportsmixuk
+#EXTINF:-1 tvg-id="Sky Sports NFL UK" tvg-name="Sky Sports NFL UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-nfl-uk.png" group-title="FREESHOT",Sky Sports NFL UK
+https://tfms-xyz-free.lxf69343.workers.dev/id=skysportsaction
+#EXTINF:-1 tvg-id="laliga-tv.uk" tvg-name="LaLiga TV" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/laligatv-uk.png" group-title="FREESHOT",LaLiga TV
+https://tfms-xyz-free.lxf69343.workers.dev/id=ViaplayLaLigaUK
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT Sports 1 UK" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="FREESHOT",TNT Sports 1 UK
+https://tfms-xyz-free.lxf69343.workers.dev/id=TNT1UK
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT Sports 2 UK" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tnt-sports-2-uk.png" group-title="FREESHOT",TNT Sports 2 UK
+https://tfms-xyz-free.lxf69343.workers.dev/id=tntsports2
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT Sports 3 UK" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tnt-sports-3-uk.png" group-title="FREESHOT",TNT Sports 3 UK
+https://tfms-xyz-free.lxf69343.workers.dev/id=tntsports3
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT Sports 4 UK" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tnt-sports-4-uk.png" group-title="FREESHOT",TNT Sports 4 UK
+https://tfms-xyz-free.lxf69343.workers.dev/id=tntsports4
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1 UK" tvg-logo="https://images.open-epg.com/19131.png" group-title="FREESHOT",Premier Sports 1 UK
+https://tfms-xyz-free.lxf69343.workers.dev/id=PREMIERSPORTS1
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-name="Premier Sports 2 UK" tvg-logo="https://images.open-epg.com/19132.png" group-title="FREESHOT",Premier Sports 2 UK
+https://tfms-xyz-free.lxf69343.workers.dev/id=PREMIERSPORTS2
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cbs-sports-network.png" group-title="FREESHOT",CBS Sports Network
+https://tfms-xyz-free.lxf69343.workers.dev/id=CBSSPORTSNETWORK
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/fox-sports-1-usa.png" group-title="FREESHOT",FS1
+https://tfms-xyz-free.lxf69343.workers.dev/id=FOXSPORTS1
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/fox-sports-2-usa.png" group-title="FREESHOT",FS2
+https://tfms-xyz-free.lxf69343.workers.dev/id=FOXSPORTS2
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN USA" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/espn-usa.png" group-title="FREESHOT",ESPN USA
+https://tfms-xyz-free.lxf69343.workers.dev/id=ESPN
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN 2 USA" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/espn-2-usa.png" group-title="FREESHOT",ESPN 2 USA
+https://tfms-xyz-free.lxf69343.workers.dev/id=ESPN2
+#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN SPORTS USA" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/bein-sports-6.png" group-title="FREESHOT",beIN SPORTS USA
+https://tfms-xyz-free.lxf69343.workers.dev/id=beINSPORTSUS
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tennis-channel-us.png" group-title="FREESHOT",Tennis Channel
+https://tfms-xyz-free.lxf69343.workers.dev/id=TENNISCHANNEL
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/espn-u-usa.png" group-title="FREESHOT",ESPN U
+https://tfms-xyz-free.lxf69343.workers.dev/id=ESPNU
+#EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-name="FOX Deportes" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/fox-deportes.png" group-title="FREESHOT",FOX Deportes
+https://tfms-xyz-free.lxf69343.workers.dev/id=FOXDEPORTES
+#EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tsn1.png" group-title="FREESHOT",TSN1
+https://tfms-xyz-free.lxf69343.workers.dev/id=TSN1
+#EXTINF:-1 tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tsn2.png" group-title="FREESHOT",TSN2
+https://tfms-xyz-free.lxf69343.workers.dev/id=TSN2
+#EXTINF:-1 tvg-id="TSN.3.ca2" tvg-name="TSN3" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tsn3.png" group-title="FREESHOT",TSN3
+https://tfms-xyz-free.lxf69343.workers.dev/id=TSN3
+#EXTINF:-1 tvg-id="TSN.4.ca2" tvg-name="TSN4" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tsn4.png" group-title="FREESHOT",TSN4
+https://tfms-xyz-free.lxf69343.workers.dev/id=TSN4
+#EXTINF:-1 tvg-id="TSN.5.ca2" tvg-name="TSN5" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/tsn5.png" group-title="FREESHOT",TSN5
+https://tfms-xyz-free.lxf69343.workers.dev/id=TSN5
+#EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-name="DAZN LaLiga" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dazn-laliga.png" group-title="FREESHOT",DAZN LaLiga
+https://tfms-xyz-free.lxf69343.workers.dev/id=DAZNLaLiga
+#EXTINF:-1 tvg-id="DAZN.1.es" tvg-name="DAZN 1 ESP" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dazn-1.png" group-title="FREESHOT",DAZN 1 ESP
+https://tfms-xyz-free.lxf69343.workers.dev/id=DAZN1ES
+#EXTINF:-1 tvg-id="DAZN.2.es" tvg-name="DAZN 2 ESP" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dazn-2.png" group-title="FREESHOT",DAZN 2 ESP
+https://tfms-xyz-free.lxf69343.workers.dev/id=DAZN2ES
+#EXTINF:-1 tvg-id="DAZN.3.es" tvg-name="DAZN 3 ESP" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dazn-3.png" group-title="FREESHOT",DAZN 3 ESP
+https://tfms-xyz-free.lxf69343.workers.dev/id=DAZN3ES
+#EXTINF:-1 tvg-id="DAZN.4.es" tvg-name="DAZN 4 ESP" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dazn-4.png" group-title="FREESHOT",DAZN 4 ESP
+https://tfms-xyz-free.lxf69343.workers.dev/id=DAZN4ES
+#EXTINF:-1 tvg-id="M+.Deportes.es" tvg-name="Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/movistar-deportes.png" group-title="FREESHOT",Movistar Deportes
+https://tfms-xyz-free.lxf69343.workers.dev/id=MDEPORTES
+#EXTINF:-1 tvg-id="M+.Liga.de.Campeones.es" tvg-name="Movistar Liga de Campeones" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/movistar-liga-de-campeones.png" group-title="FREESHOT",Movistar Liga de Campeones
+https://tfms-xyz-free.lxf69343.workers.dev/id=MLIGADECAMPEONES
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport IT" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/rai-sport-it.png" group-title="FREESHOT",Rai Sport IT
+https://tfms-xyz-free.lxf69343.workers.dev/id=RAISportIT
+#EXTINF:-1 tvg-id="DAZN.1.it.it" tvg-name="Zona DAZN IT" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/dazn-1.png" group-title="FREESHOT",Zona DAZN IT
+https://tfms-xyz-free.lxf69343.workers.dev/id=ZonaDAZN
+#EXTINF:-1 tvg-id="Sky.Sport.Uno.it" tvg-name="Sky Sport Uno IT" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-uno-it.png" group-title="FREESHOT",Sky Sport Uno IT
+https://tfms-xyz-free.lxf69343.workers.dev/id=SkySportUnoIT
+#EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-name="Sky Sport Calcio IT" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-calcio-it.png" group-title="FREESHOT",Sky Sport Calcio IT
+https://tfms-xyz-free.lxf69343.workers.dev/id=SkySportCalcioIT
+#EXTINF:-1 tvg-id="Sky.Sport.Max.it" tvg-name="Sky Sport Max IT" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-football-it.png" group-title="FREESHOT",Sky Sport Max IT
+https://tfms-xyz-free.lxf69343.workers.dev/id=SkySportMaxIT
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" tvg-name="Sky Sport Tennis IT" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-tennis-it.png" group-title="FREESHOT",Sky Sport Tennis IT
+https://tfms-xyz-free.lxf69343.workers.dev/id=SkySportTennisIT
+#EXTINF:-1 tvg-id="SuperTennis.HD.it" tvg-name="Super Tennis IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/super-tennis-it.png" group-title="FREESHOT",Super Tennis IT
+https://tfms-xyz-free.lxf69343.workers.dev/id=Supertennis
+#EXTINF:-1 tvg-id="Sky.Sport.Austria.1.HD.de" tvg-name="Sky Sport Austria 1" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-austria-1-hd-at.png" group-title="FREESHOT",Sky Sport Austria 1
+https://tfms-xyz-free.lxf69343.workers.dev/id=SkySportAustria
+#EXTINF:-1 tvg-id="Sky.Sport.Mix.de" tvg-name="Sky Sport Mix DE" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-mix-de.png" group-title="FREESHOT",Sky Sport Mix DE
+https://tfms-xyz-free.lxf69343.workers.dev/id=SkySportMixDE
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.de" tvg-name="Sky Sport Tennis DE" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sky-sport-tennis-de.png" group-title="FREESHOT",Sky Sport Tennis DE
+https://tfms-xyz-free.lxf69343.workers.dev/id=SkySportsTennisDE
+#EXTINF:-1 tvg-id="Arena.Premium.1.HD.(RS).rs" tvg-name="Arena Sport 1 Premium" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-1-premium.png" group-title="FREESHOT",Arena Sport 1 Premium
+https://tfms-xyz-free.lxf69343.workers.dev/id=ARENASPORT1PREMIUMRS
+#EXTINF:-1 tvg-id="Arena.Premium.2.HD.(RS).rs" tvg-name="Arena Sport 2 Premium" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-2-premium.png" group-title="FREESHOT",Arena Sport 2 Premium
+https://tfms-xyz-free.lxf69343.workers.dev/id=ARENASPORT2PREMIUMRS
+#EXTINF:-1 tvg-id="Arena.Premium.3.HD.(RS).rs" tvg-name="Arena Sport 3 Premium" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-3-premium.png" group-title="FREESHOT",Arena Sport 3 Premium
+https://tfms-xyz-free.lxf69343.workers.dev/id=ARENASPORT3PREMIUMRS
+#EXTINF:-1 tvg-id="SK.1.HD.(BIH).ba" tvg-name="Sport Klub 1 RS" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-klub-1-serbia.png" group-title="FREESHOT",Sport Klub 1 RS
+https://tfms-xyz-free.lxf69343.workers.dev/id=SPORTKLUB1RS
+#EXTINF:-1 tvg-id="SK.2.HD.(SR/BIH).ba" tvg-name="Sport Klub 2 RS" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-klub-2-serbia.png" group-title="FREESHOT",Sport Klub 2 RS
+https://tfms-xyz-free.lxf69343.workers.dev/id=SPORTKLUB2RS
+#EXTINF:-1 tvg-id="SK.3.HD.(SR/BIH).ba" tvg-name="Sport Klub 3 RS" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-klub-3-serbia.png" group-title="FREESHOT",Sport Klub 3 RS
+https://tfms-xyz-free.lxf69343.workers.dev/id=SPORTKLUB3RS
+#EXTINF:-1 tvg-id="SK.4.HD.(SR/BIH).ba" tvg-name="Sport Klub 4 RS" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/sport-klub-4-serbia.png" group-title="FREESHOT",Sport Klub 4 RS
+https://tfms-xyz-free.lxf69343.workers.dev/id=SPORTKLUB4RS
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" tvg-name="Arena Sport 1 CR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-1.png" group-title="FREESHOT",Arena Sport 1 CR
+https://tfms-xyz-free.lxf69343.workers.dev/id=ARENASPORT1HR
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.hr" tvg-name="Arena Sport 2 CR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-2.png" group-title="FREESHOT",Arena Sport 2 CR
+https://tfms-xyz-free.lxf69343.workers.dev/id=ARENASPORT2HR
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.hr" tvg-name="Arena Sport 3 CR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-3.png" group-title="FREESHOT",Arena Sport 3 CR
+https://tfms-xyz-free.lxf69343.workers.dev/id=ARENASPORT3HR
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-name="Arena Sport 4 CR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/arena-sport-4.png" group-title="FREESHOT",Arena Sport 4 CR
+https://tfms-xyz-free.lxf69343.workers.dev/id=ARENASPORT4HR
+#EXTINF:-1 tvg-id="Arena.Sport.5.HD.hr" tvg-name="Arena Sport 5 CR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/croatia/arena-sport-5-hr.png" group-title="FREESHOT",Arena Sport 5 CR
+https://tfms-xyz-free.lxf69343.workers.dev/id=ARENASPORT5HR
+#EXTINF:-1 tvg-id="Arena.Sport.6.HD.hr" tvg-name="Arena Sport 6 CR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/croatia/arena-sport-6-hr.png" group-title="FREESHOT",Arena Sport 6 CR
+https://tfms-xyz-free.lxf69343.workers.dev/id=ARENASPORT6HR
+#EXTINF:-1 tvg-id="Arena.Sport.7.HD.hr" tvg-name="Arena Sport 7 CR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/croatia/arena-sport-7-hr.png" group-title="FREESHOT",Arena Sport 7 CR
+https://tfms-xyz-free.lxf69343.workers.dev/id=ARENASPORT7HR
+#EXTINF:-1 tvg-id="Arena.Sport.8.HD.hr" tvg-name="Arena Sport 8 CR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/croatia/arena-sport-8-hr.png" group-title="FREESHOT",Arena Sport 8 CR
+https://tfms-xyz-free.lxf69343.workers.dev/id=ARENASPORT8HR
+#EXTINF:-1 tvg-id="Polsat.Sport.pl" tvg-name="Polsat Sport 1" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/polsat-sport-poland.png" group-title="FREESHOT",Polsat Sport 1
+https://tfms-xyz-free.lxf69343.workers.dev/id=POLSATSPORTPL
+#EXTINF:-1 tvg-id="ESPN.1.nl" tvg-name="ESPN 1 NL" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/espn-1.png" group-title="FREESHOT",ESPN 1 NL
+https://tfms-xyz-free.lxf69343.workers.dev/id=ESPN1NL
+#EXTINF:-1 tvg-id="ESPN.2.nl" tvg-name="ESPN 2 NL" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/espn-2.png" group-title="FREESHOT",ESPN 2 NL
+https://tfms-xyz-free.lxf69343.workers.dev/id=ESPN2NL
+#EXTINF:-1 tvg-id="Novasports.Start.gr" tvg-name="Nova Sports Start GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-start-gr.png" group-title="FREESHOT",Nova Sports Start GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=NOVASPORTSST
+#EXTINF:-1 tvg-id="Novasports.Premier.League.gr" tvg-name="Nova Sports Premier League GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-premier-league.png" group-title="FREESHOT",Nova Sports Premier League GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=NOVASPORTSPL
+#EXTINF:-1 tvg-id="Novasports.Prime.gr" tvg-name="Nova Sports Prime GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-prime-gr.png" group-title="FREESHOT",Nova Sports Prime GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=NOVASPORTSPR
+#EXTINF:-1 tvg-id="Novasports1.gr" tvg-name="Nova Sports 1 GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-1-gr.png" group-title="FREESHOT",Nova Sports 1 GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=NOVASPORTS1
+#EXTINF:-1 tvg-id="Novasports2.gr" tvg-name="Nova Sports 2 GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-2-gr.png" group-title="FREESHOT",Nova Sports 2 GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=NOVASPORTS2
+#EXTINF:-1 tvg-id="Novasports3.gr" tvg-name="Nova Sports 3 GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-3-gr.png" group-title="FREESHOT",Nova Sports 3 GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=NOVASPORTS3
+#EXTINF:-1 tvg-id="Novasports4.gr" tvg-name="Nova Sports 4 GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-4-gr.png" group-title="FREESHOT",Nova Sports 4 GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=NOVASPORTS4
+#EXTINF:-1 tvg-id="Novasports5.gr" tvg-name="Nova Sports 5 GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-5-gr.png" group-title="FREESHOT",Nova Sports 5 GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=NOVASPORTS5
+#EXTINF:-1 tvg-id="Novasports6.gr" tvg-name="Nova Sports 6 GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/nova-sports-6-gr.png" group-title="FREESHOT",Nova Sports 6 GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=NOVASPORTS6
+#EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" tvg-name="Cosmote Sport 1 GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-1.png" group-title="FREESHOT",Cosmote Sport 1 GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=COSMOTESPORT1
+#EXTINF:-1 tvg-id="COSMOTE.Sport.2.HD.gr" tvg-name="Cosmote Sport 2 GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-2.png" group-title="FREESHOT",Cosmote Sport 2 GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=COSMOTESPORT2
+#EXTINF:-1 tvg-id="COSMOTE.Sport.3.HD.gr" tvg-name="Cosmote Sport 3 GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-3.png" group-title="FREESHOT",Cosmote Sport 3 GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=COSMOTESPORT3
+#EXTINF:-1 tvg-id="COSMOTE.Sport.4.HD.gr" tvg-name="Cosmote Sport 4 GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-4.png" group-title="FREESHOT",Cosmote Sport 4 GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=COSMOTESPORT4
+#EXTINF:-1 tvg-id="COSMOTE.Sport.5.HD.gr" tvg-name="Cosmote Sport 5 GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-5.png" group-title="FREESHOT",Cosmote Sport 5 GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=COSMOTESPORT5
+#EXTINF:-1 tvg-id="COSMOTE.Sport.6.HD.gr" tvg-name="Cosmote Sport 6 GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-6.png" group-title="FREESHOT",Cosmote Sport 6 GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=COSMOTESPORT6
+#EXTINF:-1 tvg-id="COSMOTE.Sport.7.HD.gr" tvg-name="Cosmote Sport 7 GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-7.png" group-title="FREESHOT",Cosmote Sport 7 GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=COSMOTESPORT7
+#EXTINF:-1 tvg-id="COSMOTE.Sport.8.HD.gr" tvg-name="Cosmote Sport 8 GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-8.png" group-title="FREESHOT",Cosmote Sport 8 GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=COSMOTESPORT8
+#EXTINF:-1 tvg-id="COSMOTE.Sport.9.HD.gr" tvg-name="Cosmote Sport 9 GR" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/cosmote-sport-9.png" group-title="FREESHOT",Cosmote Sport 9 GR
+https://tfms-xyz-free.lxf69343.workers.dev/id=COSMOTESPORT9
+#EXTINF:-1 tvg-id="DIGI.Sport.1.(HD).ro" tvg-name="Digi Sport 1 RO" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/digi-sport-1.png" group-title="FREESHOT",Digi Sport 1 RO
+https://tfms-xyz-free.lxf69343.workers.dev/id=DIGISPORT1
+#EXTINF:-1 tvg-id="DIGI.Sport.2.(HD).ro" tvg-name="Digi Sport 2 RO" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/digi-sport-2.png" group-title="FREESHOT",Digi Sport 2 RO
+https://tfms-xyz-free.lxf69343.workers.dev/id=DIGISPORT2
+#EXTINF:-1 tvg-id="DIGI.Sport.3.(HD).ro" tvg-name="Digi Sport 3 RO" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/digi-sport-3.png" group-title="FREESHOT",Digi Sport 3 RO
+https://tfms-xyz-free.lxf69343.workers.dev/id=DIGISPORT3
+#EXTINF:-1 tvg-id="DIGI.Sport.4.(HD).ro" tvg-name="Digi Sport 4 RO" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/digi-sport-4.png" group-title="FREESHOT",Digi Sport 4 RO
+https://tfms-xyz-free.lxf69343.workers.dev/id=DIGISPORT4
+#EXTINF:-1 tvg-id="Setanta Sports 1.ru" tvg-name="Setanta Sports 1 RU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Setanta_Sports_1_2023.svg/revision/latest/scale-to-width-down/300?cb=20230804042515" group-title="FREESHOT",Setanta Sports 1 RU
+https://tfms-xyz-free.lxf69343.workers.dev/id=Setanta1RU
+#EXTINF:-1 tvg-id="Setanta Sports 2.ru" tvg-name="Setanta Sports 2 RU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Setanta_Sports_2_2023.svg/revision/latest?cb=20230804053337" group-title="FREESHOT",Setanta Sports 2 RU
+https://tfms-xyz-free.lxf69343.workers.dev/id=Setanta2RU
+#EXTINF:-1 tvg-id="Матч! Футбол 1.ru" tvg-name="Match Football 1 RU" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/match-football-1-ru.png" group-title="FREESHOT",Match Football 1 RU
+https://tfms-xyz-free.lxf69343.workers.dev/id=MatchTV
+#EXTINF:-1 tvg-id="Матч! Футбол 2.ru" tvg-name="Match Football 2 RU" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/match-football-2-ru.png" group-title="FREESHOT",Match Football 2 RU
+https://tfms-xyz-free.lxf69343.workers.dev/id=MatchTV2
+#EXTINF:-1 tvg-id="Матч! Футбол 3.ru" tvg-name="Match Football 3 RU" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/logos/match-football-3-ru.png" group-title="FREESHOT",Match Football 3 RU
+https://tfms-xyz-free.lxf69343.workers.dev/id=MatchTV3
+#EXTINF:-1 tvg-id="" tvg-name="Setanta Sports KZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Setanta_Sport_RU.png/revision/latest?cb=20220714215421" group-title="FREESHOT",Setanta Sports KZ
+https://tfms-xyz-free.lxf69343.workers.dev/id=SetantaKZ
