@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/all/epg.xml.gz"
+#EXTM3U
 
 #EXTINF:-1 channel-id="mjh-sky-hgtv" tvg-id="mjh-sky-hgtv" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/hgtv/logos/default.png" tvg-chno="19" group-title="Nz" , HGTV
 pipe://ffmpeg -loglevel fatal -probesize 10M -analyzeduration 0 -fpsprobesize 0 -headers user-agent:\ otg/1.5.1\ (AppleTv\ Apple\ TV\ 4;\ tvOS16.0;\ appletv.client)\ libcurl/7.58.0\ OpenSSL/1.0.2o\ zlib/1.2.11\ clib/1.8.56\r\nseekable:\ 0\r\nreferer:\ \ \r\n -i https://i.mjh.nz/.r/sky-hgtv.m3u8 -vcodec copy -acodec copy -metadata service_name=mjh-sky-hgtv -f mpegts pipe:1
