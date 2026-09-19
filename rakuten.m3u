@@ -1,519 +1,139 @@
 #EXTM3U
-#EXTINF:-1,CNN International (EU)
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,EuroNews 1 (EU)
-https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,EuroNews 8 (EU)
-https://rakuten-euronews-8-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,EuroNews 10 (EU)
-https://rakuten-euronews-10-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,EuroNews 11 (EU)
-https://rakuten-euronews-11-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,EuroNews 12 (EU)
-https://rakuten-euronews-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,EuroNews 13 (EU)
-https://rakuten-euronews-13-eu.rakuten.wurl.tv/playlist.m3u8	
-#EXTINF:-1,Guardian (EU)
-https://rakuten-guardian-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Hollywire (EU)
-https://hollywire-samsung-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Popsugar
-https://groupnine-popsugar-rakuten.amagi.tv/playlist.m3u8	
-#EXTINF:-1,AfricaNews (EU) 
-https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Reuters (EU)
-https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Planet Knowledge (EU)
-https://vod365-planet-knowledge-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,People are awesome (EU)
-https://jukin-peopleareawesome-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Fashion TV (EU)
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fuel TV (EU)
-https://fueltv-fueltv-10-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Travel XP (EU)
-https://travelxp-travelxp-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,AFV Family (EU)
-https://futuretoday-afv-family-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Motor1 TV (EU)
-https://motorsportnetwork-motor1tv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Surf Channel (EU)
-https://surfchannel-surfchannel-01-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,FTF (EU)
-https://ftf-forthefans-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,MavTV (EU)
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Tankee (EU)
-https://playworksdigital-tankee-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,PlayWorks (EU)
-https://playworksdigital-playworks-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Destination TV (EU)
-https://makingitmedia-destinationtv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,The Design Network (EU)
-https://thedesignnetwork-tdn-6-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Bonappetit
-https://bonappetit-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Ifood.tv (EU)
-https://futuretoday-ifoodtv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,BITE
-https://parademedia-bite-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Tastemade (International)
-https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8	
-#EXTINF:-1,Tastemade (ES)
-https://tastemade-es8tm-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Tastemade TDGM
-https://tastemade-tdgmn-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,BBC Travel (EU)
-https://bbceu-bbctravel-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,BBC History (EU)
-https://bbceu-bbchistory-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,BBC Food (EU)
-https://bbceu-food-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,BBC Travel (DE)
-https://bbceu-bbctravel-1-de.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,BBC Food (DE)
-https://bbceu-food-1-de.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,BBC Drama (FR)
-https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8	
-#EXTINF:-1,BBC Doctor Who (FR)
-https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,BBC Drama (IT)
-https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8	
-#EXTINF:-1,BBC Doctor Who (IT)
-https://bbceu-doctorwho-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,BBC Travel (EU)
-https://bbceu-bbctravel-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,BBC Doctor Who (ES)
-https://bbceu-doctorwho-2-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,BBC Drama (ES)
-https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Beano TV (EU)
-https://beanostudios-beanotv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Radical Docs (EU)
-https://quintus-radicaldocs-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Halloelterrn (EU)
-https://targetvideo-parenting-media-halloeltern-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Horse and Country free (UK)
-https://hncfree-rakutenuk.amagi.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (EU)
-https://jukin-weatherspy-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,FailArmy International (EU)
-https://failarmy-international-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Vitor The Boatshow (EU)
-https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Zoo Moo (EU)
-https://rockentertainment-zoomoo-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies 1 (EU)
-https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies 2 (EU)
-https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies 3 (EU)
-https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action Movies 5 (EU)
-https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies 6 (EU)
-https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies 7 (EU)
-https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action Movies 1 (EU)
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action Movies 2 (EU)
-https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action Movies 3 (EU)
-https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action Movies 5 (EU)
-https://rakuten-actionmovies-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action Movies 6 (EU)
-https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action Movies 7 (EU)
-https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight 1 (EU)
-https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight 2 (EU)
-https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight 3 (EU)
-https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight 4 (EU)
-https://rakuten-spotlight-4-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight 5 (EU)
-https://rakuten-spotlight-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight 6 (EU)
-https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight 7 (EU)
-https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight 8 (EU)
-https://rakuten-spotlight-8-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight 9 (EU)
-https://rakuten-spotlight-9-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight 10 (EU)
-https://rakuten-spotlight-10-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight 11 (EU)
-https://rakuten-spotlight-11-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight 11 (NO)
-https://rakuten-spotlight-11-no.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight 12 (EU)
-https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight 12 (FI)
-https://rakuten-spotlight-12-fi.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight 13 (EU)
-https://rakuten-spotlight-13-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Drama 8 (EU)
-https://rakuten-drama-8-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Drama 9 (EU)
-https://rakuten-drama-9-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Drama 10 (EU)
-https://rakuten-drama-10-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Drama 11 (EU)
-https://rakuten-drama-11-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Drama 12 (EU)
-https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Drama 13 (EU)
-https://rakuten-drama-13-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows 1 (EU)
-https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows 2 (EU)
-https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows 3 (EU)
-https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows 4 (EU)
-https://rakuten-tvshows-4-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows 5 (EU)
-https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows 6 (EU)
-https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows 7 (EU)
-https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Top Free 1 (EU)
-https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Top Free 2 (EU)
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Top Free 3 (EU)
-https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Top Free 6 (EU)
-https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Top Free 7 (EU)
-https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family 1 (EU)
-https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family 2 (EU)
-https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family 3 (EU)
-https://rakuten-family-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family 4 (EU)
-https://rakuten-family-4-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family 5 (EU)
-https://rakuten-family-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family 6 (EU)
-https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family 7 (EU)
-https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family 8 (EU)
-https://rakuten-family-8-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family 9 (EU)
-https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family 10 (EU)
-https://rakuten-family-10-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family 11 (EU)
-https://rakuten-family-11-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family 11 (NO)
-https://rakuten-family-11-no.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family 12 (EU)
-https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family 12 (FI)
-https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family 13 (EU)
-https://rakuten-family-13-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family 16 (EU)
-https://rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Romance 1 (EU)
-https://rakuten-romance-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Romance 2 (EU)
-https://rakuten-romance-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Romance 3 (EU)
-https://rakuten-romance-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Romance 6 (EU)
-https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Romance 7 (EU)
-https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Thriller 1 (EU)
-https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Thriller 2 (EU)
-https://rakuten-thriller-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Thriller 3 (EU)
-https://rakuten-thriller-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Thriller 6 (EU)
-https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Thriller 7 (EU)
-https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action 8 (EU)
-https://rakuten-action-8-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action 9 (EU)
-https://rakuten-action-9-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action 10 (EU)
-https://rakuten-action-10-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action 11 (EU)
-https://rakuten-action-11-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action 12 (EU)
-https://rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action 13 (EU)
-https://rakuten-action-13-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy 8 (EU)
-https://rakuten-comedy-8-eu.rakuten.wurl.tv/playlist.m3u8	
-#EXTINF:-1,Rakuten Comedy 9 (EU) Danish Subs
-https://rakuten-comedy-9-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy 10 (EU) Danish Subs
-https://rakuten-comedy-10-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy 11 (EU) Danish Subs
-https://rakuten-comedy-11-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy 12 (EU)
-https://rakuten-comedy-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy 13 (EU)
-https://rakuten-comedy-13-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Documentaries 4 (EU) German subs
-https://rakuten-documentaries-4-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Documentaries 5 (EU)
-https://rakuten-documentaries-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Documentaries 6 (EU)
-https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Documentaries 7 (EU)
-https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Documentaries 8 (EU)
-https://rakuten-documentaries-8-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Documentaries 9 (EU)
-https://rakuten-documentaries-9-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Documentaries 10 (EU)
-https://rakuten-documentaries-10-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Documentaries 11 (EU)
-https://rakuten-documentaries-11-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Documentaries 12 (EU)
-https://rakuten-documentaries-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Documentaries 13 (EU)
-https://rakuten-documentaries-13-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Documentaries 16 (EU)
-https://rakuten-documentaries-16-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Filmzie (EU) 
-https://filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Filmstream (EU)
-https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Top Film (EU)
-https://rakuten-gratis-topfilm-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective International (EU)
-https://the-pet-collective-international-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Froo TV (EU)
-https://outtv-froottv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Bloomberg (EU)
-https://bloomberg-bloomberg-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Bloomberg Quicktake (EU)
-https://bloomberg-quicktake-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Forbes (EU)
-https://bfc-forbes-1-eu.rakuten.wurl.tv/playlist.m3u8	
-#EXTINF:-1,Dry Bar Comedy (EU)
-https://drybar-drybarcomedy-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Edgesports rest of the world
-https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Revry News (EU)
-https://revry-revrynews-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Revry 2 (EU)
-https://revry-revry-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Revry 3 (EU)
-https://revry-revry-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Lacrosse Sport Network (EU)
-https://asermedia-lacrossesportsnetwork-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Billiards TV (EU)
-https://newidco-billiardstv-1-eu.rakuten.wurl.tv/playlist.m3u8	
-#EXTINF:-1,Boo Gaming (EU)
-https://arcade-cloud-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,VennTV (EU)
-https://venntv-rakuteneu.amagi.tv/playlist.m3u8
-#EXTINF:-1,Got Game (EU)
-https://gghubsrl-gotgame-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Duck TV (EU)
-https://mmm-ducktv-4-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Happy Kids -1 (EU)
-https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Happy Kids -2 (EU)
-https://futuretoday-happykids-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Lego Channel (EU)
-https://futuretoday-thelegochannel-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Teletubbies 1 (EU)
-https://dhx-teletubbies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Teletubbies 2 (EU)
-https://dhx-teletubbies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Teletubbies 3 (EU)
-https://dhx-teletubbies-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Caillou (EU)
-https://dhx-caillou-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Baby Shark TV (EU)
-https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Travel XP (EU)
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Viki (EU) 
-https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Sofy TV
-https://sofytv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Lonestar
-https://lonestar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Luxe TV (UK)
-https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Luxe TV (Fr)
-https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Humanity Documentaries (UK)
-https://alchimie-humanity-documentaries-uk-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Humanity Documentaries (Fr)
-https://alchimie-humanity-documentaries-fr-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Humanity Documentaries (It)
-https://alchimie-humanity-documentaries-it-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,MMA TV
-https://alchimie-mmatv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Brat TV
-https://brat-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Insight TV (English)
-https://insighttv-eng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Inwonder (English)
-https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Insight TV (German)
-https://insighttv-ger-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Inwonder (German)
-https://inwonder-ger-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,InTrouble
-https://introuble-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Qwest jazz
-https://qwestjazz-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Qwest Classic
-https://qwestclassic-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Qwest Mix
-https://qwestmix-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Young Hollywood
-https://younghollywood-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Clubbing TV
-https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Moviesphere UK
-https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Rush Street
-https://rushstreet-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Comedy Dynamics
-https://comedydynamics-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,ESTV
-https://estv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,EuroNews (Spain)
-https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,BBC Drama (Spain)
-https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,DR WHO (Spain)
-https://bbceu-doctorwho-2-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Mytime (Spain)
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,InsightTV (Spain)
-https://insighttv-spa-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Runtime (Spain)
-https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Cine (EU) (Spanish)
-https://rakuten-cine-espanol-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Darkmatter (Spanish)
-https://darkmatter-spanish-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Kino (German)
-https://rakuten-deutsches-kino-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Cinema Segretto (EU) (Italy)
-https://minerva-cinemasegreto-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Bizzaro Movies (EU) (Italy)
-https://minerva-bizzarromovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Classico (EU) (Italy)
-https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Krime (French subs)
-https://alchimie-krime-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,iHola Play (EU) 
-https://rakuten-hola-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Wonder
-https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Real Crime
-https://lds-realcrime-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Real Families
-https://lds-realfamilies-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Real Wild
-https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Timeline
-https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Don't Tell the Bride
-https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Huippuelokuvat -Top Movies (EU)
-https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gratisfilmer (EU)
-https://rakuten-gratisfilmer-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Top Film (EU) (Denmark)
-https://rakuten-toppfilmer-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,WildEarth
-https://wildearth-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,TalkRadio TV
-https://newsuk-talkradiotv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Explore by TVPlayer (Uk)
-https://alchimie-explorebytvplayer-uk-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Explore by TVPlayer (ES)
-https://alchimie-explorebytvplayer-es-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Explore by TVPlayer (Fr)
-https://alchimie-explorebytvplayer-fr-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Tennis Channel (Deu) Geo
-https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Tennis Channel International (Geo)
-https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Cnn International (GB) LG
-https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight (GB Subs) LG
-https://rakuten-spotlight-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Actionmovies (GB Subs) LG
-https://rakuten-actionmovies-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows (GB Subs) LG
-https://rakuten-tvshows-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies (GB Subs) LG
-https://rakuten-comedymovies-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Viki (GB) LG
-https://newidco-rakutenviki-2-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight (ES Subs) LG
-https://rakuten-spotlight-2-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Actionmovies (ES Subs) LG
-https://rakuten-actionmovies-2-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows (ES Subs) LG
-https://rakuten-tvshows-2-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies (ES Subs) LG
-https://rakuten-comedymovies-2-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Viki (ES) LG
-https://newidco-rakutenviki-2-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Hola 2 (ES subs) LG
-https://rakuten-hola-2-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,CNN International LG
-https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight (DE Subs) LG
-https://rakuten-spotlight-3-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Actionmovies (DE Subs) LG
-https://rakuten-actionmovies-3-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows (DE Subs) LG
-https://rakuten-tvshows-3-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies (DE Subs) LG
-https://rakuten-comedymovies-3-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Viki (DE) LG
-https://newidco-rakutenviki-2-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Horse and Country Free (DE)
-https://hncfree-rakutende.amagi.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight (IT Subs) LG
-https://rakuten-spotlight-6-it.lg.wurl.tv/playlist.m3u8	
-#EXTINF:-1,Rakuten Actionmovies (IT Subs) LG
-https://rakuten-actionmovies-6-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows (IT Subs) LG
-https://rakuten-tvshows-6-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies (IT Subs) LG
-https://rakuten-comedymovies-6-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Viki (IT) LG
-https://newidco-rakutenviki-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight (FR Subs) LG
-https://rakuten-spotlight-7-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Actionmovies (FR Subs) LG
-https://rakuten-actionmovies-7-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows (FR Subs) LG	
-https://rakuten-tvshows-7-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies (FR Subs) LG
-https://rakuten-comedymovies-7-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Viki (FR) LG
-https://newidco-rakutenviki-1-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Viki (US) LG
-https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Real Crime Beta
-https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="france-24-en" tvg-chno="910" group-title="Novidades", France 24 FAST English
+# Channel ID: france-24-en
+#EXTINF:-1 tvg-id="newsworld" tvg-chno="894" group-title="Novidades", NewsWorld
+# Channel ID: newsworld
+#EXTINF:-1 tvg-id="cgtn" tvg-chno="893" group-title="Novidades", CGTN
+# Channel ID: cgtn
+#EXTINF:-1 tvg-id="africanews-eng" tvg-chno="892" group-title="Novidades", Africanews
+# Channel ID: africanews-eng
+#EXTINF:-1 tvg-id="bloomberg-tv-plus" tvg-chno="888" group-title="Novidades", Bloomberg TV+
+# Channel ID: bloomberg-tv-plus
+#EXTINF:-1 tvg-id="bloomberg-originals-new" tvg-chno="887" group-title="Novidades", Bloomberg Originals
+# Channel ID: bloomberg-originals-new
+#EXTINF:-1 tvg-id="the-reuters-60" tvg-chno="881" group-title="Novidades", The Reuters 60
+# Channel ID: the-reuters-60
+#EXTINF:-1 tvg-id="euronews-live-por" tvg-chno="877" group-title="Novidades", Euronews LIVE
+# Channel ID: euronews-live-por
+#EXTINF:-1 tvg-id="cgtn-documentary" tvg-chno="831" group-title="Docs & Factual", CGTN Documentary
+# Channel ID: cgtn-documentary
+#EXTINF:-1 tvg-id="wedo-big-stories-por" tvg-chno="827" group-title="Docs & Factual", wedo Big Stories
+# Channel ID: wedo-big-stories-por
+#EXTINF:-1 tvg-id="weather-spy-new" tvg-chno="820" group-title="Docs & Factual", Weather Spy
+# Channel ID: weather-spy-new
+#EXTINF:-1 tvg-id="documentaries-rakuten-tv" tvg-chno="804" group-title="Docs & Factual", Documentários - Rakuten TV
+# Channel ID: documentaries-rakuten-tv
+#EXTINF:-1 tvg-id="filmrise-forensic-files-por" tvg-chno="758" group-title="Crime & Mystery", Detetives Médicos
+# Channel ID: filmrise-forensic-files-por
+#EXTINF:-1 tvg-id="barbie-friends-rakuten-tv" tvg-chno="632" group-title="Kids", Barbie & Friends
+# Channel ID: barbie-friends-rakuten-tv
+#EXTINF:-1 tvg-id="pingu-rakuten-tv" tvg-chno="631" group-title="Kids", Pingu
+# Channel ID: pingu-rakuten-tv
+#EXTINF:-1 tvg-id="el-reino-infantil-por" tvg-chno="615" group-title="Kids", O Reino Infantil
+# Channel ID: el-reino-infantil-por
+#EXTINF:-1 tvg-id="winx-club-pt" tvg-chno="614" group-title="Kids", Winx Club TV
+# Channel ID: winx-club-pt
+#EXTINF:-1 tvg-id="baby-shark-tv" tvg-chno="610" group-title="Kids", Baby Shark TV
+# Channel ID: baby-shark-tv
+#EXTINF:-1 tvg-id="family-rakuten-tv" tvg-chno="604" group-title="Kids", Em família - Rakuten TV
+# Channel ID: family-rakuten-tv
+#EXTINF:-1 tvg-id="stingray-total-hits-pt" tvg-chno="565" group-title="Música", Stingray Total Hits Portugal
+# Channel ID: stingray-total-hits-pt
+#EXTINF:-1 tvg-id="stingray-fado-classics-pt" tvg-chno="564" group-title="Música", Stingray Fado Classics
+# Channel ID: stingray-fado-classics-pt
+#EXTINF:-1 tvg-id="qello-concerts-by-stingray" tvg-chno="560" group-title="Música", Qello Concerts by Stingray
+# Channel ID: qello-concerts-by-stingray
+#EXTINF:-1 tvg-id="that-s-90s00s" tvg-chno="559" group-title="Música", That's 90s00s
+# Channel ID: that-s-90s00s
+#EXTINF:-1 tvg-id="that-s-rock" tvg-chno="552" group-title="Música", That's ROCK
+# Channel ID: that-s-rock
+#EXTINF:-1 tvg-id="that-s-80s" tvg-chno="551" group-title="Música", That's 80s
+# Channel ID: that-s-80s
+#EXTINF:-1 tvg-id="that-s-70s" tvg-chno="550" group-title="Música", That's 70s
+# Channel ID: that-s-70s
+#EXTINF:-1 tvg-id="movie-music-by-stingray" tvg-chno="548" group-title="Música", Movie Music By Stingray
+# Channel ID: movie-music-by-stingray
+#EXTINF:-1 tvg-id="stingray-remember-the-80-s" tvg-chno="543" group-title="Música", Stingray: Remember the 80’s
+# Channel ID: stingray-remember-the-80-s
+#EXTINF:-1 tvg-id="stingray-greatest-hits" tvg-chno="541" group-title="Música", Stingray Greatest Hits
+# Channel ID: stingray-greatest-hits
+#EXTINF:-1 tvg-id="deluxe-lounge-hd" tvg-chno="539" group-title="Música", Deluxe Lounge HD
+# Channel ID: deluxe-lounge-hd
+#EXTINF:-1 tvg-id="qwest-tv" tvg-chno="538" group-title="Música", Qwest TV
+# Channel ID: qwest-tv
+#EXTINF:-1 tvg-id="metal-rocks" tvg-chno="537" group-title="Música", Metal.Rocks
+# Channel ID: metal-rocks
+#EXTINF:-1 tvg-id="gusto-tv-new" tvg-chno="470" group-title="Culinária", Gusto TV
+# Channel ID: gusto-tv-new
+#EXTINF:-1 tvg-id="daystar-eng" tvg-chno="446" group-title="Lifestyle", Daystar TV
+# Channel ID: daystar-eng
+#EXTINF:-1 tvg-id="daystar-spa" tvg-chno="445" group-title="Lifestyle", Daystar Español
+# Channel ID: daystar-spa
+#EXTINF:-1 tvg-id="5-minutes-craft-en" tvg-chno="428" group-title="Lifestyle", 5-Minute Crafts
+# Channel ID: 5-minutes-craft-en
+#EXTINF:-1 tvg-id="stingray-naturescape" tvg-chno="424" group-title="Lifestyle", Stingray Naturescape
+# Channel ID: stingray-naturescape
+#EXTINF:-1 tvg-id="travelxp-pt" tvg-chno="409" group-title="Lifestyle", Travelxp
+# Channel ID: travelxp-pt
+#EXTINF:-1 tvg-id="the-design-network-new" tvg-chno="399" group-title="Lifestyle", The Design Network
+# Channel ID: the-design-network-new
+#EXTINF:-1 tvg-id="fashion-tv" tvg-chno="397" group-title="Lifestyle", Fashion TV
+# Channel ID: fashion-tv
+#EXTINF:-1 tvg-id="nascar" tvg-chno="376" group-title="Sports", NASCAR
+# Channel ID: nascar
+#EXTINF:-1 tvg-id="tennis-plus" tvg-chno="372" group-title="Sports", Tennis+
+# Channel ID: tennis-plus
+#EXTINF:-1 tvg-id="red-bull-tv-en" tvg-chno="369" group-title="Sports", Red Bull TV
+# Channel ID: red-bull-tv-en
+#EXTINF:-1 tvg-id="racer-international" tvg-chno="365" group-title="Sports", RACER International
+# Channel ID: racer-international
+#EXTINF:-1 tvg-id="world-of-free-sports-en" tvg-chno="363" group-title="Sports", World of Freesports
+# Channel ID: world-of-free-sports-en
+#EXTINF:-1 tvg-id="pfl-mma" tvg-chno="360" group-title="Sports", PFL MMA
+# Channel ID: pfl-mma
+#EXTINF:-1 tvg-id="sports-illustrated-tv" tvg-chno="355" group-title="Sports", Sports Illustrated TV
+# Channel ID: sports-illustrated-tv
+#EXTINF:-1 tvg-id="eurovision-sport" tvg-chno="354" group-title="Sports", Eurovision Sport
+# Channel ID: eurovision-sport
+#EXTINF:-1 tvg-id="world-surf-league" tvg-chno="353" group-title="Sports", World Surf League 24/7
+# Channel ID: world-surf-league
+#EXTINF:-1 tvg-id="world-cruise-channel-old-sportoutdoor-tv-eng" tvg-chno="348" group-title="Sports", World Cruise Channel
+# Channel ID: world-cruise-channel-old-sportoutdoor-tv-eng
+#EXTINF:-1 tvg-id="world-poker-tour" tvg-chno="342" group-title="Sports", World Poker Tour
+# Channel ID: world-poker-tour
+#EXTINF:-1 tvg-id="glory-kickboxing" tvg-chno="341" group-title="Sports", GLORY Kickboxing
+# Channel ID: glory-kickboxing
+#EXTINF:-1 tvg-id="billiards-tv" tvg-chno="338" group-title="Sports", World Billiards TV
+# Channel ID: billiards-tv
+#EXTINF:-1 tvg-id="inter-24-7-eng" tvg-chno="333" group-title="Sports", INTER 24/7
+# Channel ID: inter-24-7-eng
+#EXTINF:-1 tvg-id="man-city-24-7" tvg-chno="330" group-title="Sports", Man City 24/7
+# Channel ID: man-city-24-7
+#EXTINF:-1 tvg-id="fifa-plus-pt-new" tvg-chno="328" group-title="Sports", FIFA+
+# Channel ID: fifa-plus-pt-new
+#EXTINF:-1 tvg-id="top-barca-eng" tvg-chno="327" group-title="Sports", TOP Barça
+# Channel ID: top-barca-eng
+#EXTINF:-1 tvg-id="jukin-fail-army-new" tvg-chno="209" group-title="Entretenimento", Fail Army
+# Channel ID: jukin-fail-army-new
+#EXTINF:-1 tvg-id="revry" tvg-chno="206" group-title="Entretenimento", Revry
+# Channel ID: revry
+#EXTINF:-1 tvg-id="people-are-awesome-new" tvg-chno="197" group-title="Entretenimento", People Are Awesome
+# Channel ID: people-are-awesome-new
+#EXTINF:-1 tvg-id="the-pet-collective-new" tvg-chno="196" group-title="Entretenimento", The Pet Collective
+# Channel ID: the-pet-collective-new
+#EXTINF:-1 tvg-id="porta-tv" tvg-chno="167" group-title="Programas de TV", PortaTV
+# Channel ID: porta-tv
+#EXTINF:-1 tvg-id="mr-bean-live-action" tvg-chno="144" group-title="Programas de TV", Mr. Bean - Live Action
+# Channel ID: mr-bean-live-action
+#EXTINF:-1 tvg-id="rakuten-viki-new" tvg-chno="131" group-title="Programas de TV", Rakuten VIKI
+# Channel ID: rakuten-viki-new
+#EXTINF:-1 tvg-id="filmrise-highway-to-heaven-pt" tvg-chno="128" group-title="Programas de TV", O Homem que Veio do Céu
+# Channel ID: filmrise-highway-to-heaven-pt
+#EXTINF:-1 tvg-id="wedotv-pele-salvagem" tvg-chno="127" group-title="Programas de TV", wedotv Pele Salvagem
+# Channel ID: wedotv-pele-salvagem
+#EXTINF:-1 tvg-id="filmrise-z-nation-por" tvg-chno="114" group-title="Programas de TV", Z Nation
+# Channel ID: filmrise-z-nation-por
+#EXTINF:-1 tvg-id="lone-star-new" tvg-chno="44" group-title="Filmes", Lone Star
+# Channel ID: lone-star-new
+#EXTINF:-1 tvg-id="top-movies-rakuten-tv" tvg-chno="0" group-title="Filmes", Top Movies - Rakuten TV
+# Channel ID: top-movies-rakuten-tv
