@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CLOUDING TV",CLOUDING TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+#EXTINF:-1 tvg-name="XTREME TV",XTREME TV
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+#EXTINF:-1 tvg-name="TV CHANNEL NETWORK",TV CHANNEL NETWORK
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
+#EXTINF:-1 tvg-name="REDE BRASIL",REDE BRASIL
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="TV AMPLITUDE JUARA (Record MT)",TV AMPLITUDE JUARA (Record MT)
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-name="TV SONATA",TV SONATA
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+#EXTINF:-1 tvg-name="TV TROPICAL (Record RN)",TV TROPICAL (Record RN)
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
+#EXTINF:-1 tvg-name="BS-TV ONLINE",BS-TV ONLINE
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
+#EXTINF:-1 tvg-name="TV CLÁSSICOS DO CINEMA",TV CLÁSSICOS DO CINEMA
+https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
+#EXTINF:-1 tvg-name="TELA BRASIL TV",TELA BRASIL TV
+https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+#EXTINF:-1 tvg-name="OTAKU SIGN TV",OTAKU SIGN TV
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:-1 tvg-name="RECORD NEWS",RECORD NEWS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 tvg-name="TV WEB SÃO LUIS CANOAS RS",TV WEB SÃO LUIS CANOAS RS
+https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
+#EXTINF:-1 tvg-name="TV MIURA",TV MIURA
+https://live20.bozztv.com/giatvplayout7/giatv-209397/playlist.m3u8
+#EXTINF:-1 tvg-name="TV SANTA",TV SANTA
+https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8
+#EXTINF:-1 tvg-name="TV LATINASAT",TV LATINASAT
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1 tvg-name="REDE TV! PARANÁ",REDE TV! PARANÁ
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-name="TV ARACATI",TV ARACATI
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 tvg-name="REVIVA TV",REVIVA TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+#EXTINF:-1 tvg-name="TV ONE (TV Meio Norte PA)",TV ONE (TV Meio Norte PA)
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 tvg-name="LOADING TV",LOADING TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-name="TV MAIS BRASIL",TV MAIS BRASIL
+https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+#EXTINF:-1 tvg-name="WORDING TV",WORDING TV
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
+#EXTINF:-1 tvg-name="CLASSIQUE TV SÉRIES",CLASSIQUE TV SÉRIES
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-name="LUCAS TV",LUCAS TV
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+#EXTINF:-1 tvg-name="TV NBT (Rede NGT PA)",TV NBT (Rede NGT PA)
+https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
+#EXTINF:-1 tvg-name="TV POMPEIA",TV POMPEIA
+https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
+#EXTINF:-1 tvg-name="MBC BRASIL TV",MBC BRASIL TV
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+#EXTINF:-1 tvg-name="GLN TV",GLN TV
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:-1 tvg-name="REDE NGT",REDE NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-name="CLASSIQUE TV",CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-name="PLAYMAX TV",PLAYMAX TV
+https://stmv2.srvsh.com.br/daniel5336/daniel5336/playlist.m3u8
+#EXTINF:-1 tvg-name="TV ARAPUAN (Band PB)",TV ARAPUAN (Band PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-name="TV ALIANÇA",TV ALIANÇA
+https://video08.logicahost.com.br/alianca/alianca/playlist.m3u8
+#EXTINF:-1 tvg-name="TV CULTURA",TV CULTURA
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
+

@@ -1,0 +1,327 @@
+#EXTM3U
+#EXTINF:None,Primer TV
+http://177.74.174.57:8080/hls/primertv.m3u8
+#EXTINF:None,Soul Lab
+http://34.95.200.150:8888/soultv/soultv/index.m3u8
+#EXTINF:None,Onda Digital TV
+http://live.ondadigitaltv.com/ODTV/index.m3u8
+#EXTINF:None,TV Educar
+http://v1.comunicabh.com.br/tveducar/tveducar/playlist.m3u8
+#EXTINF:None,TV Marataizes
+https://247788.global.ssl.fastly.net/68ad1a7c724a6928f050ebba/live_809e4d1087af11f092f8f727f1f0bfd4/index.m3u8
+#EXTINF:None,40 gtv
+https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
+#EXTINF:None,Tv Nordestina
+https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8
+#EXTINF:None,TV Litoral RN
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+#EXTINF:None,TV CNB
+https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/playlist.m3u8
+#EXTINF:None,CNB American TV
+https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/playlist.m3u8
+#EXTINF:None,TV Diário do Sertão
+https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
+#EXTINF:None,Tv Mogiana
+https://a.cdni.live/mogianaonline4773/mogianaonline4773/playlist.m3u8
+#EXTINF:None,Tv Verdade
+https://acesso.ecast.site:3104/hybrid/play.m3u8
+#EXTINF:None,TV SBN
+https://acesso.ecast.site:3500/hybrid/play.m3u8
+#EXTINF:None,RIT TV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:None,Tv Nova Nordeste
+https://acesso.ecast.site:3675/live/novatvlive.m3u8
+#EXTINF:None,Canal do Boi
+https://aovivo3.equipea.com.br:5443/aovivort/streams/OSCJWX8rDkLrgW7A488545952175222.m3u8
+#EXTINF:None,AWTV
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:None,TV Judaica
+https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8
+#EXTINF:None,TV Votorantim
+https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8
+#EXTINF:None,COM BRASIL
+https://br5093.streamingdevideo.com.br:8081/abc/abc/playlist.m3u8
+#EXTINF:None,Br Global Station
+https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8
+#EXTINF:None,TV Portuguesa
+https://cdn-origin-sp.smartbit.co/tvportuguesa/index.m3u8
+#EXTINF:None,THELED E
+https://cdn-ssai-dev.smartbit.co/sp/theledextrema/index.m3u8
+#EXTINF:None,THELED M
+https://cdn-ssai-dev.smartbit.co/sp/theledmooca/index.m3u8
+#EXTINF:None,THELED P
+https://cdn-ssai-dev.smartbit.co/sp/theledpinheiro/index.m3u8
+#EXTINF:None,Amazon Sat
+https://cdn-tiva-amazonsat-brasilstream-com-br.smartbit.co/hls/amazonsat/index.m3u8
+#EXTINF:None,Rede Metrópole
+https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8
+#EXTINF:None,Tv Adorar
+https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8
+#EXTINF:None,Rede Gramado
+https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvgramado/index.m3u8
+#EXTINF:None,Astral TV
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/astraltv/index.m3u8
+#EXTINF:None,Rede NGT TV
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/ngt/index.m3u8
+#EXTINF:None,Play TV
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/playtv/index.m3u8
+#EXTINF:None,TV Meio
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8
+#EXTINF:None,TV da Pesca
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/tvdapesca/index.m3u8
+#EXTINF:None,VGS TV
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/vgstv/index.m3u8
+#EXTINF:None,BH TV
+https://cdn-tiva-sc1-wasidata-com.smartbit.co/Bhtv/video.m3u8
+#EXTINF:None,CANAL START
+https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8
+#EXTINF:None,TV Florida
+https://cdn-tiva-srv6-zcast-com-br.smartbit.co/tvfloridausa/tvfloridausa/playlist.m3u8
+#EXTINF:None,TV Alagoinha
+https://cdn-tiva-stmv-jnbhost-com-br.smartbit.co/tvalagoinha/tvalagoinha/playlist.m3u8
+#EXTINF:None,D+ TV
+https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:None,TV Marcheti
+https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/junior4319/junior4319/playlist.m3u8
+#EXTINF:None,TV Erga Omnes
+https://cdn-tiva-stmv1-srvif-com.smartbit.co/grupoergaomnes/grupoergaomnes/playlist.m3u8
+#EXTINF:None,Canal TVC
+https://cdn-tiva-stmv1-voxtvhd-com-br.smartbit.co/canaltvc/canaltvc/playlist.m3u8
+#EXTINF:None,Rede Premium TV
+https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8
+#EXTINF:None,Hip Hop Vai Além TV
+https://cdn-tiva-stmv4-voxtvhd-com-br.smartbit.co/carlosdavi6787/carlosdavi6787/playlist.m3u8
+#EXTINF:None,Tv Metropolitana Rio
+https://cdn-tiva-stmv5-samcast-com-br.smartbit.co/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:None,TV Ondas Play
+https://cdn-tiva-stmv5-samcast-com-br.smartbit.co/portalondasdemarica/portalondasdemarica/playlist.m3u8
+#EXTINF:None,TV Alternativa
+https://cdn-tiva-stmv5-samcast-com-br.smartbit.co/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:None,WTV Brasil
+https://cdn-tiva-stmv7-samcast-com-br.smartbit.co/wtvbrasil/wtvbrasil/playlist.m3u8
+#EXTINF:None,GLN TV
+https://cdn-tiva-stmv8-samcast-com-br.smartbit.co/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:None,BH Channel
+https://cdn-tiva-stmv8-samcast-com-br.smartbit.co/jcbrasil7363/jcbrasil7363/playlist.m3u8
+#EXTINF:None,Tv Estilo
+https://cdn-tiva-stmv8-samcast-com-br.smartbit.co/tvestilo/tvestilo/playlist.m3u8
+#EXTINF:None,TV Mais Brasil
+https://cdn-tiva-stmv8-samcast-com-br.smartbit.co/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+#EXTINF:None,Canal 25
+https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8
+#EXTINF:None,TV Itapê
+https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/tvitape/live.m3u8
+#EXTINF:None,Tv Evangelizar
+https://cdn-tiva-tvevangelizar-brasilstream-com-br.smartbit.co/hls/tvevangelizar/index.m3u8
+#EXTINF:None,Bem Melhor
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8
+#EXTINF:None,Auge TV
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8
+#EXTINF:None,POA Streaming TV
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/poastreaming/poastreaming/playlist.m3u8
+#EXTINF:None,RAE TV
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/raetv/raetv/playlist.m3u8
+#EXTINF:None,TV A Folha
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:None,TV COM
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/tvcomsantos/tvcomsantos/playlist.m3u8
+#EXTINF:None,TVídeoNews
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/tvideonews/tvideonews/chunklist.m3u8
+#EXTINF:None,Viva e Eduque
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
+#EXTINF:None,Republic
+https://cdn-tiva-video01-soultv-com-br.smartbit.co/republic/republic/playlist.m3u8
+#EXTINF:None,TV Onix
+https://cdn-tiva-video01-soultv-com-br.smartbit.co/tvonix/tvonix/playlist.m3u8
+#EXTINF:None,Viajando pelo Brasil
+https://cdn-tiva-video01-soultv-com-br.smartbit.co/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+#EXTINF:None,Coletiva TV
+https://cdn-tiva-video02-logicahost-com-br.smartbit.co/coletivatv/coletivatv/playlist.m3u8
+#EXTINF:None,TV Petrópolis
+https://cdn-tiva-video02-logicahost-com-br.smartbit.co/tvpetropolis/tvpetropolis/playlist.m3u8
+#EXTINF:None,TV Rio Preto
+https://cdn-tiva-video02-logicahost-com-br.smartbit.co/tvriopreto/tvriopreto/playlist.m3u8
+#EXTINF:None,WTJ TV
+https://cdn-tiva-video02-logicahost-com-br.smartbit.co/wtjtvminas/wtjtvminas/playlist.m3u8
+#EXTINF:None,TV Carioca Net
+https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/cariocainternacional1/playlist.m3u8
+#EXTINF:None,DM Kids TV
+https://cdn-tiva-video03-logicahost-com-br.smartbit.co/dmkidstv/dmkidstv/playlist.m3u8
+#EXTINF:None,Assim é Portugal
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/assimeportugal/assimeportugal/playlist.m3u8
+#EXTINF:None,Peru Channel
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/entertainmentplay/entertainmentplay/playlist.m3u8
+#EXTINF:None,Hackathon Brasil TV
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/hackathonbrasil/hackathonbrasil/playlist.m3u8
+#EXTINF:None,TV Sonata
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/isonata/isonata/playlist.m3u8
+#EXTINF:None,GMC TV
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/motionbrasiltv/motionbrasiltv/playlist.m3u8
+#EXTINF:None,Pet Lovers TV
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:None,Play TV Horse
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/playtvhorse/playtvhorse/playlist.m3u8
+#EXTINF:None,Sou + Pop TV
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/soumaispop/soumaispop/playlist.m3u8
+#EXTINF:None,TV Avivando Nações
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
+#EXTINF:None,TV Nova MT
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/tvnovaweb/tvnovaweb/playlist.m3u8
+#EXTINF:None,TV PAMPA
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:None,TV Reconcavo
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/tvreconcavo/tvreconcavo/playlist.m3u8
+#EXTINF:None,Extremo Oriental TV
+https://cdn-tiva-video05-logicahost-com-br.smartbit.co/extremotv/extremotv/playlist.m3u8
+#EXTINF:None,RS SPORTS
+https://cdn-tiva-video07-logicahost-com-br.smartbit.co/rssports01/rssports01/playlist.m3u8
+#EXTINF:None,RS SPORTS 2
+https://cdn-tiva-video07-logicahost-com-br.smartbit.co/rssports02/rssports02/playlist.m3u8
+#EXTINF:None,RS SPORTS 3
+https://cdn-tiva-video07-logicahost-com-br.smartbit.co/rssports03/rssports03/playlist.m3u8
+#EXTINF:None,Vambora Channel
+https://cdn-tiva-video07-logicahost-com-br.smartbit.co/vamborachannel/vamborachannel/playlist.m3u8
+#EXTINF:None,FMTV
+https://cdn-tiva-video08-logicahost-com-br.smartbit.co/fmtvbr/fmtvbr/playlist.m3u8
+#EXTINF:None,Kanuca TV Brasil
+https://cdn-tiva-video08-logicahost-com-br.smartbit.co/kanucatv/kanucatv/playlist.m3u8
+#EXTINF:None,Lider TV
+https://cdn-tiva-video08-logicahost-com-br.smartbit.co/lidertvssp/lidertvssp/playlist.m3u8
+#EXTINF:None,Bem + TV
+https://cdn-tiva-video09-logicahost-com-br.smartbit.co/bemmaistv01/bemmaistv01/playlist.m3u8
+#EXTINF:None,Rede Brasil
+https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:None,TV Rede Mais Familia
+https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redefamilia/redefamilia/playlist.m3u8
+#EXTINF:None,TV Gazin
+https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8
+#EXTINF:None,TV MAX
+https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvmax/tvmax/playlist.m3u8
+#EXTINF:None,TV Notícias Agrícolas
+https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
+#EXTINF:None,ISTV
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/playlist.m3u8
+#EXTINF:None,Séries Classic
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
+#EXTINF:None,Tv História
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvhistoria/tvhistoria/playlist.m3u8
+#EXTINF:None,TV Mon HD
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvmon/tvmon/playlist.m3u8
+#EXTINF:None,Tv Amplitude Juara
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:None,Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:None,Tv Zoom
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:None,Tv Amplitude Juína
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:None,America TV
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12962/playlist/playlist.m3u8
+#EXTINF:None,Tv Londres
+https://cdn.tvlondres.com/8744_push_3653_001/05a4e5d3c1769a61f8350e4fc677a4a5.sdp/playlist.m3u8
+#EXTINF:None,ATV
+https://csm-e-yopoc1-live-usw2-eb.bln1.yospace.com/csm/extlive/smartbitdev01,cdn2-origin-sp-atv-abr.m3u8
+#EXTINF:None,Kpop TV
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:None,SescTV
+https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVlZGUxLWMyM2MtNzA3OC04ZjJhLTI1Zjk4MmE5ZmM5MS8iLCJ1aWQiOiIwMTk3YTg1Ni02NGEzLTczODMtYWFjNC04MWJkYzkyMWRhOWYiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1MDg3NTkyMywiaWF0IjoxNzUwODc1OTIzLCJleHAiOjE3ODI0MTE5MjMsImp0aSI6IjAxOTdhODU2LTY0YTMtNzM4My1hYWM0LTgxYmRjOTIxZGE5ZiIsImlzcyI6IlNwYWxsYSJ9.KKL0LO-BSzObn8Kykfu4Q2Xv-MPWWD14fv8LXuuE4rs
+#EXTINF:None,TV Clube
+https://isaocorp.cloudecast.com/recon/index.m3u8
+#EXTINF:None,Latina TEST INTERNO
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=f9a1a2fa53ae03fa661a018b91154208&amp;sid=ba5t1l1xb219765137496823a472d5e82&amp;ndvc=0
+#EXTINF:None,TV IN
+https://live.tvinterior.com.br/hls/stream.m3u8
+#EXTINF:None,Alpha Channel TV
+https://maystreaming.cloudecast.com/alphachannel/index.m3u8
+#EXTINF:None,Tv Ponta da Serra
+https://playout.hubcloud.tv.br:3977/hybrid/play.m3u8
+#EXTINF:None,REISEN CLUBE TV
+https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
+#EXTINF:None,Conexão TV
+https://pop.uniquetv.com.br/tvconexao/video.m3u8
+#EXTINF:None,TV Planalto Norte
+https://pop.uniquetv.com.br/tvplanaltonorte/video.m3u8
+#EXTINF:None,Unique Sports
+https://pop.uniquetv.com.br/uniquesports1/video.m3u8
+#EXTINF:None,Unique TV
+https://pop.uniquetv.com.br/uniquetv/video.m3u8
+#EXTINF:None,Record News
+https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:None,VRT Channel
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+#EXTINF:None,Bitt TV
+https://srt.logicahost.com.br/memfs/f3d27992-7c26-4e18-bd88-e35ce3850065_output_0.m3u8
+#EXTINF:None,TV Correio do Imbé
+https://srv2.tvmais.net.br/hls/tvcorreio/index.m3u8
+#EXTINF:None,TV Potengi
+https://stmv1.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
+#EXTINF:None,Blits TV
+https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
+#EXTINF:None,TV Folha do Campo
+https://stmv1.transmissaodigital.com/folha-do-campo/folha-do-campo/playlist.m3u8
+#EXTINF:None,Q Tal Channel
+https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8
+#EXTINF:None,Rede QDM
+https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
+#EXTINF:None,Atitude New
+https://stmv1.transmissaodigital.com/tvatitudenew/tvatitudenew/playlist.m3u8
+#EXTINF:None,Kids Mais
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
+#EXTINF:None,OK TV
+https://stmv2.srvsh.com.br/douglas5010/douglas5010/playlist.m3u8
+#EXTINF:None,TV + Pet
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+#EXTINF:None,TV Sertão
+https://stmv7.samcast.com.br/tvsertao/tvsertao/playlist.m3u8
+#EXTINF:None,Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:None,Tv Life America
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+#EXTINF:None,TV Rabelo
+https://stv1.ipstm.net:3080/stream/play.m3u8
+#EXTINF:None,Tv Aurora
+https://tv.redeaurora.com.br/public/Index.m3u8
+#EXTINF:None,Central TV
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+#EXTINF:None,Rede TV Paraná
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:None,Masper TV
+https://tv02.zas.media:1936/masper/masper/playlist.m3u8
+#EXTINF:None,Tenda TV
+https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
+#EXTINF:None,TV Conquista
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
+#EXTINF:None,TV Difusão
+https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
+#EXTINF:None,Tv Grande Natal HDTV
+https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
+#EXTINF:None,UMA TV
+https://umatv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:None,Rede UTV Brasil
+https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
+#EXTINF:None,Veza TV
+https://vezatv.mediastreaming.com.br/vezatv/live.stream/playlist.m3u8
+#EXTINF:None,TV Surubim
+https://video01.brascast.com/antonio9510/antonio9510/playlist.m3u8
+#EXTINF:None,AG Tv
+https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
+#EXTINF:None,SBC
+https://video01.brascast.com/rede1250/rede1250/playlist.m3u8
+#EXTINF:None,Rede SDP TV
+https://video01.brascast.com/rede8652/rede8652/playlist.m3u8
+#EXTINF:None,ABBA RTV
+https://video01.kshost.com.br/adilson8953/adilson8953/playlist.m3u8
+#EXTINF:None,AMC PLAY TV
+https://video01.kshost.com.br/andre4742/andre4742/playlist.m3u8
+#EXTINF:None,TV Liberdade
+https://video01.kshost.com.br/eberson6273/eberson6273/playlist.m3u8
+#EXTINF:None,Nova TV Agrotour
+https://video01.kshost.com.br/marcelo7614/marcelo7614/playlist.m3u8
+#EXTINF:None,Rede SP TV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:None,Roraima TV
+https://video06.logicahost.com.br/roraimatv/roraimatv/playlist.m3u8
+#EXTINF:None,TV O Repórter
+https://video11.logicahost.com.br/jornaloreporter/jornaloreporter/playlist.m3u8
+#EXTINF:None,Vivax
+https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8

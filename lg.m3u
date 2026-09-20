@@ -33,6 +33,42 @@ https://amg02051-soulpublishing-amg02051c18-lg-mx-559.playouts.now.amagi.tv/play
 https://amg02051-soulpublishing-amg02051c3-lg-pe-587.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgpe/playlist.m3u8
 #EXTINF:-1,5 Minute Crafts Spanish (PE) Alt
 https://amg02051-soulpublishing-amg02051c18-lg-pe-560.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgpe/playlist.m3u8
+#EXTINF:-1,5 ABC (US) Geo
+https://amg01438-ewscripps-amg01438c1-lg-us-4351.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,KATC 3 ABC (US) Geo
+https://amg01438-ewscripps-amg01438c4-lg-us-4348.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,ABC 10 News (US) Geo
+https://amg01438-ewscripps-amg01438c6-lg-us-4346.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,2 News Oklahoma (US) Geo
+https://amg01438-ewscripps-amg01438c8-lg-us-4344.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,3 KMTV (US) Geo 
+https://amg01438-ewscripps-amg01438c9-lg-us-4343.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fox 13 (US) Geo
+https://amg01438-ewscripps-amg01438c10-lg-us-4342.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,KOAA News 5 (US) Geo
+https://amg01438-ewscripps-amg01438c11-lg-us-4341.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,KSBY 6 (US) Geo
+https://amg01438-ewscripps-amg01438c17-lg-us-4336.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,ABC 13 (US) Geo
+https://amg01438-ewscripps-amg01438c18-lg-us-4335.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,7 ABC (US) Geo
+https://amg01438-ewscripps-amg01438c19-lg-us-4334.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,7 ABC WKBW (US)
+https://amg01438-ewscripps-amg01438c20-lg-us-4333.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Lex 18 (US) Geo
+https://amg01438-ewscripps-amg01438c21-lg-us-4332.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,NewsChannel 5 (US) Geo
+https://amg01438-ewscripps-amg01438c25-lg-us-4328.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,9 ABC WCPO (US) Geo
+https://amg01438-ewscripps-amg01438c29-lg-us-4324.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,7 ABC Denver (US) Geo
+https://amg01438-ewscripps-amg01438c34-lg-us-4319.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,scripps news? only?
+https://amg01438-ewscripps-amg01438c35-lg-us-4318.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,MTN News (US)
+https://amg01438-ewscripps-amg01438c36-lg-us-4317.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fox 17 (US) Geo
+https://amg01438-ewscripps-amg01438c37-lg-us-4316.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,APB News (IN) Geo
 https://amg01043-abpnewsnetwork-amg01043c2-lg-in-2042.playouts.now.amagi.tv/playlist/amg01043-abpnewsnetwork-abpnews-lgin/playlist.m3u8
 #EXTINF:-1,APB News Ananda (IN) Geo
@@ -45,6 +81,8 @@ https://amg01043-abpnewsnetwork-amg01043c2-lg-in-2042.playouts.now.amagi.tv/play
 https://accuweatherx-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,Accuweather Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/accuweath-accuweather-lg/playlist.m3u8
+#EXTINF:-1,Adrenalina Plus (BR)
+https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Adventure Earth (AU)
 https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Adventure Earth (FI)
@@ -61,35 +99,29 @@ https://autentic-adventure-earth-1-nl.lg.wurl.tv/playlist.m3u8
 https://autentic-adventure-earth-1-no.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Adventure Earth (SE)
 https://autentic-adventure-earth-1-se.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Africa News (AT)
-https://rakuten-africanews-1-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Africa News (CH)
-https://rakuten-africanews-1-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Africa News (DE)
-https://rakuten-africanews-1-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Africa News (ES)
-https://rakuten-africanews-1-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Africa News (FR)
-https://rakuten-africanews-2-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Africa News (GB)
-https://rakuten-africanews-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Africa News (IT)
-https://rakuten-africanews-1-it.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Agora TV (BR)
 https://agoratv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1,Air and Space (FI)
+https://wingspan-airandspace-1-fi.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Air and Space (GB)
+https://wingspan-airandspace-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Air and Space (IE)
+https://wingspan-airandspace-1-ie.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Air and Space (NL)
+https://wingspan-airandspace-1-nl.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Air and Space (SE)
+https://wingspan-airandspace-1-se.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,All Real (US) Geo
 https://banijay-allreal-lg-us.amagi.tv/playlist.m3u8
 #EXTINF:-1,All Real alt (US) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/lgAAAAAAA-banijay-allreal-lg-us/playlist.m3u8
-#EXTINF:-1,Alter Horror (US) Geo
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-alter-lgus/playlist.m3u8
 #EXTINF:-1,Alleskino (AT)
 https://lighthousehomeentertainment-alleskino-1-at.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Alleskino (DE)
 https://lighthousehomeentertainment-alleskino-1-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Americas Test Kitchen (CA)
+#EXTINF:-1,Americas Test Kitchen (CA) Geo
 https://amg01420-amg01420c1-lg-ca-2490.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-americastestkitchen-lgca/playlist.m3u8
-#EXTINF:-1,Americas Test Kitchen (US)
+#EXTINF:-1,Americas Test Kitchen (US) Geo
 https://amg01420-americastestkitchen-amg01420c1-lg-us-1280.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-americastestkitchen-lgus/playlist.m3u8
 #EXTINF:-1,AMC All Reality (US)
 https://amc-absolutereality-1-us.lg.wurl.tv/playlist.m3u8
@@ -115,10 +147,6 @@ https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
 https://amogonetworx-artflix-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Artflix (CH)
 https://amogonetworx-artflix-2-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Aspire TV Life (US)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00495-uptv-aspiretvlife-ottstudios/playlist.m3u8
-#EXTINF:-1,At Home with Family Handyman (US)
-https://jukin-homefamilyhandyman-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Autentic History (AU)
 https://autentic-autentichistory-1-au.lg.wurl.tv/playlist.m3u8	
 #EXTINF:-1,Autentic History (DK)
@@ -167,8 +195,18 @@ https://awe-lg.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-awe-lgau/playlist.m3u8
 #EXTINF:-1,Awe Encore
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/oneameric-aweencore-lg/playlist.m3u8
-#EXTINF:-1,Antiques Road Show (US)
+#EXTINF:-1,Antiques Road Show (US) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02333-pbsdistribution-antiquesroadshow-lgus/playlist.m3u8
+#EXTINF:-1,Aventura (US) Geo
+https://amg00136-wbd-amg00136c53-lg-us-5712.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,B4U Movies (IN) Geo
+https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,B4U Music (IN) Geo
+https://amg00877-b4unew-amg00877c3-lg-in-5261.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,B4U Kadak (IN) Geo
+https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Baby Shark TV (AU)
+https://newidco-babysharktv-1-au.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Baby Shark TV (CA)
 https://newidco-babysharktv-1-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Baby Shark TV (DE)
@@ -179,22 +217,24 @@ https://newidco-babysharktv-1-fr.lg.wurl.tv/playlist.m3u8
 https://newidco-babysharktv-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Baby Shark TV (IT)
 https://newidco-babysharktv-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Baby Shark TV (MX)
-https://newidco-babysharktv-2-mx.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Baby Shark TV (US)
 https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bachelor Nation (US) Geo
+https://amg00136-wbd-amg00136c28-lg-us-1932.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvbachelornation-lgus/playlist.m3u8
 #EXTINF:-1,Baywatch (CA) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgca/playlist.m3u8
 #EXTINF:-1,Baywatch (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus/playlist.m3u8
+#EXTINF:-1,BBC Bargain Hunt (US)
+https://bbc-studios-bargainhunt-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,BBC Earth (US)
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1,BBC Impossible (CA)
-https://bbc-impossible-1-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,BBC Impossible (US)
-https://bbc-impossible-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,BBC Top Gear (US)
 https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
+#EXTINF:-1,BBC Top Gear (CA)
+https://amg00793-bbcstudios-amg00793c4-lg-ca-3070.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,BBC Dinos 24x7 (US)
+https://amg00793-amg00793c35-lg-us-6412.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Beano TV (GB)
 https://beanostudios-beanotv-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Bigtjme (GB)
@@ -307,12 +347,10 @@ https://bloomberg-bloombergtv-3-pt.lg.wurl.tv/playlist.m3u8
 https://bloomberg-bloombergtv-1-se.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Bloomberg TV 4K (US)
 https://bloomberg-bloombergtv-2-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Bollywood Prime (AU)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-bollywoodprime-lgau/playlist.m3u8
+#EXTINF:-1,Bodas+ (US) Geo
+https://amg00136-wbd-amg00136c51-lg-us-5709.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Brat TV (CH)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lgch/playlist.m3u8
-#EXTINF:-1,Brat TV (ES)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lges/playlist.m3u8
 #EXTINF:-1,Brat TV (FR)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lgfr/playlist.m3u8
 #EXTINF:-1,Brat TV (GB)
@@ -333,10 +371,18 @@ https://amg02051-soulpublishing-amg02051c16-lg-co-563.playouts.now.amagi.tv/play
 https://amg02051-soulpublishing-amg02051c16-lg-mx-564.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsidespanish-lgmx/playlist.m3u8
 #EXTINF:-1,Brightside Spanish (PE)
 https://amg02051-soulpublishing-amg02051c16-lg-pe-565.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsidespanish-lgpe/playlist.m3u8
+#EXTINF:-1,British Screen Classics (GB) Geo
+https://amg00654-itv-amg00654c22-lg-gb-4066.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,BR Sports (US) Geo
+https://amg00136-wbd-amg00136c43-lg-us-5711.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Boxing (US) Geo
+https://amg00136-wbd-amg00136c41-lg-us-3570.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bondi Vet (AU)
+https://wtfn-bondivet-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Bizzare Foods (US) Geo
+https://amg00136-wbd-amg00136c42-lg-us-5710.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Buzzr (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8
-#EXTINF:-1,Crunchyroll (temp alt source)
-https://gsn-crunchyroll-1-us.anoki.wurl.tv/playlist.m3u8
 #EXTINF:-1,Canal Anime Onegai 1 Portuguese (BR)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11777
 #EXTINF:-1,Canal Anime Onegai 2 Portuguese (BR)
@@ -357,6 +403,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 #EXTINF:-1,Canal Anime Onegai 5 (ES)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+#EXTINF:-1,Canal Rural (BR)
+https://brn-crbr-lg-channels-br.otteravision.com/brn/crbr/crbr.m3u8
+#EXTINF:-1,BR IN TV (BR)
+https://brn-br-lg-channels-br.otteravision.com/brn/bt/bt_h265.m3u8
+#EXTINF:-1,Canela TV Pasion Latina? to id (US) Geo
+https://amg00658-amg00658c3-lg-us-3416.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Canela.TV Hollywood Y Mas (US) Geo
+https://amg00658-amg00658c4-lg-us-3417.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Canela Cinema (AR)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8
 #EXTINF:-1,Canela Cinema (CL)
@@ -387,12 +441,34 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatelenove
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatelenovelas-lgco/playlist.m3u8
 #EXTINF:-1,Canela Telenovelas (PE)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatelenovelas-lgpe/playlist.m3u8
+#EXTINF:-1,CBC Murdoch Mysteries (CA) Geo
+https://amg00788-cbc-amg00788c7-lg-ca-5532.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CBC Heartland (CA) Geo
+https://amg00788-cbc-amg00788c8-lg-ca-5531.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CBC Ottawa (CA) Geo
+https://amg00788-cbc-amg00788c9-lg-ca-5530.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CBC News Nova Scotia (CA) Geo
+https://amg00788-cbc-amg00788c10-lg-ca-5529.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CBC News Quebec (CA) Geo
+https://amg00788-cbc-amg00788c11-lg-ca-5528.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CBC News Calgary (CA) Geo
+https://amg00788-cbc-amg00788c12-lg-ca-5921.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CBC News North (CA) Geo
+https://amg00788-cbc-amg00788c13-lg-ca-5922.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CBC News Edmonton (CA) Geo
+https://amg00788-cbc-amg00788c14-lg-ca-5923.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CBC News Saskatchewan (CA) Geo
+https://amg00788-cbc-amg00788c15-lg-ca-5924.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CBC News Manitoba (CA) Geo
+https://amg00788-cbc-amg00788c16-lg-ca-5925.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CBC News Windsor (CA) Geo
+https://amg00788-cbc-amg00788c17-lg-ca-5926.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CBC News PEI (CA) Geo
+https://amg00788-cbc-amg00788c18-lg-ca-5927.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CBC News PEI other (CA) Geo
+https://amg00788-cbc-amg00788c19-lg-ca-5928.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,CGTV (IT)
 https://cgentertainment-cgtv-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Chicken Soup for the Soul
-https://crackle-chickensoupforthesoul-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,Chicken Soup for the Soul alt Geo
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/crackleAA-chickensoupforthesoul-lg/playlist.m3u8
 #EXTINF:-1,Chili Alta Tensione
 https://chili-chili-alta-tensione-1-it.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Chili Buonu more
@@ -401,48 +477,34 @@ https://chili-chilibuonumore-1-it.lg.wurl.tv/playlist.m3u8
 https://chili-chiliindimenticabili-1-it.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Chili Velvet (IT)
 https://chili-chilivelvet-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Cine Clasico (CL)
+#EXTINF:-1,Christmas Plus (US) Geo
+https://amg02042-ottstudio-amg02042c14-lg-us-6138.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Cine Clasico (CL) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicocl-lgcl/playlist.m3u8
-#EXTINF:-1,Cine Clasico (CO)
+#EXTINF:-1,Cine Clasico (CO) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoco-lgco/playlist.m3u8
-#EXTINF:-1,Cine Clasico (PE)
+#EXTINF:-1,Cine Clasico (PE) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicope-lgpe/playlist.m3u8
 #EXTINF:-1,Cine Sureno (AR)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesurenoar-lgar/playlist.m3u8
-#EXTINF:-1,Cine Sureno (CL)
+#EXTINF:-1,Cine Sureno (CL) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesurenocl-lgcl/playlist.m3u8
-#EXTINF:-1,Cine Sureno (CO)
+#EXTINF:-1,Cine Sureno (CO) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesurenoco-lgco/playlist.m3u8
-#EXTINF:-1,Cine Sureno (PE)
+#EXTINF:-1,Cine Sureno (PE) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesurenope-lgpe/playlist.m3u8
-#EXTINF:-1,Cine Espanol (ES)
-https://rakuten-cine-espanol-1-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Cine Estrella (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
-#EXTINF:-1,Cine Real (CO)
+#EXTINF:-1,Cine Real (CO) Geo
 https://amg01024-olympusat-amg01024c6-lg-co-1130.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-cinereal-lgco/playlist.m3u8
-#EXTINF:-1,Cine Real (CL)
+#EXTINF:-1,Cine Real (CL) Geo
 https://amg01024-olympusat-amg01024c6-lg-cl-1131.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-cinereal-lgcl/playlist.m3u8
-#EXTINF:-1,Cine Real (PE)
+#EXTINF:-1,Cine Real (PE) Geo
 https://amg01024-olympusat-amg01024c6-lg-pe-1132.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-cinereal-lgpe/playlist.m3u8
 #EXTINF:-1,Cinema Segreto (IT)
 https://minerva-cinemasegreto-1-it.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Cinenanar
 https://zylo-cinenanar-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,Cinevault 80s (CA)
-https://gsn-cinevault-80s-1-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Cinevault 80s (US)
-https://gsn-cinevault-80s-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Cinevault Classics (CA)
-https://gsn-cinevault-classics-2-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Cinevault Classics (US)
-https://gsn-cinevault-classics-2-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Cinevault Westerns (CA)
-https://gsn-cinevault-westerns-1-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Cinevault Westerns (US)
-https://gsn-cinevault-westerns-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Classico (IT)
-https://rakuten-classico-1-it.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Clubbing TV (AU)
 https://clubbingtv-lg-au.amagi.tv/playlist.m3u8
 #EXTINF:-1,Clubbing TV (DE) Geo
@@ -451,60 +513,74 @@ https://clubbingtv-lg-de.amagi.tv/playlist.m3u8
 https://clubbingtv-lg-es.amagi.tv/playlist.m3u8
 #EXTINF:-1,Clubbing TV (FR) Geo
 https://clubbingtv-lg-fr.amagi.tv/playlist.m3u8
-#EXTINF:-1,Clubbing TV (IN)
+#EXTINF:-1,Clubbing TV (IN) Geo
 https://amg00413-clubbingtv-amg00413c1-lg-in-2071.playouts.now.amagi.tv/playlist/amg00413-clubbingtvfast-clubbingtv-lgin/playlist.m3u8
-#EXTINF:-1,CNBC (ES)
+#EXTINF:-1,CNBC (ES) Geo
 https://amg01079-nbcuuk-amg01079c1-lg-es-2034.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lges/playlist.m3u8
-#EXTINF:-1,CNBC (UK)
+#EXTINF:-1,CNBC (UK) Geo
 https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcuk-lggb/playlist.m3u8
-#EXTINF:-1,CNBC (DE)
+#EXTINF:-1,CNBC (DE) Geo
 https://amg01079-nbcuuk-amg01079c1-lg-de-2031.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgde/playlist.m3u8
-#EXTINF:-1,CNBC (FR)
+#EXTINF:-1,CNBC (FR) Geo
 https://amg01079-nbcuuk-amg01079c1-lg-fr-2032.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgfr/playlist.m3u8
-#EXTINF:-1,CNBC (IT)
+#EXTINF:-1,CNBC (IT) Geo
 https://amg01079-nbcuuk-amg01079c1-lg-it-2033.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgit/playlist.m3u8
-#EXTINF:-1,CNBC (PT)
+#EXTINF:-1,CNBC (PT) Geo
 https://amg01079-nbcuuk-amg01079c1-lg-pt-2035.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgpt/playlist.m3u8
-#EXTINF:-1,CNN FAST (AT)
+#EXTINF:-1,CNBC Awaaz (IN) Geo
+https://amg00866-amg00866c2-lg-in-3525.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CNBC TV 18 (IN) Geo
+https://amg00866-amg00866c9-lg-in-4409.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CNN Fast (ES)
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CNN Fast (DE) Geo
+https://amg00803-cnnfast-amg00803c6-lg-de-5356.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CNN Fast (GB) Geo
+https://amg00803-cnnfast-amg00803c6-lg-gb-5355.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CNN Brasil (BR) Geo
+https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
+#EXTINF:-1,CNN FAST (AT) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgat/playlist.m3u8
-#EXTINF:-1,CNN FAST (BE)
+#EXTINF:-1,CNN FAST alt (AT)
+https://amg00803-cnnfast-amg00803c6-lg-at-5357.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CNN FAST (BE) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgbe/playlist.m3u8
-#EXTINF:-1,CNN FAST (CH)
+#EXTINF:-1,CNN FAST (CH) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgch/playlist.m3u8
-#EXTINF:-1,CNN FAST (DE)
+#EXTINF:-1,CNN FAST alt (CH)
+https://amg00803-cnnfast-amg00803c6-lg-ch-5358.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CNN FAST (DE) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgde/playlist.m3u8
-#EXTINF:-1,CNN FAST (DK)
+#EXTINF:-1,CNN FAST (DK) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgdk/playlist.m3u8
-#EXTINF:-1,CNN FAST (ES)
+#EXTINF:-1,CNN FAST (ES) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lges/playlist.m3u8
-#EXTINF:-1,CNN FAST (FI)
+#EXTINF:-1,CNN FAST (FI) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgfi/playlist.m3u8
-#EXTINF:-1,CNN FAST (FR)
+#EXTINF:-1,CNN FAST (FR) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgfr/playlist.m3u8
-#EXTINF:-1,CNN FAST (GB)
+#EXTINF:-1,CNN FAST (GB) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lggb/playlist.m3u8
-#EXTINF:-1,CNN FAST (IE)
+#EXTINF:-1,CNN FAST (IE) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgie/playlist.m3u8
-#EXTINF:-1,CNN FAST (IT)
+#EXTINF:-1,CNN FAST (IT) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgit/playlist.m3u8
-#EXTINF:-1,CNN FAST (LU)
+#EXTINF:-1,CNN FAST (LU) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lglu/playlist.m3u8
-#EXTINF:-1,CNN FAST (NL)
+#EXTINF:-1,CNN FAST (NL) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgnl/playlist.m3u8
-#EXTINF:-1,CNN FAST (NO)
+#EXTINF:-1,CNN FAST (NO) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgno/playlist.m3u8
-#EXTINF:-1,CNN FAST (PT)
+#EXTINF:-1,CNN FAST (PT) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgpt/playlist.m3u8
-#EXTINF:-1,CNN FAST (SE)
+#EXTINF:-1,CNN FAST (SE) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgse/playlist.m3u8
-#EXTINF:-1,CNN International (CH)
-https://rakuten-cnninternational-1-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,CNN International (DE)
-https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,CNN International (GB)
-https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Comedias (US) alt
-https://spt-comedias-3-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,CNN (US) Geo
+https://amg01918-cnnus-amg01918c2-lg-us-5721.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CNN Envivo (US) Geo
+https://amg01918-cnnus-amg01918c4-lg-us-5720.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CNN News 18 (IN) Geo
+https://amg00866-amg00866c5-lg-in-3520.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Comedy and Shows (AT) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-comedyandshows-lgat/playlist.m3u8
 #EXTINF:-1,Comedy and Shows (CH) Geo
@@ -519,6 +595,8 @@ https://cinedigm-comedydynamics-lg-us.amagi.tv/playlist.m3u8
 https://spt-competencias-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Cops (AR)
 https://rightsboosterltd-cops-1-ar.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Cops (AU)
+https://langleyproductions-cops-2-au.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Cops (CA)
 https://langleyproductions-cops-2-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Cops (GB)
@@ -535,82 +613,66 @@ https://rightsboosterltd-cops-1-pe.lg.wurl.tv/playlist.m3u8
 https://scripps-courttv-3-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Court TV (US)
 https://scripps-courttv-4-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Crackle
-https://crackle-crackle-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,Craction TV
 https://palatinmedia-cractiontv-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,Crimetime
 https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1,Crimen (US) Geo
+https://amg00136-wbd-amg00136c60-lg-us-5708.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Curiousity Now (CA) Geo
+https://amg00170-amg00170c1-lg-ca-3479.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Curiousity Now (US) Geo
+https://amg00170-amg00170c1-lg-us-3478.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Curiosity Now (AT)
 https://autentic-curiosity-now-1-at.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Curiosity Now (CH)
 https://autentic-curiosity-now-1-ch.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Curiosity Now (DE)
 https://autentic-curiosity-now-1-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Curiosity Now (US)
-https://curiosity-curiosity-now-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Culture Pub (CH) Geo
 https://amg02232-botravail-amg02232c3-lg-ch-778.playouts.now.amagi.tv/playlist/amg02232-botravail-culturepub-lgch/playlist.m3u8
-#EXTINF:-1,Culture Pub (FR) Geo
+#EXTINF:-1,Culture Pub (FR)
 https://amg02232-botravail-amg02232c3-lg-fr-776.playouts.now.amagi.tv/playlist/amg02232-botravail-culturepub-lgfr/playlist.m3u8
 #EXTINF:-1,CTV News (CA) Geo
-https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8
+https://amg00089-bellmedia-amg00089c3-lg-ca-2995.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8
 #EXTINF:-1,CTV Gridlock (CA) Geo
-https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvgridlock-lgca/playlist.m3u8
+https://amg00089-bellmedia-amg00089c7-lg-ca-3103.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvgridlock-lgca/playlist.m3u8
 #EXTINF:-1,CTV Home (CA) Geo
-https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvhome-lgca/playlist.m3u8
+https://amg00089-bellmedia-amg00089c9-lg-ca-3224.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvhome-lgca/playlist.m3u8
 #EXTINF:-1,CTV Laughs (CA) Geo
-https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvlaughs-lgca/playlist.m3u8
+https://amg00089-bellmedia-amg00089c10-lg-ca-3225.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvlaughs-lgca/playlist.m3u8
 #EXTINF:-1,The Mightiest by CTV (CA) Geo
-https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-themightiestbyctv-lgca/playlist.m3u8
+https://amg00089-bellmedia-amg00089c5-lg-ca-3107.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-themightiestbyctv-lgca/playlist.m3u8
 #EXTINF:-1,Corner Gas Channel (CA) Geo
-https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-cornergaschannel-lgca/playlist.m3u8
+https://amg00089-bellmedia-amg00089c4-lg-ca-2996.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-cornergaschannel-lgca/playlist.m3u8
 #EXTINF:-1,Noovo Cinema (CA) Geo
-https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-noovocinema-lgca/playlist.m3u8
+https://amg00089-bellmedia-amg00089c12-lg-ca-3227.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-noovocinema-lgca/playlist.m3u8
 #EXTINF:-1,Noovo Comedies (CA) Geo
-https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-noovocomedies-lgca/playlist.m3u8
+https://amg00089-bellmedia-amg00089c8-lg-ca-3105.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-noovocomedies-lgca/playlist.m3u8
 #EXTINF:-1,Noovo Tele Realities (CA) Geo
-https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-noovotelerealites-lgca/playlist.m3u8
+https://amg00089-bellmedia-amg00089c6-lg-ca-3106.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-noovotelerealites-lgca/playlist.m3u8
 #EXTINF:-1,TSN The Ocho (CA) Geo
 https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-tsntheocho-lgca/playlist.m3u8
 #EXTINF:-1,Dance Moms (US) 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00276-aetelevisionnet-dancemoms-lgus/playlist.m3u8
+#EXTINF:-1,Dance Moms (CA) Geo
+https://amg00276-aenetwork-amg00276c16-lg-ca-3742.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Dance Moms (NO)
+https://amg00276-aenetwork-amg00276c16-lg-no-3755.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,DAZN (CA) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazntv-lgca/playlist.m3u8
-#EXTINF:-1,DAZN Combat (AR) Need replacing
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgar/playlist.m3u8
-#EXTINF:-1,DAZN Combat (BR) Geo Need replacing
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgbr/playlist.m3u8
-#EXTINF:-1,DAZN Combat (FI) Geo Need replacing
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgfi/playlist.m3u8
-#EXTINF:-1,DAZN Combat (FR) Geo Need replacing
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgfr/playlist.m3u8
-#EXTINF:-1,DAZN Combat (MX) Need replacing
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgmx/playlist.m3u8
-#EXTINF:-1,DAZN Combat (NL) Geo Need replacing
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgnl/playlist.m3u8
 #EXTINF:-1,DAZN Fast (DE) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznfast-lgde/playlist.m3u8
 #EXTINF:-1,DAZN Rise (DE) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznrise-lgde/playlist.m3u8
 #EXTINF:-1,DAZN Ringside (US) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznringside-lgus/playlist.m3u8
-#EXTINF:-1,DAZN Womens Sport (AU) Geo Need replacing
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgau/playlist.m3u8
-#EXTINF:-1,Dazn Womens Sports (AR) Geo Need replacing
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgar/playlist.m3u8
-#EXTINF:-1,DAZN Womens Sport (BR) Geo Need replacing
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgbr/playlist.m3u8
-#EXTINF:-1,DAZN Womens Sport (FI) Geo Need replacing
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgfi/playlist.m3u8
-#EXTINF:-1,DAZN Womens Sport (FR) Geo Need replacing
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgfr/playlist.m3u8
-#EXTINF:-1,DAZN Womens Sport (MX) Geo Need replacing
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgmx/playlist.m3u8
-#EXTINF:-1,DAZN Womans Sport (NL) Geo Need replacing
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgnl/playlist.m3u8
-#EXTINF:-1,Dead or no Deal (AU) Geo
+#EXTINF:-1,Deal Masters (GB) Geo
+https://amg00841-aeemea-amg00841c8-lg-gb-3889.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Deal or no Deal (AU) Geo
 https://amg00627-banijay-amg00627c2-lg-au-1972.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodeal-lgau/playlist.m3u8
+#EXTINF:-1,Deal or no Deal alt ?(AU) Geo
+https://amg00627-banijay-amg00627c22-lg-au-3875.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Deal or no Deal (CA) Geo
 https://banijay-dealornodeal-lg-ca.amagi.tv/playlist.m3u8
 #EXTINF:-1,Deal or no Deal (US)
@@ -619,38 +681,62 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/lgAAAAAAA-banijay-dealornodeal-lg-us/p
 https://banijay-dealornodeal-lg-us.amagi.tv/playlist.m3u8
 #EXTINF:-1,Defiance Media (AU)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-defiancemediaau-lgau/playlist.m3u8
+#EXTINF:-1,Defa TV (AT)
+https://wdrmediagroup-defatv-1-at.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Defa TV (CH)
+https://wdrmediagroup-defatv-1-ch.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Defa TV (DE)
+https://wdrmediagroup-defatv-1-de.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Demand Africa
 https://demandafrica-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1,Designated Survivor (US) Geo
+https://amg00353-amg00353c40-lg-us-4998.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Dennis and Gnasher (AU)
 https://beanostudios-dennis-and-gnasher-1-au.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Dennis and Gnasher (GB)
+#EXTINF:-1,Dennis and Gnasher (GB) 
 http://beanostudios-dennis-and-gnasher-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Degrassi (US)
 https://dhx-degrassi-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Divorce Court (US)
+https://foxlincolnwooddrive-divorcecourt-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Docu Plus C7 (US)
+https://amg02040-lguplus-amg02040c7-tcl-us-5113.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Docu Plus C9 (US)
+https://amg02040-lguplus-amg02040c9-tcl-us-6425.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Dog the Bounty Hunter (AU) Geo
+https://amg00276-aenetwork-amg00276c11-lg-au-5154.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Dog the Bounty Hunter (CA) Geo
+https://amg00276-aenetwork-amg00276c11-lg-ca-3645.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Dog the Bounty Hunter (GB) Geo
+https://amg00276-aenetwork-amg00276c11-lg-gb-3748.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Dog the Bounty Hunter (NL) Geo
+https://amg00276-aenetwork-amg00276c11-lg-nl-3749.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Don't Tell the Bride (DK)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-donttellbride-lgdk/playlist.m3u8
 #EXTINF:-1,Don't Tell the Bride (FI)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-donttellbride-lgfi/playlist.m3u8
 #EXTINF:-1,Dont Tell the Bride (NL)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-donttellbride-lgnl/playlist.m3u8
-#EXTINF:-1,Dove now
-https://cinedigm-dovenow-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,Dragnet (US)
-https://lg-dragnet-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Dust (US) Geo
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dust-lgus/playlist.m3u8
+#EXTINF:-1,Duck Dynasty (CA) Geo
+https://amg00276-aenetwork-amg00276c2-lg-ca-3644.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Duck Dynasty (GB) Geo
+https://amg00276-aenetwork-amg00276c2-lg-gb-3751.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Dust International (BE)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlbe-lgbe/playlist.m3u8
-#EXTINF:-1,Dust International (CA)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlca-lgca/playlist.m3u8
-#EXTINF:-1,Dust International (IE)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlie-lgie/playlist.m3u8
-#EXTINF:-1,Eggheads (GB) Geo
-https://amg00654-itv-amg00654c16-lg-gb-2687.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-eggheadsuk-lggb/playlist.m3u8
+#EXTINF:-1,DP World Tour Live (US) Geo
+https://amg12058-c15studio-amg12058c6-lg-us-5876.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,DP World Tour (CA) Geo
+https://amg12058-c15studio-amg12058c6-lg-ca-5914.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Ebony TV by Lionsgate (US) Geo
+https://amg00353-amg00353c34-lg-us-3767.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,El Pais
 https://daiconnect.com/live/hls/tvup/lg-elpais/56f0832110a1bbaecc3a45a27ddba1d9/.m3u8
 #EXTINF:-1,Elray Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/xumo-host-elrey-lg/playlist.m3u8
+#EXTINF:-1,Electric Now (US) Geo
+https://amg01705-amg01705c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-amg01705c1-amgplt0020/playlist.m3u8
+#EXTINF:-1,Electric Now En Espanol Geo
+https://amg01705-amg01705c2-amgplt0020.playout.now3.amagi.tv/playlist/amg01705-amg01705c2-amgplt0020/playlist.m3u8
 #EXTINF:-1,Emotional
 https://zylo-emotional-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,Emotional Geo
@@ -661,68 +747,28 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdecho
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-lgus/playlist.m3u8
 #EXTINF:-1,Estrella TV (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-lgus/playlist.m3u8
-#EXTINF:-1,Euronews via Rakuten (AT)
-https://rakuten-euronews-13-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Euronews via Rakuten (CH)
-https://rakuten-euronews-13-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Euronews via Rakuten (DE)
-https://rakuten-euronews-13-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Euronews via Rakuten (ES)
-https://rakuten-euronews-12-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Euronews via Rakuten (FR)
-https://rakuten-euronews-2-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Euronews via Rakuten (GB)
-https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Euronews via Rakuten (IT)
-https://rakuten-euronews-11-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Euronews World (AU) Geo
+https://amg00882-amg00882c2-lg-au-4259.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Euronews World (NZ)
+https://amg00882-amg00882c2-lg-nz-6872.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Enquetesdechoc (FR)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdechoc-lgfr/playlist.m3u8
+#EXTINF:-1,Entrepreneur TV (US)
+https://cineverse-entrepreneurtv-entrepreneurtv-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Echappeesbelles (FR) Geo
 https://amg02232-botravail-amg02232c1-lg-fr-774.playouts.now.amagi.tv/playlist/amg02232-botravail-echappeesbelles-lgfr/playlist.m3u8
-#EXTINF:-1,Fail Army International(AT)
-https://jukin-failarmy-international-1-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (BE)
-https://jukin-failarmy-international-1-be.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (BR)
-https://jukin-failarmy-international-1-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International(CA)
-https://jukin-failarmy-international-1-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International(CH)
-https://jukin-failarmy-international-1-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (CL)
-https://jukin-failarmy-international-1-cl.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (CO)
-https://jukin-failarmy-international-1-co.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (DE)
-https://jukin-failarmy-international-1-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (ES)
-https://jukin-failarmy-international-1-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (FI)
-https://jukin-failarmy-international-1-fi.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (FR)
-https://jukin-failarmy-international-1-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (GB)
-https://jukin-failarmy-international-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (IE)
-https://jukin-failarmy-international-1-ie.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (IT)
-https://jukin-failarmy-international-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (NL)
-https://jukin-failarmy-international-1-nl.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (MX)
-https://jukin-failarmy-international-1-mx.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (PT)
-https://jukin-failarmy-international-1-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (US)
-https://jukin-failarmy-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (SE)
-https://jukin-failarmy-international-1-se.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (LU)
-https://jukin-failarmy-international-1-lu.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (NO)
-https://jukin-failarmy-international-1-no.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Fail Army International (PE)
-https://jukin-failarmy-international-1-pe.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Evolution Earth (CA) Geo
+https://amg00276-aenetwork-amg00276c15-lg-ca-3643.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Evolution Earth (GB) Geo
+https://amg00276-aenetwork-amg00276c15-lg-gb-5552.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Evolution Earth (NL)
+https://amg00276-aenetwork-amg00276c15-lg-nl-3757.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Evolution Earth (NO) Geo
+https://amg00276-aenetwork-amg00276c15-lg-no-3758.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,F1 TV (US) Geo
+https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Family Feud Classic (CA) Geo
+https://amg00145-amg00145c3-lg-ca-5664.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Fantasy Life (US) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00497-lgelectronicsus-fantasylife-lgus/playlist.m3u8
 #EXTINF:-1,Fashion TV (BE)
@@ -743,6 +789,8 @@ https://fashiontv-fashiontv-5-fr.lg.wurl.tv/playlist.m3u8
 https://fashiontv-fashiontv-5-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Fashion TV (IT)
 https://fashiontv-fashiontv-5-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Fashion TV (LU)
+https://fashiontv-fashiontv-5-lu.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Fashion TV (MX)
 https://fashiontv-fashiontv-5-mx.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Fashion TV (NL)
@@ -759,82 +807,38 @@ https://amg00627-banijay-amg00627c3-lg-au-1971.playouts.now.amagi.tv/playlist/am
 https://banijay-fearfactor-lg-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1,Fear Factor (US) Geo
 https://banijay-fearfactor-lg-us.amagi.tv/playlist.m3u8
-#EXTINF:-1,FIFA Plus (PT)
-https://6953b888.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/playlist.m3u8
-#EXTINF:-1,FIFA Plus (BR)
-https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
-#EXTINF:-1,FIFA Plus (DE)
-https://449f9f9b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZGVfRklGQVBsdXNfSExT/playlist.m3u8
+#EXTINF:-1,Fitdance (IN)
+https://amg17288-offgrid-amg17288c1-lg-in-3161.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Filmelier TV (BR)
+https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Film Gold (CH)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-filmgoldch-lgch/playlist.m3u8
 #EXTINF:-1,Film Gold (DE)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-filmgoldde-lgde/playlist.m3u8
-#EXTINF:-1,Filmstream (AT)
-https://spi-filmstream-1-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Filmstream (BE)
-https://spi-filmstream-1-be.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Filmstream (CH)
-https://spi-filmstream-1-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Filmstream (DE)
-https://spi-filmstream-1-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Filmstream (DK)
-https://spi-filmstream-1-dk.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Filmstream (ES)
-https://spi-filmstream-1-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Filmstream (FI)
-https://spi-filmstream-1-fi.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Filmstream (FR)
-https://spi-filmstream-1-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Filmstream (GB)
-https://spi-filmstream-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Filmstream (IE)
-https://spi-filmstream-1-ie.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Filmstream (IT)
-https://spi-filmstream-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Filmstream (NL)
-https://spi-filmstream-1-nl.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Filmstream (NO)
-https://spi-filmstream-1-no.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Filmstream (PT)
-https://spi-filmstream-1-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Filmstream (SE)
-https://spi-filmstream-1-se.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Filmzie (GB)
 https://filmzie-filmzie-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Flou Caribe (AR)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucaribe-lgar/playlist.m3u8
-#EXTINF:-1,Flou Caribe (AU)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-lgau/playlist.m3u8
-#EXTINF:-1,Flou Caribe (CL)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucaribe-lgcl/playlist.m3u8
-#EXTINF:-1,Flou Caribe (CO)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucaribe-lgco/playlist.m3u8
 #EXTINF:-1,Flou Caribe (MX)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucaribe-lgmx/playlist.m3u8
 #EXTINF:-1,Flou Caribe (PE)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucaribe-lgpe/playlist.m3u8
-#EXTINF:-1,Flou Cine (AR)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucine-lgar/playlist.m3u8
-#EXTINF:-1,Flou Cine (MX)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucine-lgmx/playlist.m3u8
-#EXTINF:-1,Flou Cine (PE)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucine-lgpe/playlist.m3u8
 #EXTINF:-1,Food (CA)
 https://food-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Food (US)
 https://food-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Fox Soul (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-foxsoul-lgus/playlist.m3u8
-#EXTINF:-1,Free TV (CL)
+#EXTINF:-1,Free TV (CL) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-freetvcl-lgcl/playlist.m3u8
-#EXTINF:-1,Free TV (CO)
+#EXTINF:-1,Free TV (CO) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-freetvco-lgco/playlist.m3u8
+#EXTINF:-1,Free TV Accion (AR) Geo
+https://amg01024-olympusat-amg01024c2-lg-ar-1118.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Free TV Banda (AR) Geo
+https://amg01024-olympusat-amg01024c6-lg-ar-1129.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Free Movies Plus (US) Geo
 https://amg02042-ottstudio-amg02042c6-lg-us-2808.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-lgus/playlist.m3u8
 #EXTINF:-1,Freemovies Plus (CA) Geo
 https://amg02042-ottstudio-amg02042c1-lg-ca-932.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-lgca/playlist.m3u8
-#EXTINF:-1,Fubo Sports (US)
-https://fubotv-fubo-sports-network-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Fuel TV Brazil PT (BR)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbrpt-lgbr/playlist.m3u8
 #EXTINF:-1,Fuel TV (DE)
@@ -855,12 +859,20 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/play
 https://minerva-fullmoon-1-it.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Fuse Beat (GB)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebeatuk-lggb/playlist.m3u8
-#EXTINF:-1,Gameshow Channel (CA)
-https://gsn-gameshowchannnel-1-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gameshow Channel (US)
-https://gsn-gameshowchannnel-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,GB News (GB)
+#EXTINF:-1,GBN (GB) wrong c
 https://amg01076-lightning-amg01076c1-lg-gb-2020.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8
+#EXTINF:-1,GBN (IE) Geo
+https://amg01076-lightning-amg01076c7-lg-ie-3963.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,GBN (NL) Geo
+https://amg01076-lightning-amg01076c7-lg-nl-3964.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Ghosts are Real (US) Geo
+https://amg00136-wbd-amg00136c13-lg-us-1938.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvghostsarereal-lgus/playlist.m3u8
+#EXTINF:-1,Ghost Hunters Channel (CA) Geo
+https://amg00353-amg00353c18-lg-ca-3370.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Ghost Hunters Channel (GB) Geo
+https://amg00353-amg00353c18-lg-gb-3437.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Ghost Hunters Channel (US) Geo
+https://amg00353-amg00353c18-lg-us-3069.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Go Traveler (US) Geo
 https://amg09501-questar-amg09501c1-lg-us-2418.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-lgus/playlist.m3u8
 #EXTINF:-1,Go USA (AU)
@@ -871,6 +883,12 @@ https://brandusa-gousa-1-br.lg.wurl.tv/playlist.m3u8
 https://brandusa-gousa-1-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Go USA (CH)
 https://brandusa-gousa-1-ch.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Go USA (CL)
+https://brandusa-gousa-3-cl.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Go USA (CO)
+https://brandusa-gousa-3-co.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Go USA (PE)
+https://brandusa-gousa-3-pe.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Go USA (DE)
 https://brandusa-gousa-1-de.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Go USA (DK)
@@ -897,6 +915,8 @@ https://brandusa-gousa-1-nl.lg.wurl.tv/playlist.m3u8
 https://brandusa-gousa-1-se.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Got Game (IT)
 https://gghubsrl-gotgame-1-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,GPTV (BR)
+https://amg26329-amg26329c1-amgplt0030.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1,Great British Menu (GB)
 https://all3media-great-british-menu-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Great Movies! (GB) Geo
@@ -915,48 +935,18 @@ https://amogonetworx-grjngo-4-at.lg.wurl.tv/playlist.m3u8
 https://amogonetworx-grjngo-4-ch.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Grjngo (DE)
 https://amogonetworx-grjngo-4-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Grjngo (ES)
-https://amogonetworx-grjngo-2-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Grjngo (GB)
 https://amogonetworx-grjngo-3-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Grjngo (IT)
 https://amogonetworx-grjngo-6-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV (BE)
-https://gustotv-gustotv-2-be.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV (BR)
-https://gustotv-gustotv-2-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV (CA)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvca-lgca/playlist.m3u8
-#EXTINF:-1,Gusto TV (CH)
-https://gustotv-gustotv-2-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV (DE)
-https://gustotv-gustotv-2-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV (DK)
-https://gustotv-gustotv-2-dk.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV (ES)
-https://gustotv-gustotv-2-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV (FI)
-https://gustotv-gustotv-2-fi.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV (FR)
-https://gustotv-gustotv-2-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV (GB)
-https://gustotv-gustotv-2-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV (IE)
-https://gustotv-gustotv-2-ie.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV (IT)
-https://gustotv-gustotv-2-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV (MX)
-https://gustotv-gustotv-2-mx.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV (NL)
-https://gustotv-gustotv-2-nl.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV (NO)
-https://gustotv-gustotv-2-no.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV (PT)
-https://gustotv-gustotv-2-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV (SE)
-https://gustotv-gustotv-2-se.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Gusto TV (US)
-https://gustotv-gustotv-2-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Grjngo Pelculasdeloeste (ES)
+https://amogo-networx-grjngopelculasdeloeste-1-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Gusto TV (CA) Geo
+https://amg01077-gustofast-amg01077c7-lg-ca-5297.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Hardcore Pawn (AU) Geo
+https://amg00627-banijay-amg00627c8-lg-au-4930.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Hardcore Pawn (IE) Geo
+https://amg00627-banijay-amg00627c8-lg-ie-3185.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Haunt TV
 https://bamca-haunttv-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,Haunt TV (UK)
@@ -977,14 +967,28 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-hellskitchenlg-lgg
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-hellskitchenlgnl-lgnl/playlist.m3u8
 #EXTINF:-1,Hells Kitchen (SE) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-hellskitchenlgse-lgse/playlist.m3u8
+#EXTINF:-1,History Hunters (GB) Geo
+https://amg00841-aeemea-amg00841c7-lg-gb-3890.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,History Hit (FI)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-historyhit-lgfi/playlist.m3u8
+#EXTINF:-1,History Hit Channel (AU) Geo
+https://amg00426-lds-amg00426c5-lg-au-2370.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,History Time (CA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgca/playlist.m3u8
 #EXTINF:-1,History Time (DK)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-historytime-lgdk/playlist.m3u8
 #EXTINF:-1,History Time (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8
+#EXTINF:-1,Historia Yvida (ES) Geo
+https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Hit Sitcoms (US) Geo
+https://amg00136-wbd-amg00136c46-lg-us-5707.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Himmlischeskino (AT)
+https://wdr-media-group-himmlischeskino-1-at.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Himmlischeskino (CH)
+https://wdr-media-group-himmlischeskino-1-ch.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Himmlischeskino (DE)
+https://wdr-media-group-himmlischeskino-1-de.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,HNC Free (DE)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/hncAAAAAA-hncfree-lg-de/playlist.m3u8
 #EXTINF:-1,HNC Free (DE) Geo
@@ -993,36 +997,38 @@ https://hncfree-lg-de.amagi.tv/master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/hncAAAAAA-hncfree-lg-uk/playlist.m3u8
 #EXTINF:-1,HNC Free (UK) Geo
 https://hncfree-lg-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Hola (ES)
-https://rakuten-hola-2-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,HSN (US)
+https://hsn-samsung-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Homeful (CA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/bamcanada-bamca-homeful-us-lg/playlist.m3u8
 #EXTINF:-1,Homeful (US) Geo
 https://bam-homeful-usa-lg-us.amagi.tv/playlist.m3u8
 #EXTINF:-1,Homeful (GB)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-homefulworldwide-lggb/playlist.m3u8
+#EXTINF:-1,Homeful (NO) Geo
+https://amg00090-blueantcanada-amg00090c4-lg-no-818.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-lgno/playlist.m3u8
 #EXTINF:-1,House of Docs (IT) Geo
 https://amg02512-nexodigital-amg02512c2-lg-it-822.playouts.now.amagi.tv/playlist/amg02512-nexodigital-houseofdocs-lgit/playlist.m3u8
 #EXTINF:-1,Homes under the Hammer (GB)
 https://all3media-homes-under-the-hammer-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Homicide (FR)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-homicide-lgfr/playlist.m3u8
-#EXTINF:-1,Horizons (GB) Geo
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-horizons-lggb/playlist.m3u8
-#EXTINF:-1,Horrorfy (CL)
+#EXTINF:-1,Horrorfy (CL) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfycl-lgcl/playlist.m3u8
-#EXTINF:-1,Horrorfy (CO)
+#EXTINF:-1,Horrorfy (CO) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfyco-lgco/playlist.m3u8
-#EXTINF:-1,Horrorfy (PE)
+#EXTINF:-1,Horrorfy (PE) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfyype-lgpe/playlist.m3u8
 #EXTINF:-1,House of Docs (IT) Geo
 https://amg02512-nexodigital-amg02512c3-lg-it-823.playouts.now.amagi.tv/playlist/amg02512-nexodigital-houseofdocs-lgit/playlist.m3u8
-#EXTINF:-1,Huippuelokuvat (Fi)
-https://rakuten-huippuelokuvat-1-fi.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,How to (US) Geo
+https://amg00136-wbd-amg00136c16-lg-us-1936.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvhowto-lgus/playlist.m3u8
 #EXTINF:-1,Humanity Documentaries (FR) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/alchimieA-humanity-doc-fr-lg/playlist.m3u8
 #EXTINF:-1,Humanity Documentaries (IT) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/alchimieA-humanity-doc-it-lg/playlist.m3u8
+#EXTINF:-1,I Almost got away with it (US) Geo
+https://amg00136-wbd-amg00136c68-lg-us-5719.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Icon Film Classics (GB)
 https://iconfilmsdistribution-iconfilmchannelclassics-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Icon Film Classics (IE)
@@ -1043,14 +1049,12 @@ https://insighttv-row-lg-germany.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/insightAA-insighttv-lifestyle-lg-germany/playlist.m3u8
 #EXTINF:-1,Insight TV alt Mexico (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/insightAA-insighttv-us-lg-mexico/playlist.m3u8
-#EXTINF:-1,Insight TV Mexico (US)
-https://insighttv-us-lg-mexico.amagi.tv/playlist.m3u8
-#EXTINF:-1,Insight TV ROW
-https://insighttv-row-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,Insight TV Spain (US)
 https://insighttv-us-lg-spain.amagi.tv/playlist.m3u8
-#EXTINF:-1,Intipacha (ES)
-https://baktilp-intipacha-1-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Intervention (GB) Geo
+https://amg00276-aenetwork-amg00276c17-lg-gb-3760.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Intervention (NO) Geo
+https://amg00276-aenetwork-amg00276c17-lg-no-3761.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Introuble HD (AU) Geo
 https://amg00861-terncloud-amg00861c6-lg-au-3099.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-lgau/playlist.m3u8
 #EXTINF:-1,Inwonder HD (AU) Geo
@@ -1059,36 +1063,38 @@ https://amg00861-terncloud-amg00861c8-lg-au-3101.playouts.now.amagi.tv/playlist/
 https://scripps-ion-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,ION Mystery (US)
 https://scripps-ionmystery-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Jail (AU)
+https://langleyproductions-jail-1-au.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Jail (CA)
 https://langleyproductions-jail-1-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Jail (US)
 https://langleyproductions-jail-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Jelly Jammy World (IN) Geo
+https://amg01553-blueant-amg01553c1-lg-in-5431.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Johnny Carson TV (US) Geo
 https://amg00163-shoutfactoryfast-amg00163c2-lg-us-860.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-johnnycarsontv-lgus/playlist.m3u8
-#EXTINF:-1,Juntos (AR)
+#EXTINF:-1,Juntos (AR) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntosar-lgar/playlist.m3u8
-#EXTINF:-1,Juntos (CL)
+#EXTINF:-1,Juntos (CL) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntoscl-lgcl/playlist.m3u8
 #EXTINF:-1,Juntos (CO)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntosco-lgco/playlist.m3u8
-#EXTINF:-1,Juntos (PE)
+#EXTINF:-1,Juntos (PE) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntospe-lgpe/playlist.m3u8
-#EXTINF:-1,Kpopcorn (AU) Geo
-https://amg01944-ktalpha-amg01944c3-lg-au-2189.playouts.now.amagi.tv/playlist/amg01944-ktalpha-kpopcorn-lgau/playlist.m3u8
-#EXTINF:-1,Kpopcorn (IN) Geo
-https://amg01944-ktalpha-amg01944c3-lg-in-1991.playouts.now.amagi.tv/playlist/amg01944-ktalpha-kpopcorn-lgin/playlist.m3u8
 #EXTINF:-1,KCPQ (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kcpq-lgus/playlist.m3u8
 #EXTINF:-1,KDFW (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kdfw-lgus/playlist.m3u8
 #EXTINF:-1,KTTV (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kttv-lgus/playlist.m3u8
+#EXTINF:-1,Kids TV (CA)
+https://jansonmedia-kidstv-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Kids TV (US)
+https://jansonmedia-kidstv-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Kidspang TV (CA)
 https://newidco-kidspangtv-1-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Kidspang TV (US)
 https://newidco-kidspangtv-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Kino 1 (De)
-https://rakuten-deutsches-kino-1-de.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,KMSP (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
 #EXTINF:-1,KSAZ (US)
@@ -1105,14 +1111,40 @@ https://amg02051-soulpublishing-amg02051c8-lg-au-343.playouts.now.amagi.tv/playl
 https://amg02051-soulpublishing-amg02051c9-lg-au-342.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-lgau/playlist.m3u8
 #EXTINF:-1,Lala Life English (AU) Geo Alt 2
 https://amg02051-soulpublishing-amg02051c17-lg-au-340.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-lgau/playlist.m3u8
-#EXTINF:-1,La Liga Plus
-https://daiconnect.com/live/hls/tvup/lg-laliga/613313bc66ac393ed26fc09d82851082/.m3u8
+#EXTINF:-1,Lacrosse (CA) Geo
+https://amg01267-tripleb-amg01267c2-lg-ca-4770.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Lacrosse (US) Geo
+https://amg01267-tripleb-amg01267c2-lg-us-4759.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Laff More (US)
 https://scripps-laffmore-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Leadstory News (AU) Geo
+https://amg02703-leadstory-amg02703c16-lg-au-3151.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Lets Make a Deal (CA) Geo
+https://amg00145-amg00145c22-lg-ca-5663.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,LG Channels Holiday Showcase Geo
+https://amg00497-amg00497c10-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c10-amgplt0023/playlist.m3u8
+#EXTINF:-1,Lifetime Movies (GB) Geo
+https://amg00276-aenetwork-amg00276c21-lg-gb-5291.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Life Downunder (DK)
+https://wtfn-lifedownunder-2-dk.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Life Downunder (FI)
+https://wtfn-lifedownunder-2-fi.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Life Downunder (GB)
+https://wtfn-lifedownunder-2-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Life Downunder (IE)
+https://wtfn-lifedownunder-2-ie.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Life Downunder (NL)
+https://wtfn-lifedownunder-2-nl.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Life Downunder (SE)
+https://wtfn-lifedownunder-2-se.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Life Minute TV (AU)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01468-lifeminutetv-lifeminutetv-lgau/playlist.m3u8
 #EXTINF:-1,Lifestyle Insight TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/insightAA-insighttv-lifestyle-lg-germany/playlist.m3u8
+#EXTINF:-1,Little Women L.A (GB) Geo
+https://amg00276-aenetwork-amg00276c18-lg-gb-3917.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Little Women L.A (NL) Geo
+https://amg00276-aenetwork-amg00276c18-lg-nl-3918.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Lonestar
 https://cinedigm-lonestar-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,Lonestar Geo Alt
@@ -1561,24 +1593,6 @@ https://amg01583-localnow-amg01583c224-lg-us-1655.playouts.now.amagi.tv/playlist
 https://amg01583-localnow-amg01583c225-lg-us-1599.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowatlanta-lgus/playlist.m3u8
 #EXTINF:-1,LocalNow - Miami (US) Geo
 https://amg01583-localnow-amg01583c226-lg-us-1600.playouts.now.amagi.tv/playlist/amg01583-localnowfast-localnowmiami-lgus/playlist.m3u8
-#EXTINF:-1,Love Magazine (AT)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineat-lgat/playlist.m3u8
-#EXTINF:-1,Love Magazine (CH)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinech-lgch/playlist.m3u8
-#EXTINF:-1,Love Magazine (DE)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinede-lgde/playlist.m3u8
-#EXTINF:-1,Love Magazine (DK)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinedk-lgdk/playlist.m3u8
-#EXTINF:-1,Love Magazine (FI)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinefi-lgfi/playlist.m3u8
-#EXTINF:-1,Love Magazine (GB)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineuk-lggb/playlist.m3u8
-#EXTINF:-1,Love Magazine (IT)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineit-lgit/playlist.m3u8
-#EXTINF:-1,Love Magazine (NL)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinenl-lgnl/playlist.m3u8
-#EXTINF:-1,Love Magazine (SE)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinese-lgse/playlist.m3u8
 #EXTINF:-1,Love Pets (GB)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-lovepetsemea-lggb/playlist.m3u8
 #EXTINF:-1,Love Pets (FI)
@@ -1601,12 +1615,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinefrance
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewineusuk-lggb/playlist.m3u8
 #EXTINF:-1,Love Wine (NL)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewineusuk-lgnl/playlist.m3u8
+#EXTINF:-1,Love Crime and History (FR) Geo
+https://amg01821-lovetv-amg01821c16-lg-fr-3211.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,LoveNature
 https://bamus-lovenature-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,LoveNature (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
 #EXTINF:-1,LoveNature alt
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/bamusaAAA-bamus-lovenature-lg/playlist.m3u8
+#EXTINF:-1,Lucha Libre (US) Geo
+https://amg17334-luchalibre-amg17334c1-lg-us-6732.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Manual do Mundo (BR)
+https://amg17288-offgrid-amg17288c2-lg-br-6103.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Master Chef UK (CA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchefuk-lgca/playlist.m3u8
 #EXTINF:-1,MajorDomo TV (CA)
@@ -1621,8 +1641,6 @@ https://amg00378-mavtv-amg00378c4-lg-us-1984.playouts.now.amagi.tv/playlist/amg0
 https://maverick-maverick-black-cinema-2-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Maverick Black Cinema (US)
 https://maverick-maverick-black-cinema-2-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Maximum Effort (US)
-https://fubotv-maximumeffortchannel-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Mech Plus (AU)
 https://mechtvltd-mechplus-1-au.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Mech Plus (GB)
@@ -1631,10 +1649,6 @@ https://mechtvltd-mechplus-1-gb.lg.wurl.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-mobtv-lgau/playlist.m3u8
 #EXTINF:-1,MOB TV (BR)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-lgbr/playlist.m3u8
-#EXTINF:-1,MOB TV (DE)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-lgde/playlist.m3u8
-#EXTINF:-1,MOB TV (ES)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-lges/playlist.m3u8
 #EXTINF:-1,MOB TV (EU)
 https://mobtv-lg-eu.amagi.tv/playlist.m3u8
 #EXTINF:-1,MOB TV (MX)
@@ -1649,6 +1663,10 @@ https://amogonetworx-moconomy-3-de.lg.wurl.tv/playlist.m3u8
 https://amogonetworx-moconomy-1-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Moconomy (GB)
 https://amogonetworx-moconomy-2-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Motortrend Fast TV (US)
+https://amg00136-wbd-amg00136c57-lg-us-5706.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,MovieSphere (DE) Geo
+https://amg00353-amg00353c42-lg-de-5243.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,MovieDome
 https://kochmedia-moviedome-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,MovieDome Family
@@ -1657,10 +1675,12 @@ https://kochmedia-moviedomefamily-lg.amagi.tv/playlist.m3u8
 https://movies4free-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,Movies 4 Free Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/videosolu-movies4free-lg/playlist.m3u8
-#EXTINF:-1,MotorSport (FI)
-https://youlook-motorsport-se-fi.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,MotorSport (SE)
-https://youlook-motorsport-se-se.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Motortrend Fast TV (US) Geo
+https://amg00136-wbd-amg00136c57-lg-us-5706.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Mr Bean (GB)
+https://amg00627-banijay-amg00627c40-lg-gb-5643.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Mr Bean Animated (GB)
+https://amg00627-banijay-amg00627c28-lg-gb-4244.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-lggb/playlist.m3u8
 #EXTINF:-1,MST3k (US) Geo
 https://amg00163-shoutfactoryfast-amg00163c4-lg-us-858.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-mst3k-lgus/playlist.m3u8
 #EXTINF:-1,MTRSPT 1 (AU)
@@ -1677,8 +1697,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lggb/playl
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgit/playlist.m3u8
 #EXTINF:-1,Museum TV (FR)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-fr-lgfr/playlist.m3u8
-#EXTINF:-1,My Padel TV (ES)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-lges/playlist.m3u8
 #EXTINF:-1,Mytime Movie Network
 https://cinedigm-mytime-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,Mytime Movie Network (AU)
@@ -1687,6 +1705,14 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovient
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/playlist.m3u8
 #EXTINF:-1,Mytime Movie Network alt Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/xumo-host-mytime-lg/playlist.m3u8
+#EXTINF:-1,Mysterious Worlds (US) Geo
+https://amg00136-wbd-amg00136c14-lg-us-1937.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvmysteriousworlds-lgus/playlist.m3u8
+#EXTINF:-1,Mythbusters (US) Geo
+https://amg00136-wbd-amg00136c44-lg-us-5704.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Nash Bridges Channel (US) Geo
+https://amg00353-amg00353c35-lg-us-3864.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Nashville (CA) Geo
+https://amg00353-amg00353c23-lg-ca-3371.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Naruto (AT)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00609-palatinmediafil-naruto-lgat/playlist.m3u8
 #EXTINF:-1,Naruto (CH)
@@ -1711,6 +1737,20 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeeme
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01605-ndtvconvergence-ndtv24x7-lgin/playlist.m3u8
 #EXTINF:-1,NDTV India (IN)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01605-ndtvconvergence-ndtvindia-lgin/playlist.m3u8
+#EXTINF:-1,News 18 c1 to id (IN) Geo
+https://amg00866-amg00866c1-lg-in-3521.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,News 18 c3 to id (IN) Geo
+https://amg00866-amg00866c3-lg-in-3518.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,News 18 c4 to id (IN) Geo
+https://amg00866-amg00866c4-lg-in-3519.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,News 18 c6 to id (IN) Geo
+https://amg00866-amg00866c6-lg-in-3522.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,News 18 c7 to id (IN) Geo
+https://amg00866-amg00866c7-lg-in-3523.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,News 18 c8 to id (IN) Geo
+https://amg00866-amg00866c8-lg-in-3524.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,New Brasil (BR) Geo
+https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,New K Food (CA)
 https://newidco-newkfood-1-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,New K Food (US)
@@ -1725,8 +1765,14 @@ https://newidco-newkid-1-mx.lg.wurl.tv/playlist.m3u8
 https://newidco-newmovies-1-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,New Movies (US)
 https://newidco-newmovies-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Newsmax (US)
-https://newsmax-newsmaxtv-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Newsmax (CA)
+https://amg00217-newsmax-amg00217c2-lg-ca-4271.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Newsmax 2 (US)
+https://amg00217-newsmax-amg00217c3-lg-us-4270.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,No Reservations (US) Geo
+https://amg00136-wbd-amg00136c45-lg-us-5703.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Nosey (AU) Geo
+https://amg00514-amg00514c1-lg-au-4898.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Nosey (CA) Geo
 https://nosey-intl-1-lg-ca.amagi.tv/playlist.m3u8
 #EXTINF:-1,Nosey (US) Geo
@@ -1737,80 +1783,112 @@ https://nosey-intl-1-lg.amagi.tv/playlist.m3u8
 https://stormcast-novelas-2-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Novelas (US)
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Now 70's (GB) Geo
+#EXTINF:-1,Now 70s (AT)
+https://amg01076-lightning-amg01076c1-lg-at-3967.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 70s (GB) Geo
 https://amg01076-lightning-amg01076c2-lg-gb-2021.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-lggb/playlist.m3u8
+#EXTINF:-1,Now 70s (CH) Geo
+https://amg01076-lightning-amg01076c1-lg-ch-3969.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 70s (DE) Geo
+https://amg01076-lightning-amg01076c1-lg-de-3970.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 70s (ES) Geo
+https://amg01076-lightning-amg01076c1-lg-es-3972.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 70s (FI) Geo
+https://amg01076-lightning-amg01076c1-lg-fi-3973.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 70s (FR) Geo
+https://amg01076-lightning-amg01076c1-lg-fr-3974.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 70s (IE) Geo
+https://amg01076-lightning-amg01076c1-lg-ie-3975.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 70s (IT) Geo
+https://amg01076-lightning-amg01076c1-lg-it-3976.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 70s (NL) Geo
+https://amg01076-lightning-amg01076c1-lg-nl-3978.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 70s (PT) Geo
+https://amg01076-lightning-amg01076c1-lg-pt-3980.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 70s (SE) Geo
+https://amg01076-lightning-amg01076c1-lg-se-3981.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 80s (CH) Geo
+https://amg01076-lightning-amg01076c2-lg-ch-4078.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 80s (DE) Geo
+https://amg01076-lightning-amg01076c2-lg-de-4080.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 80s (ES) Geo
+https://amg01076-lightning-amg01076c2-lg-es-4082.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 80s (FI) Geo
+https://amg01076-lightning-amg01076c2-lg-fi-4083.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 80s (FR) Geo
+https://amg01076-lightning-amg01076c2-lg-fr-4084.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 80s (IE) Geo
+https://amg01076-lightning-amg01076c2-lg-ie-4090.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 80s (IT) Geo
+https://amg01076-lightning-amg01076c2-lg-it-4091.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 80s (NL) Geo
+https://amg01076-lightning-amg01076c2-lg-nl-4093.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 80s (PT) Geo
+https://amg01076-lightning-amg01076c2-lg-pt-4095.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 80s (SE) Geo
+https://amg01076-lightning-amg01076c2-lg-se-4096.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Now 80's (GB) Geo
 https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-lggb/playlist.m3u8
+#EXTINF:-1,Nip Tuck (US)
+https://amg00136-wbd-amg00136c47-lg-us-5699.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Nikita (US) Geo
+https://amg00136-wbd-amg00136c29-lg-us-1933.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvnikita-lgus/playlist.m3u8
 #EXTINF:-1,Oan
 https://oan-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1,Ondemand Korea (US) Geo
+https://amg01923-odk-amg01923c19-lg-us-6047.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Ondemand Korea (CA) Geo
+https://amg01923-odk-amg01923c19-lg-ca-6106.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,One Fighting Championship (US) via Canela.tv Geo
+https://amg00658-amg00658c2-lg-us-3415.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Ondemand China (CA)
 https://newidco-ondemandchina-1-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Ondemand China (US)
 https://newidco-ondemandchina-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Outdoor Channel (AU)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-lgau/playlist.m3u8
-#EXTINF:-1,Outdoor Channel (IN)
+#EXTINF:-1,Outdoor Channel (IN) Geo
 https://amg00718-outdoorchannelfast-amg00718c1-lg-in-2129.playouts.now.amagi.tv/playlist/amg00718-outdoorchannelfast-outdoorchannel-lgin/playlist.m3u8
+#EXTINF:-1,Outersphere by Lionsgate (US)
+https://amg00353-amg00353c17-lg-us-6063.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Origin Sports
 https://raycomsports-originsports-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,Pac 12 (AU)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-pac12-lgau/playlist.m3u8
-#EXTINF:-1,PowerNation (CA)
+#EXTINF:-1,Paternity Court Geo
+https://amg00497-amg00497c1-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c1-amgplt0023/playlist.m3u8
+#EXTINF:-1,PowerNation (CA) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernation-lgca/playlist.m3u8
-#EXTINF:-1,PBS America (GB)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-pbsamerica-lggb/playlist.m3u8
-#EXTINF:-1,PBS History (GB)
+#EXTINF:-1,PB TV (US) Geo
+https://amg01444-amg01444c3-lg-us-3412.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,PBS History (GB) Geo
 https://amg02333-pbs-amg02333c3-lg-gb-1988.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-lggb/playlist.m3u8
-#EXTINF:-1,PBS History (IE)
+#EXTINF:-1,PBS History (IE) Geo
 https://amg02333-pbs-amg02333c3-lg-ie-2837.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-lgie/playlist.m3u8
-#EXTINF:-1,PBS Nature (US)
+#EXTINF:-1,PBS Nature (US) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01597-wnetnewyorkpubl-pbsnature-lgus/playlist.m3u8
-#EXTINF:-1,PBS Antiques Roadshow (US)
+#EXTINF:-1,PBS Nature? (US) Geo
+https://amg02333-pbs-amg02333c6-lg-us-3175.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,PBS Antiques Roadshow (US) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02333-pbsdistribution-antiquesroadshow-lgus/playlist.m3u8
-#EXTINF:-1,People are Awesome International (AT)
-https://jukin-peopleareawesome-international-4-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People Are Awesome International (BE)
-https://jukin-peopleareawesome-international-4-be.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People are Awesome International (BR)
-https://jukin-peopleareawesome-international-4-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People are Awesome International (CA)
-https://jukin-peopleareawesome-international-4-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People are Awesome International (CH)
-https://jukin-peopleareawesome-international-4-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People are Awesome International (DE)
-https://jukin-peopleareawesome-international-4-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People are Awesome International (DK)
-https://jukin-peopleareawesome-international-4-dk.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People are Awesome International (ES)
-https://jukin-peopleareawesome-international-4-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People are Awesome International (FI)
-https://jukin-peopleareawesome-international-4-fi.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People are Awesome International (FR)
-https://jukin-peopleareawesome-international-4-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People are Awesome International (GB)
-https://jukin-peopleareawesome-international-4-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People are Awesome International (IE)
-https://jukin-peopleareawesome-international-4-ie.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People are Awesome International (IT)
-https://jukin-peopleareawesome-international-4-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People are Awesome International (LU)
-https://jukin-peopleareawesome-international-4-lu.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People are Awesome International (MX)
-https://jukin-peopleareawesome-international-4-mx.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People are Awesome International (NL)
-https://jukin-peopleareawesome-international-4-nl.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People Are Awesome International (NO)
-https://jukin-peopleareawesome-international-4-no.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People are Awesome International (PT)
-https://jukin-peopleareawesome-international-4-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,People are Awesome International (SE)
-https://jukin-peopleareawesome-international-4-se.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,PBS Science (AU) Geo
+https://amg02333-pbs-amg02333c10-lg-au-4537.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,PBS Science (GB) Geo
+https://amg02333-pbs-amg02333c10-lg-gb-3238.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,PBS Science (IE) Geo
+https://amg02333-pbs-amg02333c10-lg-ie-4101.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,PBS something (AU) Geo
+https://amg02333-pbs-amg02333c3-lg-au-4538.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,PBS Nature? (US) Geo
+https://amg02333-pbs-amg02333c6-lg-us-3175.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Pop Flix (GB)
 https://signatureentertainment-popflix-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Pop Flix (IE)
 https://signatureentertainment-popflix-1-ie.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Pop Kids (IE) Geo
 https://amg01753-amg01753c2-lg-ie-2961.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-popkid-lgie/playlist.m3u8
+#EXTINF:-1,Project Runway (CA) Geo
+https://amg02189-amg02189c1-lg-ca-5820.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Qwest Jazz
 https://qwest-jazz-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,Qwest Jazz (AT)
@@ -1835,168 +1913,14 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgpt/playli
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgse/playlist.m3u8
 #EXTINF:-1,Qwest Mix
 https://qwest-mix-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,Qwest Mix (AR) FIX
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-lgar/playlist.m3u8
-#EXTINF:-1,Qwest Mix (CL)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-lgcl/playlist.m3u8
 #EXTINF:-1,Qwest Mix (PE)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-lgpe/playlist.m3u8
 #EXTINF:-1,Racing America
 https://racingamerica-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action (DK)
-https://rakuten-action-10-dk.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action (FI)
-https://rakuten-action-12-fi.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action (NL)
-https://rakuten-action-8-nl.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action (NO)
-https://rakuten-action-11-no.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action (SE)
-https://rakuten-action-9-se.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action Movies (AT)
-https://rakuten-actionmovies-3-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action Movies (CH)
-https://rakuten-actionmovies-3-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action Movies (DE)
-https://rakuten-actionmovies-3-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action Movies (ES)
-https://rakuten-actionmovies-2-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action Movies (FR)
-https://rakuten-actionmovies-7-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action Movies (GB)
-https://rakuten-actionmovies-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action Movies (IE)
-https://rakuten-actionmovies-1-ie.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Action Movies (IT)
-https://rakuten-actionmovies-6-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten British Films (GB)
-https://rakuten-british-films-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy (DK)
-https://rakuten-comedy-10-dk.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy (FI)
-https://rakuten-comedy-12-fi.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy (NL)
-https://rakuten-comedy-8-nl.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy (NO)
-https://rakuten-comedy-11-no.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy (SE)
-https://rakuten-comedy-9-se.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies (AT)
-https://rakuten-comedymovies-3-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies (CH)
-https://rakuten-comedymovies-3-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies (DE)
-https://rakuten-comedymovies-3-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies (ES)
-https://rakuten-comedymovies-2-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies (FR)
-https://rakuten-comedymovies-7-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies (GB)
-https://rakuten-comedymovies-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies (IE)
-https://rakuten-comedymovies-1-ie.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies (IT)
-https://rakuten-comedymovies-6-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Comedy Movies alt (AT)
-https://rakuten-comedymovies-3-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Documentaries (PT)
-https://rakuten-documentaries-14-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Drama (DK)
-https://rakuten-drama-10-dk.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Drama (FI)
-https://rakuten-drama-12-fi.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Drama (NL)
-https://rakuten-drama-8-nl.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Drama (NO)
-https://rakuten-drama-11-no.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Drama (SE)
-https://rakuten-drama-9-se.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family (AT)
-https://rakuten-family-3-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family (BE)
-https://rakuten-family-16-be.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family (CH)
-https://rakuten-family-3-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family (DE)
-https://rakuten-family-3-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family (FR)
-https://rakuten-family-7-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family (GB)
-https://rakuten-family-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family (IT)
-https://rakuten-family-6-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family (LU)
-https://rakuten-family-16-lu.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Family (PT)
-https://rakuten-family-14-pt.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Rakuten Films Francais (FR)
 https://rakuten-films-francais-1-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Gratisfilmer (SE)
-http://rakuten-gratisfilmer-1-se.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Guardian (AT)
-https://rakuten-guardian-1-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Guardian (CH)
-https://rakuten-guardian-1-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Guardian (DE)
-https://rakuten-guardian-1-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Guardian (ES)
-https://rakuten-guardian-1-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Guardian (FR)
-https://rakuten-guardian-1-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Guardian (GB)
-https://rakuten-guardian-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Guardian (IT)
-https://rakuten-guardian-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Real Series (GB)
-https://rakuten-realseries-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Rakuten Romance (DE)
 https://rakuten-romance-3-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Romance (ES)
-https://rakuten-romance-2-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Romance (FR)
-https://rakuten-romance-7-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Romance (GB)
-https://rakuten-romance-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Romance (IT)
-https://rakuten-romance-6-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Romance (NL)
-https://rakuten-romance-8-nl.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Romance (SE)
-https://rakuten-romance-9-se.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Series Crime (AT)
-http://rakuten-seriescrime-3-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Series Crime (CH)
-https://rakuten-seriescrime-3-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Series Crime (DE)
-https://rakuten-seriescrime-3-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Series Crime (ES)
-https://rakuten-seriescrime-2-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Series Crime (FR)
-https://rakuten-seriescrime-7-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Series Crime (IT)
-https://rakuten-seriecrime-6-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight (BE)
-https://rakuten-spotlight-7-be.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight (DK)
-https://rakuten-spotlight-10-dk.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight (ES)
-https://rakuten-spotlight-2-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight (FI)
-https://rakuten-spotlight-12-fi.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight (FR)
-https://rakuten-spotlight-7-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight (GB)
-https://rakuten-spotlight-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight (IE)
-https://rakuten-spotlight-1-ie.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight (LU)
-https://rakuten-spotlight-7-lu.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight (NO)
-https://rakuten-spotlight-11-no.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight (NL)
-https://rakuten-spotlight-8-nl.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Spotlight (SE)
-https://rakuten-spotlight-9-se.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Rakuten Thriller (DE)
 https://rakuten-thriller-3-de.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Rakuten Thriller (ES)
@@ -2005,52 +1929,10 @@ https://rakuten-thriller-2-es.lg.wurl.tv/playlist.m3u8
 https://rakuten-thriller-7-fr.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Rakuten Thriller (GB)
 https://rakuten-thriller-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Thriller (IT)
-https://rakuten-thriller-6-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Top Free (AT)
-https://rakuten-topfree-3-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TopFree (CH)
-https://rakuten-topfree-3-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Top Free (DE)
-https://rakuten-topfree-3-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Top Free (ES)
-https://rakuten-topfree-2-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Top Free (FR)
-https://rakuten-topfree-7-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Top Free (GB)
-https://rakuten-topfree-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Top Free (IE)
-https://rakuten-topfree-1-ie.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Top Free (IT)
-https://rakuten-topfree-6-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Top Free (NL)
-https://rakuten-topfree-8-nl.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Top Film (DK)
-https://rakuten-gratis-topfilm-1-dk.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Top Filmer (NO)
-https://rakuten-toppfilmer-1-no.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows (AT)
-https://rakuten-tvshows-3-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows (CH)
-https://rakuten-tvshows-3-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows (DE)
-https://rakuten-tvshows-3-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows (ES)
-https://rakuten-tvshows-2-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows (FR)
-https://rakuten-tvshows-7-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows (GB)
-https://rakuten-tvshows-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows (IE)
-https://rakuten-tvshows-1-ie.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Shows (IT)
-https://rakuten-tvshows-6-it.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Rakuten Viki (MX)
 https://newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Rakuten Viki (US)
 https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Rakuten Estilo Y Vida (ES)
-https://rakuten-estilo-y-vida-2-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,River Monster Germany (AT) Geo
 https://amg00654-itv-amg00654c3-lg-at-956.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-rivermonstergermany-lgat/playlist.m3u8
 #EXTINF:-1,River Monster Germany (CH) Geo
@@ -2087,7 +1969,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-l
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-lgnl/playlist.m3u8
 #EXTINF:-1,Real Stories (SE)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-lgse/playlist.m3u8
-#EXTINF:-1,Real Wild (AU)
+#EXTINF:-1,Real Wild (AU) Geo
 https://amg00426-lds-amg00426c12-lg-au-2367.playouts.now.amagi.tv/playlist/amg00426-littledotstudiofast-realwildcc-lgau/playlist.m3u8
 #EXTINF:-1,Real Wild (DK)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lgdk/playlist.m3u8
@@ -2097,26 +1979,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lggb
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lgse/playlist.m3u8
 #EXTINF:-1,Real Wild (NL)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lgnl/playlist.m3u8
-#EXTINF:-1,Redbox Holiday
-https://redbox-holiday-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,Redbox Holiday alt
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/redboxAAA-redboxholiday-lg/playlist.m3u8
-#EXTINF:-1,Redbox Rewind
-https://redbox-rewind-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,Redbox Rewind alt
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/redboxAAA-redboxrewind-lg/playlist.m3u8
-#EXTINF:-1,Redbox Spotlight
-https://redbox-spotlight-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,Redbox War and Westerns
-https://redbox-warandwesterns-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,Retro Crush (US)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
 #EXTINF:-1,Revolt TV (AU)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-revolttv-lgau/playlist.m3u8
 #EXTINF:-1,Risateallitaliana (IT)
 https://minerva-risateallitaliana-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,RMTV
-https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1,Rules of Engagement (US) Geo
+https://amg00497-lgus-amg00497c5-lg-us-4269.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Runtime Romance Portuguese (BR)
 https://run-ro-br-lgchannels.otteravision.com/run/ro_br/ro_br.m3u8
 #EXTINF:-1,Runtime Familia Portuguese (BR)
@@ -2129,16 +1997,24 @@ https://run-cr-br-lgchannels.otteravision.com/run/cr_br/cr_br.m3u8
 https://run-rc-br-lgchannels.otteravision.com/run/rc_br/rc_br.m3u8
 #EXTINF:-1,Runtime Ação Portuguese (BR)
 https://run-rt-ra-lgchannels.otteravision.com/run/rt_ra/rt_ra.m3u8 
-#EXTINF:-1,Sabermas (PE)
+#EXTINF:-1,Sabermas (PE) Geo 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermaspe-lgpe/playlist.m3u8
-#EXTINF:-1,Sabermas (CL)
+#EXTINF:-1,Sabermas (CL) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-saberrmascl-lgcl/playlist.m3u8
-#EXTINF:-1,Sabermas (CO)
+#EXTINF:-1,Sabermas (CO) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-saberrmasco-lgco/playlist.m3u8
+#EXTINF:-1,Sabor & Arte 2 (BR) Geo
+https://amg01391-sbtinfast-amg01391c6-lg-br-6100.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,SBT International (BR) Brazil or U.S ip
 https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8
 #EXTINF:-1,SBT International (MX) U.S ip
 https://amg01391-sbtinfast-amg01391c1-lg-mx-653.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgmx/playlist.m3u8
+#EXTINF:-1,Say Yes to the Dress (US) Geo
+https://amg00136-wbd-amg00136c26-lg-us-1931.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvsayyestothedress-lgus/playlist.m3u8
+#EXTINF:-1,Shout TV (US) Geo
+https://amg00163-shoutfactoryfast-amg00163c3-lg-us-859.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Sweet Escapes (US) Geo
+https://amg00136-wbd-amg00136c10-lg-us-1934.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvsweetescapes-lgus/playlist.m3u8
 #EXTINF:-1,Screamin
 https://zylo-screamin-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,Screamin Geo
@@ -2149,10 +2025,20 @@ https://scripps-newsy-3-us.lg.wurl.tv/playlist.m3u8
 https://ixmediasrl-serially-1-it.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Sharkfest (US) Geo
 https://amg00497-lgus-amg00497c1-lg-us-2229.playouts.now.amagi.tv/playlist/amg00497-lgelectronicsusafast-natgeoshark-lgus/playlist.m3u8
+#EXTINF:-1,SkillShare (US) Geo
+https://amg02840-skillshare-amg02840c1-lg-us-5163.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Sky News Now (AU) Geo
+https://amg00663-skynewsau-amg00663c1-lg-au-4519.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,SONY Kal (CA)
 https://spt-sonykal-1-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,SONY Kal (US)
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sony One Emoções (BR)
+https://spt-sonyoneemocoes-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sony One Shark Tank (BR)
+https://spt-sonyonesharktankbrasil-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sony One Cinema (BR)
+https://spt-sonyoneclassicas-1-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,So...Real (GB)
 https://all3media-soreal-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,So...Real
@@ -2177,6 +2063,14 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-spannungemo-lgde
 https://candlelightmedia-sparklightlove-3-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Sparkle Movies (GB)
 https://candlelightmedia-sparklemovies-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sparkle Movies (AU)
+https://candlelightmedia-sparklemovies-1-au.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sparkle Movies (DK)
+https://candlelightmedia-sparklemovies-1-dk.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sparkle Movies (FI)
+https://candlelightmedia-sparklemovies-1-fi.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Sparkle Movies (NL)
+https://candlelightmedia-sparklemovies-1-nl.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Sports News Highlights (AU)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-sprtnwshlt-lgau/playlist.m3u8
 #EXTINF:-1,Sportsgrid
@@ -2201,12 +2095,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-starsingefahr-lg
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-starsingefahr-lgch/playlist.m3u8
 #EXTINF:-1,Starsingefahr (DE) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-starsingefahr-lgde/playlist.m3u8
+#EXTINF:-1,Strong Mans Champion League (AU)
+https://rightsboosterltd-scl-1-au.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Strong Mans Champion League (CA)
 https://rightsboosterltd-scl-1-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Strong Mans Champion League (GB)
 https://rightsboosterltd-scl-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Strong Mans Champion League (US)
 https://rightsboosterltd-scl-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Storie Criminali (IT) Geo
+https://amg01821-lovetv-amg01821c21-lg-it-3263.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Suits Geo
+https://amg00497-amg00497c9-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c9-amgplt0023/playlist.m3u8
 #EXTINF:-1,Supermarket Sweep (CA) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-supermarketsweep-lgca/playlist.m3u8
 #EXTINF:-1,Super Anime (GB)
@@ -2219,32 +2119,40 @@ https://janson-supersimplesongs-1-us.lg.wurl.tv/playlist.m3u8
 https://jansonmedia-superwings-1-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Super Wings (US)
 https://jansonmedia-superwings-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Squash TV (CA)
+https://amg12058-c15studio-amg12058c5-lg-ca-5915.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Squash TV (US)
+https://amg12058-c15studio-amg12058c5-lg-us-5874.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Tastemade (CA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemade-lgca/playlist.m3u8
 #EXTINF:-1,Tastemade (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv16-lgus/playlist.m3u8
-#EXTINF:-1,Tastemade Brazil (BR)
-https://tastemadept16intl-xumobrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1,Tastemade En Espanol (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeenespanol-lgus/playlist.m3u8
-#EXTINF:-1,Tastemade Home (CA)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-lgca/playlist.m3u8
 #EXTINF:-1,Tastemade Home (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-lgus/playlist.m3u8
 #EXTINF:-1,Tastemade Travel (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-lgus/playlist.m3u8
-#EXTINF:-1,Tayo
+#EXTINF:-1,Talk TV (GB) Geo
+https://amg00738-newsuk-amg00738c1-lg-gb-3426.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Tayo Geo
 https://tayo-lyd-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1,Team USA (US) Geo
+https://amg01416-amg01416c4-lg-us-4203.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Tennis Plus
+https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
 #EXTINF:-1,Teen Vee (AU) Geo
 https://amg02051-soulpublishing-amg02051c5-lg-au-305.playouts.now.amagi.tv/playlist/amg02051-amg02051c5-305/playlist.m3u8
-#EXTINF:-1,Teen Vee English (IN)
+#EXTINF:-1,Teen Vee English (IN) Geo
 https://amg02051-soulpublishing-amg02051c5-lg-in-1846.playouts.now.amagi.tv/playlist/amg02051-admecyltd-teenveeenglish-lgin/playlist.m3u8
 #EXTINF:-1,Terramatter Wild (CH)
 https://autentic-terramaterwild-1-ch.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Timber Kings (GB) Geo
+https://amg00353-amg00353c41-lg-gb-5242.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Tiny Pop (GB) Geo
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
-#EXTINF:-1,Time TV (IN) Geo
-https://amg01851-timetv-amg01851c1-lg-in-2349.playouts.now.amagi.tv/playlist/amg01851-timefast-time-lgin/playlist.m3u8
+#EXTINF:-1,Travel Plus (BR) Geo	
+https://amg24440-travelplus-amg24440c1-lg-br-6141.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,TV9 Bangla (IN)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01106-associatedbroad-tv9bangla-lgin/playlist.m3u8
 #EXTINF:-1,TV9 Bharatvarsh (IN)
@@ -2267,8 +2175,12 @@ https://television-concientes-lges.amagi.tv/playlist.m3u8
 https://television-concientes-lgit.amagi.tv/playlist.m3u8
 #EXTINF:-1,Tennis Channel (DE)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelde-lgde/playlist.m3u8
+#EXTINF:-1,The Conners (US) Geo
+https://amg00353-amg00353c36-lg-us-6064.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,The Beverly Hillbillies (US)
 https://lg-thebeverlyhillbillies-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Beverly Hillbillies (CA)
+https://lg-thebeverlyhillbillies-1-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,The Biggest Loser (AU) Geo
 https://amg00627-banijay-amg00627c7-lg-au-1974.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-lgau/playlist.m3u8
 #EXTINF:-1,The Biggest Loser (US)
@@ -2281,22 +2193,16 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-biggestlooser-lg
 https://vitor-theboatshow-1-at.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,The Boat Show (CH)
 https://vitor-theboatshow-1-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Boat Show (DE)
-https://vitor-theboatshow-1-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Boat Show (ES)
-https://vitor-theboatshow-1-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,The Boat Show (FR)
 https://vitor-theboatshow-1-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Boat Show (GB)
-https://vitor-theboatshow-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Boat Show (IT)
-https://vitor-theboatshow-1-it.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,The Bob Ross Channel
 https://cinedigm-bobross-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,The Bob Ross Channel alt Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/xumo-host-bobross-lg/playlist.m3u8
-#EXTINF:-1,The Bob Ross Channel Spanish (US)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8
+#EXTINF:-1,The Cooks Country Channel (CA) Geo
+https://amg01420-amg01420c5-lg-ca-5123.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Cooks Country Channel (US) Geo
+https://amg01420-amg01420c5-lg-us-5093.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,The Chatshow Channel (AU) Geo
 https://amg00426-lds-amg00426c11-lg-au-2010.playouts.now.amagi.tv/playlist/amg00426-littledotstudiofast-thechatshowcc-lgau/playlist.m3u8
 #EXTINF:-1,The Chatshow Channel (NL) Geo
@@ -2305,70 +2211,32 @@ https://amg00426-lds-amg00426c11-lg-nl-2009.playouts.now.amagi.tv/playlist/amg00
 https://amg00600-tcn-amg00600c1-lg-ca-1010.playouts.now.amagi.tv/playlist/amg00600-thecountrynetworkfast-thecountrynetwork-lgca/playlist.m3u8
 #EXTINF:-1,The Country Network (US) Geo
 https://amg00600-tcn-amg00600c1-lg-us-929.playouts.now.amagi.tv/playlist/amg00600-thecountrynetworkfast-thecountrynetwork-lgus/playlist.m3u8
+#EXTINF:-1,The Dead Files Geo (US)
+https://amg00136-wbd-amg00136c69-lg-us-5718.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Dog Whisperer with Cesar Millan (US) Geo
+https://amg01201-cinedigm-amg01201c30-lg-us-5871.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Ellen Channel (US) Geo
+https://amg00136-wbd-amg00136c61-lg-us-5700.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,The Hill (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01312-nexstarmediagro-thehill-lgus/playlist.m3u8
-#EXTINF:-1,The Kids (KR)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02040-lguplus-digibas-thekids-kr-lgkr/playlist.m3u8
-#EXTINF:-1,The NFL Channel (US)
-https://lg-nflchannel-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (AR)
-https://jukin-thepetcollective-1-ar.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (AT)
-https://jukin-thepetcollective-1-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (AU)
-https://jukin-thepetcollective-1-au.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (BE)
-https://jukin-thepetcollective-1-be.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (BR)
-https://jukin-thepetcollective-1-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (CA)
-https://jukin-thepetcollective-1-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (CH)
-https://jukin-thepetcollective-1-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (CL)
-https://jukin-thepetcollective-1-cl.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (CO)
-https://jukin-thepetcollective-1-co.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (DE)
-https://jukin-thepetcollective-1-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (DK)
-https://jukin-thepetcollective-1-dk.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (ES)
-https://jukin-thepetcollective-1-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (FI)
-https://jukin-thepetcollective-1-fi.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (FR)
-https://jukin-thepetcollective-1-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (GB)
-https://jukin-thepetcollective-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (IE)
-https://jukin-thepetcollective-1-ie.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (IT)
-https://jukin-thepetcollective-1-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (LU)
-https://jukin-thepetcollective-1-lu.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (NL)
-https://jukin-thepetcollective-1-nl.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (NO)
-https://jukin-thepetcollective-1-no.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (MX)
-https://jukin-thepetcollective-1-mx.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (PE)
-https://jukin-thepetcollective-1-pe.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (PT)
-https://jukin-thepetcollective-1-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (SE)
-https://jukin-thepetcollective-1-se.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective (US)
-https://jukin-thepetcollective-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Price is Right Baker Era (US)
+https://amg00145-amg00145c16-lg-us-5075.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Price is Right Barker Era (CA) Geo
+https://amg00145-amg00145c20-lg-ca-5661.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Price is Right Drew Carey (CA) Geo
+https://amg00145-amg00145c21-lg-ca-5662.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Graham Norton Show (AT) Geo
+https://amg00654-itv-amg00654c3-lg-at-956.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Jim Rome Show (US) Geo
+https://amg00276-aenetwork-amg00276c19-lg-us-4457.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,The Red Green Show (CA)
 https://answermedia-theredgreenshow-2-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,The Red Green Show (US)
 https://answermedia-theredgreenshow-2-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,The Weather Network (CA)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
-#EXTINF:-1,Ticker News (AU)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernews-lgau/playlist.m3u8
+#EXTINF:-1,Threes Company (CA) Geo
+https://amg00145-amg00145c12-lg-ca-5665.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Timeline (GB)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timeline-lggb/playlist.m3u8
 #EXTINF:-1,Tiny Pop (IE) Geo
@@ -2381,7 +2249,7 @@ https://janson-todayshomeowner-1-ca.lg.wurl.tv/playlist.m3u8
 https://janson-todayshomeowner-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Top Cine (AR) Geo
 https://amg01024-olympusat-amg01024c9-lg-ar-1668.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-topcine-lgar/playlist.m3u8
-#EXTINF:-1,Top Cine (CO)
+#EXTINF:-1,Top Cine (CO) Geo
 https://amg01024-olympusat-amg01024c2-lg-co-1119.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-topcine-lgco/playlist.m3u8
 #EXTINF:-1,Top Cine (CL) Geo
 https://amg01024-olympusat-amg01024c2-lg-cl-1120.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-topcine-lgcl/playlist.m3u8
@@ -2397,6 +2265,8 @@ https://bam-totalcrime-lg-us.amagi.tv/playlist.m3u8
 https://trace-brazuca-lg-at.amagi.tv/playlist.m3u8
 #EXTINF:-1,Trace Brazuca alt (AT)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-brazuca-lg-at/playlist.m3u8
+#EXTINF:-1,Trace Brazuca (BR) Geo
+https://trace-brazuca-lg-br.amagi.tv/playlist.m3u8
 #EXTINF:-1,Trace Brazuca (CH) Geo
 https://trace-brazuca-lg-ch.amagi.tv/playlist.m3u8
 #EXTINF:-1,Trace Brazuca (DE) Geo
@@ -2435,25 +2305,23 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-latina-lg-mx/playlist.
 https://tracetv-tracesportstar-lgau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Trace Sport Stars (BR)
 https://tracetv-tracesportsstar-lgbr.amagi.tv/playlist.m3u8
-#EXTINF:-1,Trace Sport Stars (CH)
+#EXTINF:-1,Trace Sport Stars (CH) Geo
 https://trace-sportstars-lg-ch.amagi.tv/playlist.m3u8
-#EXTINF:-1,Trace Sport Stars (DE)
+#EXTINF:-1,Trace Sport Stars (DE) Geo
 https://trace-sportstars-lg-de.amagi.tv/playlist.m3u8
-#EXTINF:-1,Trace Sport Stars (ES)
-https://trace-sportstars-lg-es.amagi.tv/playlist.m3u8
-#EXTINF:-1,Trace Sport Stars (IT)
+#EXTINF:-1,Trace Sport Stars (IT) Geo
 https://trace-sportstars-lg-it.amagi.tv/playlist.m3u8
-#EXTINF:-1,Trace Sport Stars (UK)
+#EXTINF:-1,Trace Sport Stars (UK) Geo
 https://trace-sportstars-lg-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Trace Urban (DE)
+#EXTINF:-1,Trace Urban (DE) Geo
 https://trace-urban-lg-de.amagi.tv/playlist.m3u8
 #EXTINF:-1,Trace Urban alt (DE) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-urban-lg-de/playlist.m3u8
-#EXTINF:-1,Trace Urban (IT)
+#EXTINF:-1,Trace Urban (IT) Geo
 https://trace-urban-lg-it.amagi.tv/playlist.m3u8
-#EXTINF:-1,Trace Urban (MX)
+#EXTINF:-1,Trace Urban (MX) Geo
 https://trace-urban-lg-mx.amagi.tv/playlist.m3u8
-#EXTINF:-1,Trace Urban (UK)
+#EXTINF:-1,Trace Urban (UK) Geo
 https://trace-urban-lg-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1,Trace Urban alt (UK) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-urban-lg-uk/playlist.m3u8
@@ -2473,22 +2341,28 @@ https://travelxp-travelxp-1-it.lg.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-se.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Tru Blu (US)
 https://trublufactual-trublu-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,True Lives (GB) Geo check
+#EXTINF:-1,True Lives (GB) Geo
 https://amg00654-itv-amg00654c18-lg-gb-2689.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-truelives-lggb/playlist.m3u8
-#EXTINF:-1,Tribeca (CA)
+#EXTINF:-1,Tribeca (CA) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02507-giantpictures-tribeca-lgca/playlist.m3u8
 #EXTINF:-1,Tribeca (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02507-giantpictures-tribeca-lgus/playlist.m3u8
-#EXTINF:-1,Tu Cine (AR)
+#EXTINF:-1,Tu Cine (AR) Geo
 https://amg01024-olympusat-amg01024c9-lg-ar-1668.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-tucine-lgar/playlist.m3u8
-#EXTINF:-1,Tu Cine (CO)
+#EXTINF:-1,Tu Cine (CO) Geo
 https://amg01024-olympusat-amg01024c5-lg-co-1142.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-tucine-lgco/playlist.m3u8
-#EXTINF:-1,Tu Cine (CL)
+#EXTINF:-1,Tu Cine (CL) Geo
 https://amg01024-olympusat-amg01024c5-lg-cl-1141.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-tucine-lgcl/playlist.m3u8
-#EXTINF:-1,Tu Cine (PE)
+#EXTINF:-1,Tu Cine (PE) Geo
 https://amg01024-olympusat-amg01024c5-lg-pe-1143.playouts.now.amagi.tv/playlist/amg01024-olympusatfast-tucine-lgpe/playlist.m3u8
-#EXTINF:-1,Twisted Mirror Comedy (GB)
-https://twistedmirror-twistedmirrorcomedy-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Turma Da Monica (BR)
+https://amg00740-sofa-amg00740c9-lg-br-7304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Tu Discovery (US) Geo
+https://amg00136-wbd-amg00136c59-lg-us-5702.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Tu Warner (US) Geo
+https://amg00136-wbd-amg00136c55-lg-us-5701.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,TV ZYN (BR)
+https://amg01391-sbtinfast-amg01391c2-lg-br-651.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-lgbr/playlist.m3u8
 #EXTINF:-1,TV Zyn (EU)
 https://amg01391-sbtinfast-amg01391c2-runtime-latam-1337.playouts.now.amagi.tv/sbt-tvzyn-lgeu/playlist.m3u8
 #EXTINF:-1,TV ZYN (MX) U.S ip
@@ -2501,24 +2375,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-lges/play
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-lgfr/playlist.m3u8
 #EXTINF:-1,Unbeaten (GB)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeatengb-lggb/playlist.m3u8
-#EXTINF:-1,USA Today Geo
-https://usatodaynewsinternational-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1,Vivaldi TV
+#EXTINF:-1,Viaggi and Sapori (IT) Geo
+https://amg01821-lovetv-amg01821c25-lg-it-4100.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Vivaldi TV Geo
 https://mezzo-vivalditv-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,Vivaldi TV (BR)
+#EXTINF:-1,Vivaldi TV (BR) Geo
 https://mezzo-vivalditv-lg-br.amagi.tv/playlist.m3u8
-#EXTINF:-1,Vivaldi TV (ES)
+#EXTINF:-1,Vivaldi TV (ES) Geo
 https://mezzo-vivalditv-lg-es.amagi.tv/playlist.m3u8
-#EXTINF:-1,Vivaldi TV alt (ES)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/mezzoAAAA-vivalditv-lg-es/playlist.m3u8
-#EXTINF:-1,Vivaldi TV (IT)
+#EXTINF:-1,Vivaldi TV (IT) Geo
 https://mezzo-vivalditv-lg-it.amagi.tv/playlist.m3u8
-#EXTINF:-1,Vivaldi TV alt (IT)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/mezzoAAAA-vivalditv-lg-it/playlist.m3u8
-#EXTINF:-1,Vivaldi TV (MX)
+#EXTINF:-1,Vivaldi TV (MX) Geo
 https://mezzo-vivalditv-lg-mx.amagi.tv/playlist.m3u8
-#EXTINF:-1,Vivaldi TV alt (MX)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/mezzoAAAA-vivalditv-lg-mx/playlist.m3u8
 #EXTINF:-1,Watch4Movies
 https://watch4movies-lg.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/videosolu-watch4movies-lg/playlist.m3u8
@@ -2538,10 +2406,6 @@ https://watchmojo-1-it.lg.wurl.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-waterbear-lgau/playlist.m3u8
 #EXTINF:-1,Waterbear Network (AT)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-lgat/playlist.m3u8
-#EXTINF:-1,Waterbear Network (DE)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-waterbear-lgde/playlist.m3u8
-#EXTINF:-1,Waterbear Network (ES)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-waterbear-lges/playlist.m3u8
 #EXTINF:-1,Waterbear Network (FR)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-waterbear-lgfr/playlist.m3u8
 #EXTINF:-1,Waterbear Network (GB)
@@ -2550,44 +2414,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-lgg
 https://waypointtv-lg-ca.amagi.tv/playlist.m3u8
 #EXTINF:-1,Waypoint TV (US) Geo
 https://waypointtv-lg-us.amagi.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (AT)
-https://jukin-weatherspy-4-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (BE)
-https://jukin-weatherspy-4-be.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (BR)
-https://jukin-weatherspy-4-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (CA)
-https://jukin-weatherspy-4-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (CH)
-https://jukin-weatherspy-4-ch.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (DE)
-https://jukin-weatherspy-4-de.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Weatherspy (DK)
-https://jukin-weatherspy-4-dk.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (ES)
-https://jukin-weatherspy-4-es.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (FI)
-https://jukin-weatherspy-4-fi.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (FR)
-https://jukin-weatherspy-4-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (GB)
-https://jukin-weatherspy-4-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Weatherspy (IE)
-https://jukin-weatherspy-4-ie.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (IT)
-https://jukin-weatherspy-4-it.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (LU)
-https://jukin-weatherspy-4-lu.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (MX)
-https://jukin-weatherspy-4-mx.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (NL)
-https://jukin-weatherspy-4-nl.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Weatherspy (NO)
-https://jukin-weatherspy-4-no.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (PT)
-https://jukin-weatherspy-4-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,WeatherSpy (SE)
-https://jukin-weatherspy-4-se.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Wedo Big Docs (AT)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocsat-lgat/playlist.m3u8
 #EXTINF:-1,Wedo Big Docs (DE)
@@ -2596,14 +2422,26 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocsde
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-lggb/playlist.m3u8
 #EXTINF:-1,Wedo Big Stories (IT)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigstories-lgit/playlist.m3u8
-#EXTINF:-1,Wedo Movies (DE)
+#EXTINF:-1,Wedo Big Stories (SE) Geo
+https://amg00735-amg00735c32-lg-se-3672.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Wedo TV Movies (DE)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesde-lgch/playlist.m3u8
-#EXTINF:-1,Wedo Movies (IT)
+#EXTINF:-1,Wedo TV Movies (LU) Geo
+https://amg00735-amg00735c24-lg-lu-3630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Wedo TV Movies (BE) German subs Geo
+https://amg00735-amg00735c24-lg-be-3628.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Wedo TV Movies (IT)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesitaly-lgit/playlist.m3u8
+#EXTINF:-1,Wedo TV Movies (FI) Geo
+https://amg00735-amg00735c27-lg-fi-3635.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Wedo TV Movies (SE) Geo
+https://amg00735-amg00735c29-lg-se-3637.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Wedo Sports (AT)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedosports-lgat/playlist.m3u8
 #EXTINF:-1,Wedo Sports (DE)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedosports-lgde/playlist.m3u8
+#EXTINF:-1,Welcome Home (US) Geo
+https://amg00136-wbd-amg00136c9-lg-us-1935.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvwelcomehome-lgus/playlist.m3u8
 #EXTINF:-1,WFLD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 #EXTINF:-1,Wicked Tuna (US) Geo
@@ -2632,8 +2470,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wofl-lgus/playlist.m3u8
 #EXTINF:-1,Womens Network
 https://womensnetwork-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,Wonder (AU)
+#EXTINF:-1,Wonder (AU) Geo
 https://amg00426-lds-amg00426c10-lg-au-2368.playouts.now.amagi.tv/playlist/amg00426-littledotstudiofast-wonder-lgau/playlist.m3u8
+#EXTINF:-1,Wonder alt (AU) Geo
+https://amg00426-lds-amg00426c6-lg-au-2369.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1,Wonder (DK)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wonder-lgdk/playlist.m3u8
 #EXTINF:-1,Wonder (FI)
@@ -2650,7 +2490,7 @@ https://amg00218-amg00218c1-lg-fi-2765.playouts.now.amagi.tv/playlist/amg00218-w
 https://amg00218-wptenterprises-amg00218c1-lg-gb-2283.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-lggb/playlist.m3u8
 #EXTINF:-1,World Poker Tour (IE) Geo
 https://amg00218-amg00218c1-lg-ie-2758.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-lgie/playlist.m3u8
-#EXTINF:-1,World Of Free sport (AT)
+#EXTINF:-1,World Of Free Sport (AT)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-worldoffreespor-lgat/playlist.m3u8
 #EXTINF:-1,World of Free Sport (CH)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-worldoffreespor-lgch/playlist.m3u8
@@ -2676,26 +2516,34 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/xiteAAAAA-xite-hitsuk-lg/playlist.m3u8
 https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1,Yaquelaverite (FR)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-yaquelaverite-lgfr/playlist.m3u8
-#EXTINF:-1,Youlook Motorsport (DK)
-https://youlook-motorsport-se-dk.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Youlook Motorsport (NO)
-https://youlook-motorsport-se-no.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Youlook Nordic Channel (DK)
-https://youlook-nordic-channel-dk.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Youlook Nordic Channel (FI)
-https://youlook-nordic-channel-fi.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Youlook Nordic Channel (SE)
-https://youlook-nordic-channel-se.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Youlook Movies Series (DK)
-https://youlook-movies-series-channel-dk.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Youlook Movies Series (FI)
-https://youlook-movies-series-fi-fi.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,Youlook Movies Series (NO)
-https://youlook-movies-series-no-no.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,YU Gi OH (FI)
+https://fastmedia-yu-gi-oh-1-fi.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,YU Gi OH (GB)
+https://fastmedia-yu-gi-oh-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,YU Gi OH (IE)
+https://fastmedia-yu-gi-oh-1-ie.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,YU Gi OH (NO)
+https://fastmedia-yu-gi-oh-1-no.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,YU Gi OH (AT)
+https://fastmedia-yu-gi-oh-2-at.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,YU Gi OH (CH)
+https://fastmedia-yu-gi-oh-2-ch.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,YU Gi OH (DE)
+https://fastmedia-yu-gi-oh-2-de.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,YU Gi OH (IT)
+https://fastmedia-yu-gi-oh-3-it.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,YU Gi OH (FR)
+https://fastmedia-yu-gi-oh-4-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,YU Gi OH (ES)
+https://fastmedia-yu-gi-oh-5-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,YU Gi OH (SE)
+https://fastmedia-yu-gi-oh-1-se.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,YGTV (CA)
 https://newidco-ygtv-1-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,YGTV (US)
 https://newidco-ygtv-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,QVC (US)
+https://qvc-samsung-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,Young Hollywood (AU)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-yunghollywd-lgau/playlist.m3u8
 #EXTINF:-1,Show Champion
@@ -2704,8 +2552,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5464
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5466
 #EXTINF:-1,Arirang K-pop
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5468
-#EXTINF:-1,Dingo Music
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5474
 #EXTINF:-1,Cocobi
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5476
 #EXTINF:-1,Kongsuni
@@ -2716,14 +2562,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5480
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5482
 #EXTINF:-1,My Little Pet
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5484
-#EXTINF:-1,The Nokdu Flower
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5486
-#EXTINF:-1,My Sassy Girl
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5488
 #EXTINF:-1,Running Man
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5490
-#EXTINF:-1,I can hear your voice
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5492
 #EXTINF:-1,K-Star Golf
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5498
 #EXTINF:-1,CBS
@@ -2732,3 +2572,4 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5529
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5500
 #EXTINF:-1,?? (AU) spanish to i.d
 https://amg02051-soulpublishing-amg02051c5-lg-au-305.playouts.now.amagi.tv/playlist/amg02051-amg02051c5-305/playlist.m3u8
+

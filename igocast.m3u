@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CoziTV" tvg-logo="https://mw.igocast.com/files/channels/1536791606647CoziTV180518040340.jpg" group-title="IGOCast Kansas",CoziTV
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+#EXTINF:-1 tvg-id="This" tvg-logo="https://mw.igocast.com/files/channels/1536791671621HeroesIcons180518040417.jpg" group-title="IGOCast Kansas",This
+https://cdn.igocast.com/wkrp_channel2_hls/wkrp_channel2_master.m3u8
+#EXTINF:-1 tvg-id="getTV" tvg-logo="https://mw.igocast.com/files/channels/1536795187203getTV080618121023.jpg" group-title="IGOCast Kansas",getTV
+https://cdn.igocast.com/wkrp_channel3_hls/wkrp_channel3_master.m3u8
+#EXTINF:-1 tvg-id="Buzzer" tvg-logo="https://mw.igocast.com/files/channels/1536791125733Buzzer220318232512.png" group-title="IGOCast Kansas",Buzzer
+https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
+#EXTINF:-1 tvg-id="NewsNet" tvg-logo="https://mw.igocast.com/files/channels/1536791459533MI26090518041934.jpg" group-title="IGOCast Kansas",NewsNet
+https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
+#EXTINF:-1 tvg-id="Ace TV" tvg-logo="https://mw.igocast.com/files/channels/1611867659889ace.png" group-title="IGOCast Kansas",Ace TV
+https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
+#EXTINF:-1 tvg-id="Action" tvg-logo="https://mw.igocast.com/files/channels/15393136235934HeartlandLogo2018A.png" group-title="IGOCast Kansas",Action
+https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
+#EXTINF:-1 tvg-id="RealAmericasVoice" tvg-logo="https://mw.igocast.com/files/channels/1611867635512rav.jpg" group-title="IGOCast Kansas",RealAmericasVoice
+https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
+#EXTINF:-1 tvg-id="WeatherNation" tvg-logo="https://mw.igocast.com/files/channels/1536794225320WeatherNation080618120707.png" group-title="IGOCast Kansas",WeatherNation
+https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+#EXTINF:-1 tvg-id="Rev'N" tvg-logo="https://mw.igocast.com/files/channels/1536793966816RevN080618115943.png" group-title="IGOCast Kansas",Rev'N
+https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
+#EXTINF:-1 tvg-id="TheGrio" tvg-logo="https://mw.igocast.com/files/channels/1617752902291TheGriologo.png" group-title="IGOCast Kansas",TheGrio
+https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
+#EXTINF:-1 tvg-id="RetroTV" tvg-logo="https://mw.igocast.com/files/channels/1536791558300RetroTV220318232705.png" group-title="IGOCast Kansas",RetroTV
+https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
+#EXTINF:-1 tvg-id="ShopLC" tvg-logo="https://mw.igocast.com/files/channels/1587443396036ShopLC.jpg" group-title="IGOCast Kansas",ShopLC
+https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
+#EXTINF:-1 tvg-id="This" tvg-logo="https://mw.igocast.com/files/channels/1536794029767This080618120026.png" group-title="IGOCast Kansas",This
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
+#EXTINF:-1 tvg-id="Jewelry" tvg-logo="https://mw.igocast.com/files/channels/1536791356877Jewelry220318232745.png" group-title="IGOCast Kansas",Jewelry
+https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
+#EXTINF:-1 tvg-id="YouToo America" tvg-logo="https://mw.igocast.com/files/channels/1536794298506YouTooAmerica080618120937.png" group-title="IGOCast Kansas",YouToo America
+https://thegateway.app/YouToo/CueTones/playlist.m3u8
+#EXTINF:-1 tvg-id="BizTV" tvg-logo="https://mw.igocast.com/files/channels/1536791045752BizTV030518192629.png" group-title="IGOCast Kansas",BizTV
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+#EXTINF:-1 tvg-id="VOA" tvg-logo="https://mw.igocast.com/files/channels/1545452848239VOANews.jpg" group-title="IGOCast Kansas",VOA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 tvg-id="RT" tvg-logo="https://mw.igocast.com/files/channels/1545453022424rtAmerica.jpg" group-title="IGOCast Kansas",RT
+https://rt-usa.secure.footprint.net/1105.m3u8
+#EXTINF:-1 tvg-id="Deutsche World" tvg-logo="https://mw.igocast.com/files/channels/1545453159958dwlogo.png" group-title="IGOCast Kansas",Deutsche World
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://mw.igocast.com/files/channels/1545453742792CGTNAmericaLogo.png" group-title="IGOCast Kansas",CGTN
+https://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 tvg-id="C-Span" tvg-logo="https://mw.igocast.com/files/channels/1545454985224cspan.jpg" group-title="IGOCast Kansas",C-Span
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1 tvg-id="C-Span2" tvg-logo="https://mw.igocast.com/files/channels/1545455097355CSPAN2.png" group-title="IGOCast Kansas",C-Span2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:-1 tvg-id="C-Span3" tvg-logo="https://mw.igocast.com/files/channels/1545455203790logocspan3.png" group-title="IGOCast Kansas",C-Span3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV-USA" tvg-logo="https://mw.igocast.com/files/channels/1545455544446BLOOMBERGtvLOGO.png" group-title="IGOCast Kansas",Bloomberg TV-USA
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8

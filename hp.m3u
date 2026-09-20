@@ -1,0 +1,269 @@
+#EXTM3U
+#EXTINF:-1 group-title="HP TV+",tvg-id="USA Today News",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/USA_Today-logo_White_new.png",USA Today News
+https://amg00457-amg00457c1-hp-us-11031.playouts.now.amagi.tv/playlist/amg00457-videoelephant-usatodaynews-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Reuters",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/reuters/Reuters60-512x512-Colour.png",Reuters
+https://amg00453-reuters-amg00453c1-hp-us-11112.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00453-reuters-reuters-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Breaking News US",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/leadstory/hptv/LS_Breaking_News_512x512_Transparent.png",Breaking News US
+https://amg02703-amg02703c18-hp-us-10738.playouts.now.amagi.tv/playlist/amg02703-leadstoryfast-leadstoryus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="The Young Turks",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Logo_512x512.png",The Young Turks
+https://amg01220-amg01220c1-hp-us-11033.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg01220-theyoungturksfast-tyt-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Euronews",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Logo_Euronews_1280x720.png",Euronews
+https://amg00882-amg00882c2-hp-us-10706.playouts.now.amagi.tv/playlist/amg00882-euronewsfast-euronewseng-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="CNA",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg-images/CNA/Logo_512x512.png",CNA
+https://amg01082-cna-amg01082c1-hp-us-10726.playouts.now.amagi.tv/playlist/amg01082-cnafast-cnanews-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Breaking Sports News",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/leadstory/hptv/BreakingSportsNewsLogo512x512.png",Breaking Sports News
+https://amg02703-amg02703c20-hp-us-11171.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg02703-leadstoryfast-leadstoryleaderboard-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Free Movies Plus",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/OTT_STUDIO/HP/Free_Movies_Plus_Logo.png",Free Movies Plus
+https://amg02042-ottstudio-amg02042c1-hp-us-10735.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Action Plus",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/OTT_STUDIO/HP/Action_Plus_Logo.png",Action Plus
+https://amg02042-ottstudio-amg02042c4-hp-us-10728.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-actionplus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Comedy Plus",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/OTT_STUDIO/HP/Comedy_Plus_Logo.png",Comedy Plus
+https://amg02042-ottstudio-amg02042c5-hp-us-10731.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-comedyplus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Funflix",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/OTT_STUDIO/HP/Fun_Flix_Logo.png",Funflix
+https://amg02042-amg02042c66-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg02042-amg02042c66-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Sci-Fi Plus",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/OTT_STUDIO/HP/SciFiPlus_logo.png",Sci-Fi Plus
+https://amg02042-amg02042c37-hp-us-11062.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-scifiplusta-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Romance Plus",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/romance_plus_ta/RomancePlus_logo.png",Romance Plus
+https://amg02042-amg02042c35-hp-us-11060.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-romanceplusta-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="VHS Plus",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/vhs_plus_ta/VHSPlus_logo.png",VHS Plus
+https://amg02042-amg02042c34-hp-us-11059.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-vhsplusta-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Tribeca",tvg-logo="https://djusrwqlpwtix.cloudfront.net/HPTV/Tribeca512x512Logo.png",Tribeca
+https://amg02507-amg02507c1-hp-us-10778.playouts.now.amagi.tv/playlist/amg02507-giantpicturesfast-tribeca-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Black Movies Plus",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/OTT_STUDIO/HP/BlackMoviesPlus_logo.png",Black Movies Plus
+https://amg02042-amg02042c64-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg02042-amg02042c64-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="American Greats TV",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/OTT_STUDIO/HP/AmericanGreatsTV_logo.png",American Greats TV
+https://amg02042-amg02042c63-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg02042-amg02042c63-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Horror Plus",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/OTT_STUDIO/HP/Horror_Plus_Logo.png",Horror Plus
+https://amg02042-amg02042c12-hp-us-10729.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-horrorplus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Westerns Plus",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/OTT_STUDIO/HP/Westerns_Plus_Logo.png",Westerns Plus
+https://amg02042-ottstudio-amg02042c8-hp-us-10730.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-westernsplus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Holiday Plus",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/OTT_STUDIO/HP/Holiday_Plus_Logo.png",Holiday Plus
+https://amg02042-amg02042c13-hp-us-10733.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-holidayplus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Pac12 Insider",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Pac12Insider_HP_512x512.png",Pac12 Insider
+https://amg00384-pac12fast-amg00384c1-hp-us-10805.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Big 12 Network",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/raycom/HPTV/Big12_Logo_512 X 512.png",Big 12 Network
+https://amg01258-raycom-amg01258c7-hp-us-11004.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-big12network-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="ACC Digital Network",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/raycom/HPTV/ACC_Logo_512X512.png",ACC Digital Network
+https://amg01258-raycom-amg01258c2-hp-us-11005.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-accdigitalnetwork-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="BeINXtra",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/beINSPORTSXTRALOGO.png",BeINXtra
+https://amg01334-beinxtra-amg01334c2-hp-us-10806.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="SportsGrid",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/SPORTSGRID512x512.png",SportsGrid
+https://amg00315-amg00315c1-hp-us-10981.playouts.now.amagi.tv/playlist/amg00315-sportsgridfast-sportsgrid-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="FloHockey 24/7",tvg-logo="https://preview-amagicloud-flosports-flosports.cloudport.amagi.tv/Images/S3/FloHockey_Logo.png",FloHockey 24/7
+https://amg02278-flosports-amg02278c2-hp-us-11052.playouts.now.amagi.tv/playlist/amg02278-flosports-flohockey24x7-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Tennis+",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/tennis/hptv/Tennis%20Plus%20logo_Transparent_[512x512].png",Tennis+
+https://amg01935-amg01935c1-amgplt0704.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Tennis Channel 2",tvg-logo="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/T2/T2_Logo.png",Tennis Channel 2
+https://amg01444-amg01444c2-hp-us-11071.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg01444-tennischannelfast-tennischannelus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Rock Channel",tvg-logo="https://preview-amagicloud-curling-curling.cloudport.amagi.tv/Images/S3/logo.png",Rock Channel
+https://amg27030-amg27030c2-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg27030-amg27030c2-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Pickle Ball",tvg-logo="https://preview-amagicloud-tennischannelv2-tennischannel-v2.cloudport.amagi.tv/Images/S3/pkbl/PickleBall_Logo.png",Pickle Ball
+https://amg01444-amg01444c3-hp-us-11070.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg01444-tennischannelfast-pickleball-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Free Live Sports",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/OTT_STUDIO/HP/FreeLiveSports_logo.png",Free Live Sports
+https://amg02042-amg02042c41-hp-us-11089.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg02042-ottstudiofast-freelivesportsta-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="World Poker Tour",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/WPT_English_HP_logo.png",World Poker Tour
+https://amg00218-amg00218c1-hp-us-10713.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Fuel TV",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/fueltv_hplogo.png",Fuel TV
+https://amg01074-fueltv-amg01074c11-hp-us-11000.playouts.now.amagi.tv/playlist/amg01074-fueltvfast-fueltvus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="InTrouble",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/Images/INTROUBLE_Logo_512x512.png",InTrouble
+https://amg00861-terncloud-amg00861c6-hp-us-10707.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="WORLD OF FREESPORTS",tvg-logo="https://d3tckmvn7bpt4d.cloudfront.net/Logo_512x512.png",WORLD OF FREESPORTS
+https://amg01866-mmagfast-amg01866c4-hp-us-10725.playouts.now.amagi.tv/playlist/amg01866-mainstreammediaagfast-worldoffreesportsinternational-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Watch AEW",tvg-logo="https://preview-amagicloud-aew-automation-aew.cloudport.amagi.tv/Images/S3/AEW-WatchAEW_Wordmark-512x512.png",Watch AEW
+https://amg16221-amg16221c1-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg16221-amg16221c1-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="TNA Wrestling",tvg-logo="https://preview-amagicloud-anthem-anthem.cloudport.amagi.tv/Images/S3/tna-wrestling/TNAWrestlingChannel_Logo.png",TNA Wrestling
+https://amg00966-anthem-amg00966c1-hp-us-10940.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Fight Network",tvg-logo="https://preview-amagicloud-anthem-anthem.cloudport.amagi.tv/Images/S3/fight-network/FightNetwork_Logo.png",Fight Network
+https://amg00966-amg00966c10-amgplt0704.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Surf Cinema",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/surfcinema/SurfCinemaStacked-White-512x512.png",Surf Cinema
+https://amg13231-actve-amg13231c4-hp-us-11164.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg13231-actvefast-surfcinema-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Billiard TV",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Billiard%20TV_Logohp.png",Billiard TV
+https://amg01267-tripleb-amg01267c1-hp-us-10801.playouts.now.amagi.tv/playlist/amg01267-tripleb-billiardtv-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Poker Night In America",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/PNIA_Logo_512x512.png",Poker Night In America
+https://amg13231-amg13231c7-amgplt0704.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg13231-amg13231c7-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="MODUS SUPER SERIES DARTS",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/MSS512X512LOGO.png ",MODUS SUPER SERIES DARTS
+https://amg17441-amg17441c1-amgplt0704.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg17441-amg17441c1-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="ACL Cornhole TV",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ACL%20Cornhole%20TV_Logo%20(1).png",ACL Cornhole TV
+https://amg01267-tripleb-amg01267c6-hp-us-10802.playouts.now.amagi.tv/playlist/amg01267-tripleb-aclcornholetv-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Cowboy+ Sports",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/CC_Fast_logo_512x512.png",Cowboy+ Sports
+https://amg17292-tetonfast-amg17292c1-hp-us-10781.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-cowboychannel-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Professional Bull Riders",tvg-logo="https://d2mxb63djushzm.cloudfront.net/pbr/PBR_Logo_HP_512.png",Professional Bull Riders
+https://amg17573-amg17573c1-amgplt0704.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg17573-amg17573c1-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Crime Plus",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/OTT_STUDIO/HP/CrimePlus_logo.png",Crime Plus
+https://amg02042-amg02042c39-hp-us-11064.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-crimeplusta-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="True Crime now",tvg-logo="https://d326zal162nowe.cloudfront.net/Images/S3/HPPlus/TrueCrimeNow_512x512.png",True Crime now
+https://amg00376-magellan-amg00376c8-hp-us-10720.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowmainus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Real Crime Uncovered by VideoElephant",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/RCU_Full-color-logo.png",Real Crime Uncovered by VideoElephant
+https://amg00457-amg00457c3-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00457-amg00457c3-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Haunt TV",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/HauntTVUS/HPTV/HauntTV_HPTV_ChannelLaunchAssets_Logo_512x512.png",Haunt TV
+https://amg00090-amg00090c20-hp-us-10890.playouts.now.amagi.tv/playlist/amg00090-blueantfast-haunttvushntus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Beyond Paranormal",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/BeyondParanormal_Full-color-logo.png",Beyond Paranormal
+https://amg00457-amg00457c2-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00457-amg00457c2-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Nosey",tvg-logo="https://d3icg9l6jqq36d.cloudfront.net/HP_NoseyLogo_2026_FullColor_Talent_1280x720_16x9.png",Nosey
+https://amg00514-amg00514c1-hp-us-11028.playouts.now.amagi.tv/playlist/amg00514-noseybaxterfast-nosey-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Confess by Nosey",tvg-logo="https://d3icg9l6jqq36d.cloudfront.net/HP_ConfessLogo_2026_FullColor_Talent_1280x720_16x9.png",Confess by Nosey
+https://amg00514-amg00514c3-hp-us-11026.playouts.now.amagi.tv/playlist/amg00514-noseybaxterfast-confessbynosey-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Judge Nosey",tvg-logo="https://d3icg9l6jqq36d.cloudfront.net/HP_JudgeNoseyLogo_2026_FullColor_Talent_1280x720_16x9.png",Judge Nosey
+https://amg00514-amg00514c2-hp-us-11027.playouts.now.amagi.tv/playlist/amg00514-noseybaxterfast-judgenosey-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Relative Justice",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/OTT_STUDIO/HP/Relative_Justice_Logo.png",Relative Justice
+https://amg02042-amg02042c24-hp-us-10727.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-relativejustice-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Operation Repo",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/OTT_STUDIO/HP/Operation_Repo_Logo.png",Operation Repo
+https://amg02042-amg02042c26-hp-us-10732.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-operationrepo-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Documentary+",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/DocPlus_Logo_512x512.png",Documentary+
+https://amg13231-amg13231c8-amgplt0704.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg13231-amg13231c8-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="PBS Antiques Roadshow",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/HPTV/ARS_512x512_logo.png",PBS Antiques Roadshow
+https://amg02333-pbs-amg02333c8-hp-us-10815.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsantiquesroadshow-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Antiques Road Trip",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/HPTV/ART_512x512_logo.png",Antiques Road Trip
+https://amg02333-pbs-amg02333c9-hp-us-10786.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-antiquesroadtripcc-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="History and Warfare",tvg-logo="https://d326zal162nowe.cloudfront.net/Images/S3/HPPlus/History&Warfare_512x512.png",History and Warfare
+https://amg00376-magellan-amg00376c16-hp-us-10719.playouts.now.amagi.tv/playlist/amg00376-magellantv-historyandwarfarenowmainus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Hot 97 TV",tvg-logo="https://d1fof7sw6713j3.cloudfront.net/Logo-512x512.png",Hot 97 TV
+https://amg00567-amg00567c13-hp-us-11165.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00567-estrellamediafast-hot97fast-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Revolt Mixtape",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Logo_512.png",Revolt Mixtape
+https://amg00883-revolttv-amg00883c1-hp-us-11025.playouts.now.amagi.tv/playlist/amg00883-revolttvfast-revoltmixtape-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="InWonder",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/Images/INWONDER_Logo_512x512.png",InWonder
+https://amg00861-terncloud-amg00861c4-hp-us-10708.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Curiosity Now",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/hp-delivery/curiosity_now/CuriosityNow_Wordmark_Stack_Rev.png",Curiosity Now
+https://amg00170-amg00170c1-hp-us-10705.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynow-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Cosmic Frontiers",tvg-logo="https://d326zal162nowe.cloudfront.net/Images/S3/HPPlus/CosmicFrontiers_512x512.png",Cosmic Frontiers
+https://amg00376-magellan-amg00376c13-hp-us-10721.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowmainus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Popular Science",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/popularscience/PopSci_WhiteOnTransparent_512x512.png",Popular Science
+https://amg13231-actve-amg13231c5-hp-us-11163.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg13231-actvefast-popularscience-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="EntrepreneurTV",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/EntrepreneurTV_full-color-logo.png",EntrepreneurTV
+https://amg00457-amg00457c6-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00457-amg00457c6-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Black Enterprise Streaming Network",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/BEST_black-logo.png",Black Enterprise Streaming Network
+https://amg00457-amg00457c7-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00457-amg00457c7-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Valuetainment",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Valuetainment_Full-color-logo.png",Valuetainment
+https://amg00457-amg00457c5-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00457-amg00457c5-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="800lb Gorilla",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/OTT_STUDIO/HP/800PoundGorilla_logo.png",800lb Gorilla
+https://amg02042-amg02042c38-hp-us-11063.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-800lbgorilla-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="PowerNation",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/raycom/HPTV/PN_Logo_512 X 512.png",PowerNation
+https://amg01258-raycom-amg01258c1-hp-us-11040.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernation-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="PowerSports World",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/PowersportsWorld_Logo.png",PowerSports World
+https://amg01267-tripleb-amg01267c7-hp-us-10803.playouts.now.amagi.tv/playlist/amg01267-tripleb-powersportsworld-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="RACER Select",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/mavtv/RACER_Select_logo_HPTV.png",RACER Select
+https://amg00378-mavtv-amg00378c4-hp-us-11067.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00378-mavtvfast-racerselect-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="FloRacing 24/7",tvg-logo="https://preview-amagicloud-flosports-flosports.cloudport.amagi.tv/Images/S3/FloRacing_Logo.png",FloRacing 24/7
+https://amg02278-flosports-amg02278c1-hp-us-11065.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg02278-flosports-floracing24x7-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Mecum TV",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/MecumTV/HPTV/MecumTV_Logo_512x512.png",Mecum TV
+https://amg16176-mecum-amg16176c1-hp-us-10847.playouts.now.amagi.tv/playlist/amg16176-mecumauctions-mecumtv-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="America's Test Kitchen",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/atk/ATKlogoHPEPG.png",America's Test Kitchen
+https://amg01420-amg01420c1-hp-us-11039.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-americastestkitchen-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Cook's Country Channel",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/Images/CClogo-HP-EPG.png",Cook's Country Channel
+https://amg01420-amg01420c5-hp-us-11029.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-cookscountrychannel-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Gusto TV",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/gusto_logo_512_transparent.png",Gusto TV
+https://amg01077-amg01077c6-amgplt0704.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg01077-amg01077c6-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="PBS Food",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/HPTV/Food_512x512_logo.png",PBS Food
+https://amg02333-pbs-amg02333c7-hp-us-10788.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsfood-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Martha Stewart TV",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/The_Martha_Stewart_Channel_Logo_512x512.png",Martha Stewart TV
+https://amg17902-amg17902c1-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg17902-amg17902c1-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="The Emeril Lagasse Channel",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/The_Emeril_Lagasse_Channel_Logo_White_512x512.png",The Emeril Lagasse Channel
+https://amg17902-amg17902c2-amgplt0704.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg17902-amg17902c2-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="INFAST",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/Images/INFAST_Logo_512x512.png",INFAST
+https://amg00861-terncloud-amg00861c5-hp-us-10710.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="PBS Genealogy",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/HPTV/Genealogy_512x512_logo.png",PBS Genealogy
+https://amg02333-pbs-amg02333c14-hp-us-10785.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsgenealogy-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Love Pets Americas",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/Bluesky/LovePets_Logo.png",Love Pets Americas
+https://amg01515-amg01515c44-hp-us-10849.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovepetsamericasengcc-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Circle Country",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/raycom/HPTV/Circle_512x512.png",Circle Country
+https://amg00432-amg00432c1-hp-us-11173.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00432-circletv-circletv-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Cirque du Soleil",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cirquedusoleilcp/CDS_Square_Logo_512x512.png",Cirque du Soleil
+https://amg01439-amg01439c1-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01439-amg01439c1-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Homeful",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/HomefulTVUS/HPTV/HomefulUSA_Logo_512x512.png",Homeful
+https://amg00090-amg00090c21-hp-us-10889.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulushmflus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Joel Osteen Network",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/JON_Logo_512x512.png",Joel Osteen Network
+https://amg13231-amg13231c9-amgplt0704.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg13231-amg13231c9-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Love Nature",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/Bluesky/LoveNature_Logo.png",Love Nature
+https://amg01515-amg01515c1-hp-us-10531.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovenatureus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="PBS Nature",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/HPTV/Nature_512x512_logo.png",PBS Nature
+https://amg02333-pbs-amg02333c11-hp-us-10777.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsnature-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="InWild",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/Images/INWILD_Logo_512x512.png",InWild
+https://amg00861-terncloud-amg00861c7-hp-us-10711.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwildhd-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="EarthDay 365",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/earth365/14134_ED365_Amagi_Launch_Logo_512x512.png",EarthDay 365
+https://amg01888-amg01888c18-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c18-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="InTravel",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/Images/INTRAVEL_Logo_512x512.png",InTravel
+https://amg00861-amg00861c22-hp-us-10709.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-intravel-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="PBS Travel",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/HPTV/Travel_512x512_logo.png",PBS Travel
+https://amg02333-pbs-amg02333c15-hp-us-10787.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbstravel-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Travel Escapes",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Travel_Escapes_Full-color-logo.png",Travel Escapes
+https://amg00457-amg00457c4-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00457-amg00457c4-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="MagellanTV Wildest",tvg-logo="https://d326zal162nowe.cloudfront.net/Images/S3/HPPlus/MagellanTVWildest_Logo_512x512.png",MagellanTV Wildest
+https://amg00376-magellan-amg00376c1-hp-us-10718.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowmainus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Estrella News",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/hp-delivery/estreall_news/EstrellaNews.png",Estrella News
+https://amg00567-amg00567c2-hp-us-11082.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00567-estrellamediafast-estrellanews-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Estrella TV",tvg-logo="https://d1fof7sw6713j3.cloudfront.net/etv-logoo.png",Estrella TV
+https://amg00567-amg00567c9-hp-us-11081.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00567-estrellamediafast-estrellatvinternational-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Estrella Games",tvg-logo="https://d1fof7sw6713j3.cloudfront.net/estrellagameslogoo.png",Estrella Games
+https://amg00567-amg00567c1-hp-us-11058.playouts.now.amagi.tv/playlist/amg00567-estrellamediafast-estrellagames-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="BeIN Xtra Espanol",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/beINSPORTSENESPANOL.png",BeIN Xtra Espanol
+https://amg01334-beinxtra-amg01334c1-hp-us-10807.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Canela.TV Deportes",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/hptv/CTV-HP-US-Logo-512x512art.png",Canela.TV Deportes
+https://amg00658-amg00658c11-hp-us-10914.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deportesus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Euronews Español",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Logo_Euronews_1280x720.png",Euronews Español
+https://amg00882-amg00882c5-hp-us-10712.playouts.now.amagi.tv/playlist/amg00882-euronewsfast-euronewsspa-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="World Poker Tour en Español",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/WPT_512_HPTV.png",World Poker Tour en Español
+https://amg00218-amg00218c2-hp-us-10714.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertourespanol-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="PowerNation Spanish",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/raycom/HPTV/PNS_Logo_512 X 512.png",PowerNation Spanish
+https://amg01258-raycom-amg01258c3-hp-us-11041.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationspanish-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Homeful en Español",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/Bluesky/HomefulUSAenEspanol_Logo.png",Homeful en Español
+https://amg00090-amg00090c18-hp-us-10886.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwideescc-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Canela.TV Novelas y Dramas",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/hptv/CTV-HP-US-Logo-512x512.png ",Canela.TV Novelas y Dramas
+https://amg00658-amg00658c99-hp-us-10918.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionlatina-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Canela.TV Hollywood y Más",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/hptv/CTV-HP-US-Logo-512x512-5.png",Canela.TV Hollywood y Más
+https://amg00658-amg00658c105-hp-us-10916.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-hollywoodymasus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Canela.TV Narco-Drama",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/hptv/CTV-HP-US-Logo-512x512-4.png",Canela.TV Narco-Drama
+https://amg00658-amg00658c13-hp-us-10915.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Canela.TV Clásicos",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/hptv/CTV-HP-US-Logo-512x512.png",Canela.TV Clásicos
+https://amg00658-amg00658c9-hp-us-10913.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Cine Estrella",tvg-logo="https://d1fof7sw6713j3.cloudfront.net/CINE-ETV_Logo-512x512.png",Cine Estrella
+https://amg00567-amg00567c14-hp-us-11166.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00567-estrellamediafast-cineestrellatv16minadload-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Novelas Turcas",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/hptv/CTV-HP-US-Logo-512x512-3.png",Novelas Turcas
+https://amg00658-amg00658c102-hp-us-10894.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Curiosity Explora",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Curiosity_Explora_512.png",Curiosity Explora
+https://amg00567-amg00567c7-hp-us-11083.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00567-estrellamediafast-curiosityexplora-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Curiosity Animales",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/hp-delivery/curiosity_animales/CuriosityAnimales.png",Curiosity Animales
+https://amg00567-amg00567c6-hp-us-11084.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00567-estrellamediafast-curiosityanimales-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Naturaleza Salvaje",tvg-logo="https://d326zal162nowe.cloudfront.net/Images/S3/HPPlus/NaturalezaSalvaje_512x512.png",Naturaleza Salvaje
+https://amg00376-magellan-amg00376c21-hp-us-10866.playouts.now.amagi.tv/playlist/amg00376-magellantv-wildnaturenowrokumx-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Love Nature Spanish",tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/LoveNatureSpanish/HPTV/LoveNatureenEspanol_HPTV_ChannelLaunchAssets_Logo_512x512.png",Love Nature Spanish
+https://amg01515-amg01515c17-hp-us-10891.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovenaturespanishnew2-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Curiosity Motores",tvg-logo="https://d1fof7sw6713j3.cloudfront.net/CuriosityMotores.png",Curiosity Motores
+https://amg00567-amg00567c8-hp-us-11085.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00567-estrellamediafast-curiositymotores-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Billboard Español TV",tvg-logo="https://d1v0zs4geog4co.cloudfront.net/billboard-espanol-tv_hptv_logo_white_512x512.png",Billboard Español TV
+https://amg00375-amg00375c13-hp-us-10845.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-backstageespanol-hpus/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Qello Concerts by Stingray",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/qelloconcerts/14134_QCS_Amagi_Launch_Logo_512x512.png",Qello Concerts by Stingray
+https://amg01888-amg01888c33-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c33-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Stingray Greatest Hits",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/StingrayGreatestHits/14134_SM_Amagi_GreatestHits_Logo_512x512.png",Stingray Greatest Hits
+https://amg01888-amg01888c29-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c29-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Stingray Soft Hits",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/softhits/14134_SM_Amagi_SoftHits_Logo_512x512.png",Stingray Soft Hits
+https://amg01888-amg01888c20-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c20-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Stingray Hit List",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/StingrayHitList/14134_SM_Amagi_HitList_Logo_512x512.png",Stingray Hit List
+https://amg01888-amg01888c27-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c27-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Stingray Easy Listening",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/easylistening/14134_SM_Amagi_EasyListening_Logo_512x512.png",Stingray Easy Listening
+https://amg01888-amg01888c25-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c25-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Stingray Classic Rock",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/stingrayclassicrock/14134_SM_Amagi_ClassicRock_Logo_512x512.png",Stingray Classic Rock
+https://amg01888-amg01888c30-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c30-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Stingray Smooth Jazz",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/smoothjazz/14134_SM_Amagi_SmoothJazz_Logo_512x512.png",Stingray Smooth Jazz
+https://amg01888-amg01888c21-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c21-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Stingray Today's Latin Pop (Exitos del Momento)",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/todayslatinpop/14134_SM_Amagi_TodaysLatinPop_Logo_512x512.png",Stingray Today's Latin Pop (Exitos del Momento)
+https://amg01888-amg01888c22-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c22-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Stingray Remember the '80s",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/rememberthe80s/14134_SM_Amagi_RememberThe80s_Logo_512x512.png",Stingray Remember the '80s
+https://amg01888-amg01888c26-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c26-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Stingray Hot Country",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/hotcountry/HotCountry_Logo_512x512.png",Stingray Hot Country
+https://amg01888-amg01888c28-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c28-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Stingray SPA",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/stingraySPA/14134_SM_Amagi_Spa_Logo_512x512.png",Stingray SPA
+https://amg01888-amg01888c24-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c24-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Stingray Cozy Cafe",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/cozycafe/14134_COZ_Amagi_Launch_Logo_512x512.png",Stingray Cozy Cafe
+https://amg01888-amg01888c32-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c32-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="ZenLIFE by Stingray",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/zenlifebystingray/14134_ZL_Amagi_Launch_Logo_512x512.png",ZenLIFE by Stingray
+https://amg01888-amg01888c19-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c19-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Stingray Naturescape",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/StingrayNaturescape/14134_SN_Amagi_Launch_Logo_512x512.png",Stingray Naturescape
+https://amg01888-amg01888c23-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c23-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Stingray Stargaze",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/StingrayStargaze/14134_STA_Amagi_Launch_Logo_512x512 2.png",Stingray Stargaze
+https://amg01888-amg01888c31-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c31-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Stingray Cityscapes",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/cityscape/14134_CIT_Amagi_Launch_Logo_512x512.png",Stingray Cityscapes
+https://amg01888-amg01888c35-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c35-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Stingray Holidayscapes",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/StingrayHolidayscapes/14134_SHS_Amagi_Launch_Logo_512x512.png",Stingray Holidayscapes
+https://amg01888-amg01888c34-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c34-amgplt0704/playlist.m3u8
+#EXTINF:-1 group-title="HP TV+",tvg-id="Stingray Free Riding",tvg-logo="https://d22h64uc1w611t.cloudfront.net/Images/S3/HPFolder/StingrayFreeRiding/14134_FRE_Amagi_Launch_Logo_512x512 2.png",Stingray Free Riding
+https://amg01888-amg01888c17-amgplt0704.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01888-amg01888c17-amgplt0704/playlist.m3u8
