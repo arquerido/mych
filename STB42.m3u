@@ -1,0 +1,315 @@
+﻿#EXTM3U
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/PORTUGAL.png" group-title="|PT| INTERNACIONAL",##### PT - INTERNATIONAL #####
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=762923&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/GLOBOMEO.png" group-title="|PT| INTERNACIONAL",PT - GLOBO MEO
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250625&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/GLOBONEWS.png" group-title="|PT| INTERNACIONAL",PT - GLOBO NOW
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250624&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICINTERNACIONAL.png" group-title="|PT| INTERNACIONAL",PT - SIC INTERNACIONAL
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=837502&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RECORD.png" group-title="|PT| INTERNACIONAL",PT - TV RECORD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250573&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/ZAPVIVA.png" group-title="|PT| INTERNACIONAL",PT - ZAP VIVA UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250560&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/PORTUGAL.png" group-title="|PT| FILMES E SÉRIES",##### PT - FILMES E SERIES #####
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=762920&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVCINETOP.png" group-title="|PT| FILMES E SÉRIES",PT - TVCINE TOP UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250572&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVCINEEDITION.png" group-title="|PT| FILMES E SÉRIES",PT - TVCINE EDITION UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250571&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVCINEEDITION.png" group-title="|PT| FILMES E SÉRIES",PT - TVCINE EMOTION UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250570&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVCINEACTION.png" group-title="|PT| FILMES E SÉRIES",PT - TVCINE ACTION UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250569&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/NOSSTUDIOS.png" group-title="|PT| FILMES E SÉRIES",PT - NOS STUDIOS UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250607&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/STAR-MOVIES.png" group-title="|PT| FILMES E SÉRIES",PT - STAR MOVIES UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250622&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/CINEMUNDO.png" group-title="|PT| FILMES E SÉRIES",PT - CINEMUNDO
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250651&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/AMC-AMC.png" group-title="|PT| FILMES E SÉRIES",PT - AMC UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250667&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/FOXMOVIES.png" group-title="|PT| FILMES E SÉRIES",PT - FOX MOVIES
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250629&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/FOX.png" group-title="|PT| FILMES E SÉRIES",PT - FOX UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250631&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/FOXCRIME.png" group-title="|PT| FILMES E SÉRIES",PT - FOX CRIME UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250632&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/STAR-COMEDY.png" group-title="|PT| FILMES E SÉRIES",PT - STAR COMEDY
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250633&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/AXN.png" group-title="|PT| FILMES E SÉRIES",PT - AXN UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250664&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/AXN-WHITE.png" group-title="|PT| FILMES E SÉRIES",PT - AXN WHITE UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250663&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/HOLLYWOOD.png" group-title="|PT| FILMES E SÉRIES",PT - HOLLYWOOD HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1272911&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/STAR-CRIME.png" group-title="|PT| FILMES E SÉRIES",PT - STAR CRIME
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1272910&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/AXNBLACK.png" group-title="|PT| FILMES E SÉRIES",PT - AXN BLACK UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250665&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/AXN-MOVIES.png" group-title="|PT| FILMES E SÉRIES",PT - AXN MOVIES HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1094691&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/SYFY.png" group-title="|PT| FILMES E SÉRIES",PT - SYFY UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250578&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/FATIMATV.png" group-title="|PT| FILMES E SÉRIES",PT - FATIMA TV UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=673780&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/STAR-LIFE.png" group-title="|PT| FILMES E SÉRIES",PT - STAR LIFE HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1094690&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/PORTUGAL.png" group-title="|PT| EMGERAL",##### PT - EMGERAL  #####
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=762918&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTP1.png" group-title="|PT| EMGERAL",PT - RTP 1
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250601&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTP1.png" group-title="|PT| EMGERAL",PT - RTP 1 UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250600&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTP2.png" group-title="|PT| EMGERAL",PT - RTP 2
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250599&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTP2.png" group-title="|PT| EMGERAL",PT - RTP 2 UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250598&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTP3.png" group-title="|PT| EMGERAL",PT - RTP 3
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250597&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTPINT.png" group-title="|PT| EMGERAL",PT - RTP INT
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=686113&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTPACORES.png" group-title="|PT| EMGERAL",PT - RTP ACORES
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250596&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTPAFRICA.png" group-title="|PT| EMGERAL",PT - RTP AFRICA
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250602&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTPMEMORIA.png" group-title="|PT| EMGERAL",PT - RTP MEMORIA
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250594&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTPMADEIRA.png" group-title="|PT| EMGERAL",PT - RTP MADEIRA
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250595&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICNA.png" group-title="|PT| EMGERAL",PT - SIC
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250593&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICNA.png" group-title="|PT| EMGERAL",PT - SIC UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250591&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICNA.png" group-title="|PT| EMGERAL",PT - SIC NA
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=694628&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICMULHER.png" group-title="|PT| EMGERAL",PT - SIC MULHER
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250589&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICNOVELAS.png" group-title="|PT| EMGERAL",PT - SIC NOVELAS
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1262450&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICCARAS.png" group-title="|PT| EMGERAL",PT - SIC CARAS
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250592&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICRADICAL.png" group-title="|PT| EMGERAL",PT - SIC RADICAL
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250587&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICNOTICIAS.png" group-title="|PT| EMGERAL",PT - SIC NOTICIAS
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250588&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVI.png" group-title="|PT| EMGERAL",PT - TVI
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250566&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVI.png" group-title="|PT| EMGERAL",PT - TVI UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250672&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVI.png" group-title="|PT| EMGERAL",PT - TVI (NA)
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=692915&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVIFICCAO.png" group-title="|PT| EMGERAL",PT - TVI FICCAO
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250564&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVIREALITY.png" group-title="|PT| EMGERAL",PT - TVI REALITY
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250563&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVIINT.png" group-title="|PT| EMGERAL",PT - TVI INT
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1130304&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CASAECOZINHA.png" group-title="|PT| EMGERAL",PT - CASA E COZINHA
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=843810&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/PORTOCANAL.png" group-title="|PT| EMGERAL",PT - PORTO CANAL
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250603&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/LOGOSNEW/EURONEWS.png" group-title="|PT| EMGERAL",PT - EURONEWS HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1406791&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/NEWSNOW.png" group-title="|PT| EMGERAL",PT - NEWS NOW
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1118591&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CMTV.png" group-title="|PT| EMGERAL",PT - CMTV
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250650&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/AZORES.png" group-title="|PT| EMGERAL",PT - AZORES TV
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1035586&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CNNPORTUGAL.png" group-title="|PT| EMGERAL",PT - CNN PORTUGAL
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250565&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/ARTV.png" group-title="|PT| EMGERAL",PT - ARTV
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250666&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/ALMALUSA.png" group-title="|PT| EMGERAL",PT - ALMA LUSA FHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1115634&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/LOCALVISAO.png" group-title="|PT| EMGERAL",PT - LOCALVISAO
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250605&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVIINTERNATIONAL.png" group-title="|PT| EMGERAL",PT - TVI INTERNATIONAL
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250574&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVE24H.png" group-title="|PT| EMGERAL",PT - TVE 24H
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250568&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CNBC.png" group-title="|PT| EMGERAL",PT - CNBC
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250649&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BLOOMBERG.png" group-title="|PT| EMGERAL",PT - BLOOMBERG
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250659&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CACAVISION.png" group-title="|PT| EMGERAL",PT - CACA VISION
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=746793&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CBSREALITY.png" group-title="|PT| EMGERAL",PT - CBS REALITY
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250652&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/EENTERTAINMENT.png" group-title="|PT| EMGERAL",PT - E! ENTERTAINMENT
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250643&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TLC.png" group-title="|PT| EMGERAL",PT - TLC
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250577&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CANCOANOVA.png" group-title="|PT| EMGERAL",PT - CANCOA NOVA
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250654&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/MCMPOP.png" group-title="|PT| EMGERAL",PT - MCM POP
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250617&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/VH1.png" group-title="|PT| EMGERAL",PT - VH1
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250561&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/VPLUS.png" group-title="|PT| EMGERAL",PT - V+ HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1169343&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/VPLUS.png" group-title="|PT| EMGERAL",PT - V+ FHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1169342&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/MTVPORTUGAL.png" group-title="|PT| EMGERAL",PT - MTV PORTUGAL
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250614&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/AFROMUSIC.png" group-title="|PT| EMGERAL",PT - AFRO MUSIC
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250668&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TRACETOCA.png" group-title="|PT| EMGERAL",PT - TRACE TOCA
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250576&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/MEZZO.png" group-title="|PT| EMGERAL",PT - MEZZO
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250616&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/FPTV.png" group-title="|PT| EMGERAL",PT - FPTV (NA)
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=702608&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/PORTUGAL.png" group-title="|PT| DOCUMENTARIOS",##### PT - DOCUMENTARIOS #####
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=762921&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/NATIONALGEOGRAPHIC.png" group-title="|PT| DOCUMENTARIOS",PT - NATIONAL GEOGRAPHIC UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250612&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/NATIONALGEOGRAPHICWILD.png" group-title="|PT| DOCUMENTARIOS",PT - NATIONAL GEOGRAPHIC WILD UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250611&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/DISCOVERY.png" group-title="|PT| DOCUMENTARIOS",PT - DISCOVERY UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250646&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/DISCOVERYCHANNEL.png" group-title="|PT| DOCUMENTARIOS",PT - DISCOVERY CHANNEL UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250647&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/HISTORIA.png" group-title="|PT| DOCUMENTARIOS",PT - HISTORIA
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250623&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/ODISSEIA.png" group-title="|PT| DOCUMENTARIOS",PT - ODISSEIA
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250606&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CRIMEINVESTIGATION.png" group-title="|PT| DOCUMENTARIOS",PT - CRIME INVESTIGATION
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250648&extension=ts
+#EXTINF:-1  group-title="|PT| DOCUMENTARIOS",PT - ID HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250575&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/HGTV.png" group-title="|PT| DOCUMENTARIOS",PT - HGTV
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1408932&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BLAZE.png" group-title="|PT| DOCUMENTARIOS",PT - BLAZE HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1213355&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CACEAEPESCA.png" group-title="|PT| DOCUMENTARIOS",PT - CACEA E PESCA
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250657&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TRAVELCHANNEL.png" group-title="|PT| DOCUMENTARIOS",PT - TRAVEL CHANNEL
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1404886&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/24KITCHEN.png" group-title="|PT| DOCUMENTARIOS",PT - 24 KITCHEN UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250670&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/FOODNETWORK.png" group-title="|PT| DOCUMENTARIOS",PT - FOOD NETWORK
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1408931&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/PORTUGAL.png" group-title="|PT| DESPORTO",##### PT - DESPORTO #####
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=762919&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/11.png" group-title="|PT| DESPORTO",PT - 11 UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250671&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTVPLUS.png" group-title="|PT| DESPORTO",PT - SPORT TV+
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250586&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTVPLUS.png" group-title="|PT| DESPORTO",PT - SPORT TV+ HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=722015&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV1.png" group-title="|PT| DESPORTO",PT -  SPORT TV 1 SD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=812982&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV1.png" group-title="|PT| DESPORTO",PT -  SPORT TV 1 HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=812987&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV1.png" group-title="|PT| DESPORTO",PT - SPORT TV 1 UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250585&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV2.png" group-title="|PT| DESPORTO",PT -  SPORT TV 2 SD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=812983&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV2.png" group-title="|PT| DESPORTO",PT -  SPORT TV 2 HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=812988&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV2.png" group-title="|PT| DESPORTO",PT - SPORT TV 2 UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250584&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV3.png" group-title="|PT| DESPORTO",PT -  SPORT TV 3 SD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=812984&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV3.png" group-title="|PT| DESPORTO",PT -  SPORT TV 3 HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=812989&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV3.png" group-title="|PT| DESPORTO",PT - SPORT TV 3 UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250583&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV4.png" group-title="|PT| DESPORTO",PT -  SPORT TV 4 SD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=812985&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV4.png" group-title="|PT| DESPORTO",PT -  SPORT TV 4 HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=812990&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV4.png" group-title="|PT| DESPORTO",PT - SPORT TV 4 UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250582&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV5.png" group-title="|PT| DESPORTO",PT -  SPORT TV 5 SD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=812986&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV5.png" group-title="|PT| DESPORTO",PT -  SPORT TV 5 HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=812991&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV5.png" group-title="|PT| DESPORTO",PT - SPORT TV 5 UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250581&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV6.png" group-title="|PT| DESPORTO",PT - SPORT TV 6 UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=632985&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV7.png" group-title="|PT| DESPORTO",PT - SPORT TV 7 HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1070148&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/NBA.png" group-title="|PT| DESPORTO",PT - SPORT TV NBA UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250580&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/NBA.png" group-title="|PT| DESPORTO",PT - NBA TV
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250610&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="|PT| DESPORTO",PT -  DAZN 1 HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=812992&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="|PT| DESPORTO",PT - DAZN 1 UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250642&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="|PT| DESPORTO",PT -  DAZN 2 HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=812993&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="|PT| DESPORTO",PT - DAZN 2 UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250641&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="|PT| DESPORTO",PT -  DAZN 3 HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=812994&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="|PT| DESPORTO",PT - DAZN 3 UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250640&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="|PT| DESPORTO",PT -  DAZN 4 HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=812995&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="|PT| DESPORTO",PT - DAZN 4 UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250639&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="|PT| DESPORTO",PT -  DAZN 5 HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=812996&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="|PT| DESPORTO",PT - DAZN 5 UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250638&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BTV.png" group-title="|PT| DESPORTO",PT - BTV HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=652403&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BTV.png" group-title="|PT| DESPORTO",PT - BTV
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=652404&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BTV.png" group-title="|PT| DESPORTO",PT - BTV UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250658&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTING.png" group-title="|PT| DESPORTO",PT - SPORTING TV
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250579&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTING.png" group-title="|PT| DESPORTO",PT - SPORTING TV HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=722010&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/ABOLA.png" group-title="|PT| DESPORTO",PT - A BOLA TV
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250669&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/ABOLA.png" group-title="|PT| DESPORTO",PT - A BOLA TV HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=722005&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CANAL11.png" group-title="|PT| DESPORTO",PT - CANAL 11 HD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=826294&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/PFC.png" group-title="|PT| DESPORTO",PT - PFC
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250604&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/EUROSPORT1.png" group-title="|PT| DESPORTO",PT - EUROSPORT 1 UHD
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250635&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/EUROSPORT2.png" group-title="|PT| DESPORTO",PT - EUROSPORT 2
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250634&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/FUEL.png" group-title="|PT| DESPORTO",PT - FUEL TV
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250626&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/MOTORVISION.png" group-title="|PT| DESPORTO",PT - MOTORVISION
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250615&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/PORTUGAL.png" group-title="|PT| CRIANÇAS",##### PT - CRIANCAS #####
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=762922&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/DISNEYCHANNEL.png" group-title="|PT| CRIANÇAS",PT - DISNEY CHANNEL
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250645&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/DISNEYJUNIOR.png" group-title="|PT| CRIANÇAS",PT - DISNEY JUNIOR
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250644&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/NICKELODEON.png" group-title="|PT| CRIANÇAS",PT - NICKELODEON
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250608&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/NICKJR.png" group-title="|PT| CRIANÇAS",PT - NICK JR
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1080729&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CANALPANDA.png" group-title="|PT| CRIANÇAS",PT - CANAL PANDA
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250656&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BIGGS.png" group-title="|PT| CRIANÇAS",PT - BIGGS
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250661&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/JIMJAM.png" group-title="|PT| CRIANÇAS",PT - JIM JAM
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250620&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BABYTV.png" group-title="|PT| CRIANÇAS",PT - BABY TV
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250662&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BOOMERANG.png" group-title="|PT| CRIANÇAS",PT - BOOMERANG
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=767129&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/PANDAKIDS.png" group-title="|PT| CRIANÇAS",PT - PANDA KIDS
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1149230&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CARTOONNETWORK.png" group-title="|PT| CRIANÇAS",PT - CARTOON NETWORK
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250653&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CARTOONITO.png" group-title="|PT| CRIANÇAS",PT - CARTOONITO
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=1408930&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICK.png" group-title="|PT| CRIANÇAS",PT - SIC K
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250590&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/KURIAKOS.png" group-title="|PT| CRIANÇAS",PT - KURIAKOS TV
+http://line.dighub.cc:80/play/live.php?mac=00:1A:79:00:00:34&stream=250618&extension=ts

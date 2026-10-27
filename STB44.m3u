@@ -1,0 +1,1045 @@
+﻿#EXTM3U
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/PORTUGAL.png" group-title="PT| VODAFONE ᴴᴰ",####### VODAFONE ᴴᴰ #######
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838452&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTP1.png" group-title="PT| VODAFONE ᴴᴰ",VO| RTP 1 ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838451&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/RTP2.png" group-title="PT| VODAFONE ᴴᴰ",VO| RTP 2 ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838450&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/RTP3.png" group-title="PT| VODAFONE ᴴᴰ",VO| RTP 3 ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838449&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/RTP-MADEIRA.png" group-title="PT| VODAFONE ᴴᴰ",VO| RTP 3 MADEIRA ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838448&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/RTP-ACORES.png" group-title="PT| VODAFONE ᴴᴰ",VO| RTP ACORES ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838447&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/RTP-AFRICA.png" group-title="PT| VODAFONE ᴴᴰ",VO| RTP AFRICA ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838446&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/RTP-MEMORIA.png" group-title="PT| VODAFONE ᴴᴰ",VO| RTP MEMORIA ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838445&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPLUS.png" group-title="PT| VODAFONE ᴴᴰ",VO| S+ ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838444&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICCARAS.png" group-title="PT| VODAFONE ᴴᴰ",VO| SIC CARAS ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838443&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/SIC.png" group-title="PT| VODAFONE ᴴᴰ",VO| SIC ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838442&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICMULHER.png" group-title="PT| VODAFONE ᴴᴰ",VO| SIC MULHER ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838441&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/SIC-NOTICIAS.png" group-title="PT| VODAFONE ᴴᴰ",VO| SIC NOTICIAS ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838440&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICNOVELAS.png" group-title="PT| VODAFONE ᴴᴰ",VO| SIC NOVELAS ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838439&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICRADICAL.png" group-title="PT| VODAFONE ᴴᴰ",VO| SIC RADICAL ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838438&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CANAL11.png" group-title="PT| VODAFONE ᴴᴰ",VO| CANAL 11 ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838437&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/CANAL-180.png" group-title="PT| VODAFONE ᴴᴰ",VO| 180 MUSIC ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838436&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/24KITCHEN.png" group-title="PT| VODAFONE ᴴᴰ",VO| 24 KITCHEN ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838435&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838434.png" group-title="PT| VODAFONE ᴴᴰ",VO| 24H ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838434&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/ABOLA.png" group-title="PT| VODAFONE ᴴᴰ",VO| A BOLA ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838433&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/AL-JAZEERA.png" group-title="PT| VODAFONE ᴴᴰ",VO| AL JAZEERA ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838432&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/AMCBREAK.png" group-title="PT| VODAFONE ᴴᴰ",VO| AMC BREAK ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838431&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/AMCCRIME.png" group-title="PT| VODAFONE ᴴᴰ",VO| AMC CRIME ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838430&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/AMC.png" group-title="PT| VODAFONE ᴴᴰ",VO| AMC ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838429&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838428.png" group-title="PT| VODAFONE ᴴᴰ",VO| AR TV ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838428&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/ARIRANG.png" group-title="PT| VODAFONE ᴴᴰ",VO| ARIRANG ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838427&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/AXN.png" group-title="PT| VODAFONE ᴴᴰ",VO| AXN ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838426&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/AXN-MOVIES.png" group-title="PT| VODAFONE ᴴᴰ",VO| AXN MOVIES ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838425&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/AXN-WHITE.png" group-title="PT| VODAFONE ᴴᴰ",VO| AXN WHITE ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838424&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BABYTV.png" group-title="PT| VODAFONE ᴴᴰ",VO| BABY TV ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838423&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BBCWORLD.png" group-title="PT| VODAFONE ᴴᴰ",VO| BBC WORLD ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838422&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BIGGS.png" group-title="PT| VODAFONE ᴴᴰ",VO| BIGGS ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838421&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/BLOOMBERG.png" group-title="PT| VODAFONE ᴴᴰ",VO| BLOOMBERG ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838420&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CANALHOLLYWOOD.png" group-title="PT| VODAFONE ᴴᴰ",VO| CANAL HOLLYWOOD ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838419&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838418.png" group-title="PT| VODAFONE ᴴᴰ",VO| CANAL PORTO ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838418&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CANALQ.png" group-title="PT| VODAFONE ᴴᴰ",VO| CANAL Q ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838417&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CANCAONOVA.png" group-title="PT| VODAFONE ᴴᴰ",VO| CANCAO NOVA ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838416&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CARTOONNETWORK.png" group-title="PT| VODAFONE ᴴᴰ",VO| CARTOON NETWORK ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838415&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CARTOONITO.png" group-title="PT| VODAFONE ᴴᴰ",VO| CARTOONITO ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838414&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CASAECOZINHA.png" group-title="PT| VODAFONE ᴴᴰ",VO| CASA E COZINHA ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838413&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/CINEMUNDO.png" group-title="PT| VODAFONE ᴴᴰ",VO| CINE MUNDO ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838412&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/CMTV.png" group-title="PT| VODAFONE ᴴᴰ",VO| CM TV ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838411&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/CNBC.png" group-title="PT| VODAFONE ᴴᴰ",VO| CNBC EUROPE ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838410&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/CNN.png" group-title="PT| VODAFONE ᴴᴰ",VO| CNN ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838409&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/CNN.png" group-title="PT| VODAFONE ᴴᴰ",VO| CNN PORTUGAL ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838408&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/DISCOVERY.png" group-title="PT| VODAFONE ᴴᴰ",VO| DISCOVERY ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838407&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/DISNEYCHANNEL.png" group-title="PT| VODAFONE ᴴᴰ",VO| DISNEY CHANNEL ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838406&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/DISNEYJUNIOR.png" group-title="PT| VODAFONE ᴴᴰ",VO| DISNEY JR ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838405&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/DIZI.png" group-title="PT| VODAFONE ᴴᴰ",VO| DIZI ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838404&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/DUCUBOX.png" group-title="PT| VODAFONE ᴴᴰ",VO| DUCUBOX ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838403&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/DW-NEWS.png" group-title="PT| VODAFONE ᴴᴰ",VO| DW NEWS ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838402&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/E!.png" group-title="PT| VODAFONE ᴴᴰ",VO| E! ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838401&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/EURONEWS.png" group-title="PT| VODAFONE ᴴᴰ",VO| EURONEWS ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838400&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838399.png" group-title="PT| VODAFONE ᴴᴰ",VO| EURO NEWS ENGLISH ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838399&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/EUROSPORT1.png" group-title="PT| VODAFONE ᴴᴰ",VO| EUROSPORT 1 ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838398&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/EUROSPORT2.png" group-title="PT| VODAFONE ᴴᴰ",VO| EUROSPORT 2 ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838397&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/FASHION.png" group-title="PT| VODAFONE ᴴᴰ",VO| FASHION TV ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838396&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/Fightnetwork.png" group-title="PT| VODAFONE ᴴᴰ",VO| FIGHT NETWORK ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838395&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/FOOD.png" group-title="PT| VODAFONE ᴴᴰ",VO| FOOD ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838394&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/FRANCE24.png" group-title="PT| VODAFONE ᴴᴰ",VO| FRANCE 24 ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838393&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/FRANCE24.png" group-title="PT| VODAFONE ᴴᴰ",VO| FRANCE 24 ENGLISH ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838392&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838391.png" group-title="PT| VODAFONE ᴴᴰ",VO| FREEDOM ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838391&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/FUEL.png" group-title="PT| VODAFONE ᴴᴰ",VO| FUEL TV ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838390&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/GAMETOON.png" group-title="PT| VODAFONE ᴴᴰ",VO| GAMETOON ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838389&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/GINXESPORTS.png" group-title="PT| VODAFONE ᴴᴰ",VO| GINX ESPORTS TV ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838388&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/GLOBO.png" group-title="PT| VODAFONE ᴴᴰ",VO| GLOBO ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838387&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/HGTV.png" group-title="PT| VODAFONE ᴴᴰ",VO| HGTV ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838386&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/HISTORIA.png" group-title="PT| VODAFONE ᴴᴰ",VO| HISTORIA ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838385&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/ID.png" group-title="PT| VODAFONE ᴴᴰ",VO| ID ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838384&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/INSIGHT.png" group-title="PT| VODAFONE ᴴᴰ",VO| INSIGHT ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838383&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838382.png" group-title="PT| VODAFONE ᴴᴰ",VO| K SIC ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838382&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838381.png" group-title="PT| VODAFONE ᴴᴰ",VO| KBS WORLD ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838381&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838380.png" group-title="PT| VODAFONE ᴴᴰ",VO| KURIAKOS TV ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838380&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838379.png" group-title="PT| VODAFONE ᴴᴰ",VO| LOCALVISAO ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838379&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838378.png" group-title="PT| VODAFONE ᴴᴰ",VO| MCM TOP ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838378&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838377.png" group-title="PT| VODAFONE ᴴᴰ",VO| MEZZO LIVE ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838377&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838376.png" group-title="PT| VODAFONE ᴴᴰ",VO| MTV 00s ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838376&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838375.png" group-title="PT| VODAFONE ᴴᴰ",VO| MTV ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838375&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838374.png" group-title="PT| VODAFONE ᴴᴰ",VO| MUSIC TV ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838374&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838373.png" group-title="PT| VODAFONE ᴴᴰ",VO| NATIONAL GEOGRAPHIC ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838373&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838372.png" group-title="PT| VODAFONE ᴴᴰ",VO| NAT GEO WILD ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838372&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838371.png" group-title="PT| VODAFONE ᴴᴰ",VO| NAUTICAL ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838371&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838370.png" group-title="PT| VODAFONE ᴴᴰ",VO| NHK WORLD ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838370&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838369.png" group-title="PT| VODAFONE ᴴᴰ",VO| NICKELODEON ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838369&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838368.png" group-title="PT| VODAFONE ᴴᴰ",VO| NOW ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838368&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838367.png" group-title="PT| VODAFONE ᴴᴰ",VO| ODISSEIA ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838367&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838366.png" group-title="PT| VODAFONE ᴴᴰ",VO| PANDA ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838366&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838365.png" group-title="PT| VODAFONE ᴴᴰ",VO| PANDA KIDS ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838365&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838364.png" group-title="PT| VODAFONE ᴴᴰ",VO| PHEONIX ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838364&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838363.png" group-title="PT| VODAFONE ᴴᴰ",VO| PRO TV INTERNATIONAL ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838363&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838362.png" group-title="PT| VODAFONE ᴴᴰ",VO| RAI 1 ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838362&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838361.png" group-title="PT| VODAFONE ᴴᴰ",VO| RECORD EUROPA ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838361&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838360.png" group-title="PT| VODAFONE ᴴᴰ",VO| RECORD NEWS ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838360&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838359.png" group-title="PT| VODAFONE ᴴᴰ",VO| RTL ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838359&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838358.png" group-title="PT| VODAFONE ᴴᴰ",VO| SKY NEWS ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838358&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838357.png" group-title="PT| VODAFONE ᴴᴰ",VO| SPORT TV+ ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838357&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838356.png" group-title="PT| VODAFONE ᴴᴰ",VO| SPORTING TV ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838356&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838355.png" group-title="PT| VODAFONE ᴴᴰ",VO| STAR CHANNEL ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838355&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838354.png" group-title="PT| VODAFONE ᴴᴰ",VO| STAR COMEDY ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838354&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838353.png" group-title="PT| VODAFONE ᴴᴰ",VO| STAR CRIME ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838353&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838352.png" group-title="PT| VODAFONE ᴴᴰ",VO| STAR LIFE ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838352&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838351.png" group-title="PT| VODAFONE ᴴᴰ",VO| STAR MOVIES ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838351&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838350.png" group-title="PT| VODAFONE ᴴᴰ",VO| SYFY ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838350&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838349.png" group-title="PT| VODAFONE ᴴᴰ",VO| SYFY ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838349&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838348.png" group-title="PT| VODAFONE ᴴᴰ",VO| TCV NEWS ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838348&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838347.png" group-title="PT| VODAFONE ᴴᴰ",VO| TLC ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838347&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838346.png" group-title="PT| VODAFONE ᴴᴰ",VO| TPA ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838346&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838345.png" group-title="PT| VODAFONE ᴴᴰ",VO| TRACE TOCA ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838345&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838344.png" group-title="PT| VODAFONE ᴴᴰ",VO| TRACE URBAN ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838344&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838343.png" group-title="PT| VODAFONE ᴴᴰ",VO| TRAVEL CHANNEL ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838343&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838342.png" group-title="PT| VODAFONE ᴴᴰ",VO| TV5 MONDE ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838342&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838341.png" group-title="PT| VODAFONE ᴴᴰ",VO| TV CALICIA ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838341&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838340.png" group-title="PT| VODAFONE ᴴᴰ",VO| TVCINE ACTION ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838340&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838339.png" group-title="PT| VODAFONE ᴴᴰ",VO| TVCINE EDITION ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838339&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838338.png" group-title="PT| VODAFONE ᴴᴰ",VO| TVCINE EMOTION ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838338&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838337.png" group-title="PT| VODAFONE ᴴᴰ",VO| TVCINE TOP ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838337&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838336.png" group-title="PT| VODAFONE ᴴᴰ",VO| TVEI ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838336&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838335.png" group-title="PT| VODAFONE ᴴᴰ",VO| TVI ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838335&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838334.png" group-title="PT| VODAFONE ᴴᴰ",VO| TVI REALITY ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838334&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838333.png" group-title="PT| VODAFONE ᴴᴰ",VO| V+ TVI ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838333&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838332.png" group-title="PT| VODAFONE ᴴᴰ",VO| VIVA ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1838332&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/PORTUGAL.png" group-title="PT| RELIGIAO",##### PT RELIGAO #####
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1287545&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CANCAONOVA.png" group-title="PT| RELIGIAO",PT| CANCAO NOVA AO VIVO
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107507&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CANCAONOVA.png" group-title="PT| RELIGIAO",PT| CANCAO NOVA HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1722673&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/KURIAKOS.png" group-title="PT| RELIGIAO",PT| KURIAKOS TV
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1455484&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/REDESECULO21.png" group-title="PT| RELIGIAO",PT| REDE SECULO 21
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1337531&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/REDESECULO21.png" group-title="PT| RELIGIAO",PT| REDE SECULO 21 (2)
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1825403&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/REDEVIDA.png" group-title="PT| RELIGIAO",PT| REDE VIDA HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1722797&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/REDEVIDA.png" group-title="PT| RELIGIAO",PT| REDE VIDA HD (2)
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1825414&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVAPARECIDA.png" group-title="PT| RELIGIAO",PT| TV APARECIDA
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1722784&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVAPARECIDA.png" group-title="PT| RELIGIAO",PT| TV APARECIDA HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1722796&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVEVANGELIZAR.png" group-title="PT| RELIGIAO",PT| TV EVANGELIZAR
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1722672&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/1956560.png" group-title="PT| RELIGIAO",PT| TCSM
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1956560&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVPAIETERNOAOVIVO.png" group-title="PT| RELIGIAO",PT| TV PAI ETERNO AO VIVO
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1830513&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVFATIMA.png" group-title="PT| RELIGIAO",PT| TV FATIMA
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107648&extension=ts
+#EXTINF:-1  group-title="PT| NOTICIAS",##### PT NOTICIAS #####
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118429&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107439.png" group-title="PT| NOTICIAS",PT| SIC NOTICIAS
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107439&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/368055.png" group-title="PT| NOTICIAS",PT| SIC NOTICIAS HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=368055&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107416.png" group-title="PT| NOTICIAS",PT| CNN PORTUGAL
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107416&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/388012.png" group-title="PT| NOTICIAS",PT| CNN PORTUGAL HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=388012&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107503.png" group-title="PT| NOTICIAS",PT| CMTV
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107503&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/368054.png" group-title="PT| NOTICIAS",PT| CMTV HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=368054&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1561508.png" group-title="PT| NOTICIAS",PT| NEWS NOW FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1561508&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107448.png" group-title="PT| NOTICIAS",PT| RTP 3
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107448&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107529.png" group-title="PT| NOTICIAS",PT| RTP 3 HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107529&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107489.png" group-title="PT| NOTICIAS",PT| EURONEWS HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107489&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107502.png" group-title="PT| NOTICIAS",PT| CNBC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107502&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107457.png" group-title="PT| NOTICIAS",PT| PARLAMENTO
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107457&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107519.png" group-title="PT| NOTICIAS",PT| ARTV
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107519&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107425.png" group-title="PT| NOTICIAS",PT| TV GALICIA
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107425&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107419.png" group-title="PT| NOTICIAS",PT| TVE 24H
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107419&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107418.png" group-title="PT| NOTICIAS",PT| TVE INTERNATIONAL
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107418&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107512.png" group-title="PT| NOTICIAS",PT| BLOOMBERG
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107512&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107456.png" group-title="PT| NOTICIAS",PT| PFC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107456&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/156351.png" group-title="PT| NOTICIAS",PT| PFC (NA)
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=156351&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/PORTUGAL.png" group-title="PT| MUSICA",##### PT MUSICA #####
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118436&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/AFROMUSIC.png" group-title="PT| MUSICA",PT| AFRO MUSIC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107521&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/KISS.png" group-title="PT| MUSICA",PT| KISS TV
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=378329&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/MCMPOP.png" group-title="PT| MUSICA",PT| MCM POP
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107470&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/MEZZO.png" group-title="PT| MUSICA",PT| MEZZO
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107469&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/MTV00s.png" group-title="PT| MUSICA",PT| MTV 00s
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1613353&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/MTVPORTUGAL.png" group-title="PT| MUSICA",PT| MTV PORTUGAL
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107467&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/MEZZOLIVE.png" group-title="PT| MUSICA",PT| MEZZO LIVE
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2033901&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BOMSOM.png" group-title="PT| MUSICA",PT| BOMSOM TV
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2033900&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/ALMALUSA.png" group-title="PT| MUSICA",PT| ALMA LUSA
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2033898&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TRACEURBAN.png" group-title="PT| MUSICA",PT| TRACE URBAN
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2033887&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TRACEBRASIL.png" group-title="PT| MUSICA",PT| TRACE BRASIL
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1547061&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TRACETOCA.png" group-title="PT| MUSICA",PT| TRACE TOCA
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107427&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/VH1.png" group-title="PT| MUSICA",PT| VH1
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107412&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/PORTUGAL.png" group-title="PT| INTRETENIMENTO",##### PT LIFESTYLE #####
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118434&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/24KITCHEN.png" group-title="PT| INTRETENIMENTO",PT| 24 KITCHEN HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107523&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/24KITCHEN.png" group-title="PT| INTRETENIMENTO",PT| 24 KITCHEN HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118465&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/AMCBREAK.png" group-title="PT| INTRETENIMENTO",PT| AMC BREAK
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107513&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CBSREALITY.png" group-title="PT| INTRETENIMENTO",PT| CBS REALITY
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107505&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/DIZI.png" group-title="PT| INTRETENIMENTO",PT| DIZI HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1369658&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/DOG.png" group-title="PT| INTRETENIMENTO",PT| DOG TV HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1430590&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/EENTERTAINMENT.png" group-title="PT| INTRETENIMENTO",PT| E! ENTERTAINMENT
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107496&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/FASHION.png" group-title="PT| INTRETENIMENTO",PT| FASHION TV
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107480&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SAUDE.png" group-title="PT| INTRETENIMENTO",PT| SAUDE HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=368053&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TLC.png" group-title="PT| INTRETENIMENTO",PT| TLC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107428&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TRAVELCHANNEL.png" group-title="PT| INTRETENIMENTO",PT| TRAVEL CHANNEL HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107426&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TRAVELCHANNEL.png" group-title="PT| INTRETENIMENTO",PT| TRAVEL CHANNEL HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118443&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/PORTUGAL.png" group-title="PT| INTERNACIONAL",##### PT INTERNACIONAL #####
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118435&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CACAVISION.png" group-title="PT| INTERNACIONAL",PT| CACA VISION
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=411826&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/GLOBO.png" group-title="PT| INTERNACIONAL",PT| GLOBO FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107409&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1838361.png" group-title="PT| INTERNACIONAL",PT| RECORD EUROPA HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2031721&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/GLOBOINTERNATIONAL.png" group-title="PT| INTERNACIONAL",PT| GLOBO INTERNATIONAL
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=79655&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/GLOBOMEO.png" group-title="PT| INTERNACIONAL",PT| GLOBO MEO
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107478&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/GLOBONEWS.png" group-title="PT| INTERNACIONAL",PT| GLOBO NEWS
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1466296&extension=ts
+#EXTINF:-1  group-title="PT| INTERNACIONAL",PT| CABO RÁDIO
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2144761&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RECORDNEWS.png" group-title="PT| INTERNACIONAL",PT| RECORD NEWS
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1440881&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RECORD.png" group-title="PT| INTERNACIONAL",PT| RECORD TV (NA)
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=156352&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TCVCABO.png" group-title="PT| INTERNACIONAL",PT| TCV CABO
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=86460&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TPA1.png" group-title="PT| INTERNACIONAL",PT| TPA1
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107526&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TPAINTERNATIOCAL.png" group-title="PT| INTERNACIONAL",PT| TPA INTERNATIOCAL
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=207198&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RECORD.png" group-title="PT| INTERNACIONAL",PT| TV RECORD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107424&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/ZAPVIVA.png" group-title="PT| INTERNACIONAL",PT| ZAP VIVA HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107411&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/ZAPVIVA.png" group-title="PT| INTERNACIONAL",PT| ZAP VIVA HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=368057&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/PORTUGAL.png" group-title="PT| INTERNACIONAL",##### CAPE VERDE #####
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=793288&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RADIOCOMERCIAL.png" group-title="PT| INTERNACIONAL",CV| RÁDIO COMERCIAL
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1062151&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RADIORCV.png" group-title="PT| INTERNACIONAL",CV| RÁDIO RCV
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1063024&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RADIORCV.png" group-title="PT| INTERNACIONAL",CV| RÁDIO RCV +
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1062148&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RadioKintura.png" group-title="PT| INTERNACIONAL",CV| Rádio Kintura
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1050087&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RadioPaulSantoAntao.png" group-title="PT| INTERNACIONAL",CV| Rádio Paul Santo Antão
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1050078&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVZIMBO.png" group-title="PT| INTERNACIONAL",PT| TV ZIMBO
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1050092&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TCVINTERNACIONAL.png" group-title="PT| INTERNACIONAL",CV| TCV INTERNACIONAL
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1050094&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TiverCaboVerde.png" group-title="PT| INTERNACIONAL",CV| Tiver Cabo Verde
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1050093&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/PORTUGAL.png" group-title="PT| GENERALISTAS",##### PT GENERALISTAS #####
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1287546&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTP1.png" group-title="PT| GENERALISTAS",PT| RTP 1 HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107451&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/RTP1.png" group-title="PT| GENERALISTAS",PT| RTP 1 HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118450&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/RTP1.png" group-title="PT| GENERALISTAS",PT| RTP 1
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107452&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/RTP2.png" group-title="PT| GENERALISTAS",PT| RTP 2 HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107449&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/RTP2.png" group-title="PT| GENERALISTAS",PT| RTP 2 HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118449&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/RTP2.png" group-title="PT| GENERALISTAS",PT| RTP 2
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107450&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/FPTV.png" group-title="PT| GENERALISTAS",PT| FPTV (NA)
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=708370&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/SIC.png" group-title="PT| GENERALISTAS",PT| SIC HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107442&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/SIC.png" group-title="PT| GENERALISTAS",PT| SIC HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118448&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/SIC.png" group-title="PT| GENERALISTAS",PT| SIC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107444&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/SIC.png" group-title="PT| GENERALISTAS",PT| SIC (NA)
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=101868&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICINTERNATIONAL.png" group-title="PT| GENERALISTAS",PT| SIC INTERNATIONAL
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=863881&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICNOVELAS.png" group-title="PT| GENERALISTAS",PT| SIC NOVELAS
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1430557&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVI.png" group-title="PT| GENERALISTAS",PT| TVI HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107525&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVI.png" group-title="PT| GENERALISTAS",PT| TVI HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118467&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVI.png" group-title="PT| GENERALISTAS",PT| TVI
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107417&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/TVI.png" group-title="PT| GENERALISTAS",PT| TVI (NA)
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=101869&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVIINTERNATIONAL.png" group-title="PT| GENERALISTAS",PT| TVI INTERNATIONAL
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107528&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/VPLUS.png" group-title="PT| GENERALISTAS",PT| V+ HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1613947&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/VPLUS.png" group-title="PT| GENERALISTAS",PT| V+
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107415&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/VPLUS.png" group-title="PT| GENERALISTAS",PT| V+ FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=378345&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVIREALITY.png" group-title="PT| GENERALISTAS",PT| TVI REALITY
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107414&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVIREALITY.png" group-title="PT| GENERALISTAS",PT| TVI REALITY HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=122490&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVIREALITY.png" group-title="PT| GENERALISTAS",PT| TVI REALITY  MOSAICO
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=378350&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVIREALITY.png" group-title="PT| GENERALISTAS",PT| TVI REALITY CAMERA 1
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1649980&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVIREALITY.png" group-title="PT| GENERALISTAS",PT| TVI REALITY CAMERA 2
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1649979&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVIREALITY.png" group-title="PT| GENERALISTAS",PT| TVI REALITY CAMERA 3
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1649978&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVIREALITY.png" group-title="PT| GENERALISTAS",PT| TVI REALITY CAMERA 4
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1649977&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICCARAS.png" group-title="PT| GENERALISTAS",PT| SIC CARAS
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107443&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICCARAS.png" group-title="PT| GENERALISTAS",PT| SIC CARAS FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=379384&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICMULHER.png" group-title="PT| GENERALISTAS",PT| SIC MULHER
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107440&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICMULHER.png" group-title="PT| GENERALISTAS",PT| SIC MULHER HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=379383&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICRADICAL.png" group-title="PT| GENERALISTAS",PT| SIC RADICAL
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107438&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICRADICAL.png" group-title="PT| GENERALISTAS",PT| SIC RADICAL FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=379382&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTPAFRICA.png" group-title="PT| GENERALISTAS",PT| RTP AFRICA
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107453&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTPINTERNACIONAL.png" group-title="PT| GENERALISTAS",PT| RTP INT. (AFR)
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=970725&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTPINTERNACIONAL.png" group-title="PT| GENERALISTAS",PT| RTP INTERNACIONAL HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=970733&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTPINTERNACIONAL.png" group-title="PT| GENERALISTAS",PT| RTP INT. (NA)
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107410&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTPMADEIRA.png" group-title="PT| GENERALISTAS",PT| RTP MADEIRA
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107446&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTPMEMORIA.png" group-title="PT| GENERALISTAS",PT| RTP MEMORIA
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107445&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RTPACORES.png" group-title="PT| GENERALISTAS",PT| RTP ACORES
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107447&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/AZORES.png" group-title="PT| GENERALISTAS",PT| AZORES TV
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1112663&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPLUS.png" group-title="PT| GENERALISTAS",PT| S PLUS HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=378343&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CASAECOZINHA.png" group-title="PT| GENERALISTAS",PT| CASA E COZINHA HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=379381&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CANALQ.png" group-title="PT| GENERALISTAS",PT| CANAL Q
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107508&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/PORTOCANAL.png" group-title="PT| GENERALISTAS",PT| PORTO CANAL
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107454&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/PORTOCANAL.png" group-title="PT| GENERALISTAS",PT| PORTO CANAL HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=368056&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/PORTUGAL.png" group-title="PT| FILMES E SÉRIES",##### PT FILMES E SÉRIES #####
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118431&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107423.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE TOP HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107423&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/118442.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE TOP HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118442&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107422.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EDITION HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107422&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/118441.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EDITION HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118441&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107421.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EMOTION HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107421&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/118440.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EMOTION HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118440&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107420.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE ACTION HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107420&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/118439.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE ACTION HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118439&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107475.png" group-title="PT| FILMES E SÉRIES",PT| HOLLYWOOD HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107475&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/118453.png" group-title="PT| FILMES E SÉRIES",PT| HOLLYWOOD HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118453&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107459.png" group-title="PT| FILMES E SÉRIES",PT| NOS STUDIOS HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107459&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/118451.png" group-title="PT| FILMES E SÉRIES",PT| NOS STUDIOS HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118451&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107504.png" group-title="PT| FILMES E SÉRIES",PT| CINEMUNDO HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107504&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107520.png" group-title="PT| FILMES E SÉRIES",PT| AMC HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107520&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/122487.png" group-title="PT| FILMES E SÉRIES",PT| AMC HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=122487&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107482.png" group-title="PT| FILMES E SÉRIES",PT| STAR MOVIES
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107482&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107484.png" group-title="PT| FILMES E SÉRIES",PT| STAR HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107484&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/118455.png" group-title="PT| FILMES E SÉRIES",PT| STAR HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118455&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107485.png" group-title="PT| FILMES E SÉRIES",PT| STAR CRIME HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107485&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/118456.png" group-title="PT| FILMES E SÉRIES",PT| STAR CRIME HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118456&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107413.png" group-title="PT| FILMES E SÉRIES",PT| STAR LIFE HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107413&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/118454.png" group-title="PT| FILMES E SÉRIES",PT| STAR LIFE HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118454&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107486.png" group-title="PT| FILMES E SÉRIES",PT| STAR COMEDY
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107486&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/951549.png" group-title="PT| FILMES E SÉRIES",PT| STAR COMEDY HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=951549&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1069313.png" group-title="PT| FILMES E SÉRIES",PT| AXN MOVIES HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1069313&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107517.png" group-title="PT| FILMES E SÉRIES",PT| AXN HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107517&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/118463.png" group-title="PT| FILMES E SÉRIES",PT| AXN HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118463&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107516.png" group-title="PT| FILMES E SÉRIES",PT| AXN WHITE HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107516&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/118462.png" group-title="PT| FILMES E SÉRIES",PT| AXN WHITE HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118462&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/107429.png" group-title="PT| FILMES E SÉRIES",PT| SYFY
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107429&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/122488.png" group-title="PT| FILMES E SÉRIES",PT| SYFY HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=122488&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.92/images/1058186.png" group-title="PT| FILMES E SÉRIES",PT| TVA HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1058186&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/VINTV.png" group-title="PT| FILMES E SÉRIES",PT| VINTV
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2081170&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/PORTUGAL.png" group-title="PT| DESPORTO",##### PT DESPORTO #####
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118430&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CANAL11.png" group-title="PT| DESPORTO",PT| CANAL 11 HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107524&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CANAL11.png" group-title="PT| DESPORTO",PT| CANAL 11 HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118466&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTVPLUS.png" group-title="PT| DESPORTO",PT| SPORT TV + HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107437&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTVPLUS.png" group-title="PT| DESPORTO",PT| SPORT TV+ HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=368058&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV1.png" group-title="PT| DESPORTO",PT| SPORT TV 1 HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107436&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV1.png" group-title="PT| DESPORTO",PT| SPORT TV 1 HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118447&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV1.png" group-title="PT| DESPORTO",PT| SPORT TV 1 SD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=148671&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV2.png" group-title="PT| DESPORTO",PT| SPORT TV 2 HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107435&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV2.png" group-title="PT| DESPORTO",PT| SPORT TV 2 HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118446&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV2.png" group-title="PT| DESPORTO",PT| SPORT TV 2 SD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=148670&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV3.png" group-title="PT| DESPORTO",PT| SPORT TV 3 HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107434&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV3.png" group-title="PT| DESPORTO",PT| SPORT TV 3 HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118445&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV3.png" group-title="PT| DESPORTO",PT| SPORT TV 3 SD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=148669&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV4.png" group-title="PT| DESPORTO",PT| SPORT TV 4 HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107433&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV4.png" group-title="PT| DESPORTO",PT| SPORT TV 4 SD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=148668&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV5.png" group-title="PT| DESPORTO",PT| SPORT TV 5 HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=148667&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV5.png" group-title="PT| DESPORTO",PT| SPORT TV 5 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1809290&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV6.png" group-title="PT| DESPORTO",PT| SPORT TV 6 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=712739&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTTV7.png" group-title="PT| DESPORTO",PT| SPORT TV 7 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1613387&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 1 HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107495&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 1 HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118459&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 2 HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107494&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 2 HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118458&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 3
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107493&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 3 HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=122484&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 4
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107492&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 4 HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=122485&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 5
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107491&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DESPORTO",PT| DAZN 5 HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=122486&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/ABOLA.png" group-title="PT| DESPORTO",PT| A BOLA TV HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107522&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BENFICA.png" group-title="PT| DESPORTO",PT| BENFICA TV HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=983567&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BTV1.png" group-title="PT| DESPORTO",PT| BTV 1 HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107511&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BTV.png" group-title="PT| DESPORTO",PT| BTV HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118461&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SPORTING.png" group-title="PT| DESPORTO",PT| SPORTING TV
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107430&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/EUROSPORT1.png" group-title="PT| DESPORTO",PT| EUROSPORT 1 HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107488&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/EUROSPORT1.png" group-title="PT| DESPORTO",PT| EUROSPORT 1 HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118457&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/EUROSPORT2.png" group-title="PT| DESPORTO",PT| EUROSPORT 2
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107487&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/EUROSPORT.png" group-title="PT| DESPORTO",PT| EUROSPORT FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1604044&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/EUROSPORT2.png" group-title="PT| DESPORTO",PT| EUROSPORT 2 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1604042&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/FUEL.png" group-title="PT| DESPORTO",PT| FUEL TV
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107479&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/MOTORVISION.png" group-title="PT| DESPORTO",PT| MOTORVISION
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107468&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",####### DAZN PPV PT #######
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046605&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 1
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046604&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",Next | The Premier Pub | Premier Pub | 2026-10-27 | 13:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 2
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046603&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",Next | RW Essen x Leipzig | DFB Pokal | 2026-10-27 | 17:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 3
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046602&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",Next | Hamburgo x Frankfurt | DFB Pokal | 2026-10-27 | 17:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 4
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046601&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",Next | Sonnenhof Großaspach x Augsburg | DFB Pokal | 2026-10-27 | 17:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 5
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046600&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",Next | DFB Pokal Zone | DFB Pokal | 2026-10-27 | 17:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 6
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046599&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",Next | Bochum x Mainz | DFB Pokal | 2026-10-27 | 17:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 7
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046598&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",Next | Ruggell II vs. Eschen/Mauren | Liechtensteiner Cup | 2026-10-27 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 8
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046597&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",Next | FC Balzers II vs. FC Ruggell | Liechtensteiner Cup | 2026-10-27 | 19:00 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 9
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046596&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",Next | Köln x Union Berlin | DFB Pokal | 2026-10-27 | 19:45 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 10
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046595&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",Next | Dortmund x Werder Bremen | DFB Pokal | 2026-10-27 | 19:45 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 11
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046594&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",Next | Elversberg x Darmstadt | DFB Pokal | 2026-10-27 | 19:45 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 12
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046593&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",Next | M'gladbach x Karlsruher | DFB Pokal | 2026-10-27 | 19:45 (GMT) | 8K EXCLUSIVE | PT: DAZN PPV 13
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046592&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 14
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046591&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 15
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046590&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 16
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046589&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 17
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046588&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 18
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046587&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 19
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046586&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 20
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046585&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 21
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046584&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 22
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046583&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 23
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046582&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 24
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046581&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 25
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046580&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 26
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046579&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 27
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046578&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 28
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046577&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 29
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046576&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 30
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046575&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 31
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046574&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 32
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046573&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 33
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046572&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 34
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046571&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 35
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046570&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 36
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046569&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 37
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046568&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 38
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046567&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 39
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046566&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 40
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046565&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 41
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046564&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 42
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046563&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 43
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046562&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 44
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046561&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 45
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046560&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 46
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046559&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 47
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046558&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 48
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046557&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 49
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046556&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 50
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046555&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 51
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046554&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 52
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046553&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 53
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046552&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 54
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046551&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 55
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046550&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 56
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046549&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 57
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046548&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 58
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046547&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 59
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046546&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 60
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046545&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 61
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046544&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 62
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046543&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 63
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046542&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 64
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046541&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 65
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046540&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 66
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046539&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 67
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046538&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 68
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046537&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 69
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046536&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 70
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046535&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 71
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046534&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 72
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046533&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 73
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046532&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 74
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046531&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 75
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046530&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 76
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046529&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 77
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046528&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 78
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046527&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 79
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046526&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 80
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046525&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 81
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046524&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 82
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046523&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 83
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046522&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 84
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046521&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 85
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046520&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 86
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046519&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 87
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046518&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 88
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046517&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 89
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046516&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 90
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046515&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 91
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046514&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 92
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046513&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 93
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046512&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 94
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046511&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 95
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046510&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 96
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046509&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 97
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046508&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 98
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046507&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | PT: DAZN PPV 99
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2046506&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",#### DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ #####
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1918193&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",PT| DAZN 1 ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1918192&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",PT| DAZN 2 ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1918191&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",PT| DAZN 3 ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1918190&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",PT| DAZN 4 ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1918189&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",PT| DAZN 5 ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1918188&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",PT| DAZN 1 SD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1918187&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",PT| DAZN 2 SD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1918186&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",PT| DAZN 3 SD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1918185&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",PT| DAZN 4 SD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1918184&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",PT| DAZN 5 SD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1918183&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",PT| DAZN 1 ᴿᴬᵂ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1918182&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",PT| DAZN 2 ᴿᴬᵂ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1918181&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",PT| DAZN 3 ᴿᴬᵂ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1918180&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",PT| DAZN 4 ᴿᴬᵂ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1918179&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PPV/DAZN.png" group-title="PT| DAZN EXCLUSIVE ᴴᴰ/ᴿᴬᵂ",PT| DAZN 5 ᴿᴬᵂ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1918178&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/PORTUGAL.png" group-title="PT| CULTURA",##### PT DOCUMENTARIOS #####
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118432&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CACEAEPESCA.png" group-title="PT| CULTURA",PT| CACEA E PESCA
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107510&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/AMCCRIME.png" group-title="PT| CULTURA",PT| AMC CRIME
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107501&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/DISCOVERYCHANNEL.png" group-title="PT| CULTURA",PT| DISCOVERY CHANNEL
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107500&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/DISCOVERY.png" group-title="PT| CULTURA",PT| DISCOVERY HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107499&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/DISCOVERY.png" group-title="PT| CULTURA",PT| DISCOVERY HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118460&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/HISTORIA.png" group-title="PT| CULTURA",PT| HISTORIA
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107476&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/ID.png" group-title="PT| CULTURA",PT| ID HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107474&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/NATGEO.png" group-title="PT| CULTURA",PT| NAT GEO HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107465&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/NATGEO.png" group-title="PT| CULTURA",PT| NAT GEO HEVC
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118452&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/NATGEOWILD.png" group-title="PT| CULTURA",PT| NAT GEO WILD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107464&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/FOODNETWORK.png" group-title="PT| CULTURA",PT| FOOD NETWORK
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1793401&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/ODISSEIA.png" group-title="PT| CULTURA",PT| ODISSEIA
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107458&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/PORTUGAL.png" group-title="PT| CRIANCAS",##### PT  CRIANCAS #####
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=118433&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BABYTV.png" group-title="PT| CRIANCAS",PT| BABY TV
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107515&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BABYTV.png" group-title="PT| CRIANCAS",PT| BABYTV (NA)
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1557298&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BIGGS.png" group-title="PT| CRIANCAS",PT| BIGGS
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107514&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/BOOMERANG.png" group-title="PT| CRIANCAS",PT| BOOMERANG
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=996540&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CANALPANDA.png" group-title="PT| CRIANCAS",PT| CANAL PANDA
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107509&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CARTOONNETWORK.png" group-title="PT| CRIANCAS",PT| CARTOON NETWORK
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107506&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CARTOONITO.png" group-title="PT| CRIANCAS",PT| CARTOONITO
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107473&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/DISNEYCHANNEL.png" group-title="PT| CRIANCAS",PT| DISNEY CHANNEL
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107498&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/DISNEYJUNIOR.png" group-title="PT| CRIANCAS",PT| DISNEY JUNIOR
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107497&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/LOLLYKIDS.png" group-title="PT| CRIANCAS",PT| LOLLY KIDS HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1839953&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/NICKJR.png" group-title="PT| CRIANCAS",PT| NICK JR.
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107461&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/NICKELODEON.png" group-title="PT| CRIANCAS",PT| NICKELODEON
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107460&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/PANDAKIDS.png" group-title="PT| CRIANCAS",PT| PANDA KIDS ᴴᴰ
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1829495&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/SICK.png" group-title="PT| CRIANCAS",PT| SIC K
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=107441&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/RADIO/TCVInternacional.png" group-title="PT| CABO VERDE",CABO| TCV Internacional
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149720&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/RADIO/TCVNACIONAL.png" group-title="PT| CABO VERDE",CABO| TCV NACIONAL
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149719&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/RADIO/TVCIDADE.png" group-title="PT| CABO VERDE",CABO| TV CIDADE
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149717&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVSALONE.png" group-title="PT| CABO VERDE",CABO| TV SAL ONE
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149715&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/TVTIVER.png" group-title="PT| CABO VERDE",CABO| TV TIVER
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149716&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/RADIO/TCSM.png" group-title="PT| CABO VERDE",CABO| TCSM TV
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149718&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/rcv.png" group-title="PT| CABO VERDE",CABO| RCV
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149714&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RCVPLUS.png" group-title="PT| CABO VERDE",CABO| RCV+
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149713&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CaboRadio.png" group-title="PT| CABO VERDE",CABO| Cabo Rádio
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149710&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/KonpaMix.png" group-title="PT| CABO VERDE",CABO| Radio Konpa Mix
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149700&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CaboVerdeInternational.png" group-title="PT| CABO VERDE",CABO| Rádio Cabo Verde International
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149701&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RADIOCIDADECABOVERDE.png" group-title="PT| CABO VERDE",CABO| Rádio Cidade
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149697&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/RADIO/RadioComercial.png" group-title="PT| CABO VERDE",CABO| Rádio Comercial
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149704&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RadioRibeiraBrava.png" group-title="PT| CABO VERDE",CABO| Rádio Comunitária da Ribeira Brava
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149712&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/CrioulaFM.png" group-title="PT| CABO VERDE",CABO| Rádio Crioula FM
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149702&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/Kintura.png" group-title="PT| CABO VERDE",CABO| Rádio Kintura
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149698&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RADIOMORABEZA.png" group-title="PT| CABO VERDE",CABO| Rádio Morabeza
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149706&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/RADIO/RadioNova.png" group-title="PT| CABO VERDE",CABO| Rádio Nova
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149705&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/RADIO/RadioNRJKIZOMBA.png" group-title="PT| CABO VERDE",CABO| Rádio NRJ KIZOMBA
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149699&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/PaulSantoAntao.png" group-title="PT| CABO VERDE",CABO| Rádio Paul Santo Antão
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149709&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/RADIO/RadioPraiaFM.png" group-title="PT| CABO VERDE",CABO| Rádio Praia FM
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149703&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGANEW/RadioRCSM.png" group-title="PT| CABO VERDE",CABO| Rádio RCSM
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149707&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/RADIO/RadioSalOne.png" group-title="PT| CABO VERDE",CABO| Rádio Sal One
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149708&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/RADIO/RadioSodadeFM.png" group-title="PT| CABO VERDE",CABO| Rádio Sodade FM
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=2149711&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/PORTUGAL.png" group-title="PT| 24/7",##### PT EXCLUSIVO #####
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=378327&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE AÇÃO 1 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028870&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE AÇÃO 2 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028871&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE HBO FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028884&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE NETFLIX 1 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028885&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE NETFLIX 2 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028886&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE PRIME 1 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028887&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE PRIME 2 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028888&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE TERROR FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028889&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE FICÇÃO FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028882&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE HARRY POTTER FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028883&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE DOCUMENTÁRIA FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028880&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE DRAMÁTICA FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028881&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE ANIMAÇÃO 1 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028872&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE ANIMAÇÃO 2 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028873&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE APPLE 1 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028874&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE APPLE 2 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028875&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE COMÉDIA 1 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028876&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE COMÉDIA 2 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028877&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE DISNEY 1 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028878&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FILMES DE DISNEY 2 FHD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=1028879&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| FICÇÃO CIENTÍFICA (EX)
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=425319&extension=ts
+#EXTINF:-1  tvg-logo="http://103.176.90.154/picons/logos/logos/247.png" group-title="PT| 24/7",PT| LOCALVISAO HD
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:B2:38:4D&stream=425316&extension=ts

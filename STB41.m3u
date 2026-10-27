@@ -1,0 +1,363 @@
+﻿#EXTM3U
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tvcinetop.png" group-title="PT - CINEMA",(PT) TVCine Top ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386175&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tvcineedition.png" group-title="PT - CINEMA",(PT) TVCine Edition ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386173&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tvcineemotion.png" group-title="PT - CINEMA",(PT) TVCine Emotion ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386171&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tvcineaction.png" group-title="PT - CINEMA",(PT) TVCine Action ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386169&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/starchannel.png" group-title="PT - CINEMA",(PT) STAR Channel ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386167&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/starcrime.png" group-title="PT - CINEMA",(PT) STAR Crime ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386165&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/starcomedy.png" group-title="PT - CINEMA",(PT) STAR Comedy ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386163&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/starlife.png" group-title="PT - CINEMA",(PT) STAR Life ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386161&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/starmovies.png" group-title="PT - CINEMA",(PT) STAR Movies ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386159&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/axn.png" group-title="PT - CINEMA",(PT) AXN ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386157&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/axnmovies.png" group-title="PT - CINEMA",(PT) AXN Movies ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386155&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/axnwhite.png" group-title="PT - CINEMA",(PT) AXN White ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386153&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/amc.png" group-title="PT - CINEMA",(PT) AMC ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386151&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/hollywood.png" group-title="PT - CINEMA",(PT) Hollywood ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386149&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/nosstudios.png" group-title="PT - CINEMA",(PT) NOS Studios ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386147&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/cinemundo.png" group-title="PT - CINEMA",(PT) Cinemundo
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386146&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/syfy.png" group-title="PT - CINEMA",(PT) SYFY ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386144&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/dizi.png" group-title="PT - CINEMA",(PT) Dizi
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386143&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/sicnovelas.png" group-title="PT - CINEMA",(PT) SIC Novelas
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386142&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/vintv.png" group-title="PT - CINEMA",(PT) Vin TV
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386141&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/kuriakoscine.png" group-title="PT - CINEMA",(PT) Kuriakos Cine
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386140&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/nationalgeographic.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) National Geographic ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386088&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/natgeowild.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) Nat Geo Wild ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386086&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/discoverychannel.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) Discovery Channel ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386084&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/investigationdiscovery.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) Investigation Discovery
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386083&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/animalplanet.png" group-title="PT - DOCU & ESTILO DE VIDA",(BR) Animal Planet ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386082&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/historia.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) História
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386080&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/odisseia.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) Odisseia
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386079&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/amccrime.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) AMC Crime
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386078&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/amcbreak.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) AMC Break
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386077&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/docubox.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) DocuBox
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386076&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/cbsreality.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) CBS Reality
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386075&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/cacaepesca.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) Caça e Pesca ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386073&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/cacavision.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) Caçavision
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386072&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/travelchannel.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) Travel Channel
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386071&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/travelxp.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) Travelxp ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386070&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tlc.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) TLC
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386069&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/24kitchen.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) 24Kitchen ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386068&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/foodnetwork.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) Food Network
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386067&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/casaecozinha.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) Casa e Cozinha ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386064&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/homegardentv.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) Home & Garden TV ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386063&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/eentertainment.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) E! Entertainment
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386062&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/fashiontv.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) Fashion TV
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386061&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/arte1.png" group-title="PT - DOCU & ESTILO DE VIDA",(BR) Arte 1 ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386060&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/s.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) S+ FHD
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386059&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/dogtv.png" group-title="PT - DOCU & ESTILO DE VIDA",(PT) Dog TV ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386058&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/disneychannel.png" group-title="PT - INFANTIL",(PT) Disney Channel ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386196&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/disneyjunior.png" group-title="PT - INFANTIL",(PT) Disney Junior ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386194&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/cartoonnetwork.png" group-title="PT - INFANTIL",(PT) Cartoon Network
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386193&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/cartoonito.png" group-title="PT - INFANTIL",(PT) Cartoonito ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386191&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/boomerang.png" group-title="PT - INFANTIL",(BR) Boomerang ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386190&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/canalpanda.png" group-title="PT - INFANTIL",(PT) Canal Panda
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386189&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/pandakids.png" group-title="PT - INFANTIL",(PT) Panda Kids
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386188&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/nickelodeon.png" group-title="PT - INFANTIL",(PT) Nickelodeon
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386187&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/nickjr.png" group-title="PT - INFANTIL",(PT) Nick Jr.
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386186&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/sick.png" group-title="PT - INFANTIL",(PT) SIC K
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386185&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/babytv.png" group-title="PT - INFANTIL",(PT) Baby TV
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386184&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/kanucatv.png" group-title="PT - INFANTIL",(PT) Kanuca TV FHD
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386183&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/lollykids.png" group-title="PT - INFANTIL",(PT) Lolly Kids
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386182&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/kuriakoskids.png" group-title="PT - INFANTIL",(PT) Kuriakos Kids
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386181&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/disneypixar.png" group-title="PT - INFANTIL",(PT) Disney Pixar ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386180&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/disneypixar.png" group-title="PT - INFANTIL",(PT) Disney Pixar ᵁᴴᴰ (New)
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386179&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/disneymarvel.png" group-title="PT - INFANTIL",(PT) Disney Marvel ᵁᴴᴰ (New)
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386178&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/disneystarwars.png" group-title="PT - INFANTIL",(PT) Disney Star Wars ᵁᴴᴰ (New)
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386177&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/mtvportugal.png" group-title="PT - MÚSICA",(PT) MTV Portugal
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386215&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/mtv00s.png" group-title="PT - MÚSICA",(PT) MTV 00s
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386214&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/mtvmusic.png" group-title="PT - MÚSICA",(PT) MTV Music
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386213&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/mtvdance.png" group-title="PT - MÚSICA",(PT) MTV Dance
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386212&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/mtvrocks.png" group-title="PT - MÚSICA",(PT) MTV Rocks
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386211&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/vh1.png" group-title="PT - MÚSICA",(PT) VH1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386210&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/mcmpop.png" group-title="PT - MÚSICA",(PT) MCM POP
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386209&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/mcmtop.png" group-title="PT - MÚSICA",(PT) MCM TOP ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386208&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/traceurban.png" group-title="PT - MÚSICA",(PT) Trace Urban
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386207&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tracetoca.png" group-title="PT - MÚSICA",(PT) Trace Toca
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386206&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/traceafrica.png" group-title="PT - MÚSICA",(PT) Trace Africa
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386205&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tracelatina.png" group-title="PT - MÚSICA",(PT) Trace Latina FHD
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386204&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/afromusic.png" group-title="PT - MÚSICA",(PT) Afro Music
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386203&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/mezzo.png" group-title="PT - MÚSICA",(PT) Mezzo
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386202&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/iconcerts.png" group-title="PT - MÚSICA",(PT) iConcerts ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386201&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/clubbingtv.png" group-title="PT - MÚSICA",(PT) Clubbing TV
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386200&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/bomsomtv.png" group-title="PT - MÚSICA",(PT) Bomsom TV ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386199&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/onfmportugal.png" group-title="PT - MÚSICA",(PT) ON FM Portugal
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386198&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/rtpnoticias.png" group-title="PT - NOTÍCIAS",(PT) RTP Notícias
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386057&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/sicnoticias.png" group-title="PT - NOTÍCIAS",(PT) SIC Notícias
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386056&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/cnnportugal.png" group-title="PT - NOTÍCIAS",(PT) CNN Portugal
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386055&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/cnnportugal.png" group-title="PT - NOTÍCIAS",(PT) CNN Portugal ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386054&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/cmtv.png" group-title="PT - NOTÍCIAS",(PT) CMTV
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386053&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/newsnow.png" group-title="PT - NOTÍCIAS",(PT) News Now ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386051&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/snews.png" group-title="PT - NOTÍCIAS",(PT) S News
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386050&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/nosnoticias.png" group-title="PT - NOTÍCIAS",(PT) NOS Notícias
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386049&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/artv.png" group-title="PT - NOTÍCIAS",(PT) ARTV
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386048&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/euronews.png" group-title="PT - NOTÍCIAS",(PT) Euronews
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386047&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/bbcworldnews.png" group-title="PT - NOTÍCIAS",(PT) BBC World News
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386046&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/cnn.png" group-title="PT - NOTÍCIAS",(PT) CNN
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386045&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/cnbc.png" group-title="PT - NOTÍCIAS",(PT) CNBC
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386044&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/cnbceurope.png" group-title="PT - NOTÍCIAS",(PT) CNBC Europe
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386043&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/bloomberg.png" group-title="PT - NOTÍCIAS",(PT) Bloomberg
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386042&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/france24.png" group-title="PT - NOTÍCIAS",(PT) France 24
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386041&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/foxnews.png" group-title="PT - NOTÍCIAS",(PT) Fox News
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386040&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/nhkworldjapan.png" group-title="PT - NOTÍCIAS",(PT) NHK World Japan
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386039&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tve24h.png" group-title="PT - NOTÍCIAS",(PT) TVE 24H
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386038&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/globonews.png" group-title="PT - NOTÍCIAS",(PT) Globo News
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386037&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/recordnews.png" group-title="PT - NOTÍCIAS",(PT) Record News
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386036&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tvcnews.png" group-title="PT - NOTÍCIAS",(PT) TVC News
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386035&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/rtp1.png" group-title="PT - PORTUGAL",(PT) RTP 1 ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386033&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/rtp2.png" group-title="PT - PORTUGAL",(PT) RTP 2 ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386031&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/sic.png" group-title="PT - PORTUGAL",(PT) SIC ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386029&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tvi.png" group-title="PT - PORTUGAL",(PT) TVI ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386027&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/vtvi.png" group-title="PT - PORTUGAL",(PT) V+ TVI
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386026&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/rtpmemoria.png" group-title="PT - PORTUGAL",(PT) RTP Memória
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386025&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/sicradical.png" group-title="PT - PORTUGAL",(PT) SIC Radical
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386024&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/sicmulher.png" group-title="PT - PORTUGAL",(PT) SIC Mulher
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386023&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/siccaras.png" group-title="PT - PORTUGAL",(PT) SIC Caras
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386022&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tvireality.png" group-title="PT - PORTUGAL",(PT) TVI Reality
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386021&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tvirealitymosaico.png" group-title="PT - PORTUGAL",(PT) TVI Reality Mosaico
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386020&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tvirealitycamaraexclusiva1.png" group-title="PT - PORTUGAL",(PT) TVI Reality Câmara Exclusiva 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386019&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tvirealitycamaraexclusiva2.png" group-title="PT - PORTUGAL",(PT) TVI Reality Câmara Exclusiva 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386018&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tvirealitycamaraexclusiva3.png" group-title="PT - PORTUGAL",(PT) TVI Reality Câmara Exclusiva 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386017&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tvirealitycamaraexclusiva4.png" group-title="PT - PORTUGAL",(PT) TVI Reality Câmara Exclusiva 4
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386016&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/opto.png" group-title="PT - PORTUGAL",(PT) Opto ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386015&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/canalq.png" group-title="PT - PORTUGAL",(PT) Canal Q
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386014&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/canal180.png" group-title="PT - PORTUGAL",(PT) Canal 180 ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386013&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/bbcentertainment.png" group-title="PT - PORTUGAL",(PT) BBC Entertainment
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386012&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/rtpacores.png" group-title="PT - PORTUGAL",(PT) RTP Açores
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386011&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/rtpmadeira.png" group-title="PT - PORTUGAL",(PT) RTP Madeira
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386010&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/portocanal.png" group-title="PT - PORTUGAL",(PT) Porto Canal
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386009&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/azorestv.png" group-title="PT - PORTUGAL",(PT) Azores TV ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386008&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/localvisaotv.png" group-title="PT - PORTUGAL",(PT) Localvisão TV ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386007&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/contala.png" group-title="PT - PORTUGAL",(PT) Conta Lá FHD
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386006&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/adalmadatv.png" group-title="PT - PORTUGAL",(PT) Ad Almada TV
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386005&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/rtpinternacional.png" group-title="PT - PORTUGAL",(PT) RTP Internacional
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386004&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/rtpafrica.png" group-title="PT - PORTUGAL",(PT) RTP África
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386003&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/globotv.png" group-title="PT - PORTUGAL",(PT) Globo TV
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386002&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tvrecord.png" group-title="PT - PORTUGAL",(PT) TV Record
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386001&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/zapviva.png" group-title="PT - PORTUGAL",(PT) Zap Viva
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386000&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tpa.png" group-title="PT - PORTUGAL",(PT) TPA
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=385999&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tcvinternacional.png" group-title="PT - PORTUGAL",(PT) TCV Internacional ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=385998&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tvzimbo.png" group-title="PT - PORTUGAL",(PT) TV Zimbo
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=385997&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tveinternational.png" group-title="PT - PORTUGAL",(PT) TVE International
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=385996&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/galicia.png" group-title="PT - PORTUGAL",(PT) Galicia
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=385995&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/ctc.png" group-title="PT - PORTUGAL",(PT) CTC ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=385994&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/cancaonova.png" group-title="PT - PORTUGAL",(PT) Canção Nova
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=385993&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/santuariodefatima.png" group-title="PT - PORTUGAL",(PT) Santuário de Fátima
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=385992&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tvfatima.png" group-title="PT - PORTUGAL",(PT) TV Fátima
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=385991&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/kuriakostv.png" group-title="PT - PORTUGAL",(PT) Kuriakos TV
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=385990&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/tvmana.png" group-title="PT - PORTUGAL",(PT) TV Maná ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=385989&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/unifetv.png" group-title="PT - PORTUGAL",(PT) Unifé TV ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=385988&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/sobrenaturaltv.png" group-title="PT - PORTUGAL",(PT) Sobrenatural TV ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=385987&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/sporttv.png" group-title="PT - SPORTS",(PT) Sport TV+ FHD
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386137&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/sporttv1.png" group-title="PT - SPORTS",(PT) Sport TV 1 ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386135&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/sporttv2.png" group-title="PT - SPORTS",(PT) Sport TV 2 ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386133&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/sporttv3.png" group-title="PT - SPORTS",(PT) Sport TV 3 ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386131&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/sporttv4.png" group-title="PT - SPORTS",(PT) Sport TV 4 ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386129&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/sporttv5.png" group-title="PT - SPORTS",(PT) Sport TV 5 ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386127&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/sporttv6.png" group-title="PT - SPORTS",(PT) Sport TV 6 ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386125&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/sporttv7.png" group-title="PT - SPORTS",(PT) Sport TV 7 ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386123&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/dazn1.png" group-title="PT - SPORTS",(PT) DAZN 1 ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386121&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/dazn2.png" group-title="PT - SPORTS",(PT) DAZN 2 ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386119&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/dazn3.png" group-title="PT - SPORTS",(PT) DAZN 3 ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386117&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/dazn4.png" group-title="PT - SPORTS",(PT) DAZN 4 ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386115&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/dazn5.png" group-title="PT - SPORTS",(PT) DAZN 5 ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386113&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/btv.png" group-title="PT - SPORTS",(PT) BTV ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386111&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/sportingtv.png" group-title="PT - SPORTS",(PT) Sporting TV ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386109&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/canal11.png" group-title="PT - SPORTS",(PT) Canal 11 ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386107&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/abolatv.png" group-title="PT - SPORTS",(PT) A Bola TV
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386106&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/eurosport1.png" group-title="PT - SPORTS",(PT) Eurosport 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386105&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/eurosport2.png" group-title="PT - SPORTS",(PT) Eurosport 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386104&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/pfc.png" group-title="PT - SPORTS",(PT) PFC
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386103&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/pfcsporttv1b.png" group-title="PT - SPORTS",(PT) PFC/Sport TV 1 B
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386102&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/realmadridtv.png" group-title="PT - SPORTS",(PT) Real Madrid TV
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386101&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/motorvision.png" group-title="PT - SPORTS",(PT) Motorvision
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386100&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/motorsporttv.png" group-title="PT - SPORTS",(PT) Motorsport TV
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386099&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/fueltv.png" group-title="PT - SPORTS",(PT) Fuel TV
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386098&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/wsport.png" group-title="PT - SPORTS",(PT) W-Sport ᵁᴴᴰ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386097&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/fightnetwork.png" group-title="PT - SPORTS",(PT) Fight Network FHD
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386096&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/kombatsport.png" group-title="PT - SPORTS",(PT) Kombat Sport
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386095&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/onetorotv.png" group-title="PT - SPORTS",(PT) OneToro TV
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386094&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/torostv.png" group-title="PT - SPORTS",(PT) Toros TV
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386093&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/campopequeno.png" group-title="PT - SPORTS",(PT) Campo Pequeno FHD
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386092&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/ginxesport.png" group-title="PT - SPORTS",(PT) Ginx Esport
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386091&extension=ts
+#EXTINF:-1  tvg-logo="http://62.210.214.151/MOVIE/logo/Portugal/gametoon.png" group-title="PT - SPORTS",(PT) Gametoon
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:91:E0:ED&stream=386090&extension=ts
